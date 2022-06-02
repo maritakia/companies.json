@@ -1,0 +1,327 @@
+{
+	"companies": [
+
+		{
+
+			"type": "Restaurant",
+			"name": "Broyage Bar & Bistro",
+			"rating": "67%"
+			
+		},
+		{
+
+			"type": "Religious Centre",
+			"name": "Tibetan Buddhist Meditation Centre",
+			"rating": "31%"
+			
+
+		},
+		{
+
+			"type": "Restaurant",
+			"name": "Amigos",
+			"parent": "Compass Group",
+			"rating": "27%"		
+
+		},
+		{
+
+			"type": "Bar",
+			"name": "The Patriots Inn",
+			"rating": "67%"
+
+		},
+		{
+
+			"type": "Household Furnishing",
+			"name": "Argos",
+			"parent": "J Sainsbury plc",
+			"rating": "47%"
+
+		},
+		{
+
+			"type": "Gas Station",
+			"name": "Circle K",
+			"rating": "89%"
+
+		},
+		{
+			"id": "astrazeneca",
+			"type": "Pharmacutical Company",
+			"name": "AstraZeneca",
+			"parent": "AstraZeneca plc",
+			"rating": "67%"
+
+		},
+		{
+			"type": "Restaurant",
+			"name": "Urban 8",
+			"rating": "87%"
+
+		},
+		{
+			"id": "barclays",
+			"type": "Bank",
+			"name": "Barclays",
+			"parent": "Barclays plc",
+			"rating": "27%"
+
+		},
+		{
+			"type": "Car hire",
+			"name": "Avis",
+			"rating": "68%"
+
+
+		},
+		{
+			"type": "Medical Centre",
+			"name": "Kilmainham Medical Centre",
+			"rating": "27%"
+
+		},
+		{
+			"type": "Bar",
+			"name": "Old Royal Oak",
+			"rating": "57%"
+
+		},
+		{
+			"type": "Pharmacy",
+			"name": "Boots",
+			"parent": "Walgreens Boots Alliance",
+			"rating": "77%"
+		},
+		{
+			"type": "barbers",
+			"name": "Wrights Barbers",
+			"rating": "67%"
+		},
+		{
+
+			"type": "electronics store",
+			"name": "The Lock Hospital",
+			"rating": "77%"
+		},
+		{
+
+			"type": "locksmith",
+			"name": "Southside Window and Door Repairs",
+			"rating": "66%"
+		},
+		{
+			"id": "cardfactory",
+			"type": "Party Supplies",
+			"name": "Card Factory",
+			"parent": "Card Factory plc",
+			"rating": "75%"
+		},
+		{
+			"type": "estate agents",
+			"name": "Brock Delappe",
+			"rating": "57%"
+		},
+		{
+			"type": "barbers",
+			"name": "Wrights Barbers",
+			"rating": "67%"
+		},
+		{
+			"type": "hospital",
+			"name": "Saint James's Hospital",
+			"rating": "67%"
+		},
+		{
+			"type": "car wash",
+			"name": "Auto Spa",
+			"rating": "47%"
+		},
+		{
+			"type": "Financial Consultant",
+			"name": "Diageo Finance Ireland",
+			"rating": "64%"
+		},
+		{
+			"type": "supermarket",
+			"name": "MACE South Circular Road",
+			"rating": "55%"
+		},
+		{
+			"type": "cafe",
+			"name": "The Rialto Bridge Cafe",
+			"rating": "37%"
+		},
+		{
+			"type": "pub",
+			"name": "The Bird Flanagan",
+			"rating": "47%"
+		},
+		{
+			"type": "cafe",
+			"name": "La Boulangerie",
+			"rating": "44%"
+		},
+		{
+
+			"type": "cafe",
+			"name": "Arch Cafe",
+			"rating": "64%"
+		},
+		{
+			"type": "Gym",
+			"name": "Herberton Leisure",
+			"rating": " 57%"
+		},
+		{
+			"type": "convience store",
+			"name": "Centra",
+			"rating": "68%"
+		},
+		{
+			"type": "Liquor Store",
+			"name": "Fine Wines Off Licence",
+			"rating": "69%"
+		},
+		{
+			"type": "Hardware store",
+			"name": "Mannions Building Supplies",
+			"rating": "67%"
+		},
+		{
+			"type": "Doctor",
+			"name": "Rialto Primary Care Centre",
+			"parent": "Halfords Group plc",
+			"rating": "77%"
+		},
+		{
+			"type": "auto parts store",
+			"name": "C&F Motor Factors Ltd",
+			"rating": "67%"
+		},
+		{
+			"type": "Estate agents",
+			"name": "Locations Estate Agents",
+			"rating": "67%"
+		},
+		{
+
+			"type": "manufacturer",
+			"name": "Botany Weaving Mill",
+			"rating": "65%"
+		},
+		{
+			"type": "Grocery delivery service",
+			"name": "Adriatic Corner Shop",
+			"rating": "87%"
+		},
+		{
+			"type": "fruit and vegetable store",
+			"name": "Marks Fruit & Veg",
+			"rating": "67%"
+		},
+		{
+			"type": "bakery",
+			"name": "Cake Box",
+			"rating": "47%"
+		},
+		{
+			"type": "boxing gym",
+			"name": "Donore Boxing Club",
+			"rating": "64%"
+		},
+		{
+			"type": "gourmet grocery store",
+			"name": "Marlowe & Co",
+			"rating": "54%"
+		},
+		{
+			"type": "Credit Union",
+			"name": "Donore Credit Union Limited",
+			"rating": "37%"
+		},
+		{
+
+			"type": "sign shop",
+			"name": "Action Sign Writing",
+			"rating": "73%"
+		},
+		{
+
+			"type": "grocery store",
+			"name": "Spar 176 South Circular Road",
+			"rating": "67%"
+		},
+		{
+			"type": "machinery hire",
+			"name": "Hire Here Ltd",
+			"rating": "87%"
+		},
+		{
+			"type": "laboratory equipment supplier",
+			"name": "Mason Technology Limited",
+			"rating": "72%"
+		},
+		{
+
+			"type": "glass repair",
+			"name": "City Glass & Glazing",
+			"rating": "61%"
+		},
+		{
+
+			"type": "clothes alteration",
+			"name": "All Alteration Services",
+			"parent": "Lloyds Banking Group",
+			"rating": "37%"
+		},
+		{
+			"type": "grocery store",
+			"name": "Timgad Grocery and Halal Meats",
+			"rating": "45%"
+		},
+		{
+			"type": "bar",
+			"name": "Leonard's Corner",
+			"rating": "55%"
+		},
+		{
+			"type": "restaurant",
+			"name": "Clanbrassil House",
+			"rating": "45%"
+		},
+		{
+			"type": "restaurant",
+			"name": "Baste BBQ",
+			"rating": "55%"
+		},
+		{
+			"type": "pub",
+			"name": "MVP",
+			"rating": "23%"
+		},
+		{
+			"type": "pub",
+			"name": "Harold House",
+			"rating": "88%"
+		},
+		{
+			"type": "window istallation",
+			"name": "Signature Windows & Doors",
+			"rating": "64%"
+		},
+		{
+			"type": "cafe",
+			"name": "Southbank",
+			"rating": "34%"
+		},
+		{
+			"type": "golf shop",
+			"name": "GoPerfect",
+			"parent": "SSP Group plc",
+			"rating": "45%"
+		}
+
+	]
+
+}
