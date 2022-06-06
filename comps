@@ -1,7 +1,7 @@
 {
   "companies": {
     "categories": {
-      "cat 0": [
+      "cat_0": [
         {
           "category": 0,
           "type": "Restaurant",
@@ -162,7 +162,7 @@
           "rating": 36
         }
       ],
-      "cat 2": [
+      "cat_2": [
         {
           "category": 2,
           "type": "Household Furnishing",
@@ -195,7 +195,7 @@
           "rating": 65
         }
       ],
-      "cat 3": [
+      "cat_3": [
         {
           "category": 3,
           "type": "Gas Station",
@@ -203,7 +203,7 @@
           "rating": 88
         }
       ],
-      "cat 4": [
+      "cat_4": [
         {
           "category": 4,
           "type": "Pharmacutical Company",
@@ -238,7 +238,7 @@
           "rating": 79
         }
       ],
-      "cat 5": [
+      "cat_5": [
         {
           "category": 5,
           "type": "Bank",
@@ -259,7 +259,7 @@
           "rating": 39
         }
       ],
-      "cat 6": [
+      "cat_6": [
         {
           "category": 6,
           "type": "Car hire",
@@ -279,7 +279,7 @@
           "rating": 67
         }
       ],
-      "cat 7": [
+      "cat_7": [
         {
           "category": 7,
           "type": "barbers",
@@ -293,7 +293,7 @@
           "rating": 45
         }
       ],
-      "cat 8": [
+      "cat_8": [
         {
           "category": 8,
           "type": "electronics store",
@@ -301,7 +301,7 @@
           "rating": 77
         }
       ],
-      "cat 9": [
+      "cat_9": [
         {
           "category": 9,
           "type": "Party Supplies",
@@ -316,7 +316,7 @@
           "rating": 38
         }
       ],
-      "cat 10": [
+      "cat_10": [
         {
           "category": 10,
           "type": "estate agents",
@@ -330,7 +330,7 @@
           "rating": 56
         }
       ],
-      "cat 11": [
+      "cat_11": [
         {
           "category": 11,
           "type": "Gym",
@@ -351,7 +351,7 @@
           "rating": 29
         }
       ],
-      "cat 12": [
+      "cat_12": [
         {
           "category": 12,
           "type": "manufacturer",
@@ -359,7 +359,7 @@
           "rating": 89
         }
       ],
-      "cat 13": [
+      "cat_13": [
         {
           "category": 13,
           "type": "machinery hire",
@@ -367,7 +367,7 @@
           "rating": 59
         }
       ],
-      "cat 14": [
+      "cat_14": [
         {
           "category": 14,
           "type": "clothes alteration",
