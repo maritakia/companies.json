@@ -6,13 +6,13 @@
                     "party":"Fine Gail",
                     "vote": [
 		         {
-			    "water": -1,
+			    "water": "-1",
 		          },
 		          {
-		             "housing": 1,
+		             "housing": "1",
 		          },
 		          {
-			      "health": 1,
+			      "health": "1",
 		           }
 		     ]
                   },
@@ -22,13 +22,13 @@
                     "party":"Fianna Fail",
 		    "vote": [
 		         {
-			    "water": 1,
+			    "water": "1",
 		          },
 		          {
-		             "housing": 1,
+		             "housing": "1",
 		          },
 		          {
-			      "health": -1,
+			      "health": "-1",
 		           }
 		     ]
                    
@@ -39,13 +39,13 @@
                     "party":"Green Party",
                      "vote": [
 		          {
-			     "water": 1,
+			     "water": "1",
 		           },
 		           {
-		              "housing": -1,
+		              "housing": "-1",
 		           },
 		           {
-			       "health": -1,
+			       "health": "-1",
 		            }
 		       ]
                    },
@@ -55,13 +55,13 @@
                      "party":"Sinn Fein",
                      "vote": [
 		         {
-			    "water": -1,
+			    "water": "-1",
 		          },
 		          {
-		             "housing": -1,
+		             "housing": "-1",
 		          },
 		          {
-			      "health": 1,
+			      "health": "1",
 		           }
 		     ]
                    },
@@ -71,13 +71,13 @@
                       "party":"Labour Party",
                       "vote": [
 		         {
-			    "water": -1,
+			    "water": "-1",
 		          },
 		          {
-		             "housing": 1,
+		             "housing": "1",
 		          },
 		          {
-			      "health": -1,
+			      "health": "-1",
 		           }
 		     ]
                   }
