@@ -1,86 +1,45 @@
-[
-      { "Dublin Fingal":[
-                  {
-                    "id": 0,
-                    "name":"Alan Farrell",
-                    "party":"Fine Gail",
-                    "vote": [
-		         {
-			    "water": "-1",
-		          },
-		          {
-		             "housing": "1",
-		          },
-		          {
-			      "health": "1",
-		           }
-		     ]
-                  },
-                  {
-                    "id": 1,
-                    "name":"Darragh O'Brien",
-                    "party":"Fianna Fail",
-		    "vote": [
-		         {
-			    "water": "1",
-		          },
-		          {
-		             "housing": "1",
-		          },
-		          {
-			      "health": "-1",
-		           }
-		     ]
-                   
-                  },
-                  {
-                    "id": 2,
-                    "name":"Joe O'Brien",
-                    "party":"Green Party",
-                     "vote": [
-		          {
-			     "water": "1",
-		           },
-		           {
-		              "housing": "-1",
-		           },
-		           {
-			       "health": "-1",
-		            }
-		       ]
-                   },
-                   {
-                     "id": 3,
-                     "name":"Louise O'Reilly",
-                     "party":"Sinn Fein",
-                     "vote": [
-		         {
-			    "water": "-1",
-		          },
-		          {
-		             "housing": "-1",
-		          },
-		          {
-			      "health": "1",
-		           }
-		     ]
-                   },
-                   {
-                      "id": 4,
-                      "name":"Duncan Smith",
-                      "party":"Labour Party",
-                      "vote": [
-		         {
-			    "water": "-1",
-		          },
-		          {
-		             "housing": "1",
-		          },
-		          {
-			      "health": "-1",
-		           }
-		     ]
-                  }
-              ]
-         }
-]
+{
+	"Dublin Fingal": [{
+			"id": 0,
+			"name": "Alan Farrell",
+			"party": "Fine Gail",
+			"vote": [{
+				"water": "-1"
+			}]
+
+		},
+		{
+			"id": 1,
+			"name": "Darragh O'Brien",
+			"party": "Fianna Fail",
+			"vote": [{
+				"water": "-1"
+			}]
+
+		},
+		{
+			"id": 2,
+			"name": "Joe O'Brien",
+			"party": "Green Party",
+			"vote": [{
+				"water": "-1"
+			}]
+		},
+		{
+			"id": 3,
+			"name": "Louise O'Reilly",
+			"party": "Sinn Fein",
+			"vote": [{
+				"water": "-1"
+			}]
+		},
+		{
+			"id": 4,
+			"name": "Duncan Smith",
+			"party": "Labour Party",
+			"vote": [{
+				"water": "-1"
+			}]
+		}
+	]
+}
