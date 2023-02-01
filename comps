@@ -1,381 +1,85 @@
-{
-  "companies": {
-    "categories": {
-      "cat_0": [
-        {
-          "category": 0,
-          "type": "Restaurant",
-          "name": "Broyage Bar & Bistro",
-          "rating": 67
-        },
-        {
-          "category": 0,
-          "type": "Restaurant",
-          "name": "Amigos",
-          "parent": "Compass Group",
-          "rating": 34
-        },
-        {
-          "category": 0,
-          "type": "Bar",
-          "name": "The Patriots Inn",
-          "rating": 54
-        },
-        {
-          "category": 0,
-          "type": "Restaurant",
-          "name": "Urban 8",
-          "rating": 67
-        },
-        {
-          "category": 0,
-          "type": "Medical Centre",
-          "name": "Kilmainham Medical Centre",
-          "rating": 68
-        },
-        {
-          "category": 0,
-          "type": "Bar",
-          "name": "Old Royal Oak",
-          "rating": 56
-        },
-        {
-          "category": 0,
-          "type": "cafe",
-          "name": "Southbank",
-          "rating": 46
-        },
-        {
-          "category": 0,
-          "type": "grocery store",
-          "name": "Timgad Grocery and Halal Meats",
-          "rating": 45
-        },
-        {
-          "category": 0,
-          "type": "bar",
-          "name": "Leonard's Corner",
-          "rating": 55
-        },
-        {
-          "category": 0,
-          "type": "restaurant",
-          "name": "Clanbrassil House",
-          "rating": 45
-        },
-        {
-          "category": 0,
-          "type": "restaurant",
-          "name": "Baste BBQ",
-          "rating": 53
-        },
-        {
-          "category": 0,
-          "type": "pub",
-          "name": "MVP",
-          "rating": 38
-        },
-        {
-          "category": 0,
-          "type": "pub",
-          "name": "Harold House",
-          "rating": 39
-        },
-        {
-          "category": 0,
-          "type": "grocery store",
-          "name": "Spar 176 South Circular Road",
-          "rating": 48
-        },
-        {
-          "category": 0,
-          "type": "cafe",
-          "name": "La Boulangerie",
-          "rating": 67
-        },
-        {
-          "category": 0,
-          "type": "cafe",
-          "name": "Arch Cafe",
-          "rating": 64
-        },
-        {
-          "category": 0,
-          "type": "supermarket",
-          "name": "MACE South Circular Road",
-          "rating": 55
-        },
-        {
-          "category": 0,
-          "type": "cafe",
-          "name": "The Rialto Bridge Cafe",
-          "rating": 37
-        },
-        {
-          "category": 0,
-          "type": "pub",
-          "name": "The Bird Flanagan",
-          "rating": 86
-        },
-        {
-          "category": 0,
-          "type": "convience store",
-          "name": "Centra",
-          "rating": 49
-        },
-        {
-          "category": 0,
-          "type": "Liquor Store",
-          "name": "Fine Wines Off Licence",
-          "rating": 67
-        },
-        {
-          "category": 0,
-          "type": "Grocery delivery service",
-          "name": "Adriatic Corner Shop",
-          "rating": 68
-        },
-        {
-          "category": 0,
-          "type": "fruit and vegetable store",
-          "name": "Marks Fruit & Veg",
-          "rating": 32
-        },
-        {
-          "category": 0,
-          "type": "bakery",
-          "name": "Cake Box",
-          "rating": 79
-        },
-        {
-          "category": 0,
-          "type": "gourmet grocery store",
-          "name": "Marlowe & Co",
-          "rating": 54
-        }
-      ],
-      "cat 1": [
-        {
-          "category": 1,
-          "type": "Religious Centre",
-          "name": "Tibetan Buddhist Meditation Centre",
-          "rating": 36
-        }
-      ],
-      "cat_2": [
-        {
-          "category": 2,
-          "type": "Household Furnishing",
-          "name": "Argos",
-          "parent": "J Sainsbury plc",
-          "rating": 39
-        },
-        {
-          "category": 2,
-          "type": "locksmith",
-          "name": "Southside Window and Door Repairs",
-          "rating": 49
-        },
-        {
-          "category": 2,
-          "type": "Hardware store",
-          "name": "Mannions Building Supplies",
-          "rating": "67%"
-        },
-        {
-          "category": 2,
-          "type": "window istallation",
-          "name": "Signature Windows & Doors",
-          "rating": 59
-        },
-        {
-          "category": 2,
-          "type": "glass repair",
-          "name": "City Glass & Glazing",
-          "rating": 65
-        }
-      ],
-      "cat_3": [
-        {
-          "category": 3,
-          "type": "Gas Station",
-          "name": "Circle K",
-          "rating": 88
-        }
-      ],
-      "cat_4": [
-        {
-          "category": 4,
-          "type": "Pharmacutical Company",
-          "name": "AstraZeneca",
-          "parent": "AstraZeneca plc",
-          "rating": 75
-        },
-        {
-          "category": 4,
-          "type": "Pharmacy",
-          "name": "Boots",
-          "parent": "Walgreens Boots Alliance",
-          "rating": 87
-        },
-        {
-          "category": 4,
-          "type": "hospital",
-          "name": "Saint James's Hospital",
-          "rating": 73
-        },
-        {
-          "category": 4,
-          "type": "Doctor",
-          "name": "Rialto Primary Care Centre",
-          "parent": "Halfords Group plc",
-          "rating": 86
-        },
-        {
-          "category": 4,
-          "type": "laboratory equipment supplier",
-          "name": "Mason Technology Limited",
-          "rating": 79
-        }
-      ],
-      "cat_5": [
-        {
-          "category": 5,
-          "type": "Bank",
-          "name": "Barclays",
-          "parent": "Barclays plc",
-          "rating": 87
-        },
-        {
-          "category": 5,
-          "type": "Financial Consultant",
-          "name": "Diageo Finance Ireland",
-          "rating": 67
-        },
-        {
-          "category": 5,
-          "type": "Credit Union",
-          "name": "Donore Credit Union Limited",
-          "rating": 39
-        }
-      ],
-      "cat_6": [
-        {
-          "category": 6,
-          "type": "Car hire",
-          "name": "Avis",
-          "rating": 68
-        },
-        {
-          "category": 6,
-          "type": "car wash",
-          "name": "Auto Spa",
-          "rating": "47%"
-        },
-        {
-          "category": 6,
-          "type": "auto parts store",
-          "name": "C&F Motor Factors Ltd",
-          "rating": 67
-        }
-      ],
-      "cat_7": [
-        {
-          "category": 7,
-          "type": "barbers",
-          "name": "Wrights Barbers",
-          "rating": 69
-        },
-        {
-          "category": 7,
-          "type": "barbers",
-          "name": "Wrights Barbers",
-          "rating": 45
-        }
-      ],
-      "cat_8": [
-        {
-          "category": 8,
-          "type": "electronics store",
-          "name": "The Lock Hospital",
-          "rating": 77
-        }
-      ],
-      "cat_9": [
-        {
-          "category": 9,
-          "type": "Party Supplies",
-          "name": "Card Factory",
-          "parent": "Card Factory plc",
-          "rating": 76
-        },
-        {
-          "category": 9,
-          "type": "sign shop",
-          "name": "Action Sign Writing",
-          "rating": 38
-        }
-      ],
-      "cat_10": [
-        {
-          "category": 10,
-          "type": "estate agents",
-          "name": "Brock Delappe",
-          "rating": 39
-        },
-        {
-          "category": 10,
-          "type": "Estate agents",
-          "name": "Locations Estate Agents",
-          "rating": 56
-        }
-      ],
-      "cat_11": [
-        {
-          "category": 11,
-          "type": "Gym",
-          "name": "Herberton Leisure",
-          "rating": 77
-        },
-        {
-          "category": 11,
-          "type": "golf shop",
-          "name": "GoPerfect",
-          "parent": "SSP Group plc",
-          "rating": 27
-        },
-        {
-          "category": 11,
-          "type": "boxing gym",
-          "name": "Donore Boxing Club",
-          "rating": 29
-        }
-      ],
-      "cat_12": [
-        {
-          "category": 12,
-          "type": "manufacturer",
-          "name": "Botany Weaving Mill",
-          "rating": 89
-        }
-      ],
-      "cat_13": [
-        {
-          "category": 13,
-          "type": "machinery hire",
-          "name": "Hire Here Ltd",
-          "rating": 59
-        }
-      ],
-      "cat_14": [
-        {
-          "category": 14,
-          "type": "clothes alteration",
-          "name": "All Alteration Services",
-          "parent": "Lloyds Banking Group",
-          "rating": 27
-        }
-      ]
-    }
-  }
-}
+
+      { "Dublin Fingal":[
+                  {
+                    "id": 0,
+                    "name":"Alan Farrell",
+                    "party":"Fine Gail",
+                    "vote": [
+		         {
+			    "water": -1,
+		          },
+		          {
+		             "housing": 1,
+		          },
+		          {
+			      "health": 1,
+		           }
+		     ]
+                  },
+                  {
+                    "id": 1,
+                    "name":"Darragh O'Brien",
+                    "party":"Fianna Fail",
+		    "vote": [
+		         {
+			    "water": 1,
+		          },
+		          {
+		             "housing": 1,
+		          },
+		          {
+			      "health": -1,
+		           }
+		     ]
+                   
+                  },
+                  {
+                    "id": 2,
+                    "name":"Joe O'Brien",
+                    "party":"Green Party",
+                     "vote": [
+		          {
+			     "water": 1,
+		           },
+		           {
+		              "housing": -1,
+		           },
+		           {
+			       "health": -1,
+		            }
+		       ]
+                   },
+                   {
+                     "id": 3,
+                     "name":"Louise O'Reilly",
+                     "party":"Sinn Fein",
+                     "vote": [
+		         {
+			    "water": -1,
+		          },
+		          {
+		             "housing": -1,
+		          },
+		          {
+			      "health": 1,
+		           }
+		     ]
+                   },
+                   {
+                      "id": 4,
+                      "name":"Duncan Smith",
+                      "party":"Labour Party",
+                      "vote": [
+		         {
+			    "water": -1,
+		          },
+		          {
+		             "housing": 1,
+		          },
+		          {
+			      "health": -1,
+		           }
+		     ]
+                  }
+              ]
+         }
