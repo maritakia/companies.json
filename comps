@@ -1,6 +1,7 @@
- 
+{"Provinces":
+    [
 
-    1: {"Dublin":
+    {"Dublin":
         [ {"Dublin Fingal":[
                   {
                     "id": 0,
@@ -646,7 +647,7 @@
                 ]}
   ]
             },
-  2:  {"Leinster":
+    {"Leinster":
       [   {"Carlow-Kilkenny": [
                         {
                           "id": 0,
@@ -1250,7 +1251,7 @@
 
         ]
       },
-   3: {"Munster":[
+    {"Munster":[
         {"Clare":[
           {
 
@@ -1289,7 +1290,7 @@
             {}
         ]}
     ]},
-  4:  {"Ulster-Connaught":
+    {"Ulster-Connaught":
       [
           {"Cavan-Monaghan":[
               {}
@@ -1313,5 +1314,5 @@
               {}
           ]}
     ]}
-
-
+]
+}
