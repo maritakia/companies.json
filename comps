@@ -1,8 +1,8 @@
 {"provinces":
     [
 
-    {"Dublin":
-        [ {"Dublin Fingal":[
+    {"dublin":
+        [ {"dublin_fingal":[
                   {
                     "id": 0,
                     "name":"Alan Farrell",
