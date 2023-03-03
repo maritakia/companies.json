@@ -1,8 +1,6 @@
  
 
-    [
-
-    {"Dublin":
+    1: {"Dublin":
         [ {"Dublin Fingal":[
                   {
                     "id": 0,
@@ -648,7 +646,7 @@
                 ]}
   ]
             },
-    {"Leinster":
+  2:  {"Leinster":
       [   {"Carlow-Kilkenny": [
                         {
                           "id": 0,
@@ -1252,7 +1250,7 @@
 
         ]
       },
-    {"Munster":[
+   3: {"Munster":[
         {"Clare":[
           {
 
@@ -1291,7 +1289,7 @@
             {}
         ]}
     ]},
-    {"Ulster-Connaught":
+  4:  {"Ulster-Connaught":
       [
           {"Cavan-Monaghan":[
               {}
@@ -1315,5 +1313,5 @@
               {}
           ]}
     ]}
-]
+
 
