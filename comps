@@ -1,7 +1,7 @@
 {
    "provinces":[{
         "Dublin":[
-                  {"dub-fin":[
+                  {"dubFin":[
                       {
                         "district":"Dublin Fingal",
                         "id": 0,
