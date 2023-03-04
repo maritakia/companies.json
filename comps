@@ -1,14 +1,36 @@
 
-{
-"province":"Fingal",
-"politicians":[
-  {
-    "id": 1,
-    "name": "Alan Farrell",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-    }
+
+      {"province": "Dublin Fingal",
+           "politicians" : [
+                  {
+                    "id": 0,
+                    "name":"Alan Farrell",
+                    "party":"Fine Gail",
+                  },
+                  {
+                    "id": 1,
+                    "name":"Darragh O'Brien",
+                    "party":"Fianna Fail",
+
+                  },
+                  {
+                    "id": 2,
+                    "name":"Joe O'Brien",
+                    "party":"Green Party",
+
+                  },
+                  {
+                    "id": 3,
+                    "name":"Louise O'Reilly",
+                    "party":"Sinn Fein",
+
+                  },
+                  {
+                    "id": 4,
+                    "name":"Duncan Smith",
+                    "party":"Labour Party",
+
+                  }
+              ]
+         }
+
