@@ -1,5 +1,5 @@
 
-{"province":"Dublin"
+{"province":"Dublin",
 "politicians":[
   {
     "id": 1,
@@ -14,7 +14,7 @@
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
     "party":" Fine Gael"
-  }
+  },
   {
     "id": 2,
     "name": "Ervin Howell",
@@ -109,3 +109,4 @@
   }
   ]
 }
+
