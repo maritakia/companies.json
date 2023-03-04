@@ -1,7 +1,7 @@
 
 
-      {"province": "Dublin Fingal",
-           "politicians" : [
+      {"province": "Fingal",
+           "poli" : [
                   {
                     "id": 0,
                     "name":"Alan Farrell",
