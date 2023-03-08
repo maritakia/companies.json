@@ -1,9 +1,9 @@
-{"provinces":{
+{"provinces":[
    
                [ {"title":"Dublin"},{"dublin":[]}],
                [ {"title":"Leinster"},{"leinster":[]}],
                [ {"title":"Ulster & Connaght"},{"ulster/connaght":[]}],
                [ {"title":"Munster"},{"munster":[]}]
-          }
+          ]
           
 }
