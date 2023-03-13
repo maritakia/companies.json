@@ -218,7 +218,7 @@
 					]
 				},
 				{
-					"distDubMW": [{
+					"dubMW": [{
 							"district": "Dublin Mid-West",
 							"id": 0,
 							"name": "Emer Higgins",
@@ -280,7 +280,7 @@
 					]
 				},
 				{
-					"distDubC": [{
+					"dubC": [{
 							"district": "Dublin Central",
 							"id": 0,
 							"name": "Paschal Donohoe",
@@ -341,7 +341,7 @@
 					]
 				},
 				{
-					"distDubNW": [{
+					"dubNW": [{
 							"district": "Dublin North-West",
 							"id": 0,
 							"name": "Dessie Ellis",
@@ -387,7 +387,7 @@
 					]
 				},
 				{
-					"distDubRath": [{
+					"dubRath": [{
 							"district": "Dublin Rathdown",
 							"id": 0,
 							"name": "Josepha Madigan",
@@ -433,7 +433,7 @@
 					]
 				},
 				{
-					"distDubC": [{
+					"dubC": [{
 							"district": "Dublin Central",
 							"id": 0,
 							"name": "Joan Collins",
@@ -494,7 +494,7 @@
 					]
 				},
 				{
-					"distDubSW": [{
+					"dubSW": [{
 							"district": "Dublin South-West",
 							"id": 0,
 							"name": "Colm Grophy",
@@ -571,7 +571,7 @@
 					]
 				},
 				{
-					"distDubW": [{
+					"dubW": [{
 							"district": "Dublin West",
 							"id": 0,
 							"name": "Jack Chambers",
@@ -633,7 +633,7 @@
 					]
 				},
 				{
-					"distDunLaogh": [{
+					"dunLao": [{
 							"district": "Dun Laoghaire",
 							"id": 0,
 							"name": "Richard Boyd Barrett",
@@ -698,8 +698,9 @@
 		},
 		{
 			"title": "Leinster",
-			"leinster": [{
-					"dist-kilk": [{
+			"leinster": [
+				{
+					"kilk": [{
 							"district": "Carlow-Kilkenny",
 							"id": 0,
 							"name": "Kathleen Funchion",
@@ -772,7 +773,7 @@
 					]
 				},
 				{
-					"distKilN": [{
+					"kilN": [{
 							"district": "Kildare North",
 							"id": 0,
 							"name": "Reada Cronin",
@@ -831,7 +832,7 @@
 					]
 				},
 				{
-					"distKilS": [{
+					"distkilS": [{
 							"district": "Kildare South",
 							"id": 0,
 							"name": "Cathal Berry",
@@ -890,7 +891,7 @@
 					]
 				},
 				{
-					"distLaosOff": [{
+					"laoOff": [{
 							"district": "Laois-Offaly",
 							"id": 0,
 							"name": "Barry Cowen",
@@ -963,7 +964,7 @@
 					]
 				},
 				{
-					"distWMeath": [{
+					"wMeath": [{
 							"district": "Longford-Westmeath",
 							"id": 0,
 							"name": "Peter Burke",
@@ -1022,7 +1023,7 @@
 					]
 				},
 				{
-					"distLouth": [{
+					"louth": [{
 							"district": "Louth",
 							"id": 0,
 							"name": "Peter Fitxpatrick",
@@ -1095,7 +1096,7 @@
 					]
 				},
 				{
-					"distMeathE": [{
+					"meathE": [{
 							"district": "Meath East",
 							"id": 0,
 							"name": "Thomas Byrne",
@@ -1140,7 +1141,7 @@
 					]
 				},
 				{
-					"distMeathW": [{
+					"meathW": [{
 							"district": "Meath West",
 							"id": 0,
 							"name": "Damien English",
@@ -1185,7 +1186,7 @@
 					]
 				},
 				{
-					"distWex": [{
+					"wex": [{
 							"district": "Wexford",
 							"id": 0,
 							"name": "james Browne",
@@ -1258,7 +1259,7 @@
 					]
 				},
 				{
-					"distWick": [{
+					"wick": [{
 							"district": "Wicklow",
 							"id": 0,
 							"name": "John Brady",
@@ -1331,6 +1332,109 @@
 					]
 				}
 			]
+		},
+		{
+			"title": "Munster",
+			"munster": [
+				{
+					"clare": [{
+						"district": "Clare"
+					}]
+				},
+				{
+					"corkE": [{
+						"district": "Cork East"
+					}]
+				},
+				{
+					"corkNC": [{
+						"district": "Cork North-Central"
+					}]
+				},
+				{
+					"corkNW": [{
+						"district": "Cork North-West"
+					}]
+				},
+				{
+					"corkSC": [{
+						"district": "Cork South-Central"
+					}]
+				},
+				{
+					"corkSW": [{
+						"district": "Cork South-West"
+					}]
+				},
+				{
+					"kerry": [{
+						"district": "Kerry"
+					}]
+				},
+				{
+					"limCt": [{
+						"district": "Limerick City"
+					}]
+				},
+				{
+					"limCn": [{
+						"district": "Limerick County"
+					}]
+				},
+				{
+					"tip": [{
+						"district": "Tiperary"
+					}]
+				},
+				{
+					"water": [{
+						"district": "Waterford"
+					}]
+				}
+
+			]
+		},
+		{
+			"title": "Ulster & Connaught",
+			"ulsterConn": [
+				{
+					"CavanMon": [{
+						"district": "Cavan-Monaghan"
+					}]
+				},
+				{
+					"done": [{
+						"district": "Donegal"
+					}]
+				},
+				{
+					"galE": [{
+						"district": "Galway East"
+					}]
+				},
+				{
+					"galW": [{
+						"district": "Galway West"
+					}]
+				},
+				{
+					"mayo": [{
+						"district": "Mayo"
+					}]
+				},
+				{
+					"rossGal": [{
+						"district": "Roscommon-Galway"
+					}]
+				},
+				{
+					"sliLeit": [{
+						"district": "Sligo-Leitrim"
+					}]
+				}
+
+			]
 		}
+
 	]
 }
