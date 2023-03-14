@@ -1,5 +1,5 @@
 [{
-	 "fin": "fingal",
+	 "district": "fingal",
 	 "mp": [{
 			 "name": "Alan Farrell",
 			 "party": "Fine Gael",
@@ -63,7 +63,7 @@
 	 ]
  },
  {
-	 "dbn": "Dublin Bay North",
+	 "district": "Dublin Bay North",
 	 "mp": [{
 			 "name": "Richard Bruton",
 			 "party": "Fine Gail",
@@ -127,7 +127,7 @@
 	 ]
  },
  {
-	 "dbs": "Dublin Bay South",
+	 "district": "Dublin Bay South",
 	 "mp": [{
 			 "name": "Chris Andrews",
 			 "party": "Sinn Fein",
@@ -183,7 +183,7 @@
 	 ]
  },
  {
-	 "dmw": "Dublin Mid West",
+	 "district": "Dublin Mid West",
 	 "mp": [{
 			 "name": "Emer Higgins",
 			 "party": "Fine Gael",
@@ -241,7 +241,7 @@
 	 ]
  },
  {
-	 "dc": "Dublin Central",
+	 "district": "Dublin Central",
 	 "mp": [{
 			 "name": "Gary Gannon",
 			 "party": "Social Democrats",
@@ -283,7 +283,7 @@
 	 ]
  },
  {
-	 "dnw": "Dublin NorthWest",
+	 "district": "Dublin NorthWest",
 	 "mp": [{
 			 "name": "Dessie Ellis",
 			 "party": "Sinn Fein",
@@ -324,7 +324,7 @@
 	 ]
  },
  {
-	 "drt": "Dublin Rathdown",
+	 "district": "Dublin Rathdown",
 	 "mp": [{
 			 "name": "Josepha Madigan",
 			 "party": "Fine Gael",
@@ -365,7 +365,7 @@
 	 ]
  },
  {
-	 "dsw": "Dublin SouthWest",
+	 "district": "Dublin SouthWest",
 	 "mp": [{
 			 "name": "Colm Grophy",
 			 "party": "Fine Gael",
@@ -433,7 +433,7 @@
 	 ]
  },
  {
-	 "dw": "Dublin West",
+	 "district": "Dublin West",
 	 "mp": [{
 			 "name": "Jack Chambers",
 			 "party": "Fianna Fail",
@@ -488,7 +488,7 @@
 	 ]
  },
  {
-	 "dl": "Dun Laoghaire",
+	 "district": "Dun Laoghaire",
 	 "mp": [{
 			 "name": "Richard Boyd Barrett",
 			 "party": "People Before Profit-Solidarity",
@@ -544,5 +544,3 @@
  }
 
 ]
-
-			
