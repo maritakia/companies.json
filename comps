@@ -1,9 +1,9 @@
 {
   "provinces":
   [
-    "Dublin",
-    "leinster", 
-    "Ulster & Connaught", 
-    "Munster"
+    {"provdub":"Dublin"},
+    {"provlen":"leinster"}, 
+    {"provUlCon":"Ulster & Connaught"}, 
+    {"provMun":"Munster"}
   ]
 }
