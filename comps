@@ -1,23 +1,59 @@
 {
-  "provinces":
-  [
-    {
-    {"provTitle":"Dublin"},
-    {districts:[
-          {"dist": "Fingal"},
-          {"dist": "Fingal"},
-          {"dist": "Fingal"}
-          ]
-          }
-        },
-    {
-    {"provTitle":"leinster"}
-    }, 
-    {
-    {"provTitle":"Ulster & Connaught"}
-    }, 
-    {
-    {"provTitle":"Munster"}
-    }
-  ]
+	"provinces": [{
+			"provTitle": "Dublin",
+
+
+			"districts": [{
+					"dist": "Fingal"
+				},
+				{
+					"dist": "Fingal"
+				}
+
+			]
+		},
+		{
+
+			"provTitle": "leinster",
+
+			"districts": [{
+					"dist": "Meath"
+				},
+				{
+					"dist": "Wicklow"
+				}
+
+			]
+
+		},
+		{
+
+			"provTitle": "Ulster & Connaught",
+
+			"districts": [{
+					"dist": "Donegal"
+				},
+				{
+					"dist": "Galway"
+				}
+
+			]
+
+		},
+		{
+
+			"provTitle": "Munster",
+
+
+			"districts": [{
+					"dist": "Cork"
+				},
+				{
+					"dist": "Tipperrary"
+				}
+
+			]
+
+		}
+	]
 }
