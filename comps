@@ -2,8 +2,8 @@
   "provinces":
   [
     {
-    {"provdub":"Dublin"},
-          {districts:[
+    {"provTitle":"Dublin"},
+    {districts:[
           {"dist": "Fingal"},
           {"dist": "Fingal"},
           {"dist": "Fingal"}
@@ -11,13 +11,13 @@
           }
         },
     {
-    {"provlen":"leinster"}
+    {"provTitle":"leinster"}
     }, 
     {
-    {"provUlCon":"Ulster & Connaught"}
+    {"provTitle":"Ulster & Connaught"}
     }, 
     {
-    {"provMun":"Munster"}
+    {"provTitle":"Munster"}
     }
   ]
 }
