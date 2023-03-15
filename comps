@@ -1,7 +1,14 @@
 {
   "provinces":
   [
-    {"provdub":"Dublin"},
+    {{"provdub":"Dublin"},
+      {districts:[
+      {"dist": "Fingal"},
+      {"dist": "Fingal"},
+      {"dist": "Fingal"}
+      ]
+      }
+    },
     {"provlen":"leinster"}, 
     {"provUlCon":"Ulster & Connaught"}, 
     {"provMun":"Munster"}
