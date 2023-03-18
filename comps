@@ -4,11 +4,11 @@
 			"provTitle": "Dublin",
 
 
-			"districts": [{
+			"districtsDub": [{
 					"dist": "Fingal"
 				},
 				{
-					"dist": "Fingal"
+					"dist": "Dublin Bay"
 				}
 
 			]
