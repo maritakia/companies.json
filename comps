@@ -1,62 +1,17 @@
-{
-	"provinces": [{
-			"id" : 10001,
-			"provTitle": "Dublin",
-
-			
-			"distDub" [
-			{
-			"dist": "Fingal"
-			},
-			{
-			"dist": "Dublin Bay"
-			}
-			]
-		},
-		{
-		      "id" : 10002,
-
-			"provTitle": "leinster",
-
-			"districts": [{
-					"dist": "Meath"
-				},
-				{
-					"dist": "Wicklow"
-				}
-
-			]
-
-		},
-		{
-
-			"provTitle": "Ulster & Connaught",
-
-			"districts": [{
-					"dist": "Donegal"
-				},
-				{
-					"dist": "Galway"
-				}
-
-			]
-
-		},
-		{
-			"id" : 10003,
-
-			"provTitle": "Munster",
-
-
-			"districts": [{
-					"dist": "Cork"
-				},
-				{
-					"dist": "Tipperrary"
-				}
-
-			]
-
-		}
-	]
-}
+[{
+        "username": "john",
+        "firstName": "John",
+        "lastName": "Doe",
+        "gender": "Male",
+        "profileURL": "img/male.png",
+        "email": "john.doe@example.com"
+    },
+    {
+        "username": "jane",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "gender": "Female",
+        "profileURL": "img/female.png",
+        "email": "jane.doe@example.com"
+    }
+]
