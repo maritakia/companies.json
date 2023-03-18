@@ -1,6 +1,6 @@
 
 
-      { "fingal":[
+      [{"fingal":[
                   {
                     "id": 0,
                     "name":"Alan Farrell",
@@ -66,4 +66,4 @@
                     "phone": "01 618 3791"
                   }
               ]
-         }
+         }]
