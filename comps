@@ -1,6 +1,15 @@
 [
-  {"province":"Dublin"},
-  {"province":"Leinster"},
-  {"province":"Munster"},
-  {"province":"Ulster & Connaght"}
+  {
+    "province": "Dublin",
+    "districts":["fingal","dubBayN","dubBayS","dubMW","dubCen","dubNw","rath","dubSW","dubW","dunLao"]
+  },
+  {
+    "province": "Leinster"
+  },
+  {
+    "province": "Munster"
+  },
+  {
+    "province": "Ulster & Connaght"
+  }
 ]
