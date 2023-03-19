@@ -1,6 +1,6 @@
 [
-  {"title":"Dublin"},
-  {"title":"Leinster"},
-  {"title":"Munster"},
-  {"title":"Ulster & Connaght"}
+  {"province":"Dublin"},
+  {"province":"Leinster"},
+  {"province":"Munster"},
+  {"province":"Ulster & Connaght"}
 ]
