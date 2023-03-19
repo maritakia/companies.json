@@ -1,7 +1,7 @@
 [
   {
     "province": "Dublin",
-    "districts":["fingal","dubBayN","dubBayS","dubMW","dubCen","dubNw","rath","dubSW","dubW","dunLao"]
+    "distDub":["fingal","dubBayN","dubBayS","dubMW","dubCen","dubNw","rath","dubSW","dubW","dunLao"]
   },
   {
     "province": "Leinster"
