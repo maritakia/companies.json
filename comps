@@ -1,15 +1,59 @@
 [
   {
     "province": "Dublin",
-    "distDub":["fingal","dubBayN","dubBayS","dubMW","dubCen","dubNw","rath","dubSW","dubW","dunLao"]
+    "distDub": [
+      "fingal",
+      "dubBayN",
+      "dubBayS",
+      "dubMW",
+      "dubCen",
+      "dubNw",
+      "rath",
+      "dubSW",
+      "dubW",
+      "dunLao"
+    ]
   },
   {
-    "province": "Leinster"
+    "province": "Leinster",
+    "distLen": [
+      "kilk",
+      "kilN",
+      "kilS",
+      "laoOff",
+      "wMeath",
+      "louth",
+      "meathW",
+      "wex",
+      "wick"
+    ]
   },
   {
-    "province": "Munster"
+    "province": "Munster",
+    "distMun": [
+      "clare",
+      "corkE",
+      "corkNC",
+      "corkNW",
+      "CorkSC",
+      "corkSW",
+      "kerry",
+      "lim",
+      "limCn",
+      "tipp",
+      "water"
+    ]
   },
   {
-    "province": "Ulster & Connaght"
+    "province": "Ulster & Connaght",
+    "distUlCon": [
+      "cavanMon",
+      "done",
+      "galE",
+      "galW",
+      "mayo",
+      "rosGal",
+      "sligoLeit"
+    ]
   }
 ]
