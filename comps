@@ -1,7 +1,5 @@
-{
-   "provinces":
-   [
 
+{
       [  {"title":"Dublin"},
          {"Dublin":[
                   {"dub-fin":[
@@ -1376,10 +1374,8 @@
                     ]}
             ]}
       ]
-
-
-  ]
 }
+
 
 
     
