@@ -3,48 +3,42 @@
     "province": "Dublin",
     "distDub": [
       {
-        "district": "Fingal",
-        "fingal": [
+        "Fingal": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dublin Bay North",
-        "dubBayN": [
+        "Dublin Bay North": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dublin Bay South",
-        "dubBayS": [
+        "Dublin Bay South": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dublin Mid-West",
-        "dubMW": [
+        "Dublin Mid-West": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dublin Central",
-        "dubCen": [
+        "Dublin Central": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dublin North-West",
-        "dubNw": [
+        "Dublin North-West": [
           1,
           2,
           3
@@ -52,31 +46,28 @@
       },
       {
         "district": "Rathoath",
-        "rath": [
+        "Rathoath": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dublin South-West",
-        "dubSW": [
+        "Dublin South-West": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dulin West",
-        "dubW": [
+        "Dublin West": [
           1,
           2,
           3
         ]
       },
       {
-        "district": "Dun Laoghaire",
-        "dunLao": [
+        "Dun Laoghaire": [
           1,
           2,
           3
