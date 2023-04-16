@@ -1,9 +1,11 @@
 [
   {
     "province": "Dublin",
+    "id": 0,
     "distDub": [
       {
         "district": "Fingal",
+        "id": 01,
         "Fingal": [
           1,
           2,
@@ -12,6 +14,7 @@
       },
       {
         "district": "Dublin Bay North",
+        "id": 02,
         "Dublin Bay North": [
           1,
           2,
@@ -20,6 +23,7 @@
       },
       {
         "district": "Dublin Bay South",
+        "id": 03,
         "Dublin Bay South": [
           1,
           2,
@@ -28,6 +32,7 @@
       },
       {
         "district": "Dublin Mid-West",
+        "id": 04,
         "Dublin Mid-West": [
           1,
           2,
@@ -36,6 +41,7 @@
       },
       {
         "district": "Dublin Central",
+        "id": 05,
         "Dublin Central": [
           1,
           2,
@@ -44,6 +50,7 @@
       },
       {
         "district": "Dublin North-West",
+        "id": 06,
         "Dublin North-West": [
           1,
           2,
@@ -52,6 +59,7 @@
       },
       {
         "district": "Rathoath",
+        "id": 07,
         "Rathoath": [
           1,
           2,
@@ -60,6 +68,7 @@
       },
       {
         "district": "Dublin South-West",
+        "id": 08,
         "Dublin South-West": [
           1,
           2,
@@ -68,6 +77,7 @@
       },
       {
         "district": "Dulin West",
+        "id": 09,
         "Dublin West": [
           1,
           2,
@@ -76,6 +86,7 @@
       },
       {
         "district": "Dun Laoghaire",
+        "id": 091,
         "Dun Laoghaire": [
           1,
           2,
@@ -86,6 +97,7 @@
   },
   {
     "province": "Leinster",
+    "id": 2,
     "distLen": [
       "kilk",
       "kilN",
@@ -100,6 +112,7 @@
   },
   {
     "province": "Munster",
+    "id": 3,
     "distMun": [
       "clare",
       "corkE",
@@ -116,6 +129,7 @@
   },
   {
     "province": "Ulster & Connaght",
+    "id": 4,
     "distUlCon": [
       "cavanMon",
       "done",
