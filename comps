@@ -1,37 +1,19 @@
+[
+{
+  "province":"Dublin",
+   "id": 1
+},
+{
+  "province":"Leinster",
+  "id": 2
+},
+{
+  "province":"Munster",
+  "id": 3
+},
+{
+  "province":"Ulster:Connaught",
+  "id": 4
+}
 
-
-      { "fingal":[
-                  {
-                    "id": 0,
-                    "name":"Alan Farrell",
-                    "party":"Fine Gail",
-                    "vote": [{"water": "-1"}]
-		         
-                  },
-                  {
-                    "id": 1,
-                    "name":"Darragh O'Brien",
-                    "party":"Fianna Fail",
-		     "vote": [{"water": "-1"}]
-                   
-                  },
-                  {
-                    "id": 2,
-                    "name":"Joe O'Brien",
-                    "party":"Green Party",
-                      "vote": [{"water": "-1"}]
-                   },
-                   {
-                     "id": 3,
-                     "name":"Louise O'Reilly",
-                     "party":"Sinn Fein",
-                      "vote": [{"water": "-1"}]
-                   },
-                   {
-                      "id": 4,
-                      "name":"Duncan Smith",
-                      "party":"Labour Party",
-                       "vote": [{"water": "-1"}]
-                  }
-              ]
-         }
+]
