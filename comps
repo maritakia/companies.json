@@ -1,7 +1,36 @@
 [
 {
   "province":"Dublin",
-   "id": 1
+   "id": 1,
+   "dist":[
+     {
+       "poll": "Fingal"
+     },
+     {
+       "poll": "Dublin Bay North"
+     },
+     {
+       "poll": "Dublin Bay South"
+     },
+     {
+       "poll": "Dublin Mid-West"
+     },
+     {
+       "poll": "Dublin North West"
+     },
+     {
+       "poll": "Dublin Rathdown"
+     },
+     {
+       "poll": "Dublin South West"
+     },
+     {
+       "poll": "Dublin West"
+     },
+     {
+       "poll": "Dun Laoghaire"
+     }
+   ]
 },
 {
   "province":"Leinster",
