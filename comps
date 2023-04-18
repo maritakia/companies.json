@@ -1,143 +1,37 @@
-[
-  {
-    "province": "Dublin",
-    "id": 0,
-    "distDub": [
-      {
-        "district": "Fingal",
-        "id": 01,
-        "Fingal": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dublin Bay North",
-        "id": 02,
-        "Dublin Bay North": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dublin Bay South",
-        "id": 03,
-        "Dublin Bay South": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dublin Mid-West",
-        "id": 04,
-        "Dublin Mid-West": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dublin Central",
-        "id": 05,
-        "Dublin Central": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dublin North-West",
-        "id": 06,
-        "Dublin North-West": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Rathoath",
-        "id": 07,
-        "Rathoath": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dublin South-West",
-        "id": 08,
-        "Dublin South-West": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dulin West",
-        "id": 09,
-        "Dublin West": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "district": "Dun Laoghaire",
-        "id": 091,
-        "Dun Laoghaire": [
-          1,
-          2,
-          3
-        ]
-      }
-    ]
-  },
-  {
-    "province": "Leinster",
-    "id": 2,
-    "distLen": [
-      "kilk",
-      "kilN",
-      "kilS",
-      "laoOff",
-      "wMeath",
-      "louth",
-      "meathW",
-      "wex",
-      "wick"
-    ]
-  },
-  {
-    "province": "Munster",
-    "id": 3,
-    "distMun": [
-      "clare",
-      "corkE",
-      "corkNC",
-      "corkNW",
-      "CorkSC",
-      "corkSW",
-      "kerry",
-      "lim",
-      "limCn",
-      "tipp",
-      "water"
-    ]
-  },
-  {
-    "province": "Ulster & Connaght",
-    "id": 4,
-    "distUlCon": [
-      "cavanMon",
-      "done",
-      "galE",
-      "galW",
-      "mayo",
-      "rosGal",
-      "sligoLeit"
-    ]
-  }
-]
+
+
+      { "Dublin Fingal":[
+                  {
+                    "id": 0,
+                    "name":"Alan Farrell",
+                    "party":"Fine Gail",
+                    "vote": [{"water": "-1"}]
+		         
+                  },
+                  {
+                    "id": 1,
+                    "name":"Darragh O'Brien",
+                    "party":"Fianna Fail",
+		     "vote": [{"water": "-1"}]
+                   
+                  },
+                  {
+                    "id": 2,
+                    "name":"Joe O'Brien",
+                    "party":"Green Party",
+                      "vote": [{"water": "-1"}]
+                   },
+                   {
+                     "id": 3,
+                     "name":"Louise O'Reilly",
+                     "party":"Sinn Fein",
+                      "vote": [{"water": "-1"}]
+                   },
+                   {
+                      "id": 4,
+                      "name":"Duncan Smith",
+                      "party":"Labour Party",
+                       "vote": [{"water": "-1"}]
+                  }
+              ]
+         }
