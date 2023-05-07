@@ -1,56 +1,17 @@
-[
-{
-  "province":"Dublin",
-  "id": 1,
-  "dist":[
-     {
-       "id": 11,
-       "poll": "Fingal"
-     },
-     {
-       "poll": "Dublin Bay North"
-     },
-     {
-       "id": 12,
-       "poll": "Dublin Bay South"
-     },
-     {
-       "id": 13,
-       "poll": "Dublin Mid-West"
-     },
-     {
-       "id": 14,
-       "poll": "Dublin North West"
-     },
-     {
-       "id": 15,
-       "poll": "Dublin Rathdown"
-     },
-     {
-       "id": 16,
-       "poll": "Dublin South West"
-     },
-     {
-       "id": 17,
-       "poll": "Dublin West"
-     },
-     {
-       "id": 18,
-       "poll": "Dun Laoghaire"
-     }
+[{
+   "provinces":["Dublin","Leinster","Munster","Ulster/Connaught"]
+ },
+ {"dublin":
+   ["Fingal","Dublin Bay North","Dublin Bay South","Dublin Mid West","Dublin Central", "Dublin North West", "Dublin South West", "Dublin West", "Rathdown","Dun laoghaire"
    ]
-},
-{
-  "province":"Leinster",
-  "id": 2
-},
-{
-  "province":"Munster",
-  "id": 3
-},
-{
-  "province":"Ulster/Connaught",
-  "id": 4
+ },
+ {"leinster":
+     [ "Kilkenny","Kildare North", "Kildare South", "Laois/Offaly", "Westmeath","Louth","meath East", "Meath West", "Wexford","Wicklow"]
+ },
+ {
+   "munster":
+   ["Clare","Cork East","Cork North-Central", "Cork North-West", "Cork South-Central,", "Cork South-West", "Kerry", "Limrick City", "Limrick County", "Tiperary"," Waterford"]
+ },
+ {"ulster-Connaught":["Cavan/Monaghan","Donegal","Galway-East","Galway-West","Mayo","Roscommon/Galway","Sligo/Leitrim"]
 }
-
 ]
