@@ -2,7 +2,7 @@
    "provinces":["Dublin","Leinster","Munster","Ulster/Connaught"]
  },
  {"dublin":
-   ["Fingal","Dublin Bay North","Dublin Bay South","Dublin Mid West","Dublin Central", "Dublin North West", "Dublin South West", "Dublin West", "Rathdown","Dun laoghaire"
+   [{"dist":"Fingal"},{"dist":"Dublin Bay North"},{"dist":"Dublin Bay South"},{"dist":"Dublin Mid West"},{"dist":"Dublin Central"}, {"dist":"Dublin North West"}, {"Dublin South West"}, {"dist":"Dublin West"}, {"dist":"Rathdown"},{"dist":"Dun laoghaire"}
    ]
  },
  {"leinster":
