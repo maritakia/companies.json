@@ -1,76 +1,22 @@
-[
-   { "provinces":
-     [{"id": "1","prov":"Dublin"},{"id": "2","prov":"Leinster"},{"id": "3","prov":"Munster"},{"id": "4","prov":"Ulster/Connaught"}]
-  },
-   { "dublin":
- [{"id": "1","dist":"Fingal"},{"id": "2","dist":"Dublin Bay North"},{"id": "3","dist":"Dublin Bay South"},{"id": "4","dist":"Dublin Mid West"},{"id": "5","dist":"Dublin Central"}, {"id": "6","dist":"Dublin North West"}, {"id": "7","dist":"Dublin South West"},{ "id": "8","dist":"Dublin West"},{ "id": "9","dist":"Rathdown"},{"id": "10","dist":"Dun laoghaire"}
-   ]
- },
-
-   { "fingal":
-  [
-  {
-    "name":"Darragh O'Brien",
-    "party":"Fianna Fail",
-    "address":{
-      "number":"Leinster House",
-      "street": "Kildare Street",
-      "town":"Dublin 2",
-      "city":"Dublin"
-      },
-    "phone": "01 618 3802",
-    "email": "darragh.obrien@oireachtas.ie"
-
-  },
 {
-   "name":"Joe O'Brien",
-  "party":"Green Party",
-  "address":{
-    "number":"Leinster House",
-    "street": "Kildare Street",
-    "town":"Dublin 2",
-    "city":"Dublin"
-    },
-  "phone": "01 618 4414",
-  "email": "joe.obrien@oireachtas.ie"
-},
 
-  {  "name":"Alan Farrell",
-     "party":"Fine Gael",
-     "address":{
-      "number":"First Floor",
-      "street": "6 Townyard Lane",
-      "town":"Malahide",
-      "city":"Co.Dublin"
-      },
-    "phone": "01 618 4008",
-    "email": "alan.farrell@oireachtas.ie"
-  },
-  {
-    "name":"Louise O'Reilly",
-    "party":"Sinn Fein",
-    "address":{
-      "number":"Unit 1 The CoachYard",
-      "street": "Main Street",
-      "town":"Swords",
-      "city":"Co Dublin"
-      },
-    "phone": "01 840 4081",
-    "email": "louise.oreilly@oireachtas.ie"
+  "provinces": [
+    {"id": "1","prov":"Dublin"},
+    {"id": "2","prov":"Leinster"},
+    {"id": "3","prov":"Munster"},
+    {"id": "4","prov":"Ulster/Connaught"}
+  ],
+  "dublin":[
+  {"id": "1","dist":"Fingal"},
+  {"id": "2","dist":"Dublin Bay North"},
+  {"id": "3","dist":"Dublin Bay South"},
+  {"id": "4","dist":"Dublin Mid West"},
+  {"id": "5","dist":"Dublin Central"},
+  {"id": "6","dist":"Dublin North West"},
+  {"id": "7","dist":"Dublin South West"},
+  {"id": "8","dist":"Dublin West"},
+  {"id": "9","dist":"Rathdown"},
+  {"id": "10","dist":"Dun laoghaire"}
+  ]
 
-  },
-  {
-    "name":"Duncan Smith",
-    "party":"Labour Party",
-    "address":{
-      "number":"Leinster House",
-      "street": "Kildare Street",
-      "town":"Dublin 2",
-      "city":"Dublin"
-      },
-    "phone": "01 618 3791",
-    "email": "Duncan.smith@oireachtas.ie"
-  }
-  ]}
-
-]
+}
