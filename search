@@ -36,7 +36,7 @@
 		},
 		{
 			"id": 1,
-			"title":: "Sean Haughey",
+			"title": "Sean Haughey",
 			"party": "Fianna Fail"
 		},
 		{
@@ -52,7 +52,7 @@
 		{
 			"id": 4,
 			"title": "Aodhan O Riordain",
-		"party": "Labour Party"		
+		        "party": "Labour Party"		
 		},
    {
 			"id": 0,
