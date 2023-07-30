@@ -1,242 +1,949 @@
 [
-  {
-    "dist": "Province",
-    "title": "Dublin",
-    "districts": [
+    {
+      "dist": "Province",
+      "title": "Dublin",
+      "districts": [
+        {
+          "dist": "Fingal",
+          "id": "11",
+          "poliOne":  {
+              "dist": "fingal",
+              "id": 0,
+              "name": "Darragh O'Brien",
+              "party": "Fianna Fail",
+              "address_number": "Leinster House",
+              "address_street": "Kildare Street",
+              "address_town": "Dublin 2",
+              "address_city": "County Dublin",
+              "phone": "01 618 3802",
+              "email": "darragh.obrien@oireachtas.ie",
+              "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+              "isLandlord": false
+            },
+          "poliTwo":   {
+               "dist": "fingal",
+               "id": 1,
+               "name": "Joe O'Brien",
+               "party": "Green Party",
+               "address_number": "Leinster House",
+               "address_street": "Kildare Street",
+               "address_town": "Dublin 2",
+               "address_city": "County Dublin",
+               "phone": "01 618 4414",
+               "email": "joe.obrien@oireachtas.ie",
+               "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+               "isLandlord": false
+             },
+          "poliThree": {
+             "dist": "fingal",
+             "id": 2,
+             "name": "Alan Farrell",
+             "party": "Fine Gael",
+             "address_number": "First Floor",
+             "address_street": "6 Townyard Lane",
+             "address_town": "Malahide",
+             "address_city": "Co.Dublin",
+             "phone": "01 618 4008",
+             "email": "alan.farrell@oireachtas.ie",
+             "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+             "isLandlord": false
+           }
+         },
+        {
+           "dist": "Dublin Bay",
+           "id": "11",
+           "poliOne":  {
+               "dist": "fingal",
+               "id": 0,
+               "name": "Darragh O'Brien",
+               "party": "Fianna Fail",
+               "address_number": "Leinster House",
+               "address_street": "Kildare Street",
+               "address_town": "Dublin 2",
+               "address_city": "County Dublin",
+               "phone": "01 618 3802",
+               "email": "darragh.obrien@oireachtas.ie",
+               "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+               "isLandlord": false
+             },
+           "poliTwo":   {
+                "dist": "fingal",
+                "id": 1,
+                "name": "Joe O'Brien",
+                "party": "Green Party",
+                "address_number": "Leinster House",
+                "address_street": "Kildare Street",
+                "address_town": "Dublin 2",
+                "address_city": "County Dublin",
+                "phone": "01 618 4414",
+                "email": "joe.obrien@oireachtas.ie",
+                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                "isLandlord": false
+              },
+           "poliThree": {
+              "dist": "fingal",
+              "id": 2,
+              "name": "Alan Farrell",
+              "party": "Fine Gael",
+              "address_number": "First Floor",
+              "address_street": "6 Townyard Lane",
+              "address_town": "Malahide",
+              "address_city": "Co.Dublin",
+              "phone": "01 618 4008",
+              "email": "alan.farrell@oireachtas.ie",
+              "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+              "isLandlord": false
+            }
+          },
+        {
+            "dist": "Dublin Central",
+            "id": "11",
+            "poliOne":  {
+                "dist": "fingal",
+                "id": 0,
+                "name": "Darragh O'Brien",
+                "party": "Fianna Fail",
+                "address_number": "Leinster House",
+                "address_street": "Kildare Street",
+                "address_town": "Dublin 2",
+                "address_city": "County Dublin",
+                "phone": "01 618 3802",
+                "email": "darragh.obrien@oireachtas.ie",
+                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                "isLandlord": false
+              },
+            "poliTwo":   {
+                 "dist": "fingal",
+                 "id": 1,
+                 "name": "Joe O'Brien",
+                 "party": "Green Party",
+                 "address_number": "Leinster House",
+                 "address_street": "Kildare Street",
+                 "address_town": "Dublin 2",
+                 "address_city": "County Dublin",
+                 "phone": "01 618 4414",
+                 "email": "joe.obrien@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                 "isLandlord": false
+               },
+            "poliThree": {
+               "dist": "fingal",
+               "id": 2,
+               "name": "Alan Farrell",
+               "party": "Fine Gael",
+               "address_number": "First Floor",
+               "address_street": "6 Townyard Lane",
+               "address_town": "Malahide",
+               "address_city": "Co.Dublin",
+               "phone": "01 618 4008",
+               "email": "alan.farrell@oireachtas.ie",
+               "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+               "isLandlord": false
+             }
+           },
+        {
+             "dist": "Dublin South",
+             "id": "11",
+             "poliOne":  {
+                 "dist": "fingal",
+                 "id": 0,
+                 "name": "Darragh O'Brien",
+                 "party": "Fianna Fail",
+                 "address_number": "Leinster House",
+                 "address_street": "Kildare Street",
+                 "address_town": "Dublin 2",
+                 "address_city": "County Dublin",
+                 "phone": "01 618 3802",
+                 "email": "darragh.obrien@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                 "isLandlord": false
+               },
+             "poliTwo":   {
+                  "dist": "fingal",
+                  "id": 1,
+                  "name": "Joe O'Brien",
+                  "party": "Green Party",
+                  "address_number": "Leinster House",
+                  "address_street": "Kildare Street",
+                  "address_town": "Dublin 2",
+                  "address_city": "County Dublin",
+                  "phone": "01 618 4414",
+                  "email": "joe.obrien@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                  "isLandlord": false
+                },
+             "poliThree": {
+                "dist": "fingal",
+                "id": 2,
+                "name": "Alan Farrell",
+                "party": "Fine Gael",
+                "address_number": "First Floor",
+                "address_street": "6 Townyard Lane",
+                "address_town": "Malahide",
+                "address_city": "Co.Dublin",
+                "phone": "01 618 4008",
+                "email": "alan.farrell@oireachtas.ie",
+                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                "isLandlord": false
+              }
+            },
+        {
+              "dist": "Dublin West",
+              "id": "11",
+              "poliOne":  {
+                  "dist": "fingal",
+                  "id": 0,
+                  "name": "Darragh O'Brien",
+                  "party": "Fianna Fail",
+                  "address_number": "Leinster House",
+                  "address_street": "Kildare Street",
+                  "address_town": "Dublin 2",
+                  "address_city": "County Dublin",
+                  "phone": "01 618 3802",
+                  "email": "darragh.obrien@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                  "isLandlord": false
+                },
+              "poliTwo":   {
+                   "dist": "fingal",
+                   "id": 1,
+                   "name": "Joe O'Brien",
+                   "party": "Green Party",
+                   "address_number": "Leinster House",
+                   "address_street": "Kildare Street",
+                   "address_town": "Dublin 2",
+                   "address_city": "County Dublin",
+                   "phone": "01 618 4414",
+                   "email": "joe.obrien@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                   "isLandlord": false
+                 },
+              "poliThree": {
+                 "dist": "fingal",
+                 "id": 2,
+                 "name": "Alan Farrell",
+                 "party": "Fine Gael",
+                 "address_number": "First Floor",
+                 "address_street": "6 Townyard Lane",
+                 "address_town": "Malahide",
+                 "address_city": "Co.Dublin",
+                 "phone": "01 618 4008",
+                 "email": "alan.farrell@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                 "isLandlord": false
+               }
+             }
+          ]
+      },
       {
-        "dist": "Fingal",
-        "id": "11",
-        "candidates": [
+        "dist": "Province",
+        "title": "Munster",
+        "districts": [
           {
-            "dist": "fingal",
-            "id": 0,
-            "name": "Darragh O'Brien",
-            "party": "Fianna Fail",
-            "address_number": "Leinster House",
-            "address_street": "Kildare Street",
-            "address_town": "Dublin 2",
-            "address_city": "County Dublin",
-            "phone": "01 618 3802",
-            "email": "darragh.obrien@oireachtas.ie",
-            "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
-            "isLandlord": false
+            "dist": "Fingal",
+            "id": "11",
+            "poliOne":  {
+                "dist": "fingal",
+                "id": 0,
+                "name": "Darragh O'Brien",
+                "party": "Fianna Fail",
+                "address_number": "Leinster House",
+                "address_street": "Kildare Street",
+                "address_town": "Dublin 2",
+                "address_city": "County Dublin",
+                "phone": "01 618 3802",
+                "email": "darragh.obrien@oireachtas.ie",
+                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                "isLandlord": false
+              },
+            "poliTwo":   {
+                 "dist": "fingal",
+                 "id": 1,
+                 "name": "Joe O'Brien",
+                 "party": "Green Party",
+                 "address_number": "Leinster House",
+                 "address_street": "Kildare Street",
+                 "address_town": "Dublin 2",
+                 "address_city": "County Dublin",
+                 "phone": "01 618 4414",
+                 "email": "joe.obrien@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                 "isLandlord": false
+               },
+            "poliThree": {
+               "dist": "fingal",
+               "id": 2,
+               "name": "Alan Farrell",
+               "party": "Fine Gael",
+               "address_number": "First Floor",
+               "address_street": "6 Townyard Lane",
+               "address_town": "Malahide",
+               "address_city": "Co.Dublin",
+               "phone": "01 618 4008",
+               "email": "alan.farrell@oireachtas.ie",
+               "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+               "isLandlord": false
+             }
+           },
+          {
+             "dist": "Fingal",
+             "id": "11",
+             "poliOne":  {
+                 "dist": "fingal",
+                 "id": 0,
+                 "name": "Darragh O'Brien",
+                 "party": "Fianna Fail",
+                 "address_number": "Leinster House",
+                 "address_street": "Kildare Street",
+                 "address_town": "Dublin 2",
+                 "address_city": "County Dublin",
+                 "phone": "01 618 3802",
+                 "email": "darragh.obrien@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                 "isLandlord": false
+               },
+             "poliTwo":   {
+                  "dist": "fingal",
+                  "id": 1,
+                  "name": "Joe O'Brien",
+                  "party": "Green Party",
+                  "address_number": "Leinster House",
+                  "address_street": "Kildare Street",
+                  "address_town": "Dublin 2",
+                  "address_city": "County Dublin",
+                  "phone": "01 618 4414",
+                  "email": "joe.obrien@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                  "isLandlord": false
+                },
+             "poliThree": {
+                "dist": "fingal",
+                "id": 2,
+                "name": "Alan Farrell",
+                "party": "Fine Gael",
+                "address_number": "First Floor",
+                "address_street": "6 Townyard Lane",
+                "address_town": "Malahide",
+                "address_city": "Co.Dublin",
+                "phone": "01 618 4008",
+                "email": "alan.farrell@oireachtas.ie",
+                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                "isLandlord": false
+              }
+            },
+          {
+              "dist": "Fingal",
+              "id": "11",
+              "poliOne":  {
+                  "dist": "fingal",
+                  "id": 0,
+                  "name": "Darragh O'Brien",
+                  "party": "Fianna Fail",
+                  "address_number": "Leinster House",
+                  "address_street": "Kildare Street",
+                  "address_town": "Dublin 2",
+                  "address_city": "County Dublin",
+                  "phone": "01 618 3802",
+                  "email": "darragh.obrien@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                  "isLandlord": false
+                },
+              "poliTwo":   {
+                   "dist": "fingal",
+                   "id": 1,
+                   "name": "Joe O'Brien",
+                   "party": "Green Party",
+                   "address_number": "Leinster House",
+                   "address_street": "Kildare Street",
+                   "address_town": "Dublin 2",
+                   "address_city": "County Dublin",
+                   "phone": "01 618 4414",
+                   "email": "joe.obrien@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                   "isLandlord": false
+                 },
+              "poliThree": {
+                 "dist": "fingal",
+                 "id": 2,
+                 "name": "Alan Farrell",
+                 "party": "Fine Gael",
+                 "address_number": "First Floor",
+                 "address_street": "6 Townyard Lane",
+                 "address_town": "Malahide",
+                 "address_city": "Co.Dublin",
+                 "phone": "01 618 4008",
+                 "email": "alan.farrell@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                 "isLandlord": false
+               }
+             },
+          {
+               "dist": "Fingal",
+               "id": "11",
+               "poliOne":  {
+                   "dist": "fingal",
+                   "id": 0,
+                   "name": "Darragh O'Brien",
+                   "party": "Fianna Fail",
+                   "address_number": "Leinster House",
+                   "address_street": "Kildare Street",
+                   "address_town": "Dublin 2",
+                   "address_city": "County Dublin",
+                   "phone": "01 618 3802",
+                   "email": "darragh.obrien@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                   "isLandlord": false
+                 },
+               "poliTwo":   {
+                    "dist": "fingal",
+                    "id": 1,
+                    "name": "Joe O'Brien",
+                    "party": "Green Party",
+                    "address_number": "Leinster House",
+                    "address_street": "Kildare Street",
+                    "address_town": "Dublin 2",
+                    "address_city": "County Dublin",
+                    "phone": "01 618 4414",
+                    "email": "joe.obrien@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                    "isLandlord": false
+                  },
+               "poliThree": {
+                  "dist": "fingal",
+                  "id": 2,
+                  "name": "Alan Farrell",
+                  "party": "Fine Gael",
+                  "address_number": "First Floor",
+                  "address_street": "6 Townyard Lane",
+                  "address_town": "Malahide",
+                  "address_city": "Co.Dublin",
+                  "phone": "01 618 4008",
+                  "email": "alan.farrell@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                  "isLandlord": false
+                }
+              },
+          {
+                "dist": "Fingal",
+                "id": "11",
+                "poliOne":  {
+                    "dist": "fingal",
+                    "id": 0,
+                    "name": "Darragh O'Brien",
+                    "party": "Fianna Fail",
+                    "address_number": "Leinster House",
+                    "address_street": "Kildare Street",
+                    "address_town": "Dublin 2",
+                    "address_city": "County Dublin",
+                    "phone": "01 618 3802",
+                    "email": "darragh.obrien@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                    "isLandlord": false
+                  },
+                "poliTwo":   {
+                     "dist": "fingal",
+                     "id": 1,
+                     "name": "Joe O'Brien",
+                     "party": "Green Party",
+                     "address_number": "Leinster House",
+                     "address_street": "Kildare Street",
+                     "address_town": "Dublin 2",
+                     "address_city": "County Dublin",
+                     "phone": "01 618 4414",
+                     "email": "joe.obrien@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                     "isLandlord": false
+                   },
+                "poliThree": {
+                   "dist": "fingal",
+                   "id": 2,
+                   "name": "Alan Farrell",
+                   "party": "Fine Gael",
+                   "address_number": "First Floor",
+                   "address_street": "6 Townyard Lane",
+                   "address_town": "Malahide",
+                   "address_city": "Co.Dublin",
+                   "phone": "01 618 4008",
+                   "email": "alan.farrell@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                   "isLandlord": false
+                 }
+               }
+            ]
+        },
+        {
+          "dist": "Province",
+          "title": "Leinster",
+          "districts": [
+            {
+              "dist": "Fingal",
+              "id": "11",
+              "poliOne":  {
+                  "dist": "fingal",
+                  "id": 0,
+                  "name": "Darragh O'Brien",
+                  "party": "Fianna Fail",
+                  "address_number": "Leinster House",
+                  "address_street": "Kildare Street",
+                  "address_town": "Dublin 2",
+                  "address_city": "County Dublin",
+                  "phone": "01 618 3802",
+                  "email": "darragh.obrien@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                  "isLandlord": false
+                },
+              "poliTwo":   {
+                   "dist": "fingal",
+                   "id": 1,
+                   "name": "Joe O'Brien",
+                   "party": "Green Party",
+                   "address_number": "Leinster House",
+                   "address_street": "Kildare Street",
+                   "address_town": "Dublin 2",
+                   "address_city": "County Dublin",
+                   "phone": "01 618 4414",
+                   "email": "joe.obrien@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                   "isLandlord": false
+                 },
+              "poliThree": {
+                 "dist": "fingal",
+                 "id": 2,
+                 "name": "Alan Farrell",
+                 "party": "Fine Gael",
+                 "address_number": "First Floor",
+                 "address_street": "6 Townyard Lane",
+                 "address_town": "Malahide",
+                 "address_city": "Co.Dublin",
+                 "phone": "01 618 4008",
+                 "email": "alan.farrell@oireachtas.ie",
+                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                 "isLandlord": false
+               }
+             },
+            {
+               "dist": "Fingal",
+               "id": "11",
+               "poliOne":  {
+                   "dist": "fingal",
+                   "id": 0,
+                   "name": "Darragh O'Brien",
+                   "party": "Fianna Fail",
+                   "address_number": "Leinster House",
+                   "address_street": "Kildare Street",
+                   "address_town": "Dublin 2",
+                   "address_city": "County Dublin",
+                   "phone": "01 618 3802",
+                   "email": "darragh.obrien@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                   "isLandlord": false
+                 },
+               "poliTwo":   {
+                    "dist": "fingal",
+                    "id": 1,
+                    "name": "Joe O'Brien",
+                    "party": "Green Party",
+                    "address_number": "Leinster House",
+                    "address_street": "Kildare Street",
+                    "address_town": "Dublin 2",
+                    "address_city": "County Dublin",
+                    "phone": "01 618 4414",
+                    "email": "joe.obrien@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                    "isLandlord": false
+                  },
+               "poliThree": {
+                  "dist": "fingal",
+                  "id": 2,
+                  "name": "Alan Farrell",
+                  "party": "Fine Gael",
+                  "address_number": "First Floor",
+                  "address_street": "6 Townyard Lane",
+                  "address_town": "Malahide",
+                  "address_city": "Co.Dublin",
+                  "phone": "01 618 4008",
+                  "email": "alan.farrell@oireachtas.ie",
+                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                  "isLandlord": false
+                }
+              },
+            {
+                "dist": "Fingal",
+                "id": "11",
+                "poliOne":  {
+                    "dist": "fingal",
+                    "id": 0,
+                    "name": "Darragh O'Brien",
+                    "party": "Fianna Fail",
+                    "address_number": "Leinster House",
+                    "address_street": "Kildare Street",
+                    "address_town": "Dublin 2",
+                    "address_city": "County Dublin",
+                    "phone": "01 618 3802",
+                    "email": "darragh.obrien@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                    "isLandlord": false
+                  },
+                "poliTwo":   {
+                     "dist": "fingal",
+                     "id": 1,
+                     "name": "Joe O'Brien",
+                     "party": "Green Party",
+                     "address_number": "Leinster House",
+                     "address_street": "Kildare Street",
+                     "address_town": "Dublin 2",
+                     "address_city": "County Dublin",
+                     "phone": "01 618 4414",
+                     "email": "joe.obrien@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                     "isLandlord": false
+                   },
+                "poliThree": {
+                   "dist": "fingal",
+                   "id": 2,
+                   "name": "Alan Farrell",
+                   "party": "Fine Gael",
+                   "address_number": "First Floor",
+                   "address_street": "6 Townyard Lane",
+                   "address_town": "Malahide",
+                   "address_city": "Co.Dublin",
+                   "phone": "01 618 4008",
+                   "email": "alan.farrell@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                   "isLandlord": false
+                 }
+               },
+            {
+                 "dist": "Fingal",
+                 "id": "11",
+                 "poliOne":  {
+                     "dist": "fingal",
+                     "id": 0,
+                     "name": "Darragh O'Brien",
+                     "party": "Fianna Fail",
+                     "address_number": "Leinster House",
+                     "address_street": "Kildare Street",
+                     "address_town": "Dublin 2",
+                     "address_city": "County Dublin",
+                     "phone": "01 618 3802",
+                     "email": "darragh.obrien@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                     "isLandlord": false
+                   },
+                 "poliTwo":   {
+                      "dist": "fingal",
+                      "id": 1,
+                      "name": "Joe O'Brien",
+                      "party": "Green Party",
+                      "address_number": "Leinster House",
+                      "address_street": "Kildare Street",
+                      "address_town": "Dublin 2",
+                      "address_city": "County Dublin",
+                      "phone": "01 618 4414",
+                      "email": "joe.obrien@oireachtas.ie",
+                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                      "isLandlord": false
+                    },
+                 "poliThree": {
+                    "dist": "fingal",
+                    "id": 2,
+                    "name": "Alan Farrell",
+                    "party": "Fine Gael",
+                    "address_number": "First Floor",
+                    "address_street": "6 Townyard Lane",
+                    "address_town": "Malahide",
+                    "address_city": "Co.Dublin",
+                    "phone": "01 618 4008",
+                    "email": "alan.farrell@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                    "isLandlord": false
+                  }
+                },
+            {
+                  "dist": "Fingal",
+                  "id": "11",
+                  "poliOne":  {
+                      "dist": "fingal",
+                      "id": 0,
+                      "name": "Darragh O'Brien",
+                      "party": "Fianna Fail",
+                      "address_number": "Leinster House",
+                      "address_street": "Kildare Street",
+                      "address_town": "Dublin 2",
+                      "address_city": "County Dublin",
+                      "phone": "01 618 3802",
+                      "email": "darragh.obrien@oireachtas.ie",
+                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                      "isLandlord": false
+                    },
+                  "poliTwo":   {
+                       "dist": "fingal",
+                       "id": 1,
+                       "name": "Joe O'Brien",
+                       "party": "Green Party",
+                       "address_number": "Leinster House",
+                       "address_street": "Kildare Street",
+                       "address_town": "Dublin 2",
+                       "address_city": "County Dublin",
+                       "phone": "01 618 4414",
+                       "email": "joe.obrien@oireachtas.ie",
+                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                       "isLandlord": false
+                     },
+                  "poliThree": {
+                     "dist": "fingal",
+                     "id": 2,
+                     "name": "Alan Farrell",
+                     "party": "Fine Gael",
+                     "address_number": "First Floor",
+                     "address_street": "6 Townyard Lane",
+                     "address_town": "Malahide",
+                     "address_city": "Co.Dublin",
+                     "phone": "01 618 4008",
+                     "email": "alan.farrell@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                     "isLandlord": false
+                   }
+                 }
+              ]
           },
           {
-            "dist": "fingal",
-            "id": 1,
-            "name": "Joe O'Brien",
-            "party": "Green Party",
-            "address_number": "Leinster House",
-            "address_street": "Kildare Street",
-            "address_town": "Dublin 2",
-            "address_city": "County Dublin",
-            "phone": "01 618 4414",
-            "email": "joe.obrien@oireachtas.ie",
-            "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
-            "isLandlord": false
-          },
-          {
-            "dist": "fingal",
-            "id": 2,
-            "name": "Alan Farrell",
-            "party": "Fine Gael",
-            "address_number": "First Floor",
-            "address_street": "6 Townyard Lane",
-            "address_town": "Malahide",
-            "address_city": "Co.Dublin",
-            "phone": "01 618 4008",
-            "email": "alan.farrell@oireachtas.ie",
-            "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
-            "isLandlord": false
-          }
-        ]
-      },
-      {
-        "title": "Dublin Bay North",
-        "id": "12"
-      },
-      {
-        "title": "Dublin Bay South",
-        "id": "13"
-      },
-      {
-        "title": "Dublin Mid-West",
-        "id": "14"
-      },
-      {
-        "title": "Dublin Central",
-        "id": "15"
-      },
-      {
-        "title": "Dublin North-West",
-        "id": "16"
-      },
-      {
-        "title": "Rathdown",
-        "id": "17"
-      },
-      {
-        "title": "Dublin South Central",
-        "id": "18"
-      },
-      {
-        "title": "Dublin South-West",
-        "id": "19"
-      },
-      {
-        "title": "Dublin West",
-        "id": "191"
-      },
-      {
-        "title": "Dun Laoghaire",
-        "id": "192"
-      }
-    ]
-  },
-  {
-    "dist": "Province",
-    "title": "Leinster",
-    "id": "2",
-    "districts": [
-      {
-        "dist": "Carlow-Kilkenny",
-        "id": "21"
-      },
-      {
-        "title": "Kildare North",
-        "id": "22"
-      },
-      {
-        "title": "Kildare South",
-        "id": "23"
-      },
-      {
-        "title": "Laois-Offaly",
-        "id": "24"
-      },
-      {
-        "title": "Louth",
-        "id": "25"
-      },
-      {
-        "title": "Meath East",
-        "id": "26"
-      },
-      {
-        "title": "Meath West",
-        "id": "27"
-      },
-      {
-        "title": "Wexford",
-        "id": "28"
-      },
-      {
-        "title": "Dublin South-West",
-        "id": "29"
-      },
-      {
-        "title": "Wicklow",
-        "id": "291"
-      }
-    ]
-  },
-  {
-    "dist": "Province",
-    "title": "Munster",
-    "id": "3",
-    "districts": [
-      {
-        "dist": "Munster",
-        "title": "Clare",
-        "id": "31"
-      },
-      {
-        "dist": "Munster",
-        "title": "Cork East",
-        "id": "32"
-      },
-      {
-        "dist": "Munster",
-        "title": "Cork North-Central",
-        "id": "33"
-      },
-      {
-        "dist": "Munster",
-        "title": "Cork North-West",
-        "id": "34"
-      },
-      {
-        "dist": "Munster",
-        "title": "Cork South-Central",
-        "id": "35"
-      },
-      {
-        "dist": "Munster",
-        "title": "Cork South-West",
-        "id": "36"
-      },
-      {
-        "dist": "Munster",
-        "title": "Kerry",
-        "id": "37"
-      },
-      {
-        "dist": "Munster",
-        "title": "Limerick City",
-        "id": "38"
-      },
-      {
-        "dist": "Munster",
-        "title": "Limerick County",
-        "id": "39"
-      },
-      {
-        "dist": "Munster",
-        "title": "Waterford",
-        "id": "310"
-      }
-    ]
-  },
-  {
-    "dist": "Province",
-    "title": "Ulster-Connaught",
-    "id": "4",
-    "districts": [
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Cavan-Monaghan",
-        "id": "41"
-      },
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Donegal",
-        "id": "42"
-      },
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Galway East",
-        "id": "43"
-      },
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Galway West",
-        "id": "44"
-      },
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Mayo",
-        "id": "45"
-      },
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Roscommon-Galway",
-        "id": "46"
-      },
-      {
-        "dist": "Ulster/Connaught",
-        "title": "Sligo-Leitrim",
-        "id": "47"
-      }
-    ]
-  }
-]
+            "dist": "Province",
+            "title": "Ulster",
+            "districts": [
+              {
+                "dist": "Fingal",
+                "id": "11",
+                "poliOne":  {
+                    "dist": "fingal",
+                    "id": 0,
+                    "name": "Darragh O'Brien",
+                    "party": "Fianna Fail",
+                    "address_number": "Leinster House",
+                    "address_street": "Kildare Street",
+                    "address_town": "Dublin 2",
+                    "address_city": "County Dublin",
+                    "phone": "01 618 3802",
+                    "email": "darragh.obrien@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                    "isLandlord": false
+                  },
+                "poliTwo":   {
+                     "dist": "fingal",
+                     "id": 1,
+                     "name": "Joe O'Brien",
+                     "party": "Green Party",
+                     "address_number": "Leinster House",
+                     "address_street": "Kildare Street",
+                     "address_town": "Dublin 2",
+                     "address_city": "County Dublin",
+                     "phone": "01 618 4414",
+                     "email": "joe.obrien@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                     "isLandlord": false
+                   },
+                "poliThree": {
+                   "dist": "fingal",
+                   "id": 2,
+                   "name": "Alan Farrell",
+                   "party": "Fine Gael",
+                   "address_number": "First Floor",
+                   "address_street": "6 Townyard Lane",
+                   "address_town": "Malahide",
+                   "address_city": "Co.Dublin",
+                   "phone": "01 618 4008",
+                   "email": "alan.farrell@oireachtas.ie",
+                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                   "isLandlord": false
+                 }
+               },
+              {
+                 "dist": "Fingal",
+                 "id": "11",
+                 "poliOne":  {
+                     "dist": "fingal",
+                     "id": 0,
+                     "name": "Darragh O'Brien",
+                     "party": "Fianna Fail",
+                     "address_number": "Leinster House",
+                     "address_street": "Kildare Street",
+                     "address_town": "Dublin 2",
+                     "address_city": "County Dublin",
+                     "phone": "01 618 3802",
+                     "email": "darragh.obrien@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                     "isLandlord": false
+                   },
+                 "poliTwo":   {
+                      "dist": "fingal",
+                      "id": 1,
+                      "name": "Joe O'Brien",
+                      "party": "Green Party",
+                      "address_number": "Leinster House",
+                      "address_street": "Kildare Street",
+                      "address_town": "Dublin 2",
+                      "address_city": "County Dublin",
+                      "phone": "01 618 4414",
+                      "email": "joe.obrien@oireachtas.ie",
+                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                      "isLandlord": false
+                    },
+                 "poliThree": {
+                    "dist": "fingal",
+                    "id": 2,
+                    "name": "Alan Farrell",
+                    "party": "Fine Gael",
+                    "address_number": "First Floor",
+                    "address_street": "6 Townyard Lane",
+                    "address_town": "Malahide",
+                    "address_city": "Co.Dublin",
+                    "phone": "01 618 4008",
+                    "email": "alan.farrell@oireachtas.ie",
+                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                    "isLandlord": false
+                  }
+                },
+              {
+                  "dist": "Fingal",
+                  "id": "11",
+                  "poliOne":  {
+                      "dist": "fingal",
+                      "id": 0,
+                      "name": "Darragh O'Brien",
+                      "party": "Fianna Fail",
+                      "address_number": "Leinster House",
+                      "address_street": "Kildare Street",
+                      "address_town": "Dublin 2",
+                      "address_city": "County Dublin",
+                      "phone": "01 618 3802",
+                      "email": "darragh.obrien@oireachtas.ie",
+                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                      "isLandlord": false
+                    },
+                  "poliTwo":   {
+                       "dist": "fingal",
+                       "id": 1,
+                       "name": "Joe O'Brien",
+                       "party": "Green Party",
+                       "address_number": "Leinster House",
+                       "address_street": "Kildare Street",
+                       "address_town": "Dublin 2",
+                       "address_city": "County Dublin",
+                       "phone": "01 618 4414",
+                       "email": "joe.obrien@oireachtas.ie",
+                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                       "isLandlord": false
+                     },
+                  "poliThree": {
+                     "dist": "fingal",
+                     "id": 2,
+                     "name": "Alan Farrell",
+                     "party": "Fine Gael",
+                     "address_number": "First Floor",
+                     "address_street": "6 Townyard Lane",
+                     "address_town": "Malahide",
+                     "address_city": "Co.Dublin",
+                     "phone": "01 618 4008",
+                     "email": "alan.farrell@oireachtas.ie",
+                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                     "isLandlord": false
+                   }
+                 },
+              {
+                   "dist": "Fingal",
+                   "id": "11",
+                   "poliOne":  {
+                       "dist": "fingal",
+                       "id": 0,
+                       "name": "Darragh O'Brien",
+                       "party": "Fianna Fail",
+                       "address_number": "Leinster House",
+                       "address_street": "Kildare Street",
+                       "address_town": "Dublin 2",
+                       "address_city": "County Dublin",
+                       "phone": "01 618 3802",
+                       "email": "darragh.obrien@oireachtas.ie",
+                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                       "isLandlord": false
+                     },
+                   "poliTwo":   {
+                        "dist": "fingal",
+                        "id": 1,
+                        "name": "Joe O'Brien",
+                        "party": "Green Party",
+                        "address_number": "Leinster House",
+                        "address_street": "Kildare Street",
+                        "address_town": "Dublin 2",
+                        "address_city": "County Dublin",
+                        "phone": "01 618 4414",
+                        "email": "joe.obrien@oireachtas.ie",
+                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                        "isLandlord": false
+                      },
+                   "poliThree": {
+                      "dist": "fingal",
+                      "id": 2,
+                      "name": "Alan Farrell",
+                      "party": "Fine Gael",
+                      "address_number": "First Floor",
+                      "address_street": "6 Townyard Lane",
+                      "address_town": "Malahide",
+                      "address_city": "Co.Dublin",
+                      "phone": "01 618 4008",
+                      "email": "alan.farrell@oireachtas.ie",
+                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                      "isLandlord": false
+                    }
+                  },
+              {
+                    "dist": "Fingal",
+                    "id": "11",
+                    "poliOne":  {
+                        "dist": "fingal",
+                        "id": 0,
+                        "name": "Darragh O'Brien",
+                        "party": "Fianna Fail",
+                        "address_number": "Leinster House",
+                        "address_street": "Kildare Street",
+                        "address_town": "Dublin 2",
+                        "address_city": "County Dublin",
+                        "phone": "01 618 3802",
+                        "email": "darragh.obrien@oireachtas.ie",
+                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
+                        "isLandlord": false
+                      },
+                    "poliTwo":   {
+                         "dist": "fingal",
+                         "id": 1,
+                         "name": "Joe O'Brien",
+                         "party": "Green Party",
+                         "address_number": "Leinster House",
+                         "address_street": "Kildare Street",
+                         "address_town": "Dublin 2",
+                         "address_city": "County Dublin",
+                         "phone": "01 618 4414",
+                         "email": "joe.obrien@oireachtas.ie",
+                         "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                         "isLandlord": false
+                       },
+                    "poliThree": {
+                       "dist": "fingal",
+                       "id": 2,
+                       "name": "Alan Farrell",
+                       "party": "Fine Gael",
+                       "address_number": "First Floor",
+                       "address_street": "6 Townyard Lane",
+                       "address_town": "Malahide",
+                       "address_city": "Co.Dublin",
+                       "phone": "01 618 4008",
+                       "email": "alan.farrell@oireachtas.ie",
+                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09/image/thumb",
+                       "isLandlord": false
+                     }
+                   }
+                ]
+            }
+            
+
+       
+  ]    
