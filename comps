@@ -6,7 +6,7 @@
         {
           "dist": "Fingal",
           "id": "11",
-          "poliOne":  {
+          "poli":  {
               "dist": "fingal",
               "id": 0,
               "name": "Darragh O'Brien",
@@ -20,7 +20,7 @@
               "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
               "isLandlord": false
             },
-          "poliTwo":   {
+          "poli":   {
                "dist": "fingal",
                "id": 1,
                "name": "Joe O'Brien",
@@ -34,7 +34,7 @@
                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                "isLandlord": false
              },
-          "poliThree": {
+          "poli": {
              "dist": "fingal",
              "id": 2,
              "name": "Alan Farrell",
@@ -52,7 +52,7 @@
         {
            "dist": "Dublin Bay",
            "id": "11",
-           "poliOne":  {
+           "poli":  {
                "dist": "fingal",
                "id": 0,
                "name": "Darragh O'Brien",
@@ -66,7 +66,7 @@
                "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                "isLandlord": false
              },
-           "poliTwo":   {
+           "poli":   {
                 "dist": "fingal",
                 "id": 1,
                 "name": "Joe O'Brien",
@@ -80,7 +80,7 @@
                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                 "isLandlord": false
               },
-           "poliThree": {
+           "poli": {
               "dist": "fingal",
               "id": 2,
               "name": "Alan Farrell",
@@ -98,7 +98,7 @@
         {
             "dist": "Dublin Central",
             "id": "11",
-            "poliOne":  {
+            "poli":  {
                 "dist": "fingal",
                 "id": 0,
                 "name": "Darragh O'Brien",
@@ -112,7 +112,7 @@
                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                 "isLandlord": false
               },
-            "poliTwo":   {
+            "poli":   {
                  "dist": "fingal",
                  "id": 1,
                  "name": "Joe O'Brien",
@@ -126,7 +126,7 @@
                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                  "isLandlord": false
                },
-            "poliThree": {
+            "poli": {
                "dist": "fingal",
                "id": 2,
                "name": "Alan Farrell",
@@ -144,7 +144,7 @@
         {
              "dist": "Dublin South",
              "id": "11",
-             "poliOne":  {
+             "poli":  {
                  "dist": "fingal",
                  "id": 0,
                  "name": "Darragh O'Brien",
@@ -158,7 +158,7 @@
                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                  "isLandlord": false
                },
-             "poliTwo":   {
+             "poli":   {
                   "dist": "fingal",
                   "id": 1,
                   "name": "Joe O'Brien",
@@ -172,7 +172,7 @@
                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                   "isLandlord": false
                 },
-             "poliThree": {
+             "poli": {
                 "dist": "fingal",
                 "id": 2,
                 "name": "Alan Farrell",
@@ -190,7 +190,7 @@
         {
               "dist": "Dublin West",
               "id": "11",
-              "poliOne":  {
+              "poli":  {
                   "dist": "fingal",
                   "id": 0,
                   "name": "Darragh O'Brien",
@@ -204,7 +204,7 @@
                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                   "isLandlord": false
                 },
-              "poliTwo":   {
+              "poli":   {
                    "dist": "fingal",
                    "id": 1,
                    "name": "Joe O'Brien",
@@ -218,7 +218,7 @@
                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                    "isLandlord": false
                  },
-              "poliThree": {
+              "poli": {
                  "dist": "fingal",
                  "id": 2,
                  "name": "Alan Farrell",
@@ -242,7 +242,7 @@
           {
             "dist": "Fingal",
             "id": "11",
-            "poliOne":  {
+            "poli":  {
                 "dist": "fingal",
                 "id": 0,
                 "name": "Darragh O'Brien",
@@ -256,7 +256,7 @@
                 "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                 "isLandlord": false
               },
-            "poliTwo":   {
+            "poli":   {
                  "dist": "fingal",
                  "id": 1,
                  "name": "Joe O'Brien",
@@ -270,7 +270,7 @@
                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                  "isLandlord": false
                },
-            "poliThree": {
+            "poli": {
                "dist": "fingal",
                "id": 2,
                "name": "Alan Farrell",
@@ -288,7 +288,7 @@
           {
              "dist": "Fingal",
              "id": "11",
-             "poliOne":  {
+             "poli":  {
                  "dist": "fingal",
                  "id": 0,
                  "name": "Darragh O'Brien",
@@ -302,7 +302,7 @@
                  "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                  "isLandlord": false
                },
-             "poliTwo":   {
+             "poli":   {
                   "dist": "fingal",
                   "id": 1,
                   "name": "Joe O'Brien",
@@ -316,7 +316,7 @@
                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                   "isLandlord": false
                 },
-             "poliThree": {
+             "poli": {
                 "dist": "fingal",
                 "id": 2,
                 "name": "Alan Farrell",
@@ -334,7 +334,7 @@
           {
               "dist": "Fingal",
               "id": "11",
-              "poliOne":  {
+              "poli":  {
                   "dist": "fingal",
                   "id": 0,
                   "name": "Darragh O'Brien",
@@ -348,7 +348,7 @@
                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                   "isLandlord": false
                 },
-              "poliTwo":   {
+              "poli":   {
                    "dist": "fingal",
                    "id": 1,
                    "name": "Joe O'Brien",
@@ -362,7 +362,7 @@
                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                    "isLandlord": false
                  },
-              "poliThree": {
+              "poli": {
                  "dist": "fingal",
                  "id": 2,
                  "name": "Alan Farrell",
@@ -380,7 +380,7 @@
           {
                "dist": "Fingal",
                "id": "11",
-               "poliOne":  {
+               "poli":  {
                    "dist": "fingal",
                    "id": 0,
                    "name": "Darragh O'Brien",
@@ -394,7 +394,7 @@
                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                    "isLandlord": false
                  },
-               "poliTwo":   {
+               "poli":   {
                     "dist": "fingal",
                     "id": 1,
                     "name": "Joe O'Brien",
@@ -408,7 +408,7 @@
                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                     "isLandlord": false
                   },
-               "poliThree": {
+               "poli": {
                   "dist": "fingal",
                   "id": 2,
                   "name": "Alan Farrell",
@@ -426,7 +426,7 @@
           {
                 "dist": "Fingal",
                 "id": "11",
-                "poliOne":  {
+                "poli":  {
                     "dist": "fingal",
                     "id": 0,
                     "name": "Darragh O'Brien",
@@ -440,7 +440,7 @@
                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                     "isLandlord": false
                   },
-                "poliTwo":   {
+                "poli":   {
                      "dist": "fingal",
                      "id": 1,
                      "name": "Joe O'Brien",
@@ -454,7 +454,7 @@
                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                      "isLandlord": false
                    },
-                "poliThree": {
+                "poli": {
                    "dist": "fingal",
                    "id": 2,
                    "name": "Alan Farrell",
@@ -478,7 +478,7 @@
             {
               "dist": "Fingal",
               "id": "11",
-              "poliOne":  {
+              "poli":  {
                   "dist": "fingal",
                   "id": 0,
                   "name": "Darragh O'Brien",
@@ -492,7 +492,7 @@
                   "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                   "isLandlord": false
                 },
-              "poliTwo":   {
+              "poli":   {
                    "dist": "fingal",
                    "id": 1,
                    "name": "Joe O'Brien",
@@ -506,7 +506,7 @@
                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                    "isLandlord": false
                  },
-              "poliThree": {
+              "poli": {
                  "dist": "fingal",
                  "id": 2,
                  "name": "Alan Farrell",
@@ -524,7 +524,7 @@
             {
                "dist": "Fingal",
                "id": "11",
-               "poliOne":  {
+               "poli":  {
                    "dist": "fingal",
                    "id": 0,
                    "name": "Darragh O'Brien",
@@ -538,7 +538,7 @@
                    "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                    "isLandlord": false
                  },
-               "poliTwo":   {
+               "poli":   {
                     "dist": "fingal",
                     "id": 1,
                     "name": "Joe O'Brien",
@@ -552,7 +552,7 @@
                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                     "isLandlord": false
                   },
-               "poliThree": {
+               "poli": {
                   "dist": "fingal",
                   "id": 2,
                   "name": "Alan Farrell",
@@ -570,7 +570,7 @@
             {
                 "dist": "Fingal",
                 "id": "11",
-                "poliOne":  {
+                "poli":  {
                     "dist": "fingal",
                     "id": 0,
                     "name": "Darragh O'Brien",
@@ -584,7 +584,7 @@
                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                     "isLandlord": false
                   },
-                "poliTwo":   {
+                "poli":   {
                      "dist": "fingal",
                      "id": 1,
                      "name": "Joe O'Brien",
@@ -598,7 +598,7 @@
                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                      "isLandlord": false
                    },
-                "poliThree": {
+                "poli": {
                    "dist": "fingal",
                    "id": 2,
                    "name": "Alan Farrell",
@@ -616,7 +616,7 @@
             {
                  "dist": "Fingal",
                  "id": "11",
-                 "poliOne":  {
+                 "poli":  {
                      "dist": "fingal",
                      "id": 0,
                      "name": "Darragh O'Brien",
@@ -630,7 +630,7 @@
                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                      "isLandlord": false
                    },
-                 "poliTwo":   {
+                 "poli":   {
                       "dist": "fingal",
                       "id": 1,
                       "name": "Joe O'Brien",
@@ -644,7 +644,7 @@
                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                       "isLandlord": false
                     },
-                 "poliThree": {
+                 "poli": {
                     "dist": "fingal",
                     "id": 2,
                     "name": "Alan Farrell",
@@ -662,7 +662,7 @@
             {
                   "dist": "Fingal",
                   "id": "11",
-                  "poliOne":  {
+                  "poli":  {
                       "dist": "fingal",
                       "id": 0,
                       "name": "Darragh O'Brien",
@@ -676,7 +676,7 @@
                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                       "isLandlord": false
                     },
-                  "poliTwo":   {
+                  "poli":   {
                        "dist": "fingal",
                        "id": 1,
                        "name": "Joe O'Brien",
@@ -690,7 +690,7 @@
                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                        "isLandlord": false
                      },
-                  "poliThree": {
+                  "poli": {
                      "dist": "fingal",
                      "id": 2,
                      "name": "Alan Farrell",
@@ -714,7 +714,7 @@
               {
                 "dist": "Fingal",
                 "id": "11",
-                "poliOne":  {
+                "poli":  {
                     "dist": "fingal",
                     "id": 0,
                     "name": "Darragh O'Brien",
@@ -728,7 +728,7 @@
                     "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                     "isLandlord": false
                   },
-                "poliTwo":   {
+                "poliT":   {
                      "dist": "fingal",
                      "id": 1,
                      "name": "Joe O'Brien",
@@ -742,7 +742,7 @@
                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                      "isLandlord": false
                    },
-                "poliThree": {
+                "poli": {
                    "dist": "fingal",
                    "id": 2,
                    "name": "Alan Farrell",
@@ -760,7 +760,7 @@
               {
                  "dist": "Fingal",
                  "id": "11",
-                 "poliOne":  {
+                 "poli":  {
                      "dist": "fingal",
                      "id": 0,
                      "name": "Darragh O'Brien",
@@ -774,7 +774,7 @@
                      "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                      "isLandlord": false
                    },
-                 "poliTwo":   {
+                 "poli":   {
                       "dist": "fingal",
                       "id": 1,
                       "name": "Joe O'Brien",
@@ -788,7 +788,7 @@
                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                       "isLandlord": false
                     },
-                 "poliThree": {
+                 "poli": {
                     "dist": "fingal",
                     "id": 2,
                     "name": "Alan Farrell",
@@ -806,7 +806,7 @@
               {
                   "dist": "Fingal",
                   "id": "11",
-                  "poliOne":  {
+                  "poli":  {
                       "dist": "fingal",
                       "id": 0,
                       "name": "Darragh O'Brien",
@@ -820,7 +820,7 @@
                       "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                       "isLandlord": false
                     },
-                  "poliTwo":   {
+                  "poli":   {
                        "dist": "fingal",
                        "id": 1,
                        "name": "Joe O'Brien",
@@ -834,7 +834,7 @@
                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                        "isLandlord": false
                      },
-                  "poliThree": {
+                  "poli": {
                      "dist": "fingal",
                      "id": 2,
                      "name": "Alan Farrell",
@@ -852,7 +852,7 @@
               {
                    "dist": "Fingal",
                    "id": "11",
-                   "poliOne":  {
+                   "poli":  {
                        "dist": "fingal",
                        "id": 0,
                        "name": "Darragh O'Brien",
@@ -866,7 +866,7 @@
                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                        "isLandlord": false
                      },
-                   "poliTwo":   {
+                   "poli":   {
                         "dist": "fingal",
                         "id": 1,
                         "name": "Joe O'Brien",
@@ -880,7 +880,7 @@
                         "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                         "isLandlord": false
                       },
-                   "poliThree": {
+                   "poli": {
                       "dist": "fingal",
                       "id": 2,
                       "name": "Alan Farrell",
@@ -898,7 +898,7 @@
               {
                     "dist": "Fingal",
                     "id": "11",
-                    "poliOne":  {
+                    "poli":  {
                         "dist": "fingal",
                         "id": 0,
                         "name": "Darragh O'Brien",
@@ -912,7 +912,7 @@
                         "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
                         "isLandlord": false
                       },
-                    "poliTwo":   {
+                    "poli":   {
                          "dist": "fingal",
                          "id": 1,
                          "name": "Joe O'Brien",
@@ -926,7 +926,7 @@
                          "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
                          "isLandlord": false
                        },
-                    "poliThree": {
+                    "poli": {
                        "dist": "fingal",
                        "id": 2,
                        "name": "Alan Farrell",
