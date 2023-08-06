@@ -1,139 +1,140 @@
 [
-{ "issue":"Climate Change", 
-   "id":"1",
+   { "issue":"Climate Change", 
+      "id":"m1",
+      "bills":
+      [
+       {"bill":"34 of 2023", 
+       "id":"m11", 
+      "title": "Rent Reduction Bill", 
+      "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+      "status":  false,
+      "votes":[""]
+      },
+      {"bill":"   ", 
+      "id":"m11", 
+      "title": "   ", 
+      "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+      "status":   false,
+      "votes":[""]
+      },
+      {"bill":"   ", 
+      "id":"m12", 
+      "title": "   ", 
+      "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+      "status":   false,
+      "votes":[""]
+      }
+      ]
+   },
+   { "issue":"Education", 
+   "id":"m2",
    "bills":
    [
-    {"bill":"34 of 2023", 
-   "id":11, 
-   "title": "Rent Reduction Bill", 
+    {"bill":"dummy_data", 
+   "id":"m21", 
+   "title": "dummy_data", 
    "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
    "status":  false,
-   "votes":[""]
+   "votes":["dummy_data"]
    },
-   {"bill":"   ", 
-   "id":11, 
-   "title": "   ", 
+   {"bill":" dummy_data  ", 
+   "id":"m22", 
+   "title": " dummy_data  ", 
    "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
    "status":   false,
-   "votes":[""]
+   "votes":["dummy_data"]
    },
-   {"bill":"   ", 
-   "id":12, 
-   "title": "   ", 
+   {"bill":"dummy_data", 
+   "id":"m23", 
+   "title": " dummy_data", 
    "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
    "status":   false,
-   "votes":[""]
+   "votes":["dummy_data"]
    }
    ]
-},
-{ "issue":"Education", 
-"id":"2",
-"bills":
-[
- {"bill":"dummy_data", 
-"id":21, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":  false,
-"votes":["dummy_data"]
-},
-{"bill":" dummy_data  ", 
-"id":22, 
-"title": " dummy_data  ", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-},
-{"bill":"dummy_data", 
-"id":23, 
-"title": " dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-}
-]
-},
-{ "issue":"Housing", 
-"id":"3",
-"bills":
-[
- {"bill":"dummy_data", 
-"id":31, 
-"title": "", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":  false,
-"votes":["dummy_data"]
-},
-{"bill":"dummy_data", 
-"id":32, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-},
-{"bill":"dummy_data", 
-"id":33, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-}
-]
-},
-{ "issue":"Economics", 
-"id":"4",
-"bills":
-[
- {"bill":"dummy_data", 
-"id":41, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":  false,
-"votes":["dummy_data"]
-},
-{"bill":"dummy_data", 
-"id":42, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-},
-{"bill":"dummy_data", 
-"id":43,
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-}
-]
-},
-{ 
-"issue":"Social", 
-"id":"5","bills":
-[
- {
-"bill":"34 of 2023", 
-"id":51, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":  false,
-"votes":["dummy_data"]
-},
-{
-"bill":"dummy_data", 
-"id":52, 
-"title": "dummy_data", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-},
-{"bill":"   ", 
-"id":53, 
-"title": "   ", 
-"sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-"status":   false,
-"votes":["dummy_data"]
-}
-]
-}
-]
+   },
+   { "issue":"Housing", 
+   "id":"m3",
+   "bills":
+   [
+    {"bill":"dummy_data", 
+   "id":"31", 
+   "title": "", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":  false,
+   "votes":["dummy_data"]
+   },
+   {"bill":"dummy_data", 
+   "id":"32", 
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":   false,
+   "votes":["dummy_data"]
+   },
+   {"bill":"dummy_data", 
+   "id":"m33", 
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":   false,
+   "votes":["dummy_data"]
+   }
+   ]
+   },
+   { "issue":"Economics", 
+   "id":"m4",
+   "bills":
+   [
+    {"bill":"dummy_data", 
+   "id":"m41", 
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":  false,
+   "votes":["dummy_data"]
+   },
+   {"bill":"dummy_data", 
+   "id":"m42", 
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":   false,
+   "votes":["dummy_data"]
+   },
+   {"bill":"dummy_data", 
+   "id":"m43",
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":   false,
+   "votes":["dummy_data"]
+   }
+   ]
+   },
+   { 
+   "issue":"Social", 
+   "id":"m5","bills":
+   [
+    {
+   "bill":"34 of 2023", 
+   "id":"m51", 
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":  false,
+   "votes":["dummy_data"]
+   },
+   {
+   "bill":"dummy_data", 
+   "id":"m52", 
+   "title": "dummy_data", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":   false,
+   "votes":["dummy_data"]
+   },
+   {"bill":"   ", 
+   "id":"m53", 
+   "title": "   ", 
+   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
+   "status":   false,
+   "votes":["dummy_data"]
+   }
+   ]
+   }
+   ]
+   
