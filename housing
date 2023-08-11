@@ -1,0 +1,50 @@
+[{
+		"bill": "dummy_data",
+		"id": "31",
+		"title": "",
+		"sponsors": [{
+			"name:": "dummy_data"
+		}, {
+			"party:": "dummy_data"
+		}],
+		"status": false,
+		"votes": ["dummy_data"]
+	},
+	{
+		"bill": "dummy_data",
+		"id": "32",
+		"title": "dummy_data",
+		"sponsors": [{
+			"name:": "dummy_data"
+		}, {
+			"party:": "dummy_data"
+		}],
+		"status": false,
+		"votes": ["dummy_data"]
+	},
+	{
+		"bill": "dummy_data",
+		"id": "m33",
+		"title": "dummy_data",
+		"sponsors": [{
+			"name:": "dummy_data"
+		}, {
+			"party:": "dummy_data"
+		}],
+		"status": false,
+		"votes": ["dummy_data"]
+	},
+	{
+		"bill": "dummy_data",
+		"id": "m33",
+		"title": "dummy_data",
+		"sponsors": [{
+			"name:": "dummy_data"
+		}, {
+			"party:": "dummy_data"
+		}],
+		"status": false,
+		"votes": ["dummy_data"]
+	}
+
+]
