@@ -1,140 +1,249 @@
-[
-   { "issue":"Climate Change", 
-      "id":"m1",
-      "bills":
-      [
-       {"bill":"34 of 2023", 
-       "id":"m11", 
-      "title": "Rent Reduction Bill", 
-      "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-      "status":  false,
-      "votes":[""]
-      },
-      {"bill":"   ", 
-      "id":"m11", 
-      "title": "   ", 
-      "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-      "status":   false,
-      "votes":[""]
-      },
-      {"bill":"   ", 
-      "id":"m12", 
-      "title": "   ", 
-      "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-      "status":   false,
-      "votes":[""]
-      }
-      ]
-   },
-   { "issue":"Education", 
-   "id":"m2",
-   "bills":
-   [
-    {"bill":"dummy_data", 
-   "id":"m21", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":  false,
-   "votes":["dummy_data"]
-   },
-   {"bill":" dummy_data  ", 
-   "id":"m22", 
-   "title": " dummy_data  ", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   },
-   {"bill":"dummy_data", 
-   "id":"m23", 
-   "title": " dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   }
-   ]
-   },
-   { "issue":"Housing", 
-   "id":"m3",
-   "bills":
-   [
-    {"bill":"dummy_data", 
-   "id":"31", 
-   "title": "", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":  false,
-   "votes":["dummy_data"]
-   },
-   {"bill":"dummy_data", 
-   "id":"32", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   },
-   {"bill":"dummy_data", 
-   "id":"m33", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   }
-   ]
-   },
-   { "issue":"Economics", 
-   "id":"m4",
-   "bills":
-   [
-    {"bill":"dummy_data", 
-   "id":"m41", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":  false,
-   "votes":["dummy_data"]
-   },
-   {"bill":"dummy_data", 
-   "id":"m42", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   },
-   {"bill":"dummy_data", 
-   "id":"m43",
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   }
-   ]
-   },
-   { 
-   "issue":"Social", 
-   "id":"m5","bills":
-   [
-    {
-   "bill":"34 of 2023", 
-   "id":"m51", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":  false,
-   "votes":["dummy_data"]
-   },
-   {
-   "bill":"dummy_data", 
-   "id":"m52", 
-   "title": "dummy_data", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   },
-   {"bill":"   ", 
-   "id":"m53", 
-   "title": "   ", 
-   "sponsors":[{"name:":"dummy_data"},{"party:":"dummy_data"}],
-   "status":   false,
-   "votes":["dummy_data"]
-   }
-   ]
-   }
-   ]
-   
+[{
+		"issue": "Climate Change",
+		"id": "m1",
+		"bills": [{
+				"bill": " 32 of 2021  ",
+				"id": "m11",
+				"title": " Climate Action and Low Carbon Development  ",
+				"sponsors": [{
+					"name:": "Eamon Ryan"
+				}, {
+					"party:": "Green Party"
+				}],
+				"status": false,
+				"votes": [""]
+			},
+			{
+				"bill": " 32 of 2021  ",
+				"id": "m11",
+				"title": " Climate Action and Low Carbon Development  ",
+				"sponsors": [{
+					"name:": "Eamon Ryan"
+				}, {
+					"party:": "Green Party"
+				}],
+				"status": false,
+				"votes": [""]
+			},
+			{
+				"bill": " 32 of 2021  ",
+				"id": "m11",
+				"title": " Climate Action and Low Carbon Development  ",
+				"sponsors": [{
+					"name:": "Eamon Ryan"
+				}, {
+					"party:": "Green Party"
+				}],
+				"status": false,
+				"votes": [""]
+			},
+			{
+				"bill": " 32 of 2021  ",
+				"id": "m11",
+				"title": " Climate Action and Low Carbon Development  ",
+				"sponsors": [{
+					"name:": "Eamon Ryan"
+				}, {
+					"party:": "Green Party"
+				}],
+				"status": false,
+				"votes": [""]
+			}
+		]
+	},
+	{
+		"issue": "Education",
+		"id": "m2",
+		"bills": [{
+				"bill": "73 of 2022",
+				"id": "m21",
+				"title": "Affordable Uniforms",
+				"sponsors": [{
+					"name:": "Donnachadh O Laoghaire"
+				}, {
+					"party:": "Sein Fein"
+				}],
+				"status": "Current",
+				"votes": ""
+			},
+			{
+				"bill": " 31 of 2022 ",
+				"id": "m22",
+				"title": " Admission to Schools (Co-Ed)  ",
+				"sponsors": [{
+					"name:": "Aodhan o Riodain"
+				}, {
+					"party:": "Labor Party"
+				}],
+				"status": "Defeated",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": " 31 of 2022 ",
+				"id": "m22",
+				"title": " Admission to Schools (Co-Ed)  ",
+				"sponsors": [{
+					"name:": "Aodhan o Riodain"
+				}, {
+					"party:": "Labor Party"
+				}],
+				"status": "Defeated",
+				"votes": ""
+			},
+			{
+				"bill": " 31 of 2022 ",
+				"id": "m22",
+				"title": " Admission to Schools (Co-Ed)  ",
+				"sponsors": [{
+					"name:": "Aodhan o Riodain"
+				}, {
+					"party:": "Labor Party"
+				}],
+				"status": "Defeated",
+				"votes": ""
+			},
+			{
+				"bill": " 31 of 2022 ",
+				"id": "m22",
+				"title": " Admission to Schools (Co-Ed)  ",
+				"sponsors": [{
+					"name:": "Aodhan o Riodain"
+				}, {
+					"party:": "Labor Party"
+				}],
+				"status": "Defeated",
+				"votes": ""
+			}
+		]
+	},
+	{
+		"issue": "Housing",
+		"id": "m3",
+		"bills": [{
+				"bill": "34 of 2023",
+				"id": "m11",
+				"title": "Rent Reduction Bill",
+				"sponsors": [{
+					"name:": "Paul Murphy"
+				}, {
+					"party:": "PBPS"
+				}],
+				"status": "Defeated",
+				"votes": [""]
+			},
+			{
+				"bill": "27 of 2023",
+				"id": "32",
+				"title": "Tenancy Protection Bill",
+				"sponsors": [{
+					"name:": "Cian O' callaghan"
+				}, {
+					"party:": "Social Democrats"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "25 of 2023",
+				"id": "m33",
+				"title": "Residential Tenancies Bill",
+				"sponsors": [{
+					"name:": "Eoin O Broin"
+				}, {
+					"party:": "Sinn Fein"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "25 of 2023",
+				"id": "m33",
+				"title": "Residential Tenancies Bill",
+				"sponsors": [{
+					"name:": "Eoin O Broin"
+				}, {
+					"party:": "Sinn Fein"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "25 of 2023",
+				"id": "m33",
+				"title": "Residential Tenancies Bill",
+				"sponsors": [{
+					"name:": "Eoin O Broin"
+				}, {
+					"party:": "Sinn Fein"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			}
+		]
+	},
+	{
+		"issue": "Social",
+		"id": "m5",
+		"bills": [{
+				"bill": "52 of 2020",
+				"id": "m51",
+				"title": "Criminal Justice(Hate Crime)",
+				"sponsors": [{
+					"name:": "Fiona O' Loughlin"
+				}, {
+					"party:": "dummy_data"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "15 of 2023",
+				"id": "m52",
+				"title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+				"sponsors": [{
+					"name:": "Jennifer Whitmore"
+				}, {
+					"party:": "Social Democrats"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "15 of 2023",
+				"id": "m52",
+				"title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+				"sponsors": [{
+					"name:": "Jennifer Whitmore"
+				}, {
+					"party:": "Social Democrats"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "15 of 2023",
+				"id": "m52",
+				"title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+				"sponsors": [{
+					"name:": "Jennifer Whitmore"
+				}, {
+					"party:": "Social Democrats"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			},
+			{
+				"bill": "15 of 2023",
+				"id": "m52",
+				"title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+				"sponsors": [{
+					"name:": "Jennifer Whitmore"
+				}, {
+					"party:": "Social Democrats"
+				}],
+				"status": "Current",
+				"votes": ["dummy_data"]
+			}
+		]
+	}
+]
