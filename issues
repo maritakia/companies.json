@@ -64,7 +64,7 @@
 					"party:": "Sein Fein"
 				}],
 				"status": "Current",
-				"votes": ""
+				"votes":  [""]
 			},
 			{
 				"bill": " 31 of 2022 ",
@@ -76,7 +76,7 @@
 					"party:": "Labor Party"
 				}],
 				"status": "Defeated",
-				"votes": ["dummy_data"]
+				"votes":  [""]
 			},
 			{
 				"bill": " 31 of 2022 ",
@@ -88,7 +88,7 @@
 					"party:": "Labor Party"
 				}],
 				"status": "Defeated",
-				"votes": ""
+				"votes":  [""]
 			},
 			{
 				"bill": " 31 of 2022 ",
@@ -100,7 +100,7 @@
 					"party:": "Labor Party"
 				}],
 				"status": "Defeated",
-				"votes": ""
+				"votes":  [""]
 			},
 			{
 				"bill": " 31 of 2022 ",
@@ -112,7 +112,7 @@
 					"party:": "Labor Party"
 				}],
 				"status": "Defeated",
-				"votes": ""
+				"votes":  [""]
 			}
 		]
 	},
@@ -141,7 +141,7 @@
 					"party:": "Social Democrats"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes":  [""]
 			},
 			{
 				"bill": "25 of 2023",
@@ -153,7 +153,7 @@
 					"party:": "Sinn Fein"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			},
 			{
 				"bill": "25 of 2023",
@@ -165,7 +165,7 @@
 					"party:": "Sinn Fein"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			},
 			{
 				"bill": "25 of 2023",
@@ -177,7 +177,7 @@
 					"party:": "Sinn Fein"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			}
 		]
 	},
@@ -191,10 +191,10 @@
 				"sponsors": [{
 					"name:": "Fiona O' Loughlin"
 				}, {
-					"party:": "dummy_data"
+					"party:": "Finnna Fail"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			},
 			{
 				"bill": "15 of 2023",
@@ -206,7 +206,7 @@
 					"party:": "Social Democrats"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			},
 			{
 				"bill": "15 of 2023",
@@ -218,7 +218,7 @@
 					"party:": "Social Democrats"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			},
 			{
 				"bill": "15 of 2023",
@@ -230,7 +230,7 @@
 					"party:": "Social Democrats"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes": [""]
 			},
 			{
 				"bill": "15 of 2023",
@@ -242,7 +242,7 @@
 					"party:": "Social Democrats"
 				}],
 				"status": "Current",
-				"votes": ["dummy_data"]
+				"votes":  [""]
 			}
 		]
 	}
