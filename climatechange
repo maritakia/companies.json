@@ -1,7 +1,4 @@
-[ { "issue":"Climate Change",
-      "id":"m1",
-      "bills":
-      [
+[ 
       {"bill":" 32 of 2021  ",
       "id":"m11",
       "title": " Climate Action and Low Carbon Development  ",
@@ -22,13 +19,11 @@
   "status":   false,
   "votes":[""]
 },
-      {"bill":" 32 of 2021  ",
+{"bill":" 32 of 2021  ",
 "id":"m11",
 "title": " Climate Action and Low Carbon Development  ",
 "sponsors":[{"name:":"Eamon Ryan"},{"party:":"Green Party"}],
 "status":   false,
 "votes":[""]
-}
-      ]
-   }
+}  
 ]
