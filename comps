@@ -1,11 +1,10 @@
 [
    {
-      "dist":"Province",
       "title":"Dublin",
       "id":"Y1A",
       "districts":[
          {
-            "title":"Fingal",
+            "dist":"Fingal",
             "id":"Y11B",
             "candidates":[
                {
@@ -80,9 +79,9 @@
                   "isLandlord":false
                }
             ]
-         },
-         {
-            "title":"Dublin Bay North",
+          },
+               {
+            "dist":"Dublin Bay North",
             "id":"Y12B",
             "candidates":[
                {
@@ -157,8 +156,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin Bay South",
+               {
+            "dist":"Dublin Bay South",
             "id":"Y13B",
             "candidates":[
                {
@@ -219,8 +218,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin Mid-West",
+               {
+            "dist":"Dublin Mid-West",
             "id":"Y14B",
             "candidates":[
                {
@@ -281,8 +280,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin Central",
+               {
+            "dist":"Dublin Central",
             "id":"Y15B",
             "candidates":[
                {
@@ -343,8 +342,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin North-West",
+               {
+            "dist":"Dublin North-West",
             "id":"Y16B",
             "candidates":[
                {
@@ -391,8 +390,8 @@
                }
             ]
          },
-         {
-            "title":"Rathdown",
+               {
+            "dist":"Rathdown",
             "id":"Y17B",
             "candidates":[
                {
@@ -439,8 +438,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin South Central",
+               {
+            "dist":"Dublin South Central",
             "id":"Y18B",
             "candidates":[
                {
@@ -501,8 +500,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin South-West",
+               {
+            "dist":"Dublin South-West",
             "id":"Y19B",
             "candidates":[
                {
@@ -577,8 +576,8 @@
                }
             ]
          },
-         {
-            "title":"Dublin West",
+               {
+            "dist":"Dublin West",
             "id":"Y20B",
             "candidates":[
                {
@@ -639,8 +638,8 @@
                }
             ]
          },
-         {
-            "title":"Dun Laoghaire",
+               {
+            "dist":"Dun Laoghaire",
             "id":"Y21B",
             "candidates":[
                {
@@ -701,15 +700,15 @@
                }
             ]
          }
-      ]
+          ]
    },
-   {
-      "dist":"Province",
+               {
+      
       "title":"Leinster",
       "id":"Y2A",
       "districts":[
          {
-            "title":"Carlow-Kilkenny",
+            "dist":"Carlow-Kilkenny",
             "id":"Y21B",
             "candidates":[
                {
@@ -785,7 +784,7 @@
             ]
          },
          {
-            "title":"Kildare North",
+            "dist":"Kildare North",
             "id":"Y22B",
             "candidates":[
                {
@@ -847,7 +846,7 @@
             ]
          },
          {
-            "title":"Kildare South",
+            "dist":"Kildare South",
             "id":"Y23B",
             "candidates":[
                {
@@ -909,7 +908,7 @@
             ]
          },
          {
-            "title":"Laois-Offaly",
+            "dist":"Laois-Offaly",
             "id":"Y24B",
             "candidates":[
                {
@@ -984,7 +983,7 @@
             ]
          },
          {
-            "title":"Louth",
+            "dist":"Louth",
             "id":"Y25B",
             "candidates":[
                {
@@ -1060,7 +1059,7 @@
             ]
          },
          {
-            "title":"Meath East",
+            "dist":"Meath East",
             "id":"Y26B",
             "candidates":[
                {
@@ -1108,7 +1107,7 @@
             ]
          },
          {
-            "title":"Meath West",
+            "dist":"Meath West",
             "id":"Y27B",
             "candidates":[
                {
@@ -1156,7 +1155,7 @@
             ]
          },
          {
-            "title":"Wexford",
+            "dist":"Wexford",
             "id":"Y28B",
             "candidates":[
                {
@@ -1232,7 +1231,7 @@
             ]
          },
          {
-            "title":"Longford/Westmeath",
+            "dist":"Longford/Westmeath",
             "id":"Y29B",
             "candidates":[
                {
@@ -1294,7 +1293,7 @@
             ]
          },
          {
-            "title":"Wicklow",
+            "dist":"Wicklow",
             "id":"Y30B",
             "candidates":[
                {
@@ -1371,14 +1370,13 @@
          }
       ]
    },
-   {
-      "dist":"Province",
+               {
+      
       "title":"Munster",
       "id":"Y3A",
       "districts":[
-         {
-            "dist":"Munster",
-            "title":"Clare",
+         {            
+            "dist":"Clare",
             "id":"Y31B",
             "candidates":[
                {
@@ -1439,8 +1437,8 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Cork East",
+          
+            "dist":"Cork East",
             "id":"Y32B",
             "candidates":[
                {
@@ -1487,9 +1485,8 @@
                }
             ]
          },
-         {
-            "dist":"Munster",
-            "title":"Cork North-Central",
+         {      
+            "dist":"Cork North-Central",
             "id":"Y33B",
             "candidates":[
                {
@@ -1551,8 +1548,7 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Cork North-West",
+            "dist":"Cork North-West",
             "id":"Y34B",
             "candidates":[
                {
@@ -1601,8 +1597,7 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Cork South-Central",
+            "dist":"Cork South-Central",
             "id":"Y35B",
             "candidates":[
                {
@@ -1664,8 +1659,8 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Cork South-West",
+          
+            "dist":"Cork South-West",
             "id":"Y36B",
             "candidates":[
                {
@@ -1712,9 +1707,8 @@
                }
             ]
          },
-         {
-            "dist":"Munster",
-            "title":"Kerry",
+         {          
+            "dist":"Kerry",
             "id":"Y37",
             "candidates":[
                {
@@ -1790,8 +1784,7 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Limerick City",
+            "dist":"Limerick City",
             "id":"Y38B",
             "candidates":[
                {
@@ -1853,8 +1846,7 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Limerick County",
+            "dist":"Limerick County",
             "id":"Y39B",
             "candidates":[
                {
@@ -1902,8 +1894,7 @@
             ]
          },
          {
-            "dist":"Munster",
-            "title":"Waterford",
+            "dist":"Waterford",
             "id":"Y310B",
             "candidates":[
                {
@@ -1966,8 +1957,7 @@
       ]
    },
    {
-      "dist":"Province",
-      "title":"Ulster-Connaught",
+      "dist":"Ulster-Connaught",
       "id":"Y4A",
       "districts":[
          {
@@ -2048,8 +2038,7 @@
             ]
          },
          {
-            "dist":"Ulster/Connaught",
-            "title":"Donegal",
+            "dist":"Donegal",
             "id":"Y42B",
             "candidates":[
                {
@@ -2125,8 +2114,7 @@
             ]
          },
          {
-            "dist":"Ulster/Connaught",
-            "title":"Galway East",
+            "dist":"Galway East",
             "id":"Y43B",
             "candidates":[
                {
@@ -2174,8 +2162,7 @@
             ]
          },
          {
-            "dist":"Ulster/Connaught",
-            "title":"Galway West",
+            "dist":"Galway West",
             "id":"Y44B",
             "candidates":[
                {
@@ -2251,8 +2238,7 @@
             ]
          },
          {
-            "dist":"Ulster/Connaught",
-            "title":"Mayo",
+            "dist":"Mayo",
             "id":"Y45B",
             "candidates":[
                {
@@ -2314,8 +2300,7 @@
             ]
          },
          {
-            "dist":"Ulster/Connaught",
-            "title":"Roscommon-Galway",
+            "dist":"Roscommon-Galway",
             "id":"Y46B",
             "candidates":[
                {
@@ -2363,8 +2348,7 @@
             ]
          },
          {
-            "dist":"Ulster/Connaught",
-            "title":"Sligo-Leitrim",
+            "dist":"Sligo-Leitrim",
             "id":"Y47B",
             "candidates":[
                {
