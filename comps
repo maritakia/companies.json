@@ -79,8 +79,8 @@
                   "isLandlord":false
                }
             ]
-          },
-               {
+         },
+         {
             "dist":"Dublin Bay North",
             "id":"Y12B",
             "candidates":[
@@ -156,7 +156,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin Bay South",
             "id":"Y13B",
             "candidates":[
@@ -218,7 +218,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin Mid-West",
             "id":"Y14B",
             "candidates":[
@@ -280,7 +280,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin Central",
             "id":"Y15B",
             "candidates":[
@@ -342,7 +342,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin North-West",
             "id":"Y16B",
             "candidates":[
@@ -390,7 +390,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Rathdown",
             "id":"Y17B",
             "candidates":[
@@ -438,7 +438,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin South Central",
             "id":"Y18B",
             "candidates":[
@@ -500,7 +500,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin South-West",
             "id":"Y19B",
             "candidates":[
@@ -576,7 +576,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dublin West",
             "id":"Y20B",
             "candidates":[
@@ -638,7 +638,7 @@
                }
             ]
          },
-               {
+         {
             "dist":"Dun Laoghaire",
             "id":"Y21B",
             "candidates":[
@@ -700,10 +700,9 @@
                }
             ]
          }
-          ]
+      ]
    },
-               {
-      
+   {
       "title":"Leinster",
       "id":"Y2A",
       "districts":[
@@ -1370,12 +1369,11 @@
          }
       ]
    },
-               {
-      
+   {
       "title":"Munster",
       "id":"Y3A",
       "districts":[
-         {            
+         {
             "dist":"Clare",
             "id":"Y31B",
             "candidates":[
@@ -1437,7 +1435,6 @@
             ]
          },
          {
-          
             "dist":"Cork East",
             "id":"Y32B",
             "candidates":[
@@ -1485,7 +1482,7 @@
                }
             ]
          },
-         {      
+         {
             "dist":"Cork North-Central",
             "id":"Y33B",
             "candidates":[
@@ -1659,7 +1656,6 @@
             ]
          },
          {
-          
             "dist":"Cork South-West",
             "id":"Y36B",
             "candidates":[
@@ -1707,7 +1703,7 @@
                }
             ]
          },
-         {          
+         {
             "dist":"Kerry",
             "id":"Y37",
             "candidates":[
@@ -1957,12 +1953,11 @@
       ]
    },
    {
-      "dist":"Ulster-Connaught",
+      "title":"Ulster-Connaught",
       "id":"Y4A",
       "districts":[
          {
-            "dist":"Ulster/Connaught",
-            "title":"Cavan-Monaghan",
+            "dist":"Cavan-Monaghan",
             "id":"Y41B",
             "candidates":[
                {
