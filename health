@@ -4,7 +4,8 @@
 		"title": " Health (Termination of Pregnancy Services) (Safe Access Zones) ",
 		"sponsors": "Minister for Health",
 		"party:": "Fianna Fáil",
-		"status": "current",
+		"explainer":"prohibits persons from engaging in certain conduct in safe access zones, that is to say, in certain areas in and adjacent to certain healthcare premises; to make provision for enforcement in respect of engaging in conduct prohibited in such safe access zones",
+		"status: ": "current",
 		"votes": ""
 	},
 	{
@@ -13,7 +14,8 @@
 		"title": " Public Health (Tobacco Products and Nicotine Inhaling Products ",
 		"sponsors": " Minister for Health",
 		"party:": "Fianna Fáil",
-		"status": "current",
+		"explainer": "This bill is to provide for the licensing of the sale by retail of tobacco products and nicotine inhaling products;",
+		"status: ": "current",
 		"votes": ""
 	},
 	{
@@ -22,16 +24,18 @@
 		"title": " Assisted Human Reproduction",
 		"sponsors": "Catherine Ardagh, Fiona O'Loughlin",
 		"party:": "Fianna Fáil",
-		"status": "current",
+		"explainer": "This bill provides for the establishment of a body, 'the Assisted Human Reproduction Treatment Advisory Committee', to advise on criteria for eligibility for financial assistance with assisted human reproduction treatment",
+		"status: ": "current",
 		"votes": ""
 	},
 	{
 		"bill": " 10 of 2023  ",
 		"id": "m14",
-		"title": "Regulation of Termination of Pregnancy - To allow for abortion on grounds of fatal foetal abnormality  ",
+		"title": "Regulation of Termination of Pregnancy ",
 		"sponsors": "Bríd Smith, Paul Murphy, Gino Kenny, Richard Boyd Barrett",
 		"party:": "PBPS",
-		"status": "current",
+		"explainer": "This bill provides for abortion on request prior to foetal viability; to abolish the 3 day waiting period for abortion on request; to allow for abortion on grounds of fatal foetal abnormalities that are likely to lead to the death of the foetus either before or within a year of birth; to allow for abortion where there is a risk to the life, or of serious harm to the health, of the pregnant woman; and to decriminalise the provision of abortion.",
+		"status: ": "current",
 		"votes": ""
 	}
 ]
