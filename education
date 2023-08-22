@@ -2,36 +2,48 @@
 		"bill": "73 of 2022",
 		"id": "m21",
 		"title": "Affordable Uniforms",
-		"sponsors": ["Donnachadh O Laoghaire, Sorca Clarke"],
+		"sponsors": "Donnachadh O Laoghaire, Sorca Clarke",
 		"party:": "Sein Fein",
-		"status": "Current",
+		"explainer": "This bill makes provision whereby the Minister for Education shall make regulations governing the implementation of an affordable school uniform policy in schools; ",
+		"status: ": "Current",
 		"votes": ""
 	},
 	{
 		"bill": " 31 of 2022 ",
 		"id": "m22",
 		"title": " Admission to Schools (Co-Ed)  ",
-		"sponsors": ["Minister for Further and Higher Education"],
+		"sponsors": "Minister for Further and Higher Education",
 		"party:": "Fine Gael",
-		"status": "Defeated",
-		"votes": ["dummy_data"]
+		"explainer": "This bill disolves the exemption provided by certain enactments from the prohibition against discrimination on the gender ground in educational establishments: schools shall not discriminate on gender
+grounds in relation to the admission or the terms or conditions of admission of a person
+as a student to the school. ",
+		"status: ": "Defeated",
+		"votes": " "
 	},
 	{
 		"bill": " 108 of 2022 ",
-		"id": "m23",
+		"id": "m22",
 		"title": " Sexual Education  ",
-		"sponsors": ["Fiona O'Loughlin ", "Malcolm Byrne"],
+		"sponsors": "Fiona O'Loughlin ", "Malcolm Byrne",
 		"party:": "Fianna Fail ",
-		"status": "Current",
+		"explainer": "This bill makes provision for the implementation of relationship and sexuality education in primary and post-primary schools without any influence of religious ethos on relationship and sexuality education, to include the voice of LGBTQU+ students and students with special
+intellectual needs in the area of Relationships and Sexuality Education and
+Social, Personal and Health Education.",
+		"status: ": "Current",
 		"votes": ""
 	},
 	{
 		"bill": " 147 of 2021 ",
-		"id": "m24",
+		"id": "m22",
 		"title": " Education Health, Relationships and Sex Education ",
-		"sponsors": ["Gary Gannon"],
+		"sponsors": "Gary Gannon",
 		"party:": "Social Democrats",
-		"status": "Current",
+		"explainer": "Bill entitled an Act to amend the Education Act 1998 to evaluate the effectiveness of the teaching, development and
+promotion of health education, including relationships and sex by providing informed health education, including cognitive, emotional, physical and
+social aspects of relationships and sex education and to ensure that the education provides students with the knowledge, skills and
+attitudes to enable the student to understand health, wellbeing and dignity to develop respectful social and sexual relationships, and
+to consider how choices affect the student’s wellbeing and the wellbeing of others",
+		"status: ": "Current",
 		"votes": ""
 	}
 ]
