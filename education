@@ -1,0 +1,37 @@
+[{
+		"bill": "73 of 2022",
+		"id": "m21",
+		"title": "Affordable Uniforms",
+		"sponsors": ["Donnachadh O Laoghaire, Sorca Clarke"],
+		"party:": "Sein Fein",
+		"status": "Current",
+		"votes": ""
+	},
+	{
+		"bill": " 31 of 2022 ",
+		"id": "m22",
+		"title": " Admission to Schools (Co-Ed)  ",
+		"sponsors": ["Minister for Further and Higher Education"],
+		"party:": "Fine Gael",
+		"status": "Defeated",
+		"votes": ["dummy_data"]
+	},
+	{
+		"bill": " 108 of 2022 ",
+		"id": "m22",
+		"title": " Sexual Education  ",
+		"sponsors": ["Fiona O'Loughlin ", "Malcolm Byrne"],
+		"party:": "Fianna Fail ",
+		"status": "Current",
+		"votes": ""
+	},
+	{
+		"bill": " 147 of 2021 ",
+		"id": "m22",
+		"title": " Education Health, Relationships and Sex Education ",
+		"sponsors": ["Gary Gannon"],
+		"party:": "Social Democrats",
+		"status": "Current",
+		"votes": ""
+	}
+]
