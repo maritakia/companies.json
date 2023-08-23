@@ -1,6 +1,6 @@
 [{
 		"bill": "52 of 2020",
-		"id": "m51",
+		"id": "m51s",
 		"title": "Criminal Justice(Hate Crime)",
 		"sponsors": " Fiona O'Loughlin, Robbie Gallagher, Lisa Chambers",
 		"party:": "Fianna Fáil",
@@ -10,7 +10,7 @@
 	},
 	{
 		"bill": "15 of 2023",
-		"id": "m52",
+		"id": "m52s",
 		"title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
 		"sponsors": "Jennifer Whitmore",
 		"party:": "Social Democrats",
@@ -20,7 +20,7 @@
 	},
 	{
 		"bill": "62 of 2023",
-		"id": "m53",
+		"id": "m53s",
 		"title": "Criminal Law (Sexual Offences and Human Trafficking)",
 		"sponsors": "Minister for Justice",
 		"party:": " Fine Gael",
@@ -30,7 +30,7 @@
 	},
 	{
 		"bill": "20 of 2023",
-		"id": "m54",
+		"id": "m54s",
 		"title": "Mother and Baby Institutions Payment Scheme Act 2023",
 		"sponsors": "Minister for Children",
 		"party:": "Green Party",
@@ -40,7 +40,7 @@
 	},
 	{
 		"bill": "55 of 2023",
-		"id": "m55",
+		"id": "m55s",
 		"title": "Broadcasting (Restriction of Salaries) Bill 2023",
 		"sponsors": "Rónán Mullen",
 		"party:": "Independent",
