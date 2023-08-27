@@ -3,7 +3,7 @@
 		"id": "mm11h",
 		"title": "Rent Reduction Bill",
 		"sponsors": "Paul Murphy, Mick Barry, Gino Kenny, Bríd Smith, Richard Boyd Barrett",
-		"party:": "PBPS",
+		"party": "PBPS",
 		"status: ": "Defeated",
 		"Explainer": "This is an amendment to to reduce rents to affordable levels by limiting them to a maximum of a quarter of monthly household incomes and to establish a National Rent Authority for this purpose",
 		"votes": ""
@@ -13,8 +13,8 @@
 		"id": "nm32h",
 		"title": "Tenancy Protection Bill",
 		"sponsors": "Cian O' callaghan",
-		"party:": "Social Democrats",
-		"status: ": "Current",
+		"party": "Social Democrats",
+		"status": " Current",
 		"Explainer": "This is an Amendment to section 35A of the Residential Tenancies Act 2004 (as amended) so as to protect tenants of multi-unit developments from large-scale evictions.",
 		"votes": ""
 	},
@@ -23,8 +23,8 @@
 		"id": "om33h",
 		"title": "Planning and Development (Provision of Public Housing) ",
 		"sponsors": " Chris Andrews, Eoin Ó Broin",
-		"party:": "Sinn Fein",
-		"status: ": "Current",
+		"party": "Sinn Fein",
+		"status": " Current",
 		"Explainer": "This is an Amendment to to repeal section 97(3)(b).(a clause to be amended)",
 		"votes": ""
 	},
@@ -33,8 +33,8 @@
 		"id": "pm34h",
 		"title": "Planning and Development(Amendment)",
 		"sponsors": " Paul Nicholas Gogarty; John Gormley",
-		"party:": "Green Party",
-		"status: ": "Defeated",
+		"party": "Green Party",
+		"status": " Defeated",
 		"Explainer": "Bill entitled an Act to amend the Planning and Development Act 2000 to introduce measures to discourage land speculation",
 		"votes": ""
 	},
@@ -43,8 +43,8 @@
 		"id": "qm35h",
 		"title": "Housing (Adaptation Grant for People with a Disability) ",
 		"sponsors": "Pauline Tully; Patricia Ryan",
-		"party:": "Sinn Fein",
-		"status: ": "Current",
+		"party": "Sinn Fein",
+		"status": " Current",
 		"Explainer": "Bill entitled an Act to make provision for ease of access to a housing adaptation grant for people with a disability for those applicants qualifying for same and to provide for related matters.",
 		"votes": ""
 	},
@@ -53,8 +53,8 @@
 		"id": "rm36h",
 		"title": "Planning and Development (20 per cent Provision of Social and Affordable Housing) ",
 		"sponsors": "Eoin O Broin",
-		"party:": "Sinn Fein",
-		"status: ": "Current",
+		"party": "Sinn Fein",
+		"status": " Current",
 		"Explainer": "This amendment bill intent is to amend the Planning and Development Act 2000 to delete the sunset clause which affords an exemption to developers who secure planning permission before 2026",
 		"votes": ""
 	},
@@ -63,8 +63,8 @@
 		"id": "sm37h",
 		"title": "Planning and Development (20 per cent Provision of Social and Affordable Housing) ",
 		"sponsors": "Minister for Housing",
-		"party:": "Fianna Fáil",
-		"status: ": "passed",
+		"party": "Fianna Fáil",
+		"status": " passed",
 		"Explainer": "This bill provides for the provision by housing authorities of financial assistance to purchase dwellings under affordable dwelling purchase arrangements; to provide for dwellings to be made available on a cost rental basis; to provide for funding to be made available for the purchase of dwellings in accordance with a scheme of shared equity",
 		"votes": ""
 	},
@@ -73,8 +73,8 @@
 		"id": "tm38h",
 		"title": "Housing (Housing Assistance Payment Waiting Times) (Miscellaneous Provisions) (Amendment) ",
 		"sponsors": "Jennifer Murnane O'Connor",
-		"party:": "Fianna Fáil",
-		"status: ": "Current",
+		"party": "Fianna Fáil",
+		"status": " Current",
 		"Explainer": "This is an amendment bill to oblige the housing authorities to process an application within a three week period after having received the relevant documentation from the applicant",
 		"votes": " "
 	}
