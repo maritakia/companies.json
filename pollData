@@ -1,583 +1,585 @@
 [{
 		"id": "p1",
-		"PolllingStationName": "SOLAS CHRIOST NATIONAL SCHOOL",
+		"name": "SOLAS CHRIOST NATIONAL SCHOOL",
 		"Address1": "SOLAS CHRIOST NATIONAL SCHOOL, ",
 		"Address2": "COOKSTOWN ROAD",
-		"location": {
-			"longitude": -6.385714844,
-			"latitude": 53.29835295
+    "location":{
+             "location":{
+             "longitude": -6.385714844,
+		          "latitude": 53.29835295
 		}
-	},
-	{
+	   },
+	   {
 		"id": "p2",
-		"PolllingStationName": "BALLYROAN COMMUNITY & YOUTH CENTRE ",
+
+		"name": "BALLYROAN COMMUNITY & YOUTH CENTRE ",
 		"Address1": "BALLYROAN COMMUNITY & YOUTH CENTRE,    ",
 		"Address2": "MARIAN ROAD",
 		"Address3": " RATHFARNHAM",
-		"location": {
-			"longitude": -6.298723949,
-			"latitude": 53.29011238
-		}
+		"location":{
+         "longitude": -6.298723949,
+	     	"latitude": 53.29011238
+			}
 	},
 	{
 		"id": "p3",
-		"PolllingStationName": "BALLYROAN NATIONAL SCHOOL",
+		"name": "BALLYROAN NATIONAL SCHOOL",
 		"Address1": "BALLYROAN NATIONAL SCHOOL, ",
 		"Address2": "BALLYROAN ROAD,",
 		"Address3": " RATHFARNHAM",
-		"location": {
-			"longitude": -6.294438055,
-			"latitude": 53.28643822
-		}
+		"location":{
+         "longitude": -6.294438055,
+		"latitude": 53.28643822
+	}
 	},
 	{
 		"id": "p4",
-		"PolllingStationName": "BAWNOGUES NATIONAL SCHOOL          ",
+		"name": "BAWNOGUES NATIONAL SCHOOL          ",
 		"Address1": "BAWNOGUES NATIONAL SCHOOL, ",
 		"Address2": "BAWNOGUES ROAD   ",
 		"Address3": "CLONDALKIN",
-		"location": {
-			"longitude": -6.413154161,
-			"latitude": 53.32609553
-		}
+		"location":{
+         "longitude": -6.413154161,
+		"latitude": 53.32609553
+	}
 	},
 	{
 		"id": "p5",
-		"PolllingStationName": "BISHOP GALVIN & BISHOP SHANAHAN NS",
+		"name": "BISHOP GALVIN & BISHOP SHANAHAN NS",
 		"Address1": "ORWELL PARK,",
 		"Address2": " TEMPLEOGUE, ",
 		"Address3": "DUBLIN 6W",
-		"location": {
-			"longitude": -6.318421456,
-			"latitude": 53.29842781
-		}
+		"location":{
+         "longitude": -6.318421456,
+		"latitude": 53.29842781
+	}
 	},
 	{
 		"id": "p6",
-		"PolllingStationName": "BRITTAS COMMUNITY HALL             ",
+		"name": "BRITTAS COMMUNITY HALL             ",
 		"Address1": "BRITTAS COMMUNITY HALL,   ",
 		"Address2": "BRITTAS ",
 		"Address3": "",
-		"location": {
-			"longitude": -6.453806324,
-			"latitude": 53.2363888
-		}
+		"location":{
+         "longitude": -6.453806324,
+		"latitude": 53.2363888
+	}
 	},
 	{
 		"id": "p7",
-		"PolllingStationName": "GAEL SCOIL NAOMH PADRAIG           ",
+		"name": "GAEL SCOIL NAOMH PADRAIG           ",
 		"Address1": "GAEL SCOIL NAOMH PADRAIG, ",
 		"Address2": "CASTLE ROAD,",
 		"Address3": "LUCAN ",
-		"location": {
-			"longitude": -6.435483234,
-			"latitude": 53.35062692
-		}
+		"location":{
+         "longitude": -6.435483234,
+		"latitude": 53.35062692
+	}
 	},
 	{
 		"id": "p8",
-		"PolllingStationName": "GLENASMOLE NATIONAL SCHOOL         ",
+		"name": "GLENASMOLE NATIONAL SCHOOL         ",
 		"Address": "GLENASMOLE NATIONAL SCHOOL,   ",
 		"Address2": "BOHERNABREENA,",
 		"Address3": "DUBLIN 24  ",
-		"location": {
-			"longitude": -6.357596881,
-			"latitude": 53.24545238
-		}
+		"location":{
+         "longitude": -6.357596881,
+		"latitude": 53.24545238
+	}
 	},
 	{
 		"id": "p9",
-		"PolllingStationName": "GRIFFEEN VALLEY EDUCATE TOGETHER   ",
+		"name": "GRIFFEEN VALLEY EDUCATE TOGETHER   ",
 		"Address1": "GRIFFEEN VALLEY EDUCATE TOGETHER,",
 		"Address2": " GRIFFEEN GLEN BOULEVARD,",
 		"Address3": "LUCAN",
-		"location": {
-			"longitude": -6.433776841,
-			"latitude": 53.34133637
-		}
+		"location":{
+         "longitude": -6.433776841,
+		"latitude": 53.34133637
+	}
 	},
 	{
 		"id": "p10",
-		"PolllingStationName": "JOBSTOWN COMMUNITY CENTRE ",
+		"name": "JOBSTOWN COMMUNITY CENTRE ",
 		"Address1": "JOBSTOWN COMMUNITY CENTRE,  ",
 		"Address2": "FORTUNESTOWN WAY, JOBSTOWN,",
 		"Address3": "TALLAGHT",
-		"location": {
-			"longitude": -6.401350345,
-			"latitude": 53.28271153
-		}
+		"location":{
+         "longitude": -6.401350345,
+		"latitude": 53.28271153
+	}
 	},
 	{
 		"id": "p11",
-		"PolllingStationName": "KILNAMANAGH NATIONAL SCHOOL        ",
+		"name": "KILNAMANAGH NATIONAL SCHOOL        ",
 		"Address1": "KILNAMANAGH NATIONAL SCHOOL,   ",
 		"Address2": "TREEPARK ROAD ",
 		"Address3": "",
-		"location": {
-			"longitude": -6.357688049,
-			"latitude": 53.30060674
-		}
+		"location":{
+         "longitude": -6.357688049,
+		"latitude": 53.30060674
+	}
 	},
 	{
 		"id": "p12",
-		"PolllingStationName": "KINGSWOOD COMMUNITY & LEISURE CNTR ",
+		"name": "KINGSWOOD COMMUNITY & LEISURE CNTR ",
 		"Address1": "KINGSWOOD COMMUNITY & LEISURE CENTRE, ",
 		"Address2": "SYLVAN DRIVE,",
 		"Address3": "KINGSWOOD,",
-		"location": {
-			"longitude": -6.368322977,
-			"latitude": 53.30674324
-		}
+		"location":{
+         "longitude": -6.368322977,
+		"latitude": 53.30674324
+	}
 	},
 	{
 		"id": "p13",
-		"PolllingStationName": "KNOCKLYON JUNIOR NATIONAL SCHOOL   ",
+		"name": "KNOCKLYON JUNIOR NATIONAL SCHOOL   ",
 		"Address1": "KNOCKLYON JUNIOR NATIONAL SCHOOL, ",
 		"Address2": "IDRONE AVENUE ",
 		"Address3": "",
-		"location": {
-			"longitude": -6.316650598,
-			"latitude": 53.2846418
-		}
+		"location":{
+         "longitude": -6.316650598,
+		"latitude": 53.2846418
+	}
 	},
 	{
 		"id": "p14",
-		"PolllingStationName": "KNOCKMITTEN COMMUNITY CENTRE       ",
+		"name": "KNOCKMITTEN COMMUNITY CENTRE       ",
 		"Addres1": "KNOCKMITTEN COMMUNITY CENTRE,  ",
 		"Address2": " MONKSFIELD LAWN,",
 		"Address3": "CLONDALKIN ",
-		"location": {
-			"longitude": -6.375329696,
-			"latitude": 53.32523816
-		}
+		"location":{
+         "longitude": -6.375329696,
+		"latitude": 53.32523816
+	}
 	},
 	{
 		"id": "p15",
-		"PolllingStationName": "SCOIL CNOC MHUIRE SENIOR N.S.",
+		"name": "SCOIL CNOC MHUIRE SENIOR N.S.",
 		"Address1": "SCOIL CNOC MHUIRE SENIOR N.S.,  ",
 		"Address2": "KNOCKMORE AVENUE,",
 		"Address3": "KILLINARDEN",
-		"location": {
-			"longitude": -6.39184324,
-			"latitude": 53.27580845
-		}
+		"location":{
+         "longitude": -6.39184324,
+		"latitude": 53.27580845
+	}
 	},
 	{
 		"id": "p16",
-		"PolllingStationName": "LUCAN EDUCATE TOGETHER N.S.        ",
+		"name": "LUCAN EDUCATE TOGETHER N.S.        ",
 		"Address1": "LUCAN EDUCATE TOGETHER N.S.,   ",
 		"Address2": " BEWLEY WAY",
 		"Address3": "",
-		"location": {
-			"longitude": -6.426389338,
-			"latitude": 53.35117717
-		}
+		"location":{
+         "longitude": -6.426389338,
+		"latitude": 53.35117717
+	}
 	},
 	{
 		"id": "p17",
-		"PolllingStationName": "LUCAN GIRLS NATIONAL SCHOOL        ",
+		"name": "LUCAN GIRLS NATIONAL SCHOOL        ",
 		"Address": "LUCAN GIRLS NATIONAL SCHOOL,   ",
 		"Address2": "LUCAN ROAD ",
 		"Address3": "LUCAN",
-		"location": {
-			"longitude": -6.439968093,
-			"latitude": 53.35892167
-		}
+		"location":{
+         "longitude": -6.439968093,
+		"latitude": 53.35892167
+	}
 	},
 	{
 		"id": "p18",
-		"PolllingStationName": "MOUNTAINPARK NATIONAL SCHOOL       ",
+		"name": "MOUNTAINPARK NATIONAL SCHOOL       ",
 		"Address1": "MOUNTAINPARK NATIONAL SCHOOL,  ",
 		"Address2": " ST. DOMINICS ROAD ",
 		"Address3": "",
-		"location": {
-			"longitude": -6.357306515,
-			"latitude": 53.28594101
-		}
+		"location":{
+         "longitude": -6.357306515,
+		"latitude": 53.28594101
+	}
 	},
 	{
 		"id": "p19",
-		"PolllingStationName": "NAOMH MHUIRE NATIONAL SCHOOL",
+		"name": "NAOMH MHUIRE NATIONAL SCHOOL",
 		"Address1": "NAOMH MHUIRE NATIONAL SCHOOL,N",
 		"Address2": "GARTERS LANE,",
 		"Address3": "SAGGART",
-		"location": {
-			"longitude": -6.44207638,
-			"latitude": 53.28013435
-		}
+		"location":{
+         "longitude": -6.44207638,
+		"latitude": 53.28013435
+	}
 	},
 	{
 		"id": "p20",
-		"PolllingStationName": "PALMERSTON BOYS NATIONAL SCHOOL    ",
+		"name": "PALMERSTON BOYS NATIONAL SCHOOL    ",
 		"Address1": "PALMERSTON BOYS NATIONAL SCHOOL,  ",
 		"Address2": "THE OVAL,",
 		"Address3": " PALMERSTON ",
-		"location": {
-			"longitude": -6.369021666,
-			"latitude": 53.35242478
-		}
+		"location":{
+         "longitude": -6.369021666,
+		"latitude": 53.35242478
+	}
 	},
 	{
 		"id": "p21",
-		"PolllingStationName": "ROWLAGH NATIONAL SCHOOL            ",
+		"name": "ROWLAGH NATIONAL SCHOOL            ",
 		"Address1": "ROWLAGH NATIONAL SCHOOL,    ",
 		"Address2": "COLLINSTOWN ROAD",
 		"Address3": "",
-		"location": {
-			"longitude": -6.395150409,
-			"latitude": 53.34336864
-		}
+		"location":{
+         "longitude": -6.395150409,
+		"latitude": 53.34336864
+	}
 	},
 	{
 		"id": "p22",
-		"PolllingStationName": "SACRED HEART NATIONAL SCHOOL       ",
+		"name": "SACRED HEART NATIONAL SCHOOL       ",
 		"Address1": "SACRED HEART NATIONAL SCHOOL, TALLAGHT",
 		"Address2": " KILLINARDEN WAY,",
 		"Address3": "",
-		"location": {
-			"longitude": -6.381967242,
-			"latitude": 53.27647298
-		}
+		"location":{
+         "longitude": -6.381967242,
+		"latitude": 53.27647298
+	}
 	},
 	{
 		"id": "p23",
-		"PolllingStationName": "SACRED HEART NATIONAL SCHOOL       ",
+		"name": "SACRED HEART NATIONAL SCHOOL       ",
 		"Address1": "SACRED HEART NATIONAL SCHOOL,",
 		"Address2": " ST. JOHNS DRIVE,",
 		"Address3": " CLONDALKIN",
-		"location": {
-			"longitude": -6.402338354,
-			"latitude": 53.31446231
-		}
+		"location":{
+         "longitude": -6.402338354,
+		"latitude": 53.31446231
+	}
 	},
 	{
 		"id": "p24",
-		"PolllingStationName": "SCOIL AINE / IDE NATIONAL SCHOOL   ",
+		"name": "SCOIL AINE / IDE NATIONAL SCHOOL   ",
 		"Address1": "SCOIL AINE / IDE NATIONAL SCHOOL, ",
 		"Address2": "NEW ROAD,",
 		"Address3": " CLONDALKIN",
-		"location": {
-			"longitude": -6.392238222,
-			"latitude": 53.31711183
-		}
+		"location":{
+         "longitude": -6.392238222,
+		"latitude": 53.31711183
+	}
 	},
 	{
 		"id": "p25",
-		"PolllingStationName": "SCOIL AINE NAOFA                   ",
+		"name": "SCOIL AINE NAOFA                   ",
 		"Address1": "SCOIL AINE NAOFA, ",
 		"Address2": "NEWCASTLE ROAD,",
 		"Address3": " LUCAN",
-		"location": {
-			"longitude": -6.448991796,
-			"latitude": 53.34866327
-		}
+		"location":{
+         "longitude": -6.448991796,
+		"latitude": 53.34866327
+	}
 	},
 	{
 		"id": "p26",
-		"PolllingStationName": "SCOIL CRONAIN                      ",
+		"name": "SCOIL CRONAIN                      ",
 		"Address1": "SCOIL CRONAIN, ",
 		"Address2": "MAIN STREET,",
 		"Address3": " RATHCOOLE",
-		"location": {
-			"longitude": -6.467742091,
-			"latitude": 53.28178304
-		}
+		"location":{
+         "longitude": -6.467742091,
+		"latitude": 53.28178304
+	}
 	},
 	{
 		"id": "p27",
-		"PolllingStationName": "SCOIL MHUIRE                       ",
+		"name": "SCOIL MHUIRE                       ",
 		"Address1": "SCOIL MHUIRE, ",
 		"Address2": "GLENMORE,",
 		"Address3": "BALLYBODEN",
-		"location": {
-			"longitude": -6.28930605,
-			"latitude": 53.27868908
-		}
+		"location":{
+         "longitude": -6.28930605,
+		"latitude": 53.27868908
+	}
 	},
 	{
 		"id": "p28",
-		"PolllingStationName": "SCOIL MHUIRE NATIONAL SCHOOL       ",
+		"name": "SCOIL MHUIRE NATIONAL SCHOOL       ",
 		"Address1": "SCOIL MHUIRE NATIONAL SCHOOL,",
 		"Address2": "WOODVIEW, ",
 		"Address3": " LUCAN",
-		"location": {
-			"longitude": -6.467204793,
-			"latitude": 53.35098075
-		}
+		"location":{
+         "longitude": -6.467204793,
+		"latitude": 53.35098075
+	}
 	},
 	{
 		"id": "p29",
-		"PolllingStationName": "SCOIL NAISIUNTA NAOMH MAELRUAIN    ",
+		"name": "SCOIL NAISIUNTA NAOMH MAELRUAIN    ",
 		"Address1": "SCOIL NAISIUNTA NAOMH MAELRUAIN, ",
 		"Address2": "SOISEAR,",
 		"Address3": "OLDBAWN AVENUE",
-		"location": {
-			"longitude": -6.362589776,
-			"latitude": 53.2778239
-		}
+		"location":{
+         "longitude": -6.362589776,
+		"latitude": 53.2778239
+	}
 	},
 	{
 		"id": "p30",
-		"PolllingStationName": "SCOIL TREASA                       ",
+		"name": "SCOIL TREASA                       ",
 		"Address1": "SCOIL TREASA,",
 		"Address2": " BALLYCULLEN AVENUE,",
 		"Address3": " FIRHOUSE",
-		"location": {
-			"longitude": -6.339017591,
-			"latitude": 53.28080067
-		}
+		"location":{
+         "longitude": -6.339017591,
+		"latitude": 53.28080067
+	}
 	},
 	{
 		"id": "p31",
-		"PolllingStationName": "SPRINGFIELD NATIONAL SCHOOL        ",
+		"name": "SPRINGFIELD NATIONAL SCHOOL        ",
 		"Address1": "SPRINGFIELD NATIONAL SCHOOL, ",
 		"Address2": "MAPLEWOOD ROAD",
 		"Address3": "",
-		"location": {
-			"longitude": -6.387291202,
-			"latitude": 53.28708803
-		}
+		"location":{
+         "longitude": -6.387291202,
+		"latitude": 53.28708803
+	}
 	},
 	{
 		"id": "p32",
-		"PolllingStationName": "ST. MARTIN DE PORRES NATIONAL SCL",
+		"name": "ST. MARTIN DE PORRES NATIONAL SCL",
 		"Address": "ST. MARTIN DE PORRES NATIONAL SCL, ",
 		"Address2": " HEATHERVIEW LAWN,",
 		"Address3": " AYLESBURY",
-		"location": {
-			"longitude": -6.371460263,
-			"latitude": 53.27505817
-		}
+		"location":{
+         "longitude": -6.371460263,
+		"latitude": 53.27505817
+	}
 	},
 	{
 		"id": "p33",
-		"PolllingStationName": "ST. AENGUS NATIONAL SCHOOL         ",
+		"name": "ST. AENGUS NATIONAL SCHOOL         ",
 		"Address1": "ST. AENGUS NATIONAL SCHOOL, ",
 		"Address2": "CASTLEPARK",
 		"Address3": "",
-		"location": {
-			"longitude": -6.345385007,
-			"latitude": 53.29304865
-		}
+		"location":{
+         "longitude": -6.345385007,
+		"latitude": 53.29304865
+	}
 	},
 	{
 		"id": "p34",
-		"PolllingStationName": "ST. AIDAN'S NATIONAL SCHOOL        ",
+		"name": "ST. AIDAN'S NATIONAL SCHOOL        ",
 		"Address1": "ST. AIDAN'S NATIONAL SCHOOL, ",
 		"Address2": "BROOKFIELD ROAD,",
 		"Address3": " DUBLIN 24",
-		"location": {
-			"longitude": -6.404549439,
-			"latitude": 53.2865003
-		}
+		"location":{
+         "longitude": -6.404549439,
+		"latitude": 53.2865003
+	}
 	},
 	{
 		"id": "p35",
-		"PolllingStationName": "ST. ANNES NATIONAL SCHOOL          ",
+		"name": "ST. ANNES NATIONAL SCHOOL          ",
 		"Address1": "ST. ANNES NATIONAL SCHOOL, KILCARRIG AVENUE, FETTERCAIRN",
 		"Address2": "",
 		"Address3": "",
-		"location": {
-			"longitude": -6.391991015,
-			"latitude": 53.29082801
-		}
+		"location":{
+         "longitude": -6.391991015,
+		"latitude": 53.29082801
+	}
 	},
 	{
 		"id": "p36",
-		"PolllingStationName": "ST. BERNADETTES NATIONAL SCHOOL    ",
+		"name": "ST. BERNADETTES NATIONAL SCHOOL    ",
 		"Address1": "ST. BERNADETTES NATIONAL SCHOOL,",
 		"Address2": "GREENFORT AVE, ",
 		"Address3": " QUARRYVALE",
-		"location": {
-			"longitude": -6.397889809,
-			"latitude": 53.34963673
-		}
+		"location":{
+         "longitude": -6.397889809,
+		"latitude": 53.34963673
+	}
 	},
 	{
 		"id": "p37",
-		"PolllingStationName": "ST. DAMIEN'S NATIONAL SCHOOL       ",
+		"name": "ST. DAMIEN'S NATIONAL SCHOOL       ",
 		"Address1": "ST. DAMIEN'S NATIONAL SCHOOL,  WALKINSTOWN, ",
 		"Address2": "BEECHFIELD CLOSE,",
 		"Address3": "DUBLIN 12",
-		"location": {
-			"longitude": -6.321287542,
-			"latitude": 53.31423451
-		}
+		"location":{
+         "longitude": -6.321287542,
+		"latitude": 53.31423451
+	}
 	},
 	{
 		"id": "p38",
-		"PolllingStationName": "ST. FINIAN'S NATIONAL SCHOOL",
+		"name": "ST. FINIAN'S NATIONAL SCHOOL",
 		"Address1": "ST. FINIAN'S NATIONAL SCHOOL,  ",
 		"Address2": "MAIN STREET,",
 		"Address3": "NEWCASTLE",
-		"location": {
-			"longitude": -6.500606931,
-			"latitude": 53.29837162
-		}
+		"location":{
+         "longitude": -6.500606931,
+		"latitude": 53.29837162
+	}
 	},
 	{
 		"id": "p39",
-		"PolllingStationName": "ST. JOSEPH'S NATIONAL SCHOOL       ",
+		"name": "ST. JOSEPH'S NATIONAL SCHOOL       ",
 		"Address1": "ST. JOSEPH'S NATIONAL SCHOOL,",
 		"Address2": " CONVENT ROAD, ",
 		"Address3": "CLONDALKIN",
-		"location": {
-			"longitude": -6.394439831,
-			"latitude": 53.31738627
-		}
+		"location":{
+         "longitude": -6.394439831,
+		"latitude": 53.31738627
+	}
 	},
 	{
 		"id": "p40",
-		"PolllingStationName": "ST. MARTINS NATIONAL SCHOOL        ",
+		"name": "ST. MARTINS NATIONAL SCHOOL        ",
 		"Address1": "ST. MARTIN'S NATIONAL SCHOOL, ",
 		"Address2": "BRITTAS",
 		"Address3": "",
-		"location": {
-			"longitude": -6.452344183,
-			"latitude": 53.23507796
-		}
+		"location":{
+         "longitude": -6.452344183,
+		"latitude": 53.23507796
+	}
 	},
 	{
 		"id": "p41",
-		"PolllingStationName": "ST. MARY'S NATIONAL SCHOOL         ",
+		"name": "ST. MARY'S NATIONAL SCHOOL         ",
 		"Address1": "ST. MARY'S NATIONAL SCHOOL, ",
 		"Address2": "GRANGE ROAD, ",
 		"Address3": "RATHFARNHAM",
-		"location": {
-			"longitude": -6.283886686,
-			"latitude": 53.29481585
-		}
+		"location":{
+         "longitude": -6.283886686,
+		"latitude": 53.29481585
+	}
 	},
 	{
 		"id": "p42",
-		"PolllingStationName": "HOLY SPIRIT SENIOR PRIMARY SCHOOL",
+		"name": "HOLY SPIRIT SENIOR PRIMARY SCHOOL",
 		"Address1": "HOLY SPIRIT SENIOR PRIMARY SCHOOL, ",
 		"Address2": "LIMEKILN LANE,",
 		"Address3": "WALKINSTOWN",
-		"location": {
-			"longitude": -6.328393549,
-			"latitude": 53.30885945
-		}
+		"location":{
+         "longitude": -6.328393549,
+		"latitude": 53.30885945
+	}
 	},
 	{
 		"id": "p43",
-		"PolllingStationName": "ST. PETER THE APOSTLE N.S.         ",
+		"name": "ST. PETER THE APOSTLE N.S.         ",
 		"Address1": "ST. PETER THE APOSTLE N.S., ",
 		"Address2": "NEILSTOWN ROAD",
 		"Address3": "",
-		"location": {
-			"longitude": -6.401915023,
-			"latitude": 53.33679791
-		}
+		"location":{
+         "longitude": -6.401915023,
+		"latitude": 53.33679791
+	}
 	},
 	{
 		"id": "p44",
-		"PolllingStationName": "ST. PIUS X NATIONAL SCHOOL         ",
+		"name": "ST. PIUS X NATIONAL SCHOOL         ",
 		"Address1": "ST. PIUS X NATIONAL SCHOOL, ",
 		"Address2": "FORTFIELD PARK, ",
 		"Address3": "TERENURE",
-		"location": {
-			"longitude": -6.30544787,
-			"latitude": 53.3027677
-		}
+		"location":{
+         "longitude": -6.30544787,
+		"latitude": 53.3027677
+	}
 	},
 	{
 		"id": "p45",
-		"PolllingStationName": "ST. THOMAS JUNIOR NATIONAL SCHOOL  ",
+		"name": "ST. THOMAS JUNIOR NATIONAL SCHOOL  ",
 		"Address1": "ST. THOMAS JUNIOR NATIONAL SCHOOL, ",
 		"Address2": "FORTUNESTOWN ROAD,",
 		"Address3": " JOBSTOWN",
-		"location": {
-			"longitude": -6.403235047,
-			"latitude": 53.27887596
-		}
+		"location":{
+         "longitude": -6.403235047,
+	     	"latitude": 53.27887596
+	}
 	},
 	{
 		"id": "p46",
-		"PolllingStationName": "CITYWEST EDUCATE TOGETHER N.S.",
+		"name": "CITYWEST EDUCATE TOGETHER N.S.",
 		"Address1": "CITYWEST EDUCATE TOGETHER N.S., ",
 		"Address2": "FORTUNESTOWN LANE, ",
 		"Address3": "CITYWEST",
-		"location": {
-			"longitude": -6.437517357,
-			"latitude": 53.28410326
-		}
+		"location":{
+         "longitude": -6.437517357,
+	    	"latitude": 53.28410326
+	}
 	},
 	{
 		"id": "p47",
-		"PolllingStationName": "THE PARK COMMUNITY CENTRE",
+		"name": "THE PARK COMMUNITY CENTRE",
 		"Address1": "THE PARK COMMUNITY CENTRE, ",
 		"Address2": "PARKLANDS ROAD,",
 		"Address3": " DUBLIN 24",
-		"location": {
-			"longitude": -6.343479109,
-			"latitude": 53.27399487
-		}
+		"location":{
+         "longitude": -6.343479109,
+		     "latitude": 53.27399487
+	}
 	},
 	{
 		"id": "p48",
-		"PolllingStationName": "SCOIL CARMEL",
+		"name": "SCOIL CARMEL",
 		"Address1": "SCOIL CARMEL,",
 		"Address2": " FIRHOUSE ROAD ",
 		"Address3": "DUBLIN 24",
-		"location": {
-			"longitude": -6.337288121,
-			"latitude": 53.28513994
-		}
+		"location":{
+         "longitude": -6.337288121,
+		     "latitude": 53.28513994
+	}
 	},
 	{
 		"id": "p49",
-		"PolllingStationName": "SAINT MARY'S NATIONAL SCHOOL",
+		"name": "SAINT MARY'S NATIONAL SCHOOL",
 		"Address1": "SAINT MARY'S NATIONAL SCHOOL",
 		"Address2": " GREENHILLS ROAD",
 		"Address3": "TALLAGHT ",
-		"location": {
-			"longitude": -6.357298875,
-			"latitude": 53.29039249
-		}
+		"location":{
+         "longitude": -6.357298875,
+		     "latitude": 53.29039249
+	}
 	},
 	{
 		"id": "p50",
-		"PolllingStationName": "KNOCKLYON COMMUNITY CENTRE",
+		"name": "KNOCKLYON COMMUNITY CENTRE",
 		"Address1": "KNOCKLYON COMMUNITY CENTRE, IDRONE AVENUE ",
 		"Address2": "KNOCKLYON,",
 		"Address3": " DUBLIN 16",
-		"location": {
-			"longitude": -6.317023008,
-			"latitude": 53.2832873
-		}
+		"location":{
+         "longitude": -6.317023008,
+	     	"latitude": 53.2832873
+	}
 	},
 	{
 		"id": "p51",
-		"PolllingStationName": "Divine Mercy Senior National School",
+		"name": "Divine Mercy Senior National School",
 		"Address1": "Divine Mercy Senior N.S.,  ",
 		"Address2": "Balgaddy,",
 		"Address3": "Lucan",
-		"location": {
-			"longitude": -6.416694875,
-			"latitude": 53.33988985
-		}
+		"location":{
+         "longitude": -6.416694875,
+		     "latitude": 53.33988985
+	}
 	},
 	{
 		"id": "p52",
-		"PolllingStationName": "Saint Ronan's National School",
+		"name": "Saint Ronan's National School",
 		"Address1": "Saint Ronan's N.S.,",
 		"Address2": "Deansrath, ",
 		"Address3": " Clondalkin",
-		"location": {
-			"longitude": -6.426256267,
-			"latitude": 53.32332545
-		}
+		"location":{
+         "longitude": -6.426256267,
+		     "latitude": 53.32332545
+	}
 	},
 	{
 		"id": "p53",
-		"PolllingStationName": "Holy Rosary National School",
+		"name": "Holy Rosary National School",
 		"Address1": "Holy Rosary N.S.,",
 		"Address2": " Ballycragh",
 		"Address3": "",
-		"location": {
-			"longitude": -6.348508753,
-			"latitude": 53.27300043
-		}
+		"location":{
+         "longitude": -6.348508753,
+	     	"latitude": 53.27300043
+	}
 	}
 ]
