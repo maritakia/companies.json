@@ -3,18 +3,21 @@
 		"PolllingStationName": "SOLAS CHRIOST NATIONAL SCHOOL",
 		"Address1": "SOLAS CHRIOST NATIONAL SCHOOL, ",
 		"Address2": "COOKSTOWN ROAD",
-		"longitude": -6.385714844,
-		"latitude": 53.29835295
+		"location": {
+			"longitude": -6.385714844,
+			"latitude": 53.29835295
+		}
 	},
 	{
 		"id": "p2",
-
 		"PolllingStationName": "BALLYROAN COMMUNITY & YOUTH CENTRE ",
 		"Address1": "BALLYROAN COMMUNITY & YOUTH CENTRE,    ",
 		"Address2": "MARIAN ROAD",
 		"Address3": " RATHFARNHAM",
-		"longitude": -6.298723949,
-		"latitude": 53.29011238
+		"location": {
+			"longitude": -6.298723949,
+			"latitude": 53.29011238
+		}
 	},
 	{
 		"id": "p3",
@@ -22,8 +25,10 @@
 		"Address1": "BALLYROAN NATIONAL SCHOOL, ",
 		"Address2": "BALLYROAN ROAD,",
 		"Address3": " RATHFARNHAM",
-		"longitude": -6.294438055,
-		"latitude": 53.28643822
+		"location": {
+			"longitude": -6.294438055,
+			"latitude": 53.28643822
+		}
 	},
 	{
 		"id": "p4",
@@ -31,8 +36,10 @@
 		"Address1": "BAWNOGUES NATIONAL SCHOOL, ",
 		"Address2": "BAWNOGUES ROAD   ",
 		"Address3": "CLONDALKIN",
-		"longitude": -6.413154161,
-		"latitude": 53.32609553
+		"location": {
+			"longitude": -6.413154161,
+			"latitude": 53.32609553
+		}
 	},
 	{
 		"id": "p5",
@@ -40,8 +47,10 @@
 		"Address1": "ORWELL PARK,",
 		"Address2": " TEMPLEOGUE, ",
 		"Address3": "DUBLIN 6W",
-		"longitude": -6.318421456,
-		"latitude": 53.29842781
+		"location": {
+			"longitude": -6.318421456,
+			"latitude": 53.29842781
+		}
 	},
 	{
 		"id": "p6",
@@ -49,8 +58,10 @@
 		"Address1": "BRITTAS COMMUNITY HALL,   ",
 		"Address2": "BRITTAS ",
 		"Address3": "",
-		"longitude": -6.453806324,
-		"latitude": 53.2363888
+		"location": {
+			"longitude": -6.453806324,
+			"latitude": 53.2363888
+		}
 	},
 	{
 		"id": "p7",
@@ -58,8 +69,10 @@
 		"Address1": "GAEL SCOIL NAOMH PADRAIG, ",
 		"Address2": "CASTLE ROAD,",
 		"Address3": "LUCAN ",
-		"longitude": -6.435483234,
-		"latitude": 53.35062692
+		"location": {
+			"longitude": -6.435483234,
+			"latitude": 53.35062692
+		}
 	},
 	{
 		"id": "p8",
@@ -67,8 +80,10 @@
 		"Address": "GLENASMOLE NATIONAL SCHOOL,   ",
 		"Address2": "BOHERNABREENA,",
 		"Address3": "DUBLIN 24  ",
-		"longitude": -6.357596881,
-		"latitude": 53.24545238
+		"location": {
+			"longitude": -6.357596881,
+			"latitude": 53.24545238
+		}
 	},
 	{
 		"id": "p9",
@@ -76,8 +91,10 @@
 		"Address1": "GRIFFEEN VALLEY EDUCATE TOGETHER,",
 		"Address2": " GRIFFEEN GLEN BOULEVARD,",
 		"Address3": "LUCAN",
-		"longitude": -6.433776841,
-		"latitude": 53.34133637
+		"location": {
+			"longitude": -6.433776841,
+			"latitude": 53.34133637
+		}
 	},
 	{
 		"id": "p10",
@@ -85,8 +102,10 @@
 		"Address1": "JOBSTOWN COMMUNITY CENTRE,  ",
 		"Address2": "FORTUNESTOWN WAY, JOBSTOWN,",
 		"Address3": "TALLAGHT",
-		"longitude": -6.401350345,
-		"latitude": 53.28271153
+		"location": {
+			"longitude": -6.401350345,
+			"latitude": 53.28271153
+		}
 	},
 	{
 		"id": "p11",
@@ -94,8 +113,10 @@
 		"Address1": "KILNAMANAGH NATIONAL SCHOOL,   ",
 		"Address2": "TREEPARK ROAD ",
 		"Address3": "",
-		"longitude": -6.357688049,
-		"latitude": 53.30060674
+		"location": {
+			"longitude": -6.357688049,
+			"latitude": 53.30060674
+		}
 	},
 	{
 		"id": "p12",
@@ -103,8 +124,10 @@
 		"Address1": "KINGSWOOD COMMUNITY & LEISURE CENTRE, ",
 		"Address2": "SYLVAN DRIVE,",
 		"Address3": "KINGSWOOD,",
-		"longitude": -6.368322977,
-		"latitude": 53.30674324
+		"location": {
+			"longitude": -6.368322977,
+			"latitude": 53.30674324
+		}
 	},
 	{
 		"id": "p13",
@@ -112,8 +135,10 @@
 		"Address1": "KNOCKLYON JUNIOR NATIONAL SCHOOL, ",
 		"Address2": "IDRONE AVENUE ",
 		"Address3": "",
-		"longitude": -6.316650598,
-		"latitude": 53.2846418
+		"location": {
+			"longitude": -6.316650598,
+			"latitude": 53.2846418
+		}
 	},
 	{
 		"id": "p14",
@@ -121,8 +146,10 @@
 		"Addres1": "KNOCKMITTEN COMMUNITY CENTRE,  ",
 		"Address2": " MONKSFIELD LAWN,",
 		"Address3": "CLONDALKIN ",
-		"longitude": -6.375329696,
-		"latitude": 53.32523816
+		"location": {
+			"longitude": -6.375329696,
+			"latitude": 53.32523816
+		}
 	},
 	{
 		"id": "p15",
@@ -130,8 +157,10 @@
 		"Address1": "SCOIL CNOC MHUIRE SENIOR N.S.,  ",
 		"Address2": "KNOCKMORE AVENUE,",
 		"Address3": "KILLINARDEN",
-		"longitude": -6.39184324,
-		"latitude": 53.27580845
+		"location": {
+			"longitude": -6.39184324,
+			"latitude": 53.27580845
+		}
 	},
 	{
 		"id": "p16",
@@ -139,8 +168,10 @@
 		"Address1": "LUCAN EDUCATE TOGETHER N.S.,   ",
 		"Address2": " BEWLEY WAY",
 		"Address3": "",
-		"longitude": -6.426389338,
-		"latitude": 53.35117717
+		"location": {
+			"longitude": -6.426389338,
+			"latitude": 53.35117717
+		}
 	},
 	{
 		"id": "p17",
@@ -148,8 +179,10 @@
 		"Address": "LUCAN GIRLS NATIONAL SCHOOL,   ",
 		"Address2": "LUCAN ROAD ",
 		"Address3": "LUCAN",
-		"longitude": -6.439968093,
-		"latitude": 53.35892167
+		"location": {
+			"longitude": -6.439968093,
+			"latitude": 53.35892167
+		}
 	},
 	{
 		"id": "p18",
@@ -157,8 +190,10 @@
 		"Address1": "MOUNTAINPARK NATIONAL SCHOOL,  ",
 		"Address2": " ST. DOMINICS ROAD ",
 		"Address3": "",
-		"longitude": -6.357306515,
-		"latitude": 53.28594101
+		"location": {
+			"longitude": -6.357306515,
+			"latitude": 53.28594101
+		}
 	},
 	{
 		"id": "p19",
@@ -166,8 +201,10 @@
 		"Address1": "NAOMH MHUIRE NATIONAL SCHOOL,N",
 		"Address2": "GARTERS LANE,",
 		"Address3": "SAGGART",
-		"longitude": -6.44207638,
-		"latitude": 53.28013435
+		"location": {
+			"longitude": -6.44207638,
+			"latitude": 53.28013435
+		}
 	},
 	{
 		"id": "p20",
@@ -175,8 +212,10 @@
 		"Address1": "PALMERSTON BOYS NATIONAL SCHOOL,  ",
 		"Address2": "THE OVAL,",
 		"Address3": " PALMERSTON ",
-		"longitude": -6.369021666,
-		"latitude": 53.35242478
+		"location": {
+			"longitude": -6.369021666,
+			"latitude": 53.35242478
+		}
 	},
 	{
 		"id": "p21",
@@ -184,8 +223,10 @@
 		"Address1": "ROWLAGH NATIONAL SCHOOL,    ",
 		"Address2": "COLLINSTOWN ROAD",
 		"Address3": "",
-		"longitude": -6.395150409,
-		"latitude": 53.34336864
+		"location": {
+			"longitude": -6.395150409,
+			"latitude": 53.34336864
+		}
 	},
 	{
 		"id": "p22",
@@ -193,8 +234,10 @@
 		"Address1": "SACRED HEART NATIONAL SCHOOL, TALLAGHT",
 		"Address2": " KILLINARDEN WAY,",
 		"Address3": "",
-		"longitude": -6.381967242,
-		"latitude": 53.27647298
+		"location": {
+			"longitude": -6.381967242,
+			"latitude": 53.27647298
+		}
 	},
 	{
 		"id": "p23",
@@ -202,8 +245,10 @@
 		"Address1": "SACRED HEART NATIONAL SCHOOL,",
 		"Address2": " ST. JOHNS DRIVE,",
 		"Address3": " CLONDALKIN",
-		"longitude": -6.402338354,
-		"latitude": 53.31446231
+		"location": {
+			"longitude": -6.402338354,
+			"latitude": 53.31446231
+		}
 	},
 	{
 		"id": "p24",
@@ -211,8 +256,10 @@
 		"Address1": "SCOIL AINE / IDE NATIONAL SCHOOL, ",
 		"Address2": "NEW ROAD,",
 		"Address3": " CLONDALKIN",
-		"longitude": -6.392238222,
-		"latitude": 53.31711183
+		"location": {
+			"longitude": -6.392238222,
+			"latitude": 53.31711183
+		}
 	},
 	{
 		"id": "p25",
@@ -220,8 +267,10 @@
 		"Address1": "SCOIL AINE NAOFA, ",
 		"Address2": "NEWCASTLE ROAD,",
 		"Address3": " LUCAN",
-		"longitude": -6.448991796,
-		"latitude": 53.34866327
+		"location": {
+			"longitude": -6.448991796,
+			"latitude": 53.34866327
+		}
 	},
 	{
 		"id": "p26",
@@ -229,8 +278,10 @@
 		"Address1": "SCOIL CRONAIN, ",
 		"Address2": "MAIN STREET,",
 		"Address3": " RATHCOOLE",
-		"longitude": -6.467742091,
-		"latitude": 53.28178304
+		"location": {
+			"longitude": -6.467742091,
+			"latitude": 53.28178304
+		}
 	},
 	{
 		"id": "p27",
@@ -238,8 +289,10 @@
 		"Address1": "SCOIL MHUIRE, ",
 		"Address2": "GLENMORE,",
 		"Address3": "BALLYBODEN",
-		"longitude": -6.28930605,
-		"latitude": 53.27868908
+		"location": {
+			"longitude": -6.28930605,
+			"latitude": 53.27868908
+		}
 	},
 	{
 		"id": "p28",
@@ -247,8 +300,10 @@
 		"Address1": "SCOIL MHUIRE NATIONAL SCHOOL,",
 		"Address2": "WOODVIEW, ",
 		"Address3": " LUCAN",
-		"longitude": -6.467204793,
-		"latitude": 53.35098075
+		"location": {
+			"longitude": -6.467204793,
+			"latitude": 53.35098075
+		}
 	},
 	{
 		"id": "p29",
@@ -256,8 +311,10 @@
 		"Address1": "SCOIL NAISIUNTA NAOMH MAELRUAIN, ",
 		"Address2": "SOISEAR,",
 		"Address3": "OLDBAWN AVENUE",
-		"longitude": -6.362589776,
-		"latitude": 53.2778239
+		"location": {
+			"longitude": -6.362589776,
+			"latitude": 53.2778239
+		}
 	},
 	{
 		"id": "p30",
@@ -265,8 +322,10 @@
 		"Address1": "SCOIL TREASA,",
 		"Address2": " BALLYCULLEN AVENUE,",
 		"Address3": " FIRHOUSE",
-		"longitude": -6.339017591,
-		"latitude": 53.28080067
+		"location": {
+			"longitude": -6.339017591,
+			"latitude": 53.28080067
+		}
 	},
 	{
 		"id": "p31",
@@ -274,8 +333,10 @@
 		"Address1": "SPRINGFIELD NATIONAL SCHOOL, ",
 		"Address2": "MAPLEWOOD ROAD",
 		"Address3": "",
-		"longitude": -6.387291202,
-		"latitude": 53.28708803
+		"location": {
+			"longitude": -6.387291202,
+			"latitude": 53.28708803
+		}
 	},
 	{
 		"id": "p32",
@@ -283,8 +344,10 @@
 		"Address": "ST. MARTIN DE PORRES NATIONAL SCL, ",
 		"Address2": " HEATHERVIEW LAWN,",
 		"Address3": " AYLESBURY",
-		"longitude": -6.371460263,
-		"latitude": 53.27505817
+		"location": {
+			"longitude": -6.371460263,
+			"latitude": 53.27505817
+		}
 	},
 	{
 		"id": "p33",
@@ -292,8 +355,10 @@
 		"Address1": "ST. AENGUS NATIONAL SCHOOL, ",
 		"Address2": "CASTLEPARK",
 		"Address3": "",
-		"longitude": -6.345385007,
-		"latitude": 53.29304865
+		"location": {
+			"longitude": -6.345385007,
+			"latitude": 53.29304865
+		}
 	},
 	{
 		"id": "p34",
@@ -301,8 +366,10 @@
 		"Address1": "ST. AIDAN'S NATIONAL SCHOOL, ",
 		"Address2": "BROOKFIELD ROAD,",
 		"Address3": " DUBLIN 24",
-		"longitude": -6.404549439,
-		"latitude": 53.2865003
+		"location": {
+			"longitude": -6.404549439,
+			"latitude": 53.2865003
+		}
 	},
 	{
 		"id": "p35",
@@ -310,8 +377,10 @@
 		"Address1": "ST. ANNES NATIONAL SCHOOL, KILCARRIG AVENUE, FETTERCAIRN",
 		"Address2": "",
 		"Address3": "",
-		"longitude": -6.391991015,
-		"latitude": 53.29082801
+		"location": {
+			"longitude": -6.391991015,
+			"latitude": 53.29082801
+		}
 	},
 	{
 		"id": "p36",
@@ -319,8 +388,10 @@
 		"Address1": "ST. BERNADETTES NATIONAL SCHOOL,",
 		"Address2": "GREENFORT AVE, ",
 		"Address3": " QUARRYVALE",
-		"longitude": -6.397889809,
-		"latitude": 53.34963673
+		"location": {
+			"longitude": -6.397889809,
+			"latitude": 53.34963673
+		}
 	},
 	{
 		"id": "p37",
@@ -328,8 +399,10 @@
 		"Address1": "ST. DAMIEN'S NATIONAL SCHOOL,  WALKINSTOWN, ",
 		"Address2": "BEECHFIELD CLOSE,",
 		"Address3": "DUBLIN 12",
-		"longitude": -6.321287542,
-		"latitude": 53.31423451
+		"location": {
+			"longitude": -6.321287542,
+			"latitude": 53.31423451
+		}
 	},
 	{
 		"id": "p38",
@@ -337,8 +410,10 @@
 		"Address1": "ST. FINIAN'S NATIONAL SCHOOL,  ",
 		"Address2": "MAIN STREET,",
 		"Address3": "NEWCASTLE",
-		"longitude": -6.500606931,
-		"latitude": 53.29837162
+		"location": {
+			"longitude": -6.500606931,
+			"latitude": 53.29837162
+		}
 	},
 	{
 		"id": "p39",
@@ -346,8 +421,10 @@
 		"Address1": "ST. JOSEPH'S NATIONAL SCHOOL,",
 		"Address2": " CONVENT ROAD, ",
 		"Address3": "CLONDALKIN",
-		"longitude": -6.394439831,
-		"latitude": 53.31738627
+		"location": {
+			"longitude": -6.394439831,
+			"latitude": 53.31738627
+		}
 	},
 	{
 		"id": "p40",
@@ -355,8 +432,10 @@
 		"Address1": "ST. MARTIN'S NATIONAL SCHOOL, ",
 		"Address2": "BRITTAS",
 		"Address3": "",
-		"longitude": -6.452344183,
-		"latitude": 53.23507796
+		"location": {
+			"longitude": -6.452344183,
+			"latitude": 53.23507796
+		}
 	},
 	{
 		"id": "p41",
@@ -364,8 +443,10 @@
 		"Address1": "ST. MARY'S NATIONAL SCHOOL, ",
 		"Address2": "GRANGE ROAD, ",
 		"Address3": "RATHFARNHAM",
-		"longitude": -6.283886686,
-		"latitude": 53.29481585
+		"location": {
+			"longitude": -6.283886686,
+			"latitude": 53.29481585
+		}
 	},
 	{
 		"id": "p42",
@@ -373,8 +454,10 @@
 		"Address1": "HOLY SPIRIT SENIOR PRIMARY SCHOOL, ",
 		"Address2": "LIMEKILN LANE,",
 		"Address3": "WALKINSTOWN",
-		"longitude": -6.328393549,
-		"latitude": 53.30885945
+		"location": {
+			"longitude": -6.328393549,
+			"latitude": 53.30885945
+		}
 	},
 	{
 		"id": "p43",
@@ -382,8 +465,10 @@
 		"Address1": "ST. PETER THE APOSTLE N.S., ",
 		"Address2": "NEILSTOWN ROAD",
 		"Address3": "",
-		"longitude": -6.401915023,
-		"latitude": 53.33679791
+		"location": {
+			"longitude": -6.401915023,
+			"latitude": 53.33679791
+		}
 	},
 	{
 		"id": "p44",
@@ -391,8 +476,10 @@
 		"Address1": "ST. PIUS X NATIONAL SCHOOL, ",
 		"Address2": "FORTFIELD PARK, ",
 		"Address3": "TERENURE",
-		"longitude": -6.30544787,
-		"latitude": 53.3027677
+		"location": {
+			"longitude": -6.30544787,
+			"latitude": 53.3027677
+		}
 	},
 	{
 		"id": "p45",
@@ -400,8 +487,10 @@
 		"Address1": "ST. THOMAS JUNIOR NATIONAL SCHOOL, ",
 		"Address2": "FORTUNESTOWN ROAD,",
 		"Address3": " JOBSTOWN",
-		"longitude": -6.403235047,
-		"latitude": 53.27887596
+		"location": {
+			"longitude": -6.403235047,
+			"latitude": 53.27887596
+		}
 	},
 	{
 		"id": "p46",
@@ -409,8 +498,10 @@
 		"Address1": "CITYWEST EDUCATE TOGETHER N.S., ",
 		"Address2": "FORTUNESTOWN LANE, ",
 		"Address3": "CITYWEST",
-		"longitude": -6.437517357,
-		"latitude": 53.28410326
+		"location": {
+			"longitude": -6.437517357,
+			"latitude": 53.28410326
+		}
 	},
 	{
 		"id": "p47",
@@ -418,8 +509,10 @@
 		"Address1": "THE PARK COMMUNITY CENTRE, ",
 		"Address2": "PARKLANDS ROAD,",
 		"Address3": " DUBLIN 24",
-		"longitude": -6.343479109,
-		"latitude": 53.27399487
+		"location": {
+			"longitude": -6.343479109,
+			"latitude": 53.27399487
+		}
 	},
 	{
 		"id": "p48",
@@ -427,8 +520,10 @@
 		"Address1": "SCOIL CARMEL,",
 		"Address2": " FIRHOUSE ROAD ",
 		"Address3": "DUBLIN 24",
-		"longitude": -6.337288121,
-		"latitude": 53.28513994
+		"location": {
+			"longitude": -6.337288121,
+			"latitude": 53.28513994
+		}
 	},
 	{
 		"id": "p49",
@@ -436,8 +531,10 @@
 		"Address1": "SAINT MARY'S NATIONAL SCHOOL",
 		"Address2": " GREENHILLS ROAD",
 		"Address3": "TALLAGHT ",
-		"longitude": -6.357298875,
-		"latitude": 53.29039249
+		"location": {
+			"longitude": -6.357298875,
+			"latitude": 53.29039249
+		}
 	},
 	{
 		"id": "p50",
@@ -445,8 +542,10 @@
 		"Address1": "KNOCKLYON COMMUNITY CENTRE, IDRONE AVENUE ",
 		"Address2": "KNOCKLYON,",
 		"Address3": " DUBLIN 16",
-		"longitude": -6.317023008,
-		"latitude": 53.2832873
+		"location": {
+			"longitude": -6.317023008,
+			"latitude": 53.2832873
+		}
 	},
 	{
 		"id": "p51",
@@ -454,8 +553,10 @@
 		"Address1": "Divine Mercy Senior N.S.,  ",
 		"Address2": "Balgaddy,",
 		"Address3": "Lucan",
-		"longitude": -6.416694875,
-		"latitude": 53.33988985
+		"location": {
+			"longitude": -6.416694875,
+			"latitude": 53.33988985
+		}
 	},
 	{
 		"id": "p52",
@@ -463,8 +564,10 @@
 		"Address1": "Saint Ronan's N.S.,",
 		"Address2": "Deansrath, ",
 		"Address3": " Clondalkin",
-		"longitude": -6.426256267,
-		"latitude": 53.32332545
+		"location": {
+			"longitude": -6.426256267,
+			"latitude": 53.32332545
+		}
 	},
 	{
 		"id": "p53",
@@ -472,7 +575,9 @@
 		"Address1": "Holy Rosary N.S.,",
 		"Address2": " Ballycragh",
 		"Address3": "",
-		"longitude": -6.348508753,
-		"latitude": 53.27300043
+		"location": {
+			"longitude": -6.348508753,
+			"latitude": 53.27300043
+		}
 	}
 ]
