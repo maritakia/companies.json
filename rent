@@ -2,425 +2,725 @@
 		"title": "Bill 34 of 2023"
 	},
 	{
-		"x": "Brophy, Colm.",
-		"y": "-1",
-		"z": "No",
+		"name": "Colm Brophy ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "1v "
 	},
-
 	{
-		"x": "Costello, Patrick.",
-		"y": "-1",
-		"z": "No",
+		"name": "James Browne ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 2v"
+	},
+	{
+		"name": "Richard Bruton ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "3v "
+	},
+	{
+		"name": "Colm Burke ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 4v"
+	},
+	{
+		"name": "Mary Butler ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 5v"
+	},
+	{
+		"name": "Thomas Byrne ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 6v"
+	},
+	{
+		"name": "Jackie Cahill ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 7v"
+	},
+	{
+		"name": "Dara Calleary ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 8v"
+	},
+	{
+		"name": "Seán Canney ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 9v"
+	},
+	{
+		"name": "Cannon, Ciarán.",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "10v "
+	},
+	{
+		"name": "Jennifer Carroll MacNeill ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "11v "
+	},
+	{
+		"name": "Michael Collins ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 12v"
+	},
+	{
+		"name": "Niall Collins ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 13v"
+	},
+	{
+		"name": "Patrick Costello ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "14v "
 	},
 	{
-		"x": "Coveney, Simon.",
-		"y": "-1",
-		"z": "No",
+		"name": "Simon Coveney ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 15v"
 	},
 	{
-		"x": "Cowen, Barry.",
-		"y": "-1",
-		"z": "No",
+		"name": "Barry Cowen ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 16v"
 	},
 	{
-		"x": "Crowe, Cathal.",
-		"y": "-1",
-		"z": "No",
+		"name": "Cathal Crowe ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 17v"
 	},
 	{
-		"x": "Devlin, Cormac.",
-		"y": "-1",
-		"z": "No",
+		"name": "Cormac Devlin ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 18v"
 	},
 	{
-		"x": "Dillon, Alan.",
-		"y": "-1",
-		"z": "No",
+		"name": "Alan Dillon ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 19v"
 	},
-
 	{
-		"x": "Farrell, Alan.",
-		"y": "-1",
-		"z": "No",
+		"name": "Stephen Donnelly ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "20v "
+	},
+	{
+		"name": "Francis Noel Duffy ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "21v "
+	},
+	{
+		"name": "Bernard J Durkan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 22v"
+	},
+	{
+		"name": "Damien English ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 23v"
+	},
+	{
+		"name": "Alan Farrell ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 24v"
 	},
 	{
-		"x": "Feighan, Frankie.",
-		"y": "-1",
-		"z": "No",
+		"name": "Frankie Feighan ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "25v "
 	},
 	{
-		"x": "Fitzmaurice, Michael.",
-		"y": "-1",
+		"name": "Michael Fitzmaurice ",
+		"vote": "-1",
 		"id": "26v "
 	},
 	{
-		"x": "Flaherty, Joe.",
-		"y": "-1",
-		"z": "No",
+		"name": "Joe Flaherty ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "27v "
 	},
 	{
-		"x": "Flanagan, Charles.",
-		"y": "-1",
-		"z": "No",
+		"name": "Charles Flanagan ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "28v "
 	},
 	{
-		"x": "Fleming, Sean.",
-		"y": "-1",
-		"z": "No",
+		"name": "Sean Fleming ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "29v "
 	},
 	{
-		"x": "Foley, Norma.",
-		"y": "-1",
+		"name": "Norma Foley ",
+		"vote": "-1",
 		"id": " 30v"
 	},
 	{
-		"x": "Griffin, Brendan.",
-		"y": "-1",
-		"z": "No",
+		"name": "Brendan Griffin ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "31v "
 	},
 	{
-		"x": "Haughey, Seán.",
-		"y": "-1",
-		"z": "No",
+		"name": "Seán Haughey ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": " 32v"
 	},
 	{
-		"x": "Healy-Rae, Danny. ",
-		"y": "-1",
-		"z": "No",
+		"name": " Danny Healy-Rae",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "33v "
 	},
 	{
-		"x": "Healy-Rae, Michael.",
-		"y": "-1",
-		"z": "No",
+		"name": "Michael Healy-Rae ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "34v "
 	},
 	{
-		"x": "Heydon, Martin.",
-		"y": "-1",
-		"z": "No",
+		"name": "Martin Heydon ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "35v "
 	},
 	{
-		"x": "Higgins, Emer.",
-		"y": "-1",
-		"z": "No",
+		"name": "Emer Higgins ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "36v "
 	},
 	{
-		"x": "Humphreys, Heather.",
-		"y": "-1",
-		"z": "No",
+		"name": "Heather Humphreys ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "37v "
 	},
 	{
-		"x": "Kehoe, Paul.",
-		"y": "-1",
-		"z": "No",
+		"name": "Paul Kehoe ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "38v "
 	},
-
 	{
-		"x": "Martin, Micheál.",
-		"y": "-1",
-		"z": "No",
+		"name": "John Lahart ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "39v "
+	},
+	{
+		"name": "Brian Leddin  ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "40v "
+	},
+	{
+		"name": " Michael Lowry ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "41v "
+	},
+	{
+		"name": "Josepha Madigan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "42v "
+	},
+	{
+		"name": "Martin Micheál",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "43v "
 	},
 	{
-		"x": "Matthews, Steven.",
-		"y": "-1",
-		"z": "No",
+		"name": "Steven Matthews ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "44v "
 	},
 	{
-		"x": "McAuliffe, Paul.",
-		"y": "-1",
-		"z": "No",
+		"name": "Paul McAuliffe ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "45v "
 	},
 	{
-		"x": "McConalogue, Charlie.",
-		"y": "-1",
-		"z": "No",
+		"name": "Charlie McConalogue ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "46v "
 	},
 	{
-		"x": "McGrath, Mattie.",
-		"y": "-1",
-		"z": "No",
+		"name": "Mattie McGrath ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "47v "
 	},
 	{
-		"x": "McGrath, Michael.",
-		"y": "-1",
-		"z": "No",
+		"name": "Michael McGrath ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "48v "
 	},
 	{
-		"x": "McHugh, Joe.",
-		"y": "-1",
+		"name": "Joe McHugh ",
+		"vote": "-1",
 		"id": " 49v"
 	},
 	{
-		"x": "McNamara, Michael.",
-		"y": "-1",
-		"z": "No",
+		"name": "Michael McNamara ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "50v "
 	},
 	{
-		"x": "Moynihan, Aindrias.",
-		"y": "-1",
-		"z": "No",
+		"name": "Aindrias Moynihan ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "51v "
 	},
 	{
-		"x": "Moynihan, Michael.",
-		"y": "-1",
-		"z": "No",
+		"name": "Michael Moynihan ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "52v "
 	},
 	{
-		"x": "Murnane O'Connor, Jennifer.",
-		"y": "-1",
-		"z": "No",
+		"name": "JenniferMurnane O'Connor ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "53v "
 	},
 	{
-		"x": "Naughton, Hildegarde.",
-		"y": "-1",
-		"z": "No",
+		"name": "Hildegarde Naughton ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "54v "
 	},
 	{
-		"x": "Noonan, Malcolm.",
-		"y": "-1",
-		"z": "No",
+		"name": "Malcolm Noonan ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "55v "
 	},
 	{
-		"x": "O'Brien, Darragh.",
-		"y": "-1",
-		"z": "No",
+		"name": "Darragh O'Brien ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "56v "
 	},
 	{
-		"x": "O'Brien, Joe.",
-		"y": "-1",
-		"z": "No",
+		"name": "Joe O'Brien ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "57v "
 	},
 	{
-		"x": "O'Callaghan, Jim.",
-		"y": "-1",
-		"z": "No",
+		"name": "Jim O'Callaghan ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "58v "
 	},
 	{
-		"x": "O'Connor, James.",
-		"y": "-1",
-		"z": "No",
+		"name": "James O'Connor ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "59v "
 	},
 	{
-		"x": "O'Donnell, Kieran.",
-		"y": "-1",
-		"z": "No",
+		"name": "Kieran O'Donnell ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "60v "
 	},
 	{
-		"x": "O'Donoghue, Richard.",
-		"y": "-1",
-		"z": "No",
+		"name": "Richard O'Donoghue ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "61v "
 	},
 	{
-		"x": "Rabbitte, Anne.",
-		"y": "-1",
-		"z": "No",
+		"name": "Fergus O'Dowd ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "62v "
+	},
+	{
+		"name": "Roderic O'Gorman ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 63v"
+	},
+	{
+		"name": "Christopher O'Sullivan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 64v"
+	},
+	{
+		"name": "Pádraig O'Sullivan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "65v "
+	},
+	{
+		"name": "Marc Ó Cathasaigh ",
+		"vote": "-1",
+		"id": "66v "
+	},
+	{
+		"name": "Éamon Ó Cuív ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "67v "
+	},
+	{
+		"name": "Anne Rabbitte ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "68v "
 	},
 	{
-		"x": "Richmond, Neale.",
-		"y": "-1",
-		"z": "No",
+		"name": "Neale Richmond ",
+		"vote": "-1",
+		"voteText": "No",
 		"id": "69v "
 	},
-
 	{
-		"x": "Cairns, Holly.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Michael Ring ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "70v "
+	},
+	{
+		"name": "Eamon Ryan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "71v "
+	},
+	{
+		"name": "Matt Shanahan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "72v "
+	},
+	{
+		"name": "Brendan Smith ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "73v "
+	},
+	{
+		"name": "Ossian Smyth ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "74v "
+	},
+	{
+		"name": "David Stanton ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "75v "
+	},
+	{
+		"name": "Mick Barry ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "76v "
+	},
+	{
+		"name": "Richard Boyd Barrett ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "77v "
+	},
+	{
+		"name": "John Brady ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "78v "
+	},
+	{
+		"name": "Martin Browne ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "79v "
+	},
+	{
+		"name": "Sorca Clarke ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "80v "
+	},
+	{
+		"name": "Holly Cairns ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "81v "
 	},
 	{
-		"x": "Collins, Joan.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Joan Collins ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "82v "
 	},
 	{
-		"x": "Connolly, Catherine.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Catherine Connolly ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "83v "
 	},
 	{
-		"x": "Conway-Walsh, Rose.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Rose Conway-Walsh ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "84v"
 	},
 	{
-		"x": "Crowe, Seán.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Seán Crowe ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "85v "
 	},
 	{
-		"x": "Cronin, Réada.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Réada Cronin ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "86v "
 	},
 	{
-		"x": "Daly, Pa.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Pa Daly ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "87v "
 	},
 	{
-		"x": "Doherty, Pearse.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Pearse Doherty ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "88v "
 	},
 	{
-		"x": "Donnelly, Paul.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Paul Donnelly ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "89v"
 	},
 	{
-		"x": "Ellis, Dessie.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Dessie Ellis ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "90v"
 	},
 	{
-		"x": "Farrell, Mairéad.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Mairéad Farrell ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "91V "
 	},
 	{
-		"x": "Funchion, Kathleen.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Kathleen Funchion ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "92V "
 	},
 	{
-		"x": "Gould, Thomas.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Thomas Gould ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "93V "
 	},
 	{
-		"x": "Gannon, Gary.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Gary Gannon ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "94V "
 	},
 	{
-		"x": "Guirke, Johnny.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Johnny Guirke",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": " 95V"
 	},
 	{
-		"x": "Howlin, Brendan.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Brendan Howlin ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "96V "
 	},
 	{
-		"x": "Kenny, Gino.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Gino Kenny ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "97v"
 	},
 	{
-		"x": "Kenny, Martin.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Martin Kenny",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "98v "
 	},
 	{
-		"x": "Kerrane, Claire.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Claire Kerrane ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "99v "
 	},
 	{
-		"x": "Mac Lochlainn, Pádraig.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Pádraig Mac Lochlainn ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "100v "
 	},
 	{
-		"x": "Mitchell, Denise.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Denise Mitchell" ,
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "101v"
 	},
 	{
-		"x": "Murphy, Catherine.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Catherine Murphy ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "102v "
 	},
 	{
-		"x": "Murphy, Paul.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Paul Murphy ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "103v "
 	},
 	{
-		"x": "Nash, Ged.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Ged Nash ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "104v "
 	},
 	{
-		"x": "Nolan, Carol.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Carol Nolan ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "105v "
 	},
 	{
-		"x": "O'Callaghan, Cian.",
-		"y": "1",
-		"z": "Yes",
+		"name": " Cian O'Callaghan",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "106v "
 	},
 	{
-		"x": "O'Reilly, Louise.",
-		"y": "1",
-		"z": "Yes",
+		"name": "Louise O'Reilly ",
+		"vote": "1",
+		"voteText": "Yes",
 		"id": "107v "
 	},
-
+	{
+		"name": "Eoin Ó Broin ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "108v "
+	},
+	{
+		"name": "Darren O'Rourke ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "109v "
+	},
+	{
+		"name": "Ruairí Ó Murchú ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "110v "
+	},
+	{
+		"name": "Aodhánm Ó Ríordáin ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": " 111v"
+	},
+	{
+		"name": "Aengus Ó Snodaigh ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "112v "
+	},
+	{
+		"name": "Maurice Quinlivan" ,
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "113v "
+	},
+	{
+		"name": "Patricia Ryan ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "114v "
+	},
+	{
+		"name": "Róisín Shortall" ,
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "115v "
+	},
+	{
+		"name": "Bríd Smith ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "116v "
+	},
+	{
+		"name": "Duncan Smith",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "117v "
+	},
+	{
+		"name": "Brian Stanley ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "118v "
+	},
+	{
+		"name": "Pauline Tully ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "119v "
+	},
+	{
+		"name": " Mark Ward",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "120v "
+	},
+	{
+		"name": "Jennifer Whitmore ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "121v "
+	}
 ]
