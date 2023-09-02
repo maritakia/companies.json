@@ -152,6 +152,7 @@
 	{
 		"name": "Michael Fitzmaurice ",
 		"vote": "-1",
+                "voteText": "No",
 		"id": "26v "
 	},
 	{
@@ -288,6 +289,7 @@
 	{
 		"name": "Joe McHugh ",
 		"vote": "-1",
+                "voteText": "No",
 		"id": " 49v"
 	},
 	{
