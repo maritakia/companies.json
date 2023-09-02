@@ -1,111 +1,13 @@
 [
+
+
+
+
 	{
-		"name": "Colm Brophy ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "1v "
-	},
-	{
-		"name": "James Browne ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 2v"
-	},
-	{
-		"name": "Richard Bruton ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "3v "
-	},
-	{
-		"name": "Colm Burke ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 4v"
-	},
-	{
-		"name": "Mary Butler ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 5v"
-	},
-	{
-		"name": "Thomas Byrne ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 6v"
-	},
-	{
-		"name": "Jackie Cahill ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 7v"
-	},
-	{
-		"name": "Dara Calleary ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 8v"
-	},
-	{
-		"name": "Seán Canney ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 9v"
-	},
-	{
-		"name": "Cannon, Ciarán.",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "10v "
-	},
-	{
-		"name": "Jennifer Carroll MacNeill ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "11v "
-	},
-	{
-		"name": "Michael Collins ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 12v"
-	},
-	{
-		"name": "Niall Collins ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 13v"
-	},
-	{
-		"name": "Patrick Costello ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "14v "
-	},
-	{
-		"name": "Simon Coveney ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 15v"
-	},
-	{
-		"name": "Barry Cowen ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 16v"
-	},
-	{
-		"name": "Cathal Crowe ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 17v"
-	},
-	{
-		"name": "Cormac Devlin ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 18v"
+		"name": "Aengus Ó Snodaigh ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "112v "
 	},
 	{
 		"name": "Alan Dillon ",
@@ -114,16 +16,31 @@
 		"id": " 19v"
 	},
 	{
-		"name": "Stephen Donnelly ",
+		"name": "Alan Farrell ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "20v "
+		"id": " 24v"
 	},
 	{
-		"name": "Francis Noel Duffy ",
+		"name": "Anne Rabbitte ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "21v "
+		"id": "68v "
+	},
+	{
+		"name": "Aodhánm Ó Ríordáin ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": " 111v"
+	},
+
+
+
+	{
+		"name": "Barry Cowen ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 16v"
 	},
 	{
 		"name": "Bernard J Durkan ",
@@ -132,34 +49,70 @@
 		"id": " 22v"
 	},
 	{
-		"name": "Damien English ",
+		"name": "Brendan Griffin ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": " 23v"
+		"id": "31v "
 	},
 	{
-		"name": "Alan Farrell ",
+		"name": "Brendan Howlin ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "96V "
+	},
+
+	{
+		"name": "Brendan Smith ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": " 24v"
+		"id": "73v "
 	},
+
 	{
-		"name": "Frankie Feighan ",
+		"name": "Brian Leddin  ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "25v "
+		"id": "40v "
 	},
 	{
-		"name": "Michael Fitzmaurice ",
-		"vote": "-1",
-                "voteText": "No",
-		"id": "26v "
+		"name": "Brian Stanley ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "118v "
 	},
 	{
-		"name": "Joe Flaherty ",
+		"name": "Bríd Smith ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "116v "
+	},
+	{
+		"name": "Carol Nolan ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "105v "
+	},
+	{
+		"name": "Catherine Connolly ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "83v "
+	},
+
+	{
+		"name": "Catherine Murphy ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "102v "
+	},
+
+
+
+	{
+		"name": "Cathal Crowe ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "27v "
+		"id": " 17v"
 	},
 	{
 		"name": "Charles Flanagan ",
@@ -168,28 +121,58 @@
 		"id": "28v "
 	},
 	{
-		"name": "Sean Fleming ",
+		"name": "Charlie McConalogue ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "29v "
+		"id": "46v "
 	},
 	{
-		"name": "Norma Foley ",
-		"vote": "-1",
-                 "voteText": "No",
-		"id": " 30v"
-	},
-	{
-		"name": "Brendan Griffin ",
+		"name": "Christopher O'Sullivan ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "31v "
+		"id": " 64v"
 	},
 	{
-		"name": "Seán Haughey ",
+		"name": "Ciarán Cannon ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": " 32v"
+		"id": "10v "
+	},
+	{
+		"name": " Cian O'Callaghan",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "106v "
+	},
+	{
+		"name": "Claire Kerrane ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "99v "
+	},
+	{
+		"name": "Colm Brophy ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "1v "
+	},
+	{
+		"name": "Colm Burke ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 4v"
+	},
+	{
+		"name": "Cormac Devlin ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 18v"
+	},
+	{
+		"name": "Damien English ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 23v"
 	},
 	{
 		"name": " Danny Healy-Rae",
@@ -198,16 +181,62 @@
 		"id": "33v "
 	},
 	{
-		"name": "Michael Healy-Rae ",
+		"name": "Dara Calleary ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "34v "
+		"id": " 8v"
 	},
 	{
-		"name": "Martin Heydon ",
+		"name": "Darragh O'Brien ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "35v "
+		"id": "56v "
+	},
+	{
+		"name": "Darren O'Rourke ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "109v "
+	},
+	{
+		"name": "David Stanton ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "75v "
+	},
+
+	{
+		"name": "Denise Mitchell",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "101v"
+	},
+	{
+		"name": "Dessie Ellis ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "90v"
+	},
+	{
+		"name": "Duncan Smith",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "117v "
+	},
+
+
+
+	{
+		"name": "Éamon Ó Cuív ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "67v "
+	},
+	{
+		"name": "Eamon Ryan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "71v "
 	},
 	{
 		"name": "Emer Higgins ",
@@ -216,106 +245,57 @@
 		"id": "36v "
 	},
 	{
+		"name": "Eoin Ó Broin ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "108v "
+	},
+	{
+		"name": "Fergus O'Dowd ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "62v "
+	},
+
+	{
+		"name": "Francis Noel Duffy ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "21v "
+	},
+
+	{
+		"name": "Frankie Feighan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "25v "
+	},
+
+
+	{
+		"name": "Gary Gannon ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "94V "
+	},
+	{
+		"name": "Ged Nash ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "104v "
+	},
+
+	{
+		"name": "Gino Kenny ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "97v"
+	},
+	{
 		"name": "Heather Humphreys ",
 		"vote": "-1",
 		"voteText": "No",
 		"id": "37v "
-	},
-	{
-		"name": "Paul Kehoe ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "38v "
-	},
-	{
-		"name": "John Lahart ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "39v "
-	},
-	{
-		"name": "Brian Leddin  ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "40v "
-	},
-	{
-		"name": " Michael Lowry ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "41v "
-	},
-	{
-		"name": "Josepha Madigan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "42v "
-	},
-	{
-		"name": "Martin Micheál",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "43v "
-	},
-	{
-		"name": "Steven Matthews ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "44v "
-	},
-	{
-		"name": "Paul McAuliffe ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "45v "
-	},
-	{
-		"name": "Charlie McConalogue ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "46v "
-	},
-	{
-		"name": "Mattie McGrath ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "47v "
-	},
-	{
-		"name": "Michael McGrath ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "48v "
-	},
-	{
-		"name": "Joe McHugh ",
-		"vote": "-1",
-                "voteText": "No",
-		"id": " 49v"
-	},
-	{
-		"name": "Michael McNamara ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "50v "
-	},
-	{
-		"name": "Aindrias Moynihan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "51v "
-	},
-	{
-		"name": "Michael Moynihan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "52v "
-	},
-	{
-		"name": "JenniferMurnane O'Connor ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "53v "
 	},
 	{
 		"name": "Hildegarde Naughton ",
@@ -324,16 +304,72 @@
 		"id": "54v "
 	},
 	{
-		"name": "Malcolm Noonan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "55v "
+		"name": "Holly Cairns ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "81v "
 	},
 	{
-		"name": "Darragh O'Brien ",
+		"name": "Jackie Cahill ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "56v "
+		"id": " 7v"
+	},
+	{
+		"name": "James Browne ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 2v"
+	},
+
+	{
+		"name": "Joan Collins ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "82v "
+	},
+	{
+		"name": "Joe McHugh ",
+		"vote": "-1",
+		"id": " 49v"
+	},
+	{
+		"name": "John Lahart ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "39v "
+	},
+	{
+		"name": "Jennifer Whitmore ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "121v "
+	},
+
+	{
+		"name": "Jennifer Carroll MacNeill ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "11v "
+	},
+	{
+		"name": "Joe Flaherty ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "27v "
+	},
+	{
+		"name": "John Brady ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "78v "
+	},
+
+	{
+		"name": "Johnny Guirke",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": " 95V"
 	},
 	{
 		"name": "Joe O'Brien ",
@@ -354,40 +390,119 @@
 		"id": "59v "
 	},
 	{
+		"name": "Josepha Madigan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "42v "
+	},
+	{
+		"name": "JenniferMurnane O'Connor ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "53v "
+	},
+
+	{
 		"name": "Kieran O'Donnell ",
 		"vote": "-1",
 		"voteText": "No",
 		"id": "60v "
 	},
+
+
 	{
-		"name": "Richard O'Donoghue ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "61v "
+		"name": "Kathleen Funchion ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "92V "
 	},
 	{
-		"name": "Fergus O'Dowd ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "62v "
+		"name": "Louise O'Reilly ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "107v "
+	},
+
+	{
+		"name": "Mairéad Farrell ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "91V "
 	},
 	{
-		"name": "Roderic O'Gorman ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 63v"
+		"name": " Mark Ward",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "120v "
 	},
 	{
-		"name": "Christopher O'Sullivan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": " 64v"
+		"name": "Martin Browne ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "79v "
 	},
 	{
-		"name": "Pádraig O'Sullivan ",
+		"name": "Martin Kenny",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "98v "
+	},
+	{
+		"name": "Mary Butler ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "65v "
+		"id": " 5v"
+	},
+	{
+		"name": " Michael Lowry ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "41v "
+	},
+
+	{
+		"name": "Martin Micheál",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "43v "
+	},
+
+	{
+		"name": "Martin Heydon ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "35v "
+	},
+	{
+		"name": "Matt Shanahan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "72v "
+	},
+	{
+		"name": "Mattie McGrath ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "47v "
+	},
+	{
+		"name": "Michael McGrath ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "48v "
+	},
+
+	{
+		"name": "Michael McNamara ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "50v "
+	},
+	{
+		"name": "Maurice Quinlivan",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "113v "
 	},
 	{
 		"name": "Marc Ó Cathasaigh ",
@@ -395,16 +510,28 @@
 		"id": "66v "
 	},
 	{
-		"name": "Éamon Ó Cuív ",
+		"name": "Michael Fitzmaurice ",
 		"vote": "-1",
-		"voteText": "No",
-		"id": "67v "
+		"id": "26v "
 	},
 	{
-		"name": "Anne Rabbitte ",
+		"name": "Michael Collins ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "68v "
+		"id": " 12v"
+	},
+	{
+		"name": "Michael Healy-Rae ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "34v "
+	},
+
+	{
+		"name": "Mick Barry ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "76v "
 	},
 	{
 		"name": "Neale Richmond ",
@@ -418,101 +545,24 @@
 		"voteText": "No",
 		"id": "70v "
 	},
-	{
-		"name": "Eamon Ryan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "71v "
-	},
-	{
-		"name": "Matt Shanahan ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "72v "
-	},
-	{
-		"name": "Brendan Smith ",
-		"vote": "-1",
-		"voteText": "No",
-		"id": "73v "
-	},
+
 	{
 		"name": "Ossian Smyth ",
 		"vote": "-1",
 		"voteText": "No",
 		"id": "74v "
 	},
+
 	{
-		"name": "David Stanton ",
+		"name": "Niall Collins ",
 		"vote": "-1",
 		"voteText": "No",
-		"id": "75v "
+		"id": " 13v"
 	},
 	{
-		"name": "Mick Barry ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "76v "
-	},
-	{
-		"name": "Richard Boyd Barrett ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "77v "
-	},
-	{
-		"name": "John Brady ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "78v "
-	},
-	{
-		"name": "Martin Browne ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "79v "
-	},
-	{
-		"name": "Sorca Clarke ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "80v "
-	},
-	{
-		"name": "Holly Cairns ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "81v "
-	},
-	{
-		"name": "Joan Collins ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "82v "
-	},
-	{
-		"name": "Catherine Connolly ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "83v "
-	},
-	{
-		"name": "Rose Conway-Walsh ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "84v"
-	},
-	{
-		"name": "Seán Crowe ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "85v "
-	},
-	{
-		"name": "Réada Cronin ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "86v "
+		"name": "Norma Foley ",
+		"vote": "-1",
+		"id": " 30v"
 	},
 	{
 		"name": "Pa Daly ",
@@ -520,6 +570,33 @@
 		"voteText": "Yes",
 		"id": "87v "
 	},
+	{
+		"name": "Pádraig O'Sullivan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "65v "
+	},
+
+	{
+		"name": "Pauline Tully ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "119v "
+	},
+	{
+		"name": "Patricia Ryan ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "114v "
+	},
+
+	{
+		"name": "Patrick Costello ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "14v "
+	},
+
 	{
 		"name": "Pearse Doherty ",
 		"vote": "1",
@@ -533,64 +610,18 @@
 		"id": "89v"
 	},
 	{
-		"name": "Dessie Ellis ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "90v"
+		"name": "Paul Kehoe ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "38v "
 	},
+
+
 	{
-		"name": "Mairéad Farrell ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "91V "
-	},
-	{
-		"name": "Kathleen Funchion ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "92V "
-	},
-	{
-		"name": "Thomas Gould ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "93V "
-	},
-	{
-		"name": "Gary Gannon ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "94V "
-	},
-	{
-		"name": "Johnny Guirke",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": " 95V"
-	},
-	{
-		"name": "Brendan Howlin ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "96V "
-	},
-	{
-		"name": "Gino Kenny ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "97v"
-	},
-	{
-		"name": "Martin Kenny",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "98v "
-	},
-	{
-		"name": "Claire Kerrane ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "99v "
+		"name": "Paul McAuliffe ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "45v "
 	},
 	{
 		"name": "Pádraig Mac Lochlainn ",
@@ -598,59 +629,72 @@
 		"voteText": "Yes",
 		"id": "100v "
 	},
-	{
-		"name": "Denise Mitchell" ,
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "101v"
-	},
-	{
-		"name": "Catherine Murphy ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "102v "
-	},
+
 	{
 		"name": "Paul Murphy ",
 		"vote": "1",
 		"voteText": "Yes",
 		"id": "103v "
 	},
+
+
 	{
-		"name": "Ged Nash ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "104v "
+		"name": "Aindrias Moynihan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "51v "
 	},
 	{
-		"name": "Carol Nolan ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "105v "
+		"name": "Michael Moynihan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "52v "
+	},
+
+	{
+		"name": "Malcolm Noonan ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "55v "
 	},
 	{
-		"name": " Cian O'Callaghan",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "106v "
+		"name": "Roderic O'Gorman ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 63v"
 	},
 	{
-		"name": "Louise O'Reilly ",
+		"name": "Richard Boyd Barrett ",
 		"vote": "1",
 		"voteText": "Yes",
-		"id": "107v "
+		"id": "77v "
+	},
+
+
+	{
+		"name": "Rose Conway-Walsh ",
+		"vote": "1",
+		"voteText": "Yes",
+		"id": "84v"
 	},
 	{
-		"name": "Eoin Ó Broin ",
+		"name": "Réada Cronin ",
 		"vote": "1",
 		"voteText": "Yes",
-		"id": "108v "
+		"id": "86v "
 	},
 	{
-		"name": "Darren O'Rourke ",
+		"name": "Richard O'Donoghue ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "61v "
+	},
+
+	{
+		"name": "Róisín Shortall",
 		"vote": "1",
 		"voteText": "Yes",
-		"id": "109v "
+		"id": "115v "
 	},
 	{
 		"name": "Ruairí Ó Murchú ",
@@ -659,69 +703,75 @@
 		"id": "110v "
 	},
 	{
-		"name": "Aodhánm Ó Ríordáin ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": " 111v"
+		"name": "Richard Bruton ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "3v "
 	},
 	{
-		"name": "Aengus Ó Snodaigh ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "112v "
+		"name": "Sean Fleming ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "29v "
+	},
+
+
+	{
+		"name": "Seán Haughey ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 32v"
 	},
 	{
-		"name": "Maurice Quinlivan" ,
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "113v "
+		"name": "Simon Coveney ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 15v"
 	},
 	{
-		"name": "Patricia Ryan ",
+		"name": "Sorca Clarke ",
 		"vote": "1",
 		"voteText": "Yes",
-		"id": "114v "
+		"id": "80v "
+	},
+
+	{
+		"name": "Stephen Donnelly ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "20v "
 	},
 	{
-		"name": "Róisín Shortall" ,
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "115v "
+		"name": "Seán Canney ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 9v"
 	},
 	{
-		"name": "Bríd Smith ",
+		"name": "Seán Crowe ",
 		"vote": "1",
 		"voteText": "Yes",
-		"id": "116v "
+		"id": "85v "
 	},
 	{
-		"name": "Duncan Smith",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "117v "
+		"name": "Steven Matthews ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": "44v "
 	},
 	{
-		"name": "Brian Stanley ",
+		"name": "Thomas Gould ",
 		"vote": "1",
 		"voteText": "Yes",
-		"id": "118v "
+		"id": "93V "
 	},
+
 	{
-		"name": "Pauline Tully ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "119v "
-	},
-	{
-		"name": " Mark Ward",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "120v "
-	},
-	{
-		"name": "Jennifer Whitmore ",
-		"vote": "1",
-		"voteText": "Yes",
-		"id": "121v "
+		"name": "Thomas Byrne ",
+		"vote": "-1",
+		"voteText": "No",
+		"id": " 6v"
 	}
+
+
 ]
