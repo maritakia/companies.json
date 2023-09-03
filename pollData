@@ -3,10 +3,9 @@
 		"name": "SOLAS CHRIOST NATIONAL SCHOOL",
 		"Address1": "SOLAS CHRIOST NATIONAL SCHOOL, ",
 		"Address2": "COOKSTOWN ROAD",
-    "location":{
-             "location":{
-             "longitude": -6.385714844,
-		          "latitude": 53.29835295
+		"location":{
+		        "longitude": -6.385714844,
+		         "latitude": 53.29835295
 		}
 	   },
 	   {
@@ -17,8 +16,8 @@
 		"Address2": "MARIAN ROAD",
 		"Address3": " RATHFARNHAM",
 		"location":{
-         "longitude": -6.298723949,
-	     	"latitude": 53.29011238
+	                "longitude": -6.298723949,
+		     	"latitude": 53.29011238
 			}
 	},
 	{
@@ -28,8 +27,8 @@
 		"Address2": "BALLYROAN ROAD,",
 		"Address3": " RATHFARNHAM",
 		"location":{
-         "longitude": -6.294438055,
-		"latitude": 53.28643822
+	                "longitude": -6.294438055,
+			"latitude": 53.28643822
 	}
 	},
 	{
@@ -39,8 +38,8 @@
 		"Address2": "BAWNOGUES ROAD   ",
 		"Address3": "CLONDALKIN",
 		"location":{
-         "longitude": -6.413154161,
-		"latitude": 53.32609553
+	               "longitude": -6.413154161,
+			"latitude": 53.32609553
 	}
 	},
 	{
@@ -50,8 +49,8 @@
 		"Address2": " TEMPLEOGUE, ",
 		"Address3": "DUBLIN 6W",
 		"location":{
-         "longitude": -6.318421456,
-		"latitude": 53.29842781
+	               "longitude": -6.318421456,
+			"latitude": 53.29842781
 	}
 	},
 	{
@@ -61,8 +60,8 @@
 		"Address2": "BRITTAS ",
 		"Address3": "",
 		"location":{
-         "longitude": -6.453806324,
-		"latitude": 53.2363888
+	               "longitude": -6.453806324,
+			"latitude": 53.2363888
 	}
 	},
 	{
@@ -72,8 +71,8 @@
 		"Address2": "CASTLE ROAD,",
 		"Address3": "LUCAN ",
 		"location":{
-         "longitude": -6.435483234,
-		"latitude": 53.35062692
+	               "longitude": -6.435483234,
+			"latitude": 53.35062692
 	}
 	},
 	{
@@ -83,8 +82,8 @@
 		"Address2": "BOHERNABREENA,",
 		"Address3": "DUBLIN 24  ",
 		"location":{
-         "longitude": -6.357596881,
-		"latitude": 53.24545238
+	                "longitude": -6.357596881,
+			"latitude": 53.24545238
 	}
 	},
 	{
@@ -94,8 +93,8 @@
 		"Address2": " GRIFFEEN GLEN BOULEVARD,",
 		"Address3": "LUCAN",
 		"location":{
-         "longitude": -6.433776841,
-		"latitude": 53.34133637
+	                "longitude": -6.433776841,
+			"latitude": 53.34133637
 	}
 	},
 	{
@@ -105,7 +104,7 @@
 		"Address2": "FORTUNESTOWN WAY, JOBSTOWN,",
 		"Address3": "TALLAGHT",
 		"location":{
-         "longitude": -6.401350345,
+                "longitude": -6.401350345,
 		"latitude": 53.28271153
 	}
 	},
