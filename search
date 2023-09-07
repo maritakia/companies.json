@@ -10,8 +10,10 @@
 		"tel": "01 618 3802",
 		"email": "darragh.obrien@oireachtas.ie",
 		"image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Darragh-O'Brien.D.2007-06-14/image/large",
-		"isLandlord": false,
-		"wef": false
+                "description":"orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus in ornare quam viverra orci. Adipiscing diam donec adipiscing tristique risus nec feugiat. Purus gravida quis blandit turpis. Feugiat scelerisque varius morbi enim nunc faucibus. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Sed viverra tellus in hac habitasse. Ipsum faucibus vitae aliquet nec ullamcorper. Pulvinar elementum integer enim neque volutpat. Id eu nisl nunc mi ipsum. Enim ut sem viverra aliquet eget sit amet. Eu tincidunt tortor aliquam nulla facilisi cras.
+                Augue lacus viverra vitae congue eu consequat ac felis donec. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lacus suspendisse faucibus interdum posuere lorem. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Diam vel quam elementum pulvinar etiam non quam. Mi sit amet mauris commodo quis imperdiet. Tristique risus nec feugiat in fermentum posuere. Phasellus vestibulum lorem sed risus ultricies tristique. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Aenean euismod elementum nisi quis eleifend quam.
+		"isLandlord": false
+
 	},
 	{
 		"district": "fingal",
@@ -25,6 +27,8 @@
 		"tel": "01 618 4414",
 		"email": "joe.obrien@oireachtas.ie",
 		"image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-O'Brien.D.2019-11-29/image/thumb",
+                "description":"orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus in ornare quam viverra orci. Adipiscing diam donec adipiscing tristique risus nec feugiat. Purus gravida quis blandit turpis. Feugiat scelerisque varius morbi enim nunc faucibus. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse. Elit ullamcorper dignissim cras tincidunt lobortis feugiat. Sed viverra tellus in hac habitasse. Ipsum faucibus vitae aliquet nec ullamcorper. Pulvinar elementum integer enim neque volutpat. Id eu nisl nunc mi ipsum. Enim ut sem viverra aliquet eget sit amet. Eu tincidunt tortor aliquam nulla facilisi cras.
+                Augue lacus viverra vitae congue eu consequat ac felis donec. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lacus suspendisse faucibus interdum posuere lorem. Ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis. Diam vel quam elementum pulvinar etiam non quam. Mi sit amet mauris commodo quis imperdiet. Tristique risus nec feugiat in fermentum posuere. Phasellus vestibulum lorem sed risus ultricies tristique. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Aenean euismod elementum nisi quis eleifend quam.
 		"isLandlord": false
 	},
 	{
