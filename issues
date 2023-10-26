@@ -1,5 +1,10 @@
-[  {"title":"climate",
-      "id" : 1,
+
+{ "issues":
+
+[ 
+  {
+    "id" : 1,
+    "title":"climate",  
     "bills": [
     {
     "bill":" 60 of 2023 ",
@@ -42,8 +47,9 @@
 }
 ]
    },
-   {"title":"education",
-     "id" : 2,
+  {
+    "id" : 2,
+    "title":"education", 
      "bills":[
      {
 		"bill": "73 of 2022",
@@ -87,8 +93,9 @@
 	}
 ]
    },
-   {"title":"health",
-     "id": 3,
+  {
+    "id": 3,
+    "title":"health",   
      "bills":[
   {
 		"bill": " 54 of 2023  ",
@@ -133,3 +140,4 @@
 ]
    }
 ]
+}
