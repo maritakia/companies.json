@@ -46,7 +46,7 @@
    },
   {
     "id" : 2,
-    "title":"education",
+    "title":"Education",
      "bills":[
      {
 		"bill": "73 of 2022",
@@ -92,7 +92,7 @@
    },
   {
     "id": 3,
-    "title":"health",
+    "title":"Health",
      "bills":[
        {
 		"bill": " 54 of 2023  ",
