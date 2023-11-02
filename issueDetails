@@ -138,7 +138,7 @@
         ]
     },
     {
-        "issue": "Housing",
+        "title": "Housing",
         "id": "m3",
         "bills": [
             {
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "issue": "Social Issues",
+        "title": "Social Issues",
         "id": "m5",
         "bills": [
             {
