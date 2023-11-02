@@ -135,6 +135,96 @@
 		"votes": ""
 	}
       ]
+   },
+ { "issue":"Housing",
+   "id":"m3",
+   "bills":
+   [
+     {"bill":"34 of 2023",
+     "id":"m11",
+    "title": "Rent Reduction Bill",
+    "sponsors":[{"name:":"Paul Murphy"},{"party:":"PBPS"}],
+    "status":  "Defeated",
+    "votes":[""]
+    },
+   {"bill":"27 of 2023",
+   "id":"32",
+   "title": "Tenancy Protection Bill",
+   "sponsors":[{"name:":"Cian O' callaghan"},{"party:":"Social Democrats"}],
+   "status":   "Current",
+   "votes":["dummy_data"]
+   },
+   {"bill":"25 of 2023",
+   "id":"m33",
+   "title": "Residential Tenancies Bill",
+   "sponsors":[{"name:":"Eoin O Broin"},{"party:":"Sinn Fein"}],
+   "status":   "Current",
+   "votes":["dummy_data"]
+ },
+ {"bill":"25 of 2023",
+ "id":"m33",
+ "title": "Residential Tenancies Bill",
+ "sponsors":[{"name:":"Eoin O Broin"},{"party:":"Sinn Fein"}],
+ "status":   "Current",
+ "votes":["dummy_data"]
+},
+{"bill":"25 of 2023",
+"id":"m33",
+"title": "Residential Tenancies Bill",
+"sponsors":[{"name:":"Eoin O Broin"},{"party:":"Sinn Fein"}],
+"status":   "Current",
+"votes":["dummy_data"]
+}
+]
+},
+   {
+   "issue":"Social Issues",
+   "id":"m5",
+   "bills":
+   [
+    {
+   "bill":"52 of 2020",
+   "id":"m51",
+   "title": "Criminal Justice(Hate Crime)",
+   "sponsors":[{"name:":"Fiona O' Loughlin"},{"party:":"dummy_data"}],
+   "status": "Current",
+   "votes":["dummy_data"]
+   },
+   {
+   "bill":"15 of 2023",
+   "id":"m52",
+   "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+   "sponsors":[{"name:":"Jennifer Whitmore"},{"party:":"Social Democrats"}],
+   "status":   "Current",
+   "votes":["dummy_data"]
+   },
+   {
+   "bill":"15 of 2023",
+   "id":"m52",
+   "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+   "sponsors":[{"name:":"Jennifer Whitmore"},{"party:":"Social Democrats"}],
+   "status":   "Current",
+   "votes":["dummy_data"]
+   },
+   {
+   "bill":"15 of 2023",
+   "id":"m52",
+   "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+   "sponsors":[{"name:":"Jennifer Whitmore"},{"party:":"Social Democrats"}],
+   "status":   "Current",
+   "votes":["dummy_data"]
+   },
+   {
+   "bill":"15 of 2023",
+   "id":"m52",
+   "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
+   "sponsors":[{"name:":"Jennifer Whitmore"},{"party:":"Social Democrats"}],
+   "status":   "Current",
+   "votes":["dummy_data"]
    }
+   ]
+   }
+   ]
+
 
 ]
