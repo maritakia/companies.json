@@ -74,7 +74,7 @@
                 "id": "cm23e",
                 "title": " Sexual Education  ",
                 "sponsors": "Fiona O'Loughlin, Malcolm Byrne",
-                "party": "Fianna Fail ",
+                "party": "Fianna Fáil ",
                 "explainer": "This bill makes provision for the implementation of relationship and sexuality education in primary and post-primary schools without any influence of religious ethos on relationship and sexuality education, to include the voice of LGBTQU+ students and students with specialintellectual needs in the area of Relationships and Sexuality Education and Social, Personal and Health Education.",
                 "status": " Current",
                 "votes": ""
@@ -138,185 +138,97 @@
         ]
     },
     {
-        "title": "Housing",
         "id": "4",
+        "title": "Housing",
         "bills": [
             {
                 "bill": "34 of 2023",
                 "id": "h11",
                 "title": "Rent Reduction Bill",
-                "sponsors": [
-                    {
-                        "name:": "Paul Murphy"
-                    },
-                    {
-                        "party:": "PBPS"
-                    }
-                ],
-                "status": "Defeated",
-                "votes": [
-                    ""
-                ]
+                "sponsors": "Paul Murphy"
+                 "party:": "PBPS"
+                 "explainer" :"" , 
+                 "status": "Defeated",
+                 "votes":  ""
             },
             {
                 "bill": "27 of 2023",
                 "id": "h32",
                 "title": "Tenancy Protection Bill",
-                "sponsors": [
-                    {
-                        "name:": "Cian O' callaghan"
-                    },
-                    {
-                        "party:": "Social Democrats"
-                    }
-                ],
-                "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "sponsors": "Cian O' callaghan"
+                 "party:": "Social Democrats"
+                 "status": "Current",
+                 "votes": ""
             },
             {
                 "bill": "25 of 2023",
                 "id": "h33",
                 "title": "Residential Tenancies Bill",
-                "sponsors": [
-                    {
-                        "name:": "Eoin O Broin"
-                    },
-                    {
-                        "party:": "Sinn Fein"
-                    }
-                ],
+                "sponsors": "Eoin O Broin",
+                "party:": "Sinn Fein"
                 "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "votes": ""
             },
             {
                 "bill": "25 of 2023",
                 "id": "h73",
                 "title": "Residential Tenancies Bill",
-                "sponsors": [
-                    {
-                        "name:": "Eoin O Broin"
-                    },
-                    {
-                        "party:": "Sinn Fein"
-                    }
-                ],
+                "sponsors": "Eoin O Broin",
+                "party:": "Sinn Fein",               
                 "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "votes":  ""                
             },
             {
                 "bill": "25 of 2023",
                 "id": "h03",
                 "title": "Residential Tenancies Bill",
-                "sponsors": [
-                    {
-                        "name:": "Eoin O Broin"
-                    },
-                    {
-                        "party:": "Sinn Fein"
-                    }
-                ],
+                "sponsors":  "Eoin O Broin"
+                "party:": "Sinn Fein"   
                 "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "votes": ""        
             }
         ]
     },
     {
-        "title": "Social Issues",
-        "id": "5",
+       "id": "5",
+        "title": "Social Issues",    
         "bills": [
             {
                 "bill": "52 of 2020",
                 "id": "m55",
                 "title": "Criminal Justice(Hate Crime)",
-                "sponsors": [
-                    {
-                        "name:": "Fiona O' Loughlin"
-                    },
-                    {
-                        "party:": "dummy_data"
-                    }
-                ],
-                "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "sponsors":  "Fiona O' Loughlin"
+                 "party:": "Fianna Fáil"
+                 "status": "Current",
+                "votes":  ""                
             },
             {
                 "bill": "15 of 2023",
                 "id": "m54",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
-                "sponsors": [
-                    {
-                        "name:": "Jennifer Whitmore"
-                    },
-                    {
-                        "party:": "Social Democrats"
-                    }
-                ],
+                "sponsors":  "Jennifer Whitmore"
+                "party:": "Social Democrats"
                 "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "votes":  ""
             },
             {
                 "bill": "15 of 2023",
                 "id": "m533",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
-                "sponsors": [
-                    {
-                        "name:": "Jennifer Whitmore"
-                    },
-                    {
-                        "party:": "Social Democrats"
-                    }
-                ],
+                "sponsors":  "Jennifer Whitmore"
+                 "party:": "Social Democrats"
                 "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "votes":  ""
             },
             {
                 "bill": "15 of 2023",
                 "id": "m542",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
-                "sponsors": [
-                    {
-                        "name:": "Jennifer Whitmore"
-                    },
-                    {
-                        "party:": "Social Democrats"
-                    }
-                ],
+                "sponsors": "Jennifer Whitmore"
+                 "party:": "Social Democrats"
                 "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
-            },
-            {
-                "bill": "15 of 2023",
-                "id": "m551",
-                "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
-                "sponsors": [
-                    {
-                        "name:": "Jennifer Whitmore"
-                    },
-                    {
-                        "party:": "Social Democrats"
-                    }
-                ],
-                "status": "Current",
-                "votes": [
-                    "dummy_data"
-                ]
+                "votes":  "" 
             }
-        ]
+             
     }
 ]
