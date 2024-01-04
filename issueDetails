@@ -143,7 +143,7 @@
         "bills": [
             {
                 "bill": "34 of 2023",
-                "id": "m11",
+                "id": "h11",
                 "title": "Rent Reduction Bill",
                 "sponsors": [
                     {
@@ -160,7 +160,7 @@
             },
             {
                 "bill": "27 of 2023",
-                "id": "32",
+                "id": "h32",
                 "title": "Tenancy Protection Bill",
                 "sponsors": [
                     {
@@ -177,7 +177,7 @@
             },
             {
                 "bill": "25 of 2023",
-                "id": "m33",
+                "id": "h33",
                 "title": "Residential Tenancies Bill",
                 "sponsors": [
                     {
@@ -194,7 +194,7 @@
             },
             {
                 "bill": "25 of 2023",
-                "id": "m33",
+                "id": "h73",
                 "title": "Residential Tenancies Bill",
                 "sponsors": [
                     {
@@ -211,7 +211,7 @@
             },
             {
                 "bill": "25 of 2023",
-                "id": "m33",
+                "id": "h03",
                 "title": "Residential Tenancies Bill",
                 "sponsors": [
                     {
@@ -234,7 +234,7 @@
         "bills": [
             {
                 "bill": "52 of 2020",
-                "id": "m51",
+                "id": "m55",
                 "title": "Criminal Justice(Hate Crime)",
                 "sponsors": [
                     {
@@ -251,7 +251,7 @@
             },
             {
                 "bill": "15 of 2023",
-                "id": "m52",
+                "id": "m54",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
                 "sponsors": [
                     {
@@ -268,7 +268,7 @@
             },
             {
                 "bill": "15 of 2023",
-                "id": "m52",
+                "id": "m533",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
                 "sponsors": [
                     {
@@ -285,7 +285,7 @@
             },
             {
                 "bill": "15 of 2023",
-                "id": "m52",
+                "id": "m542",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
                 "sponsors": [
                     {
@@ -302,7 +302,7 @@
             },
             {
                 "bill": "15 of 2023",
-                "id": "m52",
+                "id": "m551",
                 "title": "Electricity Regulation (Protection of Financially Vulnerable Customers)",
                 "sponsors": [
                     {
