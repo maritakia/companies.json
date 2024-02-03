@@ -1,0 +1,125 @@
+[
+    {
+        "title": "Dublin",
+        "id": "D01",
+        "candidates": [
+            {
+                "name": "Clare Daly",
+                "party": "Independents 4change",
+                "info": "More Info..."
+            },
+            {
+                "name": "Lynn Boylan",
+                "party": "Sinn Féin",
+                "info": "More Info..."
+            },
+            {
+                "name": "Daithí Doolan",
+                "party": "Sinn Féin",
+                "info": "More Info..."
+            },
+            {
+                "name": "Aodhán Ó Ríordáin",
+                "party": "Labour",
+                "info": "More Info..."
+            },
+            {
+                "name": "Barry Andrews",
+                "party": "Fianna Fáil",
+                "info": "More Info..."
+            },
+            {
+                "name": "Ciarán Cuffe",
+                "party": "Green Party",
+                "info": "More Info..."
+            },
+            {
+                "name": "Frances Fitzgerald",
+                "party": "Fine Gael",
+                "info": "More Info..."
+            },
+            {
+                "name": "Brid Smith",
+                "party": "PBP",
+                "info": "More Info..."
+            },
+            {
+                "name": "",
+                "party": "",
+                "info": "More Info..."
+            }
+        ]
+    },
+    {
+        "title": "midlands",
+        "id": "M01",
+        "candidates": [
+            {
+                "name": "Barry Cowen",
+                "party": "Fianna Fáil",
+                "info": "More Info..."
+            },
+            {
+                "name": "Maria Walsh",
+                "party": "Fine Gael",
+                "info": "More Info..."
+            },
+            {
+                "name": "Pauline O'Reilly",
+                "party": "Green Party",
+                "info": "More Info..."
+            },
+            {
+                "name": "Colm Markey",
+                "party": "Fine Gael",
+                "info": "More Info..."
+            },
+            {
+                "name": "Chris MacManus",
+                "party": "Sinn Féin",
+                "info": "More Info..."
+            },
+            {
+                "name": "Luke Ming Flanagan",
+                "party": "Independent",
+                "info": "More Info..."
+            }
+        ]
+    },
+    {
+        "title": "South",
+        "id": "S01",
+        "candidates": [
+            {
+                "name": "Billy Kelleher",
+                "party": "Fianna Fáil",
+                "info": "More Info..."
+            },
+            {
+                "name": "Seán Kelly",
+                "party": "Fine Gael",
+                "info": "More Info..."
+            },
+            {
+                "name": "Grace O'Sullivan",
+                "party": "Green Party",
+                "info": "More Info..."
+            },
+            {
+                "name": "Mick Wallace",
+                "party": "Independents 4change",
+                "info": "More Info..."
+            },
+            {
+                "name": "Paul Gavin",
+                "party": "Sinn Féin",
+                "info": "More Info..."
+            },
+            {
+                "name": "Cian Prendiville",
+                "party": "PBP",
+                "info": "More Info..."
+            }
+        ]
+    }
+]
