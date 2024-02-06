@@ -1,6 +1,6 @@
 [
   {
-    "districts":"Dublin",
+    "title":"Dublin",
     "id":"D01",
     "candidates":[
       {
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "districts":"midlands",
+    "title":"midlands",
     "id":"M01",
     "candidates":[
       {
@@ -467,7 +467,7 @@
     ]
   },
   {
-    "districts":"South",
+    "title":"South",
     "id":"S01",
     "candidates":[
       {
