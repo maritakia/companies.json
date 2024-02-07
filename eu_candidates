@@ -4,6 +4,7 @@
         "id": "D01",
         "candidates": [
             {
+                "id":"D0001",
                 "name": "Clare Daly",
                 "party": "Independents 4change",
                 "info": "More Info...",
@@ -34,6 +35,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"D0002",
                 "name": "Lynn Boylan",
                 "party": "Sinn Féin",
                 "info": "More Info...",
@@ -93,6 +95,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"D0003",
                 "name": "Aodhán Ó Ríordáin",
                 "party": "Labour",
                 "info": "More Info...",
@@ -123,6 +126,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+               "id":"D0004",
                 "name": "Barry Andrews",
                 "party": "Fianna Fáil",
                 "info": "More Info...",
@@ -153,6 +157,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"D0005",
                 "name": "Ciarán Cuffe",
                 "party": "Green Party",
                 "info": "More Info...",
@@ -183,6 +188,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"D0006",
                 "name": "Frances Fitzgerald",
                 "party": "Fine Gael",
                 "info": "More Info...",
@@ -213,6 +219,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+               "id":"D0007",
                 "name": "Brid Smith",
                 "party": "PBP",
                 "info": "More Info...",
@@ -249,6 +256,7 @@
         "id": "M01",
         "candidates": [
             {
+               "id":"M0001",
                 "name": "Barry Cowen",
                 "party": "Fianna Fáil",
                 "info": "More Info...",
@@ -279,6 +287,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"M0002",
                 "name": "Maria Walsh",
                 "party": "Fine Gael",
                 "info": "More Info...",
@@ -309,6 +318,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"M0003",
                 "name": "Pauline O'Reilly",
                 "party": "Green Party",
                 "info": "More Info...",
@@ -338,6 +348,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"M0004",
                 "name": "Colm Markey",
                 "party": "Fine Gael",
                 "info": "More Info...",
@@ -368,6 +379,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"M0005",
                 "name": "Chris MacManus",
                 "party": "Sinn Féin",
                 "info": "More Info...",
@@ -398,6 +410,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"M0006",
                 "name": "Luke Ming Flanagan",
                 "party": "Independent",
                 "info": "More Info...",
@@ -434,6 +447,7 @@
         "id": "S01",
         "candidates": [
             {
+                "id":"S0001",
                 "name": "Billy Kelleher",
                 "party": "Fianna Fáil",
                 "info": "More Info...",
@@ -464,6 +478,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"S0002",
                 "name": "Seán Kelly",
                 "party": "Fine Gael",
                 "info": "More Info...",
@@ -494,6 +509,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"S0003",
                 "name": "Grace O'Sullivan",
                 "party": "Green Party",
                 "info": "More Info...",
@@ -524,6 +540,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"S0004",
                 "name": "Mick Wallace",
                 "party": "Independents 4change",
                 "info": "More Info...",
@@ -554,6 +571,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"S0005",
                 "name": "Paul Gavin",
                 "party": "Sinn Féin",
                 "info": "More Info...",
@@ -584,6 +602,7 @@
                 "info_six": "Enim ut sem viverra aliquet eget sit amet. Eu"
             },
             {
+                "id":"S0006",
                 "name": "Cian Prendiville",
                 "party": "PBP",
                 "info": "More Info...",
