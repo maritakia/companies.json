@@ -197,7 +197,7 @@
       "city":"B-1047 Bruxelles/Brussel",
       "tel":"0032 2 28 45533",
 
-      "image":"",
+      "image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCxPDyqAnNgWMfo_GOAkf1FvR3K7MxIe3ee0MKHHkiX7hTzskO",
       "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
       "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
       "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
@@ -247,40 +247,7 @@
       "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
       "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
     },
-      {
-    "name":"",
-    "party":"",
-    "info": "More Info...",
-    "dept":"",
-    "num": "",
-    "code": "",
-    "street":"",
-    "city":"",
-    "tel":"",
-
-    "image":"",
-    "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-    "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-    }
-    ]
-  },
-  {
+   {
     "title":"midlands",
     "id":"M01",
     "candidates":[
