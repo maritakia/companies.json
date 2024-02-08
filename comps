@@ -1,11 +1,11 @@
 [
    {
       "title":"Dublin",
-      "id":"Y1A",
+      "id":"D1A",
       "districts":[
          {
             "dist":"Fingal",
-            "id":"Y11B",
+            "id":"D11B",
             "candidates":[
                {
                   "district":"fingal",
@@ -179,7 +179,7 @@
          },
          {
             "dist":"Dublin Bay North",
-            "id":"Y12B",
+            "id":"D12B",
             "candidates":[
                {
                   "district":"dub_bay_north",
@@ -351,7 +351,7 @@
          },
          {
             "dist":"Dublin Bay South",
-            "id":"Y13B",
+            "id":"D13B",
             "candidates":[
                {
                   "district":"dub_bay_south",
@@ -489,7 +489,7 @@
          },
          {
             "dist":"Dublin Mid-West",
-            "id":"Y14B",
+            "id":"D14B",
             "candidates":[
                {
                   "district":"dub_mid_west",
@@ -627,7 +627,7 @@
          },
          {
             "dist":"Dublin Central",
-            "id":"Y15B",
+            "id":"D15B",
             "candidates":[
                {
                   "district":"dub_central",
@@ -764,8 +764,8 @@
             ]
          },
          {
-            "dist":"Dublin N-West",
-            "id":"Y16B",
+            "dist":"Dublin North-West",
+            "id":"D16B",
             "candidates":[
                {
                   "district":"dub_north_west",
@@ -870,7 +870,7 @@
          },
          {
             "dist":"Rathdown",
-            "id":"Y17B",
+            "id":"D17B",
             "candidates":[
                {
                   "district":"rathdown",
@@ -974,8 +974,8 @@
             ]
          },
          {
-            "dist":"Dublin S-Central",
-            "id":"Y18B",
+            "dist":"Dublin South-Central",
+            "id":"D18B",
             "candidates":[
                {
                   "district":"Dublin South Central",
@@ -1284,7 +1284,7 @@
          },
          {
             "dist":"Dublin West",
-            "id":"Y20B",
+            "id":"D20B",
             "candidates":[
                {
                   "district":"dub_west",
@@ -1422,7 +1422,7 @@
          },
          {
             "dist":"Dun Laoghaire",
-            "id":"Y21B",
+            "id":"D21B",
             "candidates":[
                {
                   "district":"dun_laoghaire",
@@ -1562,11 +1562,11 @@
    },
    {
       "title":"Leinster",
-      "id":"Y2A",
+      "id":"L26A",
       "districts":[
          {
             "dist":"Carlow/Kilkenny",
-            "id":"Y21B",
+            "id":"L21B",
             "candidates":[
                {
                   "district":"carlow-kilkenny",
@@ -1737,7 +1737,7 @@
          },
          {
             "dist":"Kildare North",
-            "id":"Y22B",
+            "id":"L22B",
             "candidates":[
                {
                   "district":"kildare_north",
@@ -1875,7 +1875,7 @@
          },
          {
             "dist":"Kildare South",
-            "id":"Y23B",
+            "id":"L23B",
             "candidates":[
                {
                   "district":"kildare_south",
@@ -2013,7 +2013,7 @@
          },
          {
             "dist":"Laois/Offaly",
-            "id":"Y24B",
+            "id":"L24B",
             "candidates":[
                {
                   "district":"laois-offaly",
@@ -2186,7 +2186,7 @@
          },
          {
             "dist":"Louth",
-            "id":"Y25B",
+            "id":"L25B",
             "candidates":[
                {
                   "district":"louth",
@@ -2357,7 +2357,7 @@
          },
          {
             "dist":"Meath East",
-            "id":"Y26B",
+            "id":"L26B",
             "candidates":[
                {
                   "district":"meath_east",
@@ -2462,7 +2462,7 @@
          },
          {
             "dist":"Meath West",
-            "id":"Y27B",
+            "id":"L27B",
             "candidates":[
               {
                   "district":"meathwest",
@@ -2567,7 +2567,7 @@
          },
          {
             "dist":"Wexford",
-            "id":"Y28B",
+            "id":"L28B",
             "candidates":[
                {
                   "district":"wexford",
@@ -2738,7 +2738,7 @@
          },
          {
             "dist":"Longford/Westmeath",
-            "id":"Y29B",
+            "id":"L29B",
             "candidates":[
                {
                   "district":"longford-westmeath",
@@ -2876,7 +2876,7 @@
          },
          {
             "dist":"Wicklow",
-            "id":"Y30B",
+            "id":"L30B",
             "candidates":[
                {
                   "district":"wicklow",
@@ -3049,11 +3049,11 @@
    },
    {
       "title":"Munster",
-      "id":"Y3A",
+      "id":"M56A",
       "districts":[
          {
             "dist":"Clare",
-            "id":"Y31B",
+            "id":"M391B",
             "candidates":[
                {
                   "district":"clare",
@@ -3191,7 +3191,7 @@
          },
          {
             "dist":"Cork East",
-            "id":"Y32B",
+            "id":"M312B",
             "candidates":[
                {
                   "district":"cork_east",
@@ -3328,8 +3328,8 @@
             ]
          },
          {
-            "dist":"Cork N-Central",
-            "id":"Y33B",
+            "dist":"Cork North-Central",
+            "id":"M393B",
             "candidates":[
                {
                   "district":"cork_north_central",
@@ -3466,8 +3466,8 @@
             ]
          },
          {
-            "dist":"Cork N-West",
-            "id":"Y34B",
+            "dist":"Cork North-West",
+            "id":"M34B",
             "candidates":[
                {
                   "district":"cork_north-west",
@@ -3572,8 +3572,8 @@
             ]
          },
          {
-            "dist":"Cork S-Central",
-            "id":"Y35B",
+            "dist":"Cork South-Central",
+            "id":"M365B",
             "candidates":[
                {
                   "district":"cork_south-central",
@@ -3710,8 +3710,8 @@
             ]
          },
          {
-            "dist":"Cork S-West",
-            "id":"Y36B",
+            "dist":"Cork South-West",
+            "id":"M36B",
             "candidates":[
                {
                   "district":"cork_south-west",
@@ -3816,7 +3816,7 @@
          },
          {
             "dist":"Kerry",
-            "id":"Y37",
+            "id":"M3745",
             "candidates":[
                {
                   "district":"kerry",
@@ -3987,7 +3987,7 @@
          },
          {
             "dist":"Tipperary",
-            "id":"TY37",
+            "id":"MY37",
             "candidates":[
                {
                   "district":"Tipperary",
@@ -4158,7 +4158,7 @@
          },
          {
             "dist":"Limerick City",
-            "id":"Y38B",
+            "id":"M2538B",
             "candidates":[
                {
                   "district":"limerick_city",
@@ -4296,7 +4296,7 @@
          },
          {
             "dist":"Limerick County",
-            "id":"Y39B",
+            "id":"M4539B",
             "candidates":[
                {
                   "district":"limerick_county",
@@ -4401,7 +4401,7 @@
          },
          {
             "dist":"Waterford",
-            "id":"Y310B",
+            "id":"M3190B",
             "candidates":[
                {
                   "district":"waterford",
@@ -4500,1024 +4500,19 @@
                   "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
                   "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
 
-               },
-               {
-      "title":"Ulster/Connaught",
-      "id":"Y4A",
-      "districts":[
-         {
-            "dist":"Cavan/Monaghan",
-            "id":"Y41B",
-            "candidates":[
-               {
-                  "district":"cavan-monaghan",
-                  "id":"Y130C",
-                  "name":"Matt Carthy",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 6183473/(042) 9674001",
-                  "email":"matt.carthy@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Matt-Carthy.D.2020-02-08/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"cavan-monaghan",
-                  "id":"Y131C",
-                  "name":"Heather Humphreys",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Unit 2, Mall Road",
-                  "town":"Monaghan",
-                  "city":"Co. Monaghan",
-                  "tel":"(047) 719 11/(01) 618 3408",
-                  "email":"heather.humphreys@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Heather-Humphreys.D.2011-03-09/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"cavan-monaghan",
-                  "id":"Y132C",
-                  "name":"Brendan Smith",
-                  "party":"Fianna Fáil",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"3 Carrickfern",
-                  "town":"Cavan",
-                  "city":"Cavan",
-                  "tel":"(049) 436 2366/(01) 618 3376",
-                  "email":"brendan.smith@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"cavan-monaghan",
-                  "id":"Y133C",
-                  "name":"Niamh Smyth",
-                  "party":"Fianna Fáil",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Adelaide Row",
-                  "town":"Bailieborough",
-                  "city":"Co. Cavan",
-                  "tel":"(01) 618 3492/(042) 966 66 66/(042) 975 18 02/(049) 854 57 88",
-                  "email":"niamh.smyth@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Niamh-Smyth.D.2016-10-03/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"cavan-monaghan",
-                  "id":"Y134C",
-                  "name":"Pauline Tully",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 6183210",
-                  "email":"pauline.tully@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Pauline-Tully.D.2020-02-08/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
                }
-            ]
-         },
-         {
-            "dist":"Donegal",
-            "id":"Y42B",
-            "candidates":[
-               {
-                  "district":"donegal",
-                  "id":"Y135C",
-                  "name":"Pearse Doherty",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Machaire Chlochair",
-                  "street":"Na Doirí Beaga",
-                  "town":"Leitir Ceanainn",
-                  "city":"Co. Dún na nGall",
-                  "tel":"(074) 953 2832/(01) 618 3960",
-                  "email":"pearse.doherty@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Pearse-Doherty.S.2007-07-23/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
 
-               },
-               {
-                  "district":"donegal",
-                  "id":"Y136C",
-                  "name":"Pádraig Mac Lochlainn",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Bobby Sands/Eddie Fullerton House,",
-                  "street":"Ard O“Donnell, High Rd",
-                  "town":"Letterkenny",
-                  "city":"Co. Donegal",
-                  "tel":"(01) 618 4061/(074) 960 1730/(086) 023 9227",
-                  "email":"padraig.maclochlainn@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/P%C3%A1draig-MacLochlainn.D.2011-03-09/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"donegal",
-                  "id":"Y137C",
-                  "name":"Charlie McConalogue",
-                  "party":"Fianna Fáil",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Chapel St",
-                  "town":"  Carndonagh",
-                  "city":"Co. Donegal",
-                  "tel":"(074) 917 7282/(074) 937 3131/(01) 618 3199",
-                  "email":"charlie.mcconalogue@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Charlie-McConalogue.D.2011-03-09/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"donegal",
-                  "id":"Y138C",
-                  "name":"Joe McHugh",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"Grier House,",
-                  "street":"Lower Main St,",
-                  "town":"Letterkenny",
-                  "city":" Co. Donegal",
-                  "tel":"(074) 916 4787/(01) 618 4242",
-                  "email":"joe.mchugh@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Joe-McHugh.S.2002-09-12/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"donegal",
-                  "id":"Y139C",
-                  "name":"Thomas Pringle",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"Connolly House",
-                  "street":"Bridge St",
-                  "town":"Killybegs",
-                  "city":" Co.Donegal",
-                  "tel":"(01) 618 3038/(074) 97 41880/(087) 216 8719",
-                  "email":"thomas.pringle@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Thomas-Pringle.D.2011-03-09/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               }
-            ]
-         },
-         {
-            "dist":"Galway East",
-            "id":"Y43B",
-            "candidates":[
-               {
-                  "district":"galway_east",
-                  "id":"Y140C",
-                  "name":"Seán Canney",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"St. Davids",
-                  "street":"The Mall",
-                  "town":"Tuam",
-                  "city":"Co. Galway",
-                  "tel":"(01) 618 3436/(086) 251 3639/(093) 26476",
-                  "email":"sean.canney@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Se%C3%A1n-Canney.D.2016-10-03/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"galway_east",
-                  "id":"Y141C",
-                  "name":"Ciarán Cannon",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"Unit 1",
-                  "street":"Bride street",
-                  "town":"Loughrea",
-                  "city":"Co. Galway",
-                  "tel":"(091) 880 790/(01) 618 3185",
-                  "email":"ciaran.cannon@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Ciaran-Cannon.S.2007-07-23/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"galway_east",
-                  "id":"Y142C",
-                  "name":"Anne Rabbitte",
-                  "party":"Fianna Fáil",
-                  "info": "More Info...",
-                  "number":"The Hub",
-                  "street":"St Brendan St",
-                  "town":"Portumna",
-                  "city":"Co. Galway",
-                  "tel":"(01) 618 3991/(090) 975 9695",
-                  "email":"anne.rabbitte@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Anne-Rabbitte.D.2016-10-03/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               }
-            ]
-         },
-         {
-            "dist":"Galway West",
-            "id":"Y44B",
-            "candidates":[
-               {
-                  "district":"galway_west",
-                  "id":"Y143C",
-                  "name":"Catherine Connolly",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"4 Commerce House",
-                  "street":"Flood St,",
-                  "town":"Galway",
-                  "city":"Galway",
-                  "tel":"(01) 618 4411/(091) 567870",
-                  "email":"catherine.connolly@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Connolly.D.2016-10-03/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"galway_west",
-                  "id":"Y144C",
-                  "name":"Mairéad Farrell",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 6183132",
-                  "email":"mairead.farrell@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Mair%C3%A9ad-Farrell.D.2020-02-08/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"galway_west",
-                  "id":"Y145C",
-                  "name":"Noel Grealish",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"Unit 14",
-                  "street":"Briarhill Business Park",
-                  "town":"Briarhill",
-                  "city":"Galway",
-                  "tel":"(091) 764 807/(01) 618 4270",
-                  "email":"noel.grealish@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Noel-Grealish.D.2002-06-06/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"galway_west",
-                  "id":"Y146C",
-                  "name":"Hildegarde Naughton",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Woodquay Court",
-                  "town":"Woodquay",
-                  "city":" Galway city",
-                  "tel":"(091) 569 677/(01) 618 3198",
-                  "email":"hildegarde.naughton@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Hildegarde-Naughton.S.2013-07-19/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"galway_west",
-                  "id":"Y147C",
-                  "name":"Éamon Ó Cuív",
-                  "party":"Fianna Fáil",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Kirwan House",
-                  "town":"Sráid Tobar an Iarla",
-                  "city":"Gaillimh",
-                  "tel":"(091) 562 846/(01) 618 4231",
-                  "email":"eamon.ocuiv@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/%C3%89amon-%C3%93-Cu%C3%ADv.S.1989-10-01/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               }
-            ]
-         },
-         {
-            "dist":"Mayo",
-            "id":"Y45B",
-            "candidates":[
-               {
-                  "district":"mayo",
-                  "id":"Y148C",
-                  "name":"Dara Calleary",
-                  "party":"Fianna Fáil",
-                  "info": "More Info...",
-                  "number":"19",
-                  "street":"Pearse St",
-                  "town":"Ballina",
-                  "city":"Co. Mayo",
-                  "tel":"(096) 776 13/(01) 618 3331",
-                  "email":"dara.calleary@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Dara-Calleary.D.2007-06-14/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"mayo",
-                  "id":"Y149C",
-                  "name":"Rose Conway-Walsh",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 618 3664",
-                  "email":"rose.conwaywalsh@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"mayo",
-                  "id":"Y150C",
-                  "name":"Alan Dillon",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 6183049",
-                  "email":"alan.dillon@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Dillon.D.2020-02-08/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"mayo",
-                  "id":"Y151C",
-                  "name":"Michael Ring",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Quay St",
-                  "town":"Westport",
-                  "city":"Co. Mayo",
-                  "tel":"(01) 618 4367/(098) 257 34/(076) 106 4900",
-                  "email":"michael.ring@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Ring.D.1994-06-09/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               }
-            ]
-         },
-         {
-            "dist":"Roscommon/Galway",
-            "id":"Y46B",
-            "candidates":[
-               {
-                  "district":"roscommon-galway",
-                  "id":"Y152C",
-                  "name":"Michael Fitzmaurice",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Castle View Terrace",
-                  "town":"",
-                  "city":"Roscommon town",
-                  "tel":"(086) 191 4565/(090) 6628479/(01) 618 3321",
-                  "email":"michael.fitzmaurice@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Michael-Fitzmaurice.D.2014-10-10/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"roscommon-galway",
-                  "id":"Y153C",
-                  "name":"Claire Kerrane",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 6184665/(094) 9861688/(090) 9644901",
-                  "email":"claire.kerrane@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Claire-Kerrane.D.2020-02-08/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"roscommon-galway",
-                  "id":"Y154C",
-                  "name":"Denis Naughten",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Abbey St",
-                  "town":"",
-                  "city":"Roscommon",
-                  "tel":"(090) 6435039/(090) 6627557/(01) 618 3545",
-                  "email":"Denis.Naughten@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Denis-Naughten.S.1997-01-28/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               }
-            ]
-         },
-         {
-            "dist":"Sligo/Leitrim",
-            "id":"Y47B",
-            "candidates":[
-               {
-                  "district":"sligo-leitrim",
-                  "id":"Y155C",
-                  "name":"Frankie Feighan",
-                  "party":"Fine Gael",
-                  "info": "More Info...",
-                  "number":"",
-                  "street":"Pearse Road",
-                  "town":"",
-                  "city":"Sligo",
-                  "tel":"(071) 914 9444/(01) 618 4289",
-                  "email":"frank.feighan@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Frank-Feighan.S.2002-09-12/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"sligo-leitrim",
-                  "id":"Y156C",
-                  "name":"Marian Harkin",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 6183820",
-                  "email":"marian.harkin@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Marian-Harkin.D.2002-06-06/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"sligo-leitrim",
-                  "id":"Y157C",
-                  "name":"Martin Kenny",
-                  "party":"Sinn Féin",
-                  "info": "More Info...",
-                  "number":"Leinster House",
-                  "street":"Kildare street",
-                  "town":"Dublin 2",
-                  "city":"County Dublin",
-                  "tel":"(01) 618 3865/(071) 962 0000/(01) 618 3783/(087) 652 8318",
-                  "email":"martin.kenny@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Martin-Kenny.D.2016-10-03/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               },
-               {
-                  "district":"sligo-leitrim",
-                  "id":"Y158C",
-                  "name":"Marc MacSharry",
-                  "party":"Independent",
-                  "info": "More Info...",
-                  "number":"Knockderry House",
-                  "info": "More Info...",
-                  "street":"Stephen St",
-                  "town": "",
-                  "city":"Sligo",
-                  "tel":"(086) 267 4764/(01) 618 4221/(071) 914 3616",
-                  "email":"marc.macsharry@oireachtas.ie",
-                  "image":"https://data.oireachtas.ie/ie/oireachtas/member/id/Marc-MacSharry.S.2002-09-12/image/large",
-                  "about":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "act_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "conflict_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "quote":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_one":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_two":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_three":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_four":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_five":"Enim ut sem viverra aliquet eget sit amet. Eu",
-                  "info_six":"Enim ut sem viverra aliquet eget sit amet. Eu"
-
-               }
-            ]
-         }
-      ]
-   }
             ]
          }
       ]
    },
    {
       "title":"Ulster/Connaught",
-      "id":"Y4A",
+      "id":"U4A",
       "districts":[
          {
             "dist":"Cavan/Monaghan",
-            "id":"Y41B",
+            "id":"U541B",
             "candidates":[
                {
                   "district":"cavan-monaghan",
@@ -5688,7 +4683,7 @@
          },
          {
             "dist":"Donegal",
-            "id":"Y42B",
+            "id":"U942B",
             "candidates":[
                {
                   "district":"donegal",
@@ -5859,7 +4854,7 @@
          },
          {
             "dist":"Galway East",
-            "id":"Y43B",
+            "id":"U843B",
             "candidates":[
                {
                   "district":"galway_east",
@@ -5964,7 +4959,7 @@
          },
          {
             "dist":"Galway West",
-            "id":"Y44B",
+            "id":"U744B",
             "candidates":[
                {
                   "district":"galway_west",
@@ -6135,7 +5130,7 @@
          },
          {
             "dist":"Mayo",
-            "id":"Y45B",
+            "id":"U645B",
             "candidates":[
                {
                   "district":"mayo",
@@ -6273,7 +5268,7 @@
          },
          {
             "dist":"Roscommon/Galway",
-            "id":"Y46B",
+            "id":"U446B",
             "candidates":[
                {
                   "district":"roscommon-galway",
@@ -6378,7 +5373,7 @@
          },
          {
             "dist":"Sligo/Leitrim",
-            "id":"Y47B",
+            "id":"U347B",
             "candidates":[
                {
                   "district":"sligo-leitrim",
