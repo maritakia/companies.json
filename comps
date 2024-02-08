@@ -1565,7 +1565,7 @@
       "id":"Y2A",
       "districts":[
          {
-            "dist":"Carlow-Kilkenny",
+            "dist":"Carlow/Kilkenny",
             "id":"Y21B",
             "candidates":[
                {
@@ -2012,7 +2012,7 @@
             ]
          },
          {
-            "dist":"Laois-Offaly",
+            "dist":"Laois/Offaly",
             "id":"Y24B",
             "candidates":[
                {
@@ -2774,7 +2774,7 @@
 
                },
                {
-                  "district":"longford-westmeath",
+                  "district":"longford/W-meath",
                   "id":"Y64C",
                   "name":"Sorca Clarke",
                   "party":"Sinn Féin",
@@ -3328,7 +3328,7 @@
             ]
          },
          {
-            "dist":"Cork North-Central",
+            "dist":"Cork N-Central",
             "id":"Y33B",
             "candidates":[
                {
@@ -3466,7 +3466,7 @@
             ]
          },
          {
-            "dist":"Cork North-West",
+            "dist":"Cork N-West",
             "id":"Y34B",
             "candidates":[
                {
@@ -3572,7 +3572,7 @@
             ]
          },
          {
-            "dist":"Cork South-Central",
+            "dist":"Cork S-Central",
             "id":"Y35B",
             "candidates":[
                {
@@ -3710,7 +3710,7 @@
             ]
          },
          {
-            "dist":"Cork South-West",
+            "dist":"Cork S-West",
             "id":"Y36B",
             "candidates":[
                {
@@ -4502,11 +4502,11 @@
 
                },
                {
-      "title":"Ulster-Connaught",
+      "title":"Ulster/Connaught",
       "id":"Y4A",
       "districts":[
          {
-            "dist":"Cavan-Monaghan",
+            "dist":"Cavan/Monaghan",
             "id":"Y41B",
             "candidates":[
                {
@@ -5262,7 +5262,7 @@
             ]
          },
          {
-            "dist":"Roscommon-Galway",
+            "dist":"Roscommon/Galway",
             "id":"Y46B",
             "candidates":[
                {
@@ -5367,7 +5367,7 @@
             ]
          },
          {
-            "dist":"Sligo-Leitrim",
+            "dist":"Sligo/Leitrim",
             "id":"Y47B",
             "candidates":[
                {
@@ -5512,11 +5512,11 @@
       ]
    },
    {
-      "title":"Ulster-Connaught",
+      "title":"Ulster/Connaught",
       "id":"Y4A",
       "districts":[
          {
-            "dist":"Cavan-Monaghan",
+            "dist":"Cavan/Monaghan",
             "id":"Y41B",
             "candidates":[
                {
@@ -6272,7 +6272,7 @@
             ]
          },
          {
-            "dist":"Roscommon-Galway",
+            "dist":"Roscommon/Galway",
             "id":"Y46B",
             "candidates":[
                {
@@ -6377,7 +6377,7 @@
             ]
          },
          {
-            "dist":"Sligo-Leitrim",
+            "dist":"Sligo/Leitrim",
             "id":"Y47B",
             "candidates":[
                {
