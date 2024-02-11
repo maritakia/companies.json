@@ -1,5 +1,4 @@
-{
-    "issues": [
+ [
         {
             "id": 1,
             "title": "Climate",
@@ -1189,7 +1188,7 @@
                     "status ": "Current",
                     "votes": ""
                 }
-            ]
-        }
+ ]
+
     ]
 }
