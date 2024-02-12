@@ -13,24 +13,28 @@
                 "explainer": "This bill restricts certain developments in fossil fuels infrastructure and high energy usage data centres, to remove some developments from listing as strategic development infrastructure projects, to revise the procedure for making applications directly to An Bord Pleanála ",
                 "votes":[
     {
+        "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+      "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+      "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
@@ -49,60 +53,28 @@
                 "explainer": "This bill restricts developments in Liquefied Natural Gas (LNG) infrastructure and to remove LNG infrastructure from listing as strategic development infrastructure projects.",
                 "votes":[
     {
+        "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+      "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+      "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
-        "name": "Wynne, Violet-Anne",
-        "vote": "-1",
-        "voteText": "No",
-        "id": "112vcb "
-    }
-]
-
-            },
-            {
-                "bill": " 61 of 2022  ",
-                "id": "gm13z",
-                "title": " Planning and Development Regulations (Amendment) (Solar Energy for Schools and Community Buildings) Bill 2022  ",
-                "sponsors": "Minister for Environment",
-                "party": "Green Party",
-                "explainer": "This bill makes provision for the installation of solar panels on school and community buildings without the need for planning permission",
-                "status": " Current",
-                "votes":[
-    {
-        "name": "Berry, Cathal",
-        "vote": "1",
-        "voteText": "Yes",
-        "id": "112v "
-    },
-    {
-        "name": "Brophy, Colm",
-        "vote": "1",
-        "voteText": "Yes",
-        "id": "212v "
-    },
-    {
-        "name": "Whitmore, Jennifer",
-        "vote": "-1",
-        "voteText": "No",
-        "id": "112vca "
-    },
-    {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
@@ -121,6 +93,7 @@
                 "status": " Current",
                 "votes":[
     {
+        "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
@@ -163,24 +136,28 @@
                 "status": " Current",
                 "votes":[
     {
+        "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+       "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+        "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
@@ -199,66 +176,31 @@
                 "status": " Defeated",
                 "votes":[
     {
+        "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
-    {
+    {   "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
-    {
+    {   "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
-    {
+    {   "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
         "id": "112vcb "
     }
 ]
-            },
-            {
-                "bill": " 108 of 2022 ",
-                "id": "cm23e",
-                "title": " Sexual Education  ",
-                "sponsors": "Fiona O'Loughlin, Malcolm Byrne",
-                "party": "Fianna Fáil ",
-                "explainer": "This bill makes provision for the implementation of relationship and sexuality education in primary and post-primary schools without any influence of religious ethos on relationship and sexuality education, to include the voice of LGBTQU+ students and students with specialintellectual needs in the area of Relationships and Sexuality Education and Social, Personal and Health Education.",
-                "status": " Current",
-                "votes":[
-    {
-        "name": "Berry, Cathal",
-        "vote": "1",
-        "voteText": "Yes",
-        "id": "112v "
-    },
-    {
-        "name": "Brophy, Colm",
-        "vote": "1",
-        "voteText": "Yes",
-        "id": "212v "
-    },
-    {
-        "name": "Whitmore, Jennifer",
-        "vote": "-1",
-        "voteText": "No",
-        "id": "112vca "
-    },
-    {
-        "name": "Wynne, Violet-Anne",
-        "vote": "-1",
-        "voteText": "No",
-        "id": "112vcb "
-    }
-]
-
             },
             {
                 "bill": " 147 of 2021 ",
@@ -270,24 +212,28 @@
                 "status": " Current",
                 "votes":[
     {
+      "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+      "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+      "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
@@ -313,24 +259,28 @@
                 "status": "Current",
                 "votes":[
     {
+      "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+      "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+      "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
@@ -349,24 +299,28 @@
                 "status": "Current",
                 "votes":[
     {
+      "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+      "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+      "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
@@ -385,24 +339,28 @@
                 "status": "Current",
                 "votes":[
     {
+      "title": "VOTE",
         "name": "Berry, Cathal",
         "vote": "1",
         "voteText": "Yes",
         "id": "112v "
     },
     {
+      "title": "VOTE",
         "name": "Brophy, Colm",
         "vote": "1",
         "voteText": "Yes",
         "id": "212v "
     },
     {
+      "title": "VOTE",
         "name": "Whitmore, Jennifer",
         "vote": "-1",
         "voteText": "No",
         "id": "112vca "
     },
     {
+      "title": "VOTE",
         "name": "Wynne, Violet-Anne",
         "vote": "-1",
         "voteText": "No",
