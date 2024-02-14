@@ -1,5 +1,1111 @@
 [
   {
+    "id": 14,
+    "title":"Housing & Planning",
+     "bills":[
+  {
+    "bill": "86 of 2023",
+    "id": "H1im11e",
+    "title": "Residential Tenancies (Deferment of Termination Dates of Certain Tenancies (No.2) Bill 2023",
+    "sponsors": "Eoin Ó Broin",
+    "party": "Sinn Féin",
+    "explainer":"A bill to defer the termination dates of tenancies (who have not done anything wrong and are not in arrears) to ensure the tenant has obtained alternative accommodation before vacating a tenancy.",
+    "status": "Defeated",
+    "votes":[]
+  },
+  {
+    "bill": "81 of 2023",
+    "id": "H2jm12e",
+    "title": "Planning and Development Bill 2023",
+    "sponsors": "Minister for Housing",
+    "party": "Fianna Fáil",
+    "explainer": "Bill entitled an Act to consolidate and revise the law relating to planning and development; to provide for the licensing of events and control of funfairs; for those purposes to repeal the Planning and Development Act 2000; to amend certain other enactments; and to provide for matters connected therewith",
+    "status": " current",
+    "votes":[]
+  },
+  {
+    "bill": "75 of 2023",
+    "id": "H3km13e",
+    "title": "Developer Profits Transparency Bill 2023 ",
+    "sponsors": "Cian O'Callaghan",
+    "party": "Social Democrats",
+    "explainer": "An Act to introduce a requirement for property developers who are in receipt of State subsidies to publish annual financial statements.",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "61 of 2023",
+    "id": "H4lm14e",
+    "title": "Planning and Development (Provision of Public Housing) Bill 202",
+    "sponsors": "Chris Andrews, Eoin Ó Broin",
+    "party": "Sinn Féin",
+    "explainer": "This bill is to ensure and protect the provision of public housing. Where this is particularly relevant is in dense urban areas.",
+    "status": " Current",
+    "votes":[]
+  },
+  {
+    "bill": "72 of 2023",
+    "id": "H5lm14e",
+    "title": "Mortgage Interest Rates Cap Bill 2023 ",
+    "sponsors": "Richard Boyd Barrett, Bríd Smith, Gino Kenny, Mick Barry, Paul Murphy",
+    "party": "PBPS",
+    "explainer": "This Bill is an attempt to address the interest rate hike of hundreds of thousands of people with mortgages who may be at risk of losing their homes.",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "34 of 2023",
+    "id": "H6lm14e",
+    "title": "Rent Reduction Bill 2023",
+    "sponsors": "Paul Murphy, Richard Boyd Barrett, Bríd Smith, Gino Kenny, Mick Barry",
+    "party": "PBPS",
+    "explainer": "This Bill would make it law that rents be reduced to 25% of monthly median household incomes.",
+    "status": "Defeated",
+    "votes": [
+        {
+            "name": "Berry, Cathal",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112va ",
+            "party":"IN"
+        },
+        {
+            "name": "Brophy, Colm",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "212vb ",
+            "party":"FG"
+        },
+        {
+            "name": "Browne, James",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "312vc ",
+            "party":"FF"
+        },
+        {
+            "name": "Bruton, Richard",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "412vd ",
+            "party":"FG"
+        },
+        {
+            "name": "Burke, Colm",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "512ve ",
+            "party":"FG"
+        },
+        {
+            "name": "Burke, Peter",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "612vf ",
+            "party":"FG"
+        },
+        {
+            "name": "Butler, Mary",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "712vg ",
+            "party":"FF"
+        },
+        {
+            "name": "Byrne, Thomas",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "812vh ",
+            "party":"FF"
+        },
+        {
+            "name": "Cahill, Jackie",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "912v1 ",
+            "party":"FF"
+        },
+        {
+            "name": "Calleary, Dara",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "122vj ",
+            "party":"FF"
+        },
+        {
+            "name": "Canney, Seán",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "132vk ",
+            "party":"IN"
+        },
+        {
+            "name": "Carey, Joe",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "142vl ",
+            "party":"FG"
+        },
+        {
+            "name": "Carroll MacNeill, Jennifer",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "152vm ",
+            "party":"FG"
+        },
+        {
+            "name": "Chambers, Jack",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "162vn ",
+            "party":"FF"
+        },
+        {
+            "name": "Collins, Niall",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "172vo ",
+            "party":"FF"
+        },
+        {
+            "name": "Costello, Patrick",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "182vp ",
+            "party":"GP"
+        },
+        {
+            "name": "Coveney, Simon",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "192vq ",
+            "party":"FG"
+        },
+        {
+            "name": "Cowen, Barry",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "111vr ",
+            "party":"FF"
+        },
+        {
+            "name": "Creed, Michael",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "113vs ",
+            "party":"FG"
+        },
+        {
+            "name": "Crowe, Cathal",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "114vt ",
+            "party":"FF"
+        },
+        {
+            "name": "Devlin, Cormac",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "115vu ",
+            "party":"FF"
+        },
+        {
+            "name": "Donnelly, Stephen",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "116vv ",
+            "party":"FF"
+        },
+        {
+            "name": "Donohoe, Paschal",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "117vw ",
+            "party":"FG"
+        },
+        {
+            "name": "Duffy, Francis Noel",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "118vx ",
+            "party":"GP"
+        },
+        {
+            "name": "Durkan, Bernard J",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "119vy ",
+            "party":"FG"
+        },
+        {
+            "name": "English, Damien",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112az ",
+            "party":"FG"
+        },
+        {
+            "name": "Farrell, Alan",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112b1",
+            "party":"FG"
+        },
+        {
+            "name": "Feighan, Frankie",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112c2 ",
+            "party":"FG"
+        },
+        {
+            "name": "Fitzpatrick, Peter",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112d3 ",
+            "party":"IN"
+        },
+        {
+            "name": "Flaherty, Joe",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112e4 ",
+            "party":"FF"
+        },
+        {
+            "name": "Flanagan, Charles",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112f5 ",
+            "party":"FG"
+        },
+        {
+            "name": "Fleming, Sean",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112g6 ",
+            "party":"FF"
+        },
+        {
+            "name": "Foley, Norma",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112h7 ",
+            "party":"FF"
+        },
+        {
+            "name": "Grealish, Noel",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112i8 ",
+            "party":"IN"
+        },
+        {
+            "name": "Griffin, Brendan",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112j9 ",
+            "party":"FG"
+        },
+        {
+            "name": "Harris, Simon",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "a112k ",
+            "party":"FG"
+        },
+        {
+            "name": "Haughey, Seán",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "b112l ",
+            "party":"FF"
+        },
+        {
+            "name": "Heydon, Martin",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "c112m ",
+            "party":"FG"
+        },
+        {
+            "name": "Higgins, Emer",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "d112n ",
+            "party":"FG"
+        },
+        {
+            "name": "Hourigan, Neasa",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "e112o ",
+            "party":"GP"
+        },
+        {
+            "name": "Humphreys, Heather",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "f112p ",
+            "party":"FG"
+        },
+        {
+            "name": "Kehoe, Paul",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "g112q ",
+            "party":"FG"
+        },
+        {
+            "name": "Lahart, John",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "h112r ",
+            "party":"FF"
+        },
+        {
+            "name": "Lawless, James",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "1112s",
+            "party":"FF"
+        },
+        {
+            "name": "Leddin, Brian",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "j112t ",
+            "party":"GP"
+        },
+        {
+            "name": "Lowry, Michael",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "k112u ",
+            "party":"IN"
+        },
+        {
+            "name": "Madigan, Josepha",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "l112v ",
+            "party":"FG"
+        },
+        {
+            "name": "Martin, Catherine",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "m112w ",
+            "party":"GP"
+        },
+        {
+            "name": "Martin, Micheál",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "n112x ",
+            "party":"FF"
+        },
+        {
+            "name": "Matthews, Steven",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "o112y ",
+            "party":"GP"
+        },
+        {
+            "name": "McAuliffe, Paul",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "p112z ",
+            "party":"FF"
+        },
+        {
+            "name": "McConalogue, Charlie",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "q112v1 ",
+            "party":"FF"
+        },
+        {
+            "name": "McGrath, Michael",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "r112v2 ",
+            "party":"FF"
+        },
+        {
+            "name": "McHugh, Joe",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "s112v3 ",
+            "party":"FG"
+        },
+        {
+            "name": "Moynihan, Aindrias",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "t112v4 ",
+            "party":"FF"
+        },
+        {
+            "name": "Moynihan, Michael",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "u112v5 ",
+            "party":"FF"
+
+        },
+        {
+            "name": "Murnane O'Connor, Jennifer",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "v112v6 ",
+            "party":"FF"
+        },
+        {
+            "name": "Naughten, Denis",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "w112v7 ",
+            "party":"IN"
+        },
+        {
+            "name": "Naughton, Hildegarde",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "x112v8 ",
+            "party":"FG"
+        },
+        {
+            "name": "Noonan, Malcolm",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "y112v9 ",
+            "party":"GP"
+        },
+        {
+            "name": "O'Brien, Darragh",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "z112va ",
+            "party":"FF"
+        },
+        {
+            "name": "O'Brien, Joe",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11a2vb ",
+            "party":"GP"
+        },
+        {
+            "name": "O'Callaghan, Jim",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112bvc ",
+            "party":"FF"
+        },
+        {
+            "name": "O'Connor, James",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112cvd ",
+            "party":"FF"
+        },
+        {
+            "name": "O'Donnell, Kieran",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "112vde",
+            "party":"FG"
+        },
+        {
+            "name": "O'Donovan, Patrick",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11e2vf ",
+            "party":"FG"
+        },
+        {
+            "name": "O'Dowd, Fergus",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11f2vg ",
+            "party":"FG"
+        },
+        {
+            "name": "O'Sullivan, Christopher",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11g2vh ",
+            "party":"FF"
+        },
+        {
+            "name": "O'Sullivan, Pádraig",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11h2v1 ",
+            "party":"FF"
+        },
+        {
+            "name": "Ó Cathasaigh, Marc",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11i2vj ",
+            "party":"GP"
+        },
+        {
+            "name": "Ó Cuív, Éamon",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11j2vk ",
+            "party":"FF"
+        },
+        {
+            "name": "Rabbitte, Anne",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11k2vl ",
+            "party":"FF"
+        },
+        {
+            "name": "Richmond, Neale",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11l2vm ",
+            "party":"FG"
+        },
+        {
+            "name": "Ryan, Eamon",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11m2vn ",
+            "party":"GP"
+        },
+        {
+            "name": "Shanahan, Matt",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11n2vo ",
+            "party":"IN"
+        },
+        {
+            "name": "Smith, Brendan",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11o2vp ",
+            "party":"FF"
+        },
+        {
+            "name": "Smyth, Niamh",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11p2vq ",
+            "party":"FF"
+        },
+        {
+            "name": "Smyth, Ossian",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11q2vr ",
+            "party":"GP"
+        },
+        {
+            "name": "Stanton, David",
+            "vote": "1",
+            "voteText": "Yes",
+            "id": "11r2vs ",
+            "party":"FG"
+        },
+        {
+            "name": "Varadkar, Leo",
+            "voteText": "Yes",
+            "vote": "1",
+            "id": "112svt ",
+            "party":"FG"
+        },
+        {
+            "name": "Andrews, Chris",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "11t2vu",
+            "party":"SF"
+        },
+        {
+            "name": "Bacik, Ivana",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "11u2vv",
+            "party":"LAB"
+        },
+        {
+            "name": "Brry, Mick",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1v12vw "
+        },
+        {
+            "name": "Boyd Barrett, Richard",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1w12vx ",
+            "party":"PBP"
+        },
+        {
+            "name": "Brady, John",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1x12vy ",
+            "party":"SF"
+        },
+        {
+            "name": "Browne, Martin",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1y12vz ",
+            "party":"SF"
+        },
+        {
+            "name": "Buckley, Pat",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "11z2vaa ",
+            "party":"SF"
+        },
+        {
+            "name": "Carthy, Matt",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1192vab ",
+            "party":"SF"
+        },
+        {
+            "name": "Clarke, Sorca",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1182vac ",
+            "party":"SF"
+        },
+        {
+            "name": "Collins, Michael",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1172vad ",
+            "party":"IN"
+        },
+        {
+            "name": "Conway-Walsh, Rose",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1162vae ",
+            "party":"SF"
+        },
+        {
+            "name": "Cronin, Réada",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1152vaf ",
+            "party":"SF"
+        },
+        {
+            "name": "Crowe, Seán",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1142vag ",
+            "party":"SF"
+        },
+        {
+            "name": "Cullinane, David",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1132vah ",
+            "party":"SF"
+        },
+        {
+            "name": "Daly, Pa",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "112vai ",
+            "party":"SF"
+        },
+        {
+            "name": "Doherty, Pearse",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1122vaj ",
+            "party":"SF"
+        },
+        {
+            "name": "Donnelly, Paul",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1121vak ",
+            "party":"SF"
+        },
+        {
+            "name": "Ellis, Dessie",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "ab112val ",
+            "party":"SF"
+        },
+        {
+            "name": "Farrell, Mairéad",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "cd112vam ",
+            "party":"SF"
+        },
+        {
+            "name": "Fitzmaurice, Michael",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "ef112van ",
+            "party":"IN"
+        },
+        {
+            "name": "Funchion, Kathleen",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "gh112vao ",
+            "party":"SF"
+        },
+        {
+            "name": "Gannon, Gary",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "ij112vap ",
+            "party":"SD"
+        },
+        {
+            "name": "Gould, Thomas",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "kl112vaq ",
+            "party":"SF"
+        },
+        {
+            "name": "Guirke, Johnny",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "112var ",
+            "party":"SF"
+        },
+        {
+            "name": "Harkin, Marian",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "mn112vas ",
+            "party":"IN"
+        },
+        {
+            "name": "Healy-Rae, Michael",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1op12vat ",
+            "party":"IN"
+
+        },
+        {
+            "name": "Howlin, Brendan",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "qr112vau ",
+            "party":"LAB"
+        },
+        {
+            "name": "Kelly, Alan",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "st112vav ",
+            "party":"LAB"
+        },
+        {
+            "name": "Kenny, Gino",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1uv12vaw ",
+            "party":"PBP"
+        },
+        {
+            "name": "Kenny, Martin",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "wx112vax ",
+            "party":"SF"
+        },
+        {
+            "name": "Kerrane, Claire",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "yz112vay ",
+            "party":"SF"
+        },
+        {
+            "name": "Mac Lochlainn, Pádraig",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "as112vaz ",
+            "party":"SF"
+        },
+        {
+            "name": "McGrath, Mattie",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "qw112vba ",
+            "party":"IN"
+        },
+        {
+            "name": "Mitchell, Denise",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "we112vbb ",
+            "party":"SF"
+        },
+        {
+            "name": "Munster, Imelda",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "er112vbc ",
+            "party":"SF"
+        },
+        {
+            "name": "Murphy, Catherine",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "rt112vbd ",
+            "party":"SD"
+        },
+        {
+            "name": "Murphy, Paul",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "ty112vbe ",
+            "party":"PBP"
+        },
+        {
+            "name": "Murphy, Verona",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "yu112vbf ",
+            "party":"IN"
+        },
+        {
+            "name": "Mythen, Johnny",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "ui112vbg ",
+            "party":"SF"
+        },
+        {
+            "name": "Nash, Ged",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "io112vbh ",
+            "party":"LAB"
+        },
+        {
+            "name": "Nolan, Carol",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "op112vbi ",
+            "party":"IN"
+        },
+        {
+            "name": "O'Callaghan, Cian",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "pl112vbj ",
+            "party":"SD"
+        },
+        {
+            "name": "O'Donoghue, Richard",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "lk112vbk ",
+            "party":"IN"
+        },
+        {
+            "name": "O'Reilly, Louise",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "1kj12vbl ",
+            "party":"SF"
+        },
+        {
+            "name": "O'Rourke, Darren",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "jh112vbm ",
+            "party":"SF"
+        },
+        {
+            "name": "Ó Broin, Eoin",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "hg112vbn ",
+            "party":"SF"
+        },
+        {
+            "name": "Ó Murchú, Ruairí",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "gf112vbo ",
+            "party":"SF"
+        },
+        {
+            "name": "Ó Snodaigh, Aengus",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "fd112vbp ",
+            "party":"SF"
+        },
+        {
+            "name": "Quinlivan, Maurice",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "ds112vbq ",
+            "party":"SF"
+        },
+        {
+            "name": "Ryan, Patricia",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "sa112vbr ",
+            "party":"SF"
+        },
+        {
+            "name": "Sherlock, Sean",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "az112vbs ",
+            "party":"LAB"
+        },
+        {
+            "name": "Shortall, Róisín",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "zx112vbt ",
+            "party":"SD"
+        },
+        {
+            "name": "Smith, Bríd",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "xc112vbu ",
+            "party":"PBP"
+        },
+        {
+            "name": "Smith, Duncan",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "xc112vbv ",
+            "party":"LAB"
+        },
+        {
+            "name": "Stanley, Brian",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "cv112vbw ",
+            "party":"SF"
+        },
+        {
+            "name": "Tóibín, Peadar",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "vb112vbx ",
+            "party":"AON"
+        },
+        {
+            "name": "Tully, Pauline",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "bn112vby ",
+            "party":"SF"
+        },
+        {
+            "name": "Ward, Mark",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "nm112vbz ",
+            "party":"SF"
+        },
+        {
+            "name": "Whitmore, Jennifer",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "mn112vca ",
+            "party":"SD"
+        },
+        {
+            "name": "Wynne, Violet-Anne",
+            "vote": "-1",
+            "voteText": "No",
+            "id": "nb112vcb ",
+            "party":"IND"
+        }
+    ]
+
+  },
+  {
+    "bill": "27 of 2023",
+    "id": "H7lm14e",
+    "title": "Tenancy Protection Bill 2023",
+    "sponsors": "Cian O'Callaghan",
+    "party": "Social Democrats",
+    "explainer": "This Bill aims to put an end to situations of mass evictions, where multiple households can be evicted at the same time simply because the owner of the building or a number of rental properties is seeking to sell.",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "9 of 2023",
+    "id": "H8lm14e",
+    "title": "Public Art Mural (Exempted Development) Bill 2023",
+    "sponsors": "Eoin Ó Broin",
+    "party": "Sinn Féin",
+    "explainer": "This bill is to provide for exemptions from planning permission for certain categories of public art murals.",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "102 of 2022",
+    "id": "H9lm14e",
+    "title": "Eviction Ban Bill 2022",
+    "sponsors": "Richard Boyd Barrett, Paul Murphy, Bríd Smith, Gino Kenny, Mick Barry ",
+    "party": "PBPS",
+    "explainer": "This is the third Bill that People Before Profit has introduced in an effort to ban evictions where people would end up homeless through no fault of their own. The first of these was introduced in 2018, another was introduced in 2020.",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": " 94 of 2022",
+    "id": "P1lm14e",
+    "title": "Derelict Sites (Amendment) Bill 2022",
+    "sponsors": "Thomas Gould",
+    "party": "Sinn Féin",
+    "explainer": " In 2021, 19 local authorities did not collect a single cent in derelict sites levies. Some of these councils are owed well in excess of €100,000 This Bill will require local authorities that collect less than 75% of the levies owed to produce a comprehensive report. In this report, they will need to outline how they will collect the outstanding levies and why they did not collect them in the first place.",
+    "votes":[]
+  },
+  {
+    "bill": "55 of 2022",
+    "id": "P2lm14e",
+    "title": "Short-term Lettings Enforcement Bill 2022",
+    "sponsors": "Eoin Ó Broin",
+    "party": "Sinn Féin",
+    "explainer": "This Short-term Letting Enforcement Bill 2022 would first make it an offence under the Planning and Development Acts for any estate agent or short-term letting platform to advertise a property which is not compliant with the planning regulations (Anyone letting out their property for 90 days of the year needs planning permission. The overwhelming majority of properties currently listed on Airbnb are not compliant with this rule). More importantly, it would give the local authority or planning authority the power to impose spot fines by way of regulation by the Minister on such estate agents or platforms that allow their sites to be used to advertise non-compliant properties.",
+    "votes":[]
+  },
+  {
+    "bill": "46 of 2022",
+    "id": "P3lm14e",
+    "title": "Impaired Farm Credit Bill 2022",
+    "sponsors": "Mattie McGrath, Michael Healy-Rae, Carol Nolan, Richard O'Donoghue, Danny Healy-Rae, Michael Collins",
+    "party": "Independents",
+    "explainer": "This bill provides for the disaggregation of lands charged with repayment of farm debt into two parcels, the ‘Farmlands’ and the ‘Farmhouse’.The debt secured on the parcel designated as the farmhouse be governed by the legislation, general law, and regulatory codes of conduct pertaining to a debtor's principal place of residence, and to take account of the special position of any co-owner thereof.For the role and regulation of receivers as credit servicers and as agent of the debtor.  That possession and sale of the farmlands by the secured creditor be deferred until after a moratorium affording the debtor space and time to engage in preparation of a proposal of a ‘Farm Debt Settlement Arrangement’.",
+    "votes":[]
+  }
+  ]
+  },
+  {
     "id" : 1,
     "title":"Climate",
     "bills": [
@@ -129,6 +1235,33 @@
     }
 ]
    },
+   {
+   "id": 5,
+   "title":"Agriculture",
+    "bills":[
+ {
+   "bill": "21 of 2023",
+   "id": "aim1lop1e",
+   "title": "Veterinary Medicinal Products, Medicated Feed and Fertilisers Regulation Act 2023",
+   "sponsors": "Minister for Agriculture, Food and the Marine, Charlie McConalogue",
+   "party": "Fianna Fáil",
+   "explainer":"The first part of the bill seeks to modernise the area of veterinary medicines and medicated feed by enforcing the two new EU regulations regulating  the medication used in feed. The second part of the bill creates a national  fertiliser database which will collect data on import, sale, supply and use of fertilisers and allow for analysis of this data.",
+   "status": " Enacted",
+   "votes":[]
+ },
+ {
+   "bill": "19 of 2023",
+   "id": "AG1jm12e",
+   "title": "Agricultural and Food Supply Chain Act 2023 ",
+   "sponsors": "Minister for Agriculture, Food and the Marine, Charlie McConalogue",
+   "party": "Fianna Fáil",
+   "explainer": "This bill will firstly deliver a price and market analysis and reporting function.Secondly the agri food regulator will also become the designated national enforcement authority for the unfair trading practices, The aim of the bill is to ensure that there are adequate protections in place so that suppliers are treated fairly in their business dealings along the agrifood supply chain. This bill gives further effect to Directive (EU) 2019/633 of the European Parliament and of the Council of 17 April 2019 on unfair trading practices.",
+   "status": "Enacted",
+   "votes":[]
+ }
+
+ ]
+ },
   {
     "id" : 2,
     "title":"Education",
@@ -205,6 +1338,102 @@
   }
 ]
    },
+   {
+   "id": 9,
+   "title":"War & Conflict",
+    "bills":[
+ {
+   "bill": "28 of 2023",
+   "id": "W1im11e",
+   "title": "Illegal Israeli Settlements Divestment Bill 2023",
+   "sponsors": "John Brady",
+   "party": "Sinn Féin",
+   "explainer":"An Act to impose certain prohibitions and restrictions with respect to the investment by the National Treasury Management Agency of the assets of the Ireland Strategic Investment Fund in undertakings which appear on the UN Database of companies operating in illegal Israeli settlements on Palestinian land. To require the Agency to ensure that such assets are not invested in such an undertaking ISIF has invested Irish taxpayers' money in nine companies operating in illegal Israeli settlements in the occupied Palestinian territories. (The National Treasury Management Agency, NTMA, was established in late 1990 to manage the assets and liabilities of the Irish Government. Part of its brief is to manage Ireland's National Pension Reserve Fund and the Irish national debt. It also has responsibility for the management of the Ireland Strategic Investment Fund).",
+   "status": " Current",
+   "votes":[]
+ },
+ {
+   "bill": "13 of 2023",
+   "id": "W2jm12e",
+   "title": "Commission of Investigation (Collusion of British State Forces) Bill 2023",
+   "sponsors": "Peadar Tóibín",
+   "party": "Aontú",
+   "explainer": "An incredible number of innocent people have lost their lives due to British violence, British murder and British collusion in Ireland, North and South, for well over 50 years. In many of these situations, there have been no investigations whatsoever. In many of these situations, there have been cover-ups of the murderers' actions, both North and South. This bill would allow for a commission of investigation to be set up in this State that would be allowed to compel witnesses in the South of Ireland. It would have the power to take evidence from people outside the State. It also would have the power to consider information collected from other published state investigations from outside of the southern State.",
+   "status": " current",
+   "votes":[]
+ },
+ {
+   "bill": "17 of 2023",
+   "id": "W3km13e",
+   "title": "Civil Defence Act 2023",
+   "sponsors": "Minister for Defence, Micheál Martin",
+   "party": "Fianna Fáil",
+   "explainer": "This bill updates the Civil Defence Units and reaffirms the continuing role of the DoD in managing and developing the overall strategies and policies regarding Civil Defence matters and sets out the requirement for local authorities to comply with any directions concerning civil defence matters issued by the Minister under this legislation.",
+   "status ": "Enacted",
+   "votes":[]
+ },
+ {
+   "bill": "117 of 2022",
+   "id": "W4lm14e",
+   "title": "Ukraine Solidarity Bill 2022",
+   "sponsors": "Jim O’Callaghan",
+   "party": "Fianna Fáil ",
+   "explainer": "This bill is two-fold. The purpose of the fisrt part of the bill bill  is to make the crime of aggression a crime in Irish law, and in respect of the crime of aggression so that those individuals who are assisting in that crime may also face prosecution. The second part of the bill is to also speedily recognize the professional qualifications of refugees from Ukraine so that they may carry out their area of expertise.",
+   "status": " Current",
+   "votes":[]
+ },
+ {
+   "bill": "34 of 2022",
+   "id": "W5lm14e",
+   "title": "Thirty-Ninth Amendment of the Constitution (Neutrality) Bill 2022",
+   "sponsors": "Paul Murphy, Gino Kenny, Bríd Smith, Richard Boyd Barrett",
+   "party": "PBPS",
+   "explainer": "Ireland would have a referendum to enshrine neutrality in the Constitution. That is defined as Ireland being a neutral State that will not join many military alliances. It states that Ireland could only participate in armed conflict in circumstances where it is under attack or invasion and with the vote of a Dáil. It states very clearly that the Government could not join wars or get the country to join wars as part of an EU decision. If it wanted to do that, it would need another referendum.",
+   "status": "Defeated",
+   "votes":[]
+ },
+ {
+   "bill": "121 of 2018",
+   "id": "W6lm14e",
+   "title": "Thirty-Eighth Amendment of the Constitution (Neutrality) Bill 2018",
+   "sponsors": "Aengus Ó Snodaigh, Seán Crowe",
+   "party": "Sinn Féin",
+   "explainer": "The Bill seeks to amend the Constitution to ensure Ireland will not and could not aid foreign powers in any way in preparation for a war, save with the assent of the Dáil. It also affirms that Ireland is a neutral State and that the State should have a policy of non-membership of military alliances.",
+   "status": "Defeated",
+   "votes":[]
+ },
+ {
+   "bill": "85 of 2016",
+   "id": "W7lm14e",
+   "title": "Thirty-Eighth Amendment of the Constitution (Neutrality) Bill 2018",
+   "sponsors": "Aengus Ó Snodaigh",
+   "party": "Sinn Féin",
+   "explainer": "This Bill we are seeking to introduce is to enhance Irish neutrality, ensuring that the State would strictly adhere to a policy of non-membership of military alliances, including the likes of the Partnership for Peace and the EU battle groups. It will empower Irish citizens by giving them the opportunity to reaffirm the State's neutrality in a referendum at a time of increased EU military expansionism.",
+   "status": "Defeated",
+   "votes":[]
+ },
+ {
+   "bill": "117 of 2014",
+   "id": "W8lm14e",
+   "title": "Thirty-fourth Amendment of the Constitution (Peace and Neutrality) Bill 2014",
+   "sponsors": "Mick Wallace",
+   "party": "Independent",
+   "explainer": "This Bill sets out to have Ireland's neutral status affirmed by adherence to the provisions of the 1907 Hague Convention (V) respecting the Rights and Duties of Neutral Powers and Persons in Case of War on Land. According to Article 2 of the Hague Convention (V): 'Belligerents are forbidden to move troops or convoys of either munitions of war or supplies across the territory of a neutral Power'. At the moment such law is not part of the Constitution of Ireland or domestic law, neutrality is simply policy.",
+   "status": "Defeated",
+   "votes":[]
+ },
+ {
+   "bill": "126 of 2013",
+   "id": "W9lm14e",
+   "title": "Thirty-fourth Amendment of the Constitution (Peace and Neutrality) Bill 2014",
+   "sponsors": "Seán Crowe",
+   "party": "Sinn Féin",
+   "explainer": "The Bill seeks to amend the Constitution to ensure Ireland will not and could not aid foreign powers in any way in the preparation for war save with the assent of the Dáil. The Bill also affirms that Ireland is a neutral State and that the State would have a policy of non-membership of military alliances. I sought to introduce this Bill to ensure the Government cannot and will not continue to undermine Irish neutrality. The continued use of Shannon Airport for foreign military forces to facilitate their ongoing wars coupled with the increased militarisation of the EU and this State's deeper integration into the EU military system should be curbed.",
+   "status": "Defeated",
+   "votes":[]
+ }
+ ]
+ },
   {
     "id": 3,
     "title":"Human Rights",
@@ -231,112 +1460,39 @@
 	}
 
 ]
-},
+  },
+    {
+    "id": 4,
+    "title":"Animal Rights",
+     "bills":[
   {
-  "id": 4,
-  "title":"Animal Rights",
-   "bills":[
-{
-  "bill": "No. 46 of 2023",
-  "id": "ANim14571e",
-  "title": "Protection of Hares Bill 2023",
-  "sponsors": "Jennifer Whitmore",
-  "party": "Social Democrats",
-  "explainer":" A bill to make hare coursing illegal in Ireland (hare coursing is having greyhounds or other dogs that chase by sight hunt down and kill hares for sport/gambling)",
-  "status": " Current",
-  "votes":[]
-},
-{
-  "bill": "54 of 2022",
-  "id": "AN3jm12e",
-  "title": "Animal Health and Welfare (Dogs) Bill 2022",
-  "sponsors": "Lynn Boylan, Niall Ó Donnghaile, Paul Gavan, Fintan Warfield",
-  "party": "Sinn Féin",
-  "explainer": "This legislation would help to alleviate some of the capacity issues shelters are dealing with by ensuring that dogs seized under the Animal Health and Welfare Act 2013 can be rehomed without delay and given the same rights as a stray dog which can be rehomed within 5 days.",
-  "status": " current",
-  "votes":[]
-}
+    "bill": "No. 46 of 2023",
+    "id": "ANim14571e",
+    "title": "Protection of Hares Bill 2023",
+    "sponsors": "Jennifer Whitmore",
+    "party": "Social Democrats",
+    "explainer":" A bill to make hare coursing illegal in Ireland (hare coursing is having greyhounds or other dogs that chase by sight hunt down and kill hares for sport/gambling)",
+    "status": " Current",
+    "votes":[]
+  },
+  {
+    "bill": "54 of 2022",
+    "id": "AN3jm12e",
+    "title": "Animal Health and Welfare (Dogs) Bill 2022",
+    "sponsors": "Lynn Boylan, Niall Ó Donnghaile, Paul Gavan, Fintan Warfield",
+    "party": "Sinn Féin",
+    "explainer": "This legislation would help to alleviate some of the capacity issues shelters are dealing with by ensuring that dogs seized under the Animal Health and Welfare Act 2013 can be rehomed without delay and given the same rights as a stray dog which can be rehomed within 5 days.",
+    "status": " current",
+    "votes":[]
+  }
 
-]
-},
-  {
-  "id": 5,
-  "title":"Agriculture",
-   "bills":[
-{
-  "bill": "21 of 2023",
-  "id": "aim1lop1e",
-  "title": "Veterinary Medicinal Products, Medicated Feed and Fertilisers Regulation Act 2023",
-  "sponsors": "Minister for Agriculture, Food and the Marine, Charlie McConalogue",
-  "party": "Fianna Fáil",
-  "explainer":"The first part of the bill seeks to modernise the area of veterinary medicines and medicated feed by enforcing the two new EU regulations regulating  the medication used in feed. The second part of the bill creates a national  fertiliser database which will collect data on import, sale, supply and use of fertilisers and allow for analysis of this data.",
-  "status": " Enacted",
-  "votes":[]
-},
-{
-  "bill": "19 of 2023",
-  "id": "AG1jm12e",
-  "title": "Agricultural and Food Supply Chain Act 2023 ",
-  "sponsors": "Minister for Agriculture, Food and the Marine, Charlie McConalogue",
-  "party": "Fianna Fáil",
-  "explainer": "This bill will firstly deliver a price and market analysis and reporting function.Secondly the agri food regulator will also become the designated national enforcement authority for the unfair trading practices, The aim of the bill is to ensure that there are adequate protections in place so that suppliers are treated fairly in their business dealings along the agrifood supply chain. This bill gives further effect to Directive (EU) 2019/633 of the European Parliament and of the Council of 17 April 2019 on unfair trading practices.",
-  "status": "Enacted",
-  "votes":[]
-}
-
-]
-},
-  {
-  "id": 6,
-  "title":"Trade and Consumers",
-   "bills":[
-{
-  "bill": "27 of 2023",
-  "id": "TC1im11e",
-  "title": "Control of Exports Act 2023",
-  "sponsors": "Minister for Enterprise, Trade and Employment, Dara Calleary",
-  "party": "Fianna Fáil",
-  "explainer":"This bill is  to strengthen and modernise the current legislative framework for export controls in Ireland. This Bill will repeal and replace the Control of Exports Act 2008. It will ensure that Ireland continues to operate a robust framework for regulating the export of controlled items, principally dual-use and military items.It brings the export bill in line with EU regulations.",
-  "status": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "22 of 2023",
-  "id": "TC2jm12e",
-  "title": "Representative Actions for the Protection of the Collective Interests of Consumers Act 2023",
-  "sponsors": "Minister for Enterprise, Trade and Employment, Dara Calleary",
-  "party": "Fianna Fáil",
-  "explainer":  "This directive requires member states to have a mechanism for consumers to seek collective redress when they claim to have been harmed by a business through breaches of certain EU consumer laws. This will be the first time that consumers can be represented collectively in an Irish court by a designated not-for-profit organisation.",
-  "status": "Enacted",
-  "votes":[]
-},
-{
-  "bill": " 38 of 2022",
-  "id": "TC3jm12e",
-  "title": "Credit Guarantee (Amendment) Act 2022 ",
-  "sponsors": "Minister for Enterprise, Trade and Employment, Dara Calleary",
-  "party": "Fianna Fáil",
-  "explainer":  "The main purpose of this Bill is to make certain amendments to the Credit Guarantee Act 2012. The Government is making assistance available to businesses to allow them to tackle and overcome the expected cost pressures of this year and next. The first of these is the €1.25 billion temporary business energy support scheme. It will provide qualifying businesses with up to 40% of the increase in electricity or gas bills up to €10,000 per month. It will help small businesses the most, but also medium and larger businesses. The second initiative is a €200 million targeted Ukraine enterprise crisis scheme  designed to assist viable but vulnerable businesses that are suffering the broader effects of the war in Ukraine. Operating in tandem with the Ukraine credit guarantee scheme will make up to €500 million in low-cost investment loans of up to ten years available to SMEs, including farmers and fishers with no collateral required for loans up to €500,000. A minimum of 30% of the lending volume will be targeted towards environmental sustainability purposes.",
-  "status": "Enacted",
-  "votes":[]
-},
-{
-  "bill": " 37 of 2022",
-  "id": "TC4jm12e",
-  "title": "Consumer Rights Act 2022",
-  "sponsors": " Minister for Enterprise, Trade and Employment, Simon Coveney",
-  "party": "Fine Gael",
-  "explainer":  "The purpose of the Bill is to bring about several positive changes for consumers, including stronger consumer rights, protections and remedies across a number of key areas. For instance, it gives people stronger consumer rights when it comes to how problems with goods or services they have received are resolved, so instead of just exchange, refund or repair, consumers will also be entitled to agree to a price reduction on faulty goods and flawed services if that suits them better. They will also be entitled to withhold payment for goods or services that have been partially paid for if they are not satisfied with the quality of the item or service received.",
-  "status": "Enacted",
-  "votes":[]
-}
-]
-},
+  ]
+  },
   {
   "id": 7,
   "title":"Employment",
    "bills":[
-{
+  {
   "bill": "37 of 2023",
   "id": "EM1im11e",
   "title": "National Minimum Wage (Inclusion of Apprentices) Bill 2023 ",
@@ -345,8 +1501,8 @@
   "explainer":"This is a Bill to include apprentices in receiving minimum wageprore premises; to make provision for enforcement in respect of engaging in conduct prohibited in such safe access zones",
   "status": " Current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "23 of 2023",
   "id": "EM2jm12e",
   "title": "Unfair Dismissals (Increased Protections for Workers) (Amendment) Bill 2023",
@@ -355,8 +1511,8 @@
   "explainer": "This Bill seeks to make a number of reforms to the Unfair Dismissals Act in order to increase protections for workers who have been unfairly dismissed from their employment. As it stands, any worker in the country who is of average retirement age for their profession or for their employer, is not protected against an unfair dismissal. My Bill would seek to change that by expanding the Act to cover all workers over the age of 16.",
   "status": " current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": " 6 of 2023",
   "id": "EM3km13e",
   "title": "Remuneration Information and Pay Transparency Bill 2023",
@@ -365,8 +1521,8 @@
   "explainer": "A Bill to make further and better provision for equality between employed persons by providing for transparency in respect of matters relating to pay.",
   "status ": "Current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "52 of 2022",
   "id": "EM4lm14e",
   "title": "Local Government (Maternity Protection and Other Measures for Members of Local Authorities) Act 2022",
@@ -375,8 +1531,8 @@
   "explainer": "This bill is to give local authority members who are elected and not employees the same benefits to the entitlement to maternity leave equivalent to the current entitlement for employees under the Maternity Protection Act 1994.",
   "status": "Enacted",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "91 of 2022",
   "id": "EM5lm14e",
   "title": "Employment Permits Bill 2022",
@@ -385,8 +1541,8 @@
   "explainer": "The aim of the Bill is to Amend the employment permits Bill to  address the challenges in providing employment permits promptly to non-EEA nationals who take temporary employment as non-consultant hospital doctors, NCHDs, in public hospitals and public health facilities. And to  introduce a seasonal employment permit.",
   "status": "Current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "57 of 2022",
   "id": "EM6lm14e",
   "title": "National Minimum Wage (Payment of Interns) Bill 2022",
@@ -395,8 +1551,8 @@
   "explainer": "This Bill is to ban unpaid internships. All work undertaken must be recognised, respected and, at the very least, paid for at the level of the national minimum wage.",
   "status": "Current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "51 of 2022",
   "id": "EM7lm14e",
   "title": "Living Wage Bill 2022",
@@ -405,8 +1561,8 @@
   "explainer": "This Bill would transform the low pay commission into a living wage commission and assign it new duties to enable it to make recommendations to ensure that the minimum wage is transformed into a living wage over a three-year period. (We provide the definition of a living wage, meaning an annual wage that, in the opinion of the commission, if paid to a single adult person living alone and in full-time employment would afford that person a standard of living that meets the person's needs at a minimum but socially acceptable level).",
   "status": "Current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "50 of 2022",
   "id": "EM8lm14e",
   "title": "Right to Flexible Work Bill 2022",
@@ -415,8 +1571,8 @@
   "explainer": "This bill provides employees with a right to flexible work, to require an employer to deal with a request for flexible work within a fixed period. An employer may refuse a request only on grounds of reasonable practicability There is a requirement for employers to maintain a policy on flexible work which can be inspected by employees and the Workplace Relations Commission, and provides for a right of appeal in certain circumstances against a refusal of flexible work.",
   "status": "Current",
   "votes":[]
-},
-{
+  },
+  {
   "bill": "41 of 2022",
   "id": "EM9lm14e",
   "title": "Employment Equality (Abolition of Mandatory Retirement Age) Bill 2022",
@@ -425,1396 +1581,44 @@
   "explainer": "This Bill ensures that  age should not be a ground to terminate a person's employment. This Bill is about giving workers a choice. It will put an end to the facilitation of ageism",
   "status": "Current",
   "votes":[]
-}
-]
-},
-  {
-  "id": 8,
-  "title":"Legal Matters",
-   "bills":[
-{
-  "bill": "36 of 2023",
-  "id": "LM1im11e",
-  "title": "Legal Aid (Amendment) Bill 2023",
-  "sponsors": "Patrick Costello",
-  "party": "Green Party",
-  "explainer":"This bill sets out expanded criteria under which civil legal aid can be obtained and provides for changes in respect of financial eligibility and individual contributions. The aim of the Bill is to ensure justice is accessible for all and that is ultimately about supporting democracy.",
-  "status": " Current",
-  "votes":[]
-},
-{
-  "bill": "35 of 2023",
-  "id": "LM2jm12e",
-  "title": "Ministers and Secretaries (Attorney General) Bill 2023",
-  "sponsors": "Ivana Bacik, Ged Nash",
-  "party": "Labour Party",
-  "explainer": "A change in the law to ensure that the State's litigation strategy must have regard to the public interest. It seeks to ensure that any legal advice provided to the Government would have due regard to the vindication of people's rights and to the common good. provides that defence strategies for litigation against the State have to be prepared with a proper consideration of the public interest.(this would ensure that the government is not in court defending a practice that is not in the public interest such as the practice of the case of the illegal charging for older people in nursing home care and the removal of disability allowance payments from vulnerable persons in institutional care).",
-  "status": " current",
-  "votes":[]
-}
-]
-},
-  {
-  "id": 9,
-  "title":"War & Conflict",
-   "bills":[
-{
-  "bill": "28 of 2023",
-  "id": "W1im11e",
-  "title": "Illegal Israeli Settlements Divestment Bill 2023",
-  "sponsors": "John Brady",
-  "party": "Sinn Féin",
-  "explainer":"An Act to impose certain prohibitions and restrictions with respect to the investment by the National Treasury Management Agency of the assets of the Ireland Strategic Investment Fund in undertakings which appear on the UN Database of companies operating in illegal Israeli settlements on Palestinian land. To require the Agency to ensure that such assets are not invested in such an undertaking ISIF has invested Irish taxpayers' money in nine companies operating in illegal Israeli settlements in the occupied Palestinian territories. (The National Treasury Management Agency, NTMA, was established in late 1990 to manage the assets and liabilities of the Irish Government. Part of its brief is to manage Ireland's National Pension Reserve Fund and the Irish national debt. It also has responsibility for the management of the Ireland Strategic Investment Fund).",
-  "status": " Current",
-  "votes":[]
-},
-{
-  "bill": "13 of 2023",
-  "id": "W2jm12e",
-  "title": "Commission of Investigation (Collusion of British State Forces) Bill 2023",
-  "sponsors": "Peadar Tóibín",
-  "party": "Aontú",
-  "explainer": "An incredible number of innocent people have lost their lives due to British violence, British murder and British collusion in Ireland, North and South, for well over 50 years. In many of these situations, there have been no investigations whatsoever. In many of these situations, there have been cover-ups of the murderers' actions, both North and South. This bill would allow for a commission of investigation to be set up in this State that would be allowed to compel witnesses in the South of Ireland. It would have the power to take evidence from people outside the State. It also would have the power to consider information collected from other published state investigations from outside of the southern State.",
-  "status": " current",
-  "votes":[]
-},
-{
-  "bill": "17 of 2023",
-  "id": "W3km13e",
-  "title": "Civil Defence Act 2023",
-  "sponsors": "Minister for Defence, Micheál Martin",
-  "party": "Fianna Fáil",
-  "explainer": "This bill updates the Civil Defence Units and reaffirms the continuing role of the DoD in managing and developing the overall strategies and policies regarding Civil Defence matters and sets out the requirement for local authorities to comply with any directions concerning civil defence matters issued by the Minister under this legislation.",
-  "status ": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "117 of 2022",
-  "id": "W4lm14e",
-  "title": "Ukraine Solidarity Bill 2022",
-  "sponsors": "Jim O’Callaghan",
-  "party": "Fianna Fáil ",
-  "explainer": "This bill is two-fold. The purpose of the fisrt part of the bill bill  is to make the crime of aggression a crime in Irish law, and in respect of the crime of aggression so that those individuals who are assisting in that crime may also face prosecution. The second part of the bill is to also speedily recognize the professional qualifications of refugees from Ukraine so that they may carry out their area of expertise.",
-  "status": " Current",
-  "votes":[]
-},
-{
-  "bill": "34 of 2022",
-  "id": "W5lm14e",
-  "title": "Thirty-Ninth Amendment of the Constitution (Neutrality) Bill 2022",
-  "sponsors": "Paul Murphy, Gino Kenny, Bríd Smith, Richard Boyd Barrett",
-  "party": "PBPS",
-  "explainer": "Ireland would have a referendum to enshrine neutrality in the Constitution. That is defined as Ireland being a neutral State that will not join many military alliances. It states that Ireland could only participate in armed conflict in circumstances where it is under attack or invasion and with the vote of a Dáil. It states very clearly that the Government could not join wars or get the country to join wars as part of an EU decision. If it wanted to do that, it would need another referendum.",
-  "status": "Defeated",
-  "votes":[]
-},
-{
-  "bill": "121 of 2018",
-  "id": "W6lm14e",
-  "title": "Thirty-Eighth Amendment of the Constitution (Neutrality) Bill 2018",
-  "sponsors": "Aengus Ó Snodaigh, Seán Crowe",
-  "party": "Sinn Féin",
-  "explainer": "The Bill seeks to amend the Constitution to ensure Ireland will not and could not aid foreign powers in any way in preparation for a war, save with the assent of the Dáil. It also affirms that Ireland is a neutral State and that the State should have a policy of non-membership of military alliances.",
-  "status": "Defeated",
-  "votes":[]
-},
-{
-  "bill": "85 of 2016",
-  "id": "W7lm14e",
-  "title": "Thirty-Eighth Amendment of the Constitution (Neutrality) Bill 2018",
-  "sponsors": "Aengus Ó Snodaigh",
-  "party": "Sinn Féin",
-  "explainer": "This Bill we are seeking to introduce is to enhance Irish neutrality, ensuring that the State would strictly adhere to a policy of non-membership of military alliances, including the likes of the Partnership for Peace and the EU battle groups. It will empower Irish citizens by giving them the opportunity to reaffirm the State's neutrality in a referendum at a time of increased EU military expansionism.",
-  "status": "Defeated",
-  "votes":[]
-},
-{
-  "bill": "117 of 2014",
-  "id": "W8lm14e",
-  "title": "Thirty-fourth Amendment of the Constitution (Peace and Neutrality) Bill 2014",
-  "sponsors": "Mick Wallace",
-  "party": "Independent",
-  "explainer": "This Bill sets out to have Ireland's neutral status affirmed by adherence to the provisions of the 1907 Hague Convention (V) respecting the Rights and Duties of Neutral Powers and Persons in Case of War on Land. According to Article 2 of the Hague Convention (V): 'Belligerents are forbidden to move troops or convoys of either munitions of war or supplies across the territory of a neutral Power'. At the moment such law is not part of the Constitution of Ireland or domestic law, neutrality is simply policy.",
-  "status": "Defeated",
-  "votes":[]
-},
-{
-  "bill": "126 of 2013",
-  "id": "W9lm14e",
-  "title": "Thirty-fourth Amendment of the Constitution (Peace and Neutrality) Bill 2014",
-  "sponsors": "Seán Crowe",
-  "party": "Sinn Féin",
-  "explainer": "The Bill seeks to amend the Constitution to ensure Ireland will not and could not aid foreign powers in any way in the preparation for war save with the assent of the Dáil. The Bill also affirms that Ireland is a neutral State and that the State would have a policy of non-membership of military alliances. I sought to introduce this Bill to ensure the Government cannot and will not continue to undermine Irish neutrality. The continued use of Shannon Airport for foreign military forces to facilitate their ongoing wars coupled with the increased militarisation of the EU and this State's deeper integration into the EU military system should be curbed.",
-  "status": "Defeated",
-  "votes":[]
-}
-]
-},
-  {
-  "id": 10,
-  "title":"Children",
-   "bills":[
-{
-  "bill": "52 of 2023",
-  "id": "CH1im11e",
-  "title": "Children and Family Relationships (Amendment) Bill 2023",
-  "sponsors": "Ivana Bacik",
-  "party": "Labour Party",
-  "explainer":" Amend the Children and Family Relationships Act it ensure that the child of LGBTQ couple born of a known doner will be equally the child of both its LGBTQ parents with both having equal rights.",
-  "status": " Current",
-  "votes":[]
-},
-{
-  "bill": "22 of 2023",
-  "id": "CH2jm12e",
-  "title": "Child Care (Amendment) Bill 2023",
-  "sponsors": "Seán Crowe, Aengus Ó Snodaigh, Maurice Quinlivan",
-  "party": "Sinn Féin",
-  "explainer": "This Bill would amend part of the Child Care Act 1991 and make it an offence to sell containers of nitrous oxide gas to a child or young person under the age of 18.",
-  "status": " current",
-  "votes":[]
-},
-{
-  "bill": "8 of 2023",
-  "id": "CH3km13e",
-  "title": "Commission for Future Generations Bill 2023",
-  "sponsors": "Marc Ó Cathasaigh",
-  "party": "Green Party",
-  "explainer": "The Bill will establish an independent commission for future generations to consider and report within 12 months on how best to set up an office of ombudsman for them. The proposed commission for future generations could also make recommendations on a number of areas to ensure that decisions made in the present will not have an adverse effect on future generations.",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "21 of 2022",
-  "id": "CH4lm14e",
-  "title": "Child Care (Amendment) Act 2022",
-  "sponsors": "Minister for Children, Equality, Disability, Integration and Youth, Roderic O'Gorman",
-  "party": "Green Party",
-  "explainer": "At present, guardians ad litem, GALs, are appointed by the court for children who are the subject of child care proceedings under the Child Care Act 1991. The GAL's role is to ascertain the views of the child and communicate these to the court. Current legislative provisions do not set out the qualifications and experience necessary to act as a GAL. The status, role, and functions of the GAL are not defined. There is no requirement on the court to appoint a GAL. The Bill will address these issues by repealing section 23 of the Child Care Act, and inserting a new Part specifically relating to guardians ad litem. The Bill provides a statutory basis for a national GAL service that will provide high-quality assistance to both vulnerable children and the courts.",
-  "status": "Enacted",
-  "votes":[]
-}
-]
-},
-  {
-  "id": 11,
-  "title":"Finance",
-   "bills":[
-{
-  "bill": "11 of 2023",
-  "id": "F1im11e",
-  "title": "Finance Act 2023 ",
-  "sponsors": "Minister of Finance, Michael McGrath",
-  "party": "Fianna Fáil ",
-  "explainer":"This bill provides for some of the cost-of-living measures announced by the Government last month. The full package of measures will cost more than €1.2 billion and will put money back into people’s pockets, help with bills and ensure there is no cliff edge for the temporary measures already in place.",
-  "status": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "22 of 2023",
-  "id": "F2jm12e",
-  "title": "Credit Union (Amendment) Act 2023",
-  "sponsors": "Minister of Finance, Michael McGrath",
-  "party": "Fianna Fáil",
-  "explainer": "This Bill's aim is to will help the credit union movement to grow as a key provider of community banking in the country.",
-  "status": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "49 of 2022",
-  "id": "F3km13e",
-  "title": "Safe Deposit Boxes and Related Deposits Bill 2022",
-  "sponsors": "Éamon Ó Cuív",
-  "party": "Fianna Fáil",
-  "explainer": "The purpose of the bill is to create a register of property deposits in banks.To identify the safekeeping of the deposit where the records are sufficient to identify a living or beneficial owner. If an owner cannot be found to notify the director of the National Museum of Ireland of any unclaimed property. They will then examine the property and decide whether it should be retained by the museum. The Bill also provides for the transfer of unclaimed funds to the Dormant Accounts Fund.",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "11 of 2022",
-  "id": "F4km13e",
-  "title": "Insurance (Miscellaneous Provisions) Act 2022",
-  "sponsors": "Minister for Finance, Michael McGrath",
-  "party": "Fianna Fáil",
-  "explainer": "This Bill will help to increase transparency and bring about clarity in the insurance market, benefiting policyholders and insurers as well as authorities.  The Central Bank will have the ability to collect data on State supports deducted from relevant claim settlements.  The Bill is intended to complement the ban on price walking and protect consumers from unfair pricing. From 1 July 2022, a ban on price walking will mean that motor and home insurance consumers can no longer be penalised simply for choosing to stay with the same insurer, thereby ending the unfair practice of a loyalty penalty.",
-  "status ": "Enacted",
-  "votes":[]
-}
-]
-},
-  {
-  "id": 12,
-  "title":"Standards in Public Office",
-   "bills":[
-{
-  "bill": "No. 16 of 2023",
-  "id": "SPim11e",
-  "title": "Standards in Public Office (Amendment) Bill 2023",
-  "sponsors": "Mairéad Farrell, Pat Buckley",
-  "party": "Sinn Féin",
-  "explainer":"First, it will make it an offence for Oireachtas Members willfully and recklessly to fail to disclose their required interests.Secondly it would allow SIPO to initiate its own investigations and thirdly it would require SIPO's annual report to be laid before the Houses of the Oireachtas.",
-  "status": "Current",
-  "votes":[]
-}
-]
-},
-{
-  "id": 13,
-  "title":"Arts & Heritage",
-   "bills":[
-{
-  "bill": "26 of 2023",
-  "id": "ARTim11e",
-  "title": "Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023",
-  "sponsors": "Minister Heritage and Electoral Reform , Malcolm Noonan",
-  "party": "Green Party",
-  "explainer":"This bill updates the national Monument Act and clarifies the State ownership of monuments and found Archaeological objects. Where an artefact is found there is a 72 hour limit to  report the find. Newly discovered archaeological sites are afforded immediate legal protection",
-  "status": "Enacted",
-  "votes":[]
-}
-]
-},
-{
-  "id": 14,
-  "title":"Housing & Planning",
-   "bills":[
-{
-  "bill": "86 of 2023",
-  "id": "H1im11e",
-  "title": "Residential Tenancies (Deferment of Termination Dates of Certain Tenancies (No.2) Bill 2023",
-  "sponsors": "Eoin Ó Broin",
-  "party": "Sinn Féin",
-  "explainer":"A bill to defer the termination dates of tenancies (who have not done anything wrong and are not in arrears) to ensure the tenant has obtained alternative accommodation before vacating a tenancy.",
-  "status": "Defeated",
-  "votes":[]
-},
-{
-  "bill": "81 of 2023",
-  "id": "H2jm12e",
-  "title": "Planning and Development Bill 2023",
-  "sponsors": "Minister for Housing",
-  "party": "Fianna Fáil",
-  "explainer": "Bill entitled an Act to consolidate and revise the law relating to planning and development; to provide for the licensing of events and control of funfairs; for those purposes to repeal the Planning and Development Act 2000; to amend certain other enactments; and to provide for matters connected therewith",
-  "status": " current",
-  "votes":[]
-},
-{
-  "bill": "75 of 2023",
-  "id": "H3km13e",
-  "title": "Developer Profits Transparency Bill 2023 ",
-  "sponsors": "Cian O'Callaghan",
-  "party": "Social Democrats",
-  "explainer": "An Act to introduce a requirement for property developers who are in receipt of State subsidies to publish annual financial statements.",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "61 of 2023",
-  "id": "H4lm14e",
-  "title": "Planning and Development (Provision of Public Housing) Bill 202",
-  "sponsors": "Chris Andrews, Eoin Ó Broin",
-  "party": "Sinn Féin",
-  "explainer": "This bill is to ensure and protect the provision of public housing. Where this is particularly relevant is in dense urban areas.",
-  "status": " Current",
-  "votes":[]
-},
-{
-  "bill": "72 of 2023",
-  "id": "H5lm14e",
-  "title": "Mortgage Interest Rates Cap Bill 2023 ",
-  "sponsors": "Richard Boyd Barrett, Bríd Smith, Gino Kenny, Mick Barry, Paul Murphy",
-  "party": "PBPS",
-  "explainer": "This Bill is an attempt to address the interest rate hike of hundreds of thousands of people with mortgages who may be at risk of losing their homes.",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": "34 of 2023",
-  "id": "H6lm14e",
-  "title": "Rent Reduction Bill 2023",
-  "sponsors": "Paul Murphy, Richard Boyd Barrett, Bríd Smith, Gino Kenny, Mick Barry",
-  "party": "PBPS",
-  "explainer": "This Bill would make it law that rents be reduced to 25% of monthly median household incomes.",
-  "status": "Defeated",
-  "votes": [
-      {
-          "name": "Berry, Cathal",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112va ",
-          "party":"IN"
-      },
-      {
-          "name": "Brophy, Colm",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "212vb ",
-          "party":"FG"
-      },
-      {
-          "name": "Browne, James",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "312vc ",
-          "party":"FF"
-      },
-      {
-          "name": "Bruton, Richard",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "412vd ",
-          "party":"FG"
-      },
-      {
-          "name": "Burke, Colm",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "512ve ",
-          "party":"FG"
-      },
-      {
-          "name": "Burke, Peter",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "612vf ",
-          "party":"FG"
-      },
-      {
-          "name": "Butler, Mary",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "712vg ",
-          "party":"FF"
-      },
-      {
-          "name": "Byrne, Thomas",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "812vh ",
-          "party":"FF"
-      },
-      {
-          "name": "Cahill, Jackie",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "912v1 ",
-          "party":"FF"
-      },
-      {
-          "name": "Calleary, Dara",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "122vj ",
-          "party":"FF"
-      },
-      {
-          "name": "Canney, Seán",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "132vk ",
-          "party":"IN"
-      },
-      {
-          "name": "Carey, Joe",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "142vl ",
-          "party":"FG"
-      },
-      {
-          "name": "Carroll MacNeill, Jennifer",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "152vm ",
-          "party":"FG"
-      },
-      {
-          "name": "Chambers, Jack",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "162vn ",
-          "party":"FF"
-      },
-      {
-          "name": "Collins, Niall",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "172vo ",
-          "party":"FF"
-      },
-      {
-          "name": "Costello, Patrick",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "182vp ",
-          "party":"GP"
-      },
-      {
-          "name": "Coveney, Simon",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "192vq ",
-          "party":"FG"
-      },
-      {
-          "name": "Cowen, Barry",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "111vr ",
-          "party":"FF"
-      },
-      {
-          "name": "Creed, Michael",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "113vs ",
-          "party":"FG"
-      },
-      {
-          "name": "Crowe, Cathal",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "114vt ",
-          "party":"FF"
-      },
-      {
-          "name": "Devlin, Cormac",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "115vu ",
-          "party":"FF"
-      },
-      {
-          "name": "Donnelly, Stephen",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "116vv ",
-          "party":"FF"
-      },
-      {
-          "name": "Donohoe, Paschal",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "117vw ",
-          "party":"FG"
-      },
-      {
-          "name": "Duffy, Francis Noel",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "118vx ",
-          "party":"GP"
-      },
-      {
-          "name": "Durkan, Bernard J",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "119vy ",
-          "party":"FG"
-      },
-      {
-          "name": "English, Damien",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112az ",
-          "party":"FG"
-      },
-      {
-          "name": "Farrell, Alan",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112b1",
-          "party":"FG"
-      },
-      {
-          "name": "Feighan, Frankie",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112c2 ",
-          "party":"FG"
-      },
-      {
-          "name": "Fitzpatrick, Peter",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112d3 ",
-          "party":"IN"
-      },
-      {
-          "name": "Flaherty, Joe",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112e4 ",
-          "party":"FF"
-      },
-      {
-          "name": "Flanagan, Charles",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112f5 ",
-          "party":"FG"
-      },
-      {
-          "name": "Fleming, Sean",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112g6 ",
-          "party":"FF"
-      },
-      {
-          "name": "Foley, Norma",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112h7 ",
-          "party":"FF"
-      },
-      {
-          "name": "Grealish, Noel",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112i8 ",
-          "party":"IN"
-      },
-      {
-          "name": "Griffin, Brendan",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112j9 ",
-          "party":"FG"
-      },
-      {
-          "name": "Harris, Simon",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "a112k ",
-          "party":"FG"
-      },
-      {
-          "name": "Haughey, Seán",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "b112l ",
-          "party":"FF"
-      },
-      {
-          "name": "Heydon, Martin",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "c112m ",
-          "party":"FG"
-      },
-      {
-          "name": "Higgins, Emer",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "d112n ",
-          "party":"FG"
-      },
-      {
-          "name": "Hourigan, Neasa",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "e112o ",
-          "party":"GP"
-      },
-      {
-          "name": "Humphreys, Heather",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "f112p ",
-          "party":"FG"
-      },
-      {
-          "name": "Kehoe, Paul",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "g112q ",
-          "party":"FG"
-      },
-      {
-          "name": "Lahart, John",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "h112r ",
-          "party":"FF"
-      },
-      {
-          "name": "Lawless, James",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "1112s",
-          "party":"FF"
-      },
-      {
-          "name": "Leddin, Brian",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "j112t ",
-          "party":"GP"
-      },
-      {
-          "name": "Lowry, Michael",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "k112u ",
-          "party":"IN"
-      },
-      {
-          "name": "Madigan, Josepha",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "l112v ",
-          "party":"FG"
-      },
-      {
-          "name": "Martin, Catherine",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "m112w ",
-          "party":"GP"
-      },
-      {
-          "name": "Martin, Micheál",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "n112x ",
-          "party":"FF"
-      },
-      {
-          "name": "Matthews, Steven",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "o112y ",
-          "party":"GP"
-      },
-      {
-          "name": "McAuliffe, Paul",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "p112z ",
-          "party":"FF"
-      },
-      {
-          "name": "McConalogue, Charlie",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "q112v1 ",
-          "party":"FF"
-      },
-      {
-          "name": "McGrath, Michael",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "r112v2 ",
-          "party":"FF"
-      },
-      {
-          "name": "McHugh, Joe",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "s112v3 ",
-          "party":"FG"
-      },
-      {
-          "name": "Moynihan, Aindrias",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "t112v4 ",
-          "party":"FF"
-      },
-      {
-          "name": "Moynihan, Michael",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "u112v5 ",
-          "party":"FF"
-  
-      },
-      {
-          "name": "Murnane O'Connor, Jennifer",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "v112v6 ",
-          "party":"FF"
-      },
-      {
-          "name": "Naughten, Denis",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "w112v7 ",
-          "party":"IN"
-      },
-      {
-          "name": "Naughton, Hildegarde",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "x112v8 ",
-          "party":"FG"
-      },
-      {
-          "name": "Noonan, Malcolm",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "y112v9 ",
-          "party":"GP"
-      },
-      {
-          "name": "O'Brien, Darragh",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "z112va ",
-          "party":"FF"
-      },
-      {
-          "name": "O'Brien, Joe",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11a2vb ",
-          "party":"GP"
-      },
-      {
-          "name": "O'Callaghan, Jim",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112bvc ",
-          "party":"FF"
-      },
-      {
-          "name": "O'Connor, James",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112cvd ",
-          "party":"FF"
-      },
-      {
-          "name": "O'Donnell, Kieran",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "112vde",
-          "party":"FG"
-      },
-      {
-          "name": "O'Donovan, Patrick",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11e2vf ",
-          "party":"FG"
-      },
-      {
-          "name": "O'Dowd, Fergus",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11f2vg ",
-          "party":"FG"
-      },
-      {
-          "name": "O'Sullivan, Christopher",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11g2vh ",
-          "party":"FF"
-      },
-      {
-          "name": "O'Sullivan, Pádraig",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11h2v1 ",
-          "party":"FF"
-      },
-      {
-          "name": "Ó Cathasaigh, Marc",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11i2vj ",
-          "party":"GP"
-      },
-      {
-          "name": "Ó Cuív, Éamon",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11j2vk ",
-          "party":"FF"
-      },
-      {
-          "name": "Rabbitte, Anne",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11k2vl ",
-          "party":"FF"
-      },
-      {
-          "name": "Richmond, Neale",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11l2vm ",
-          "party":"FG"
-      },
-      {
-          "name": "Ryan, Eamon",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11m2vn ",
-          "party":"GP"
-      },
-      {
-          "name": "Shanahan, Matt",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11n2vo ",
-          "party":"IN"
-      },
-      {
-          "name": "Smith, Brendan",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11o2vp ",
-          "party":"FF"
-      },
-      {
-          "name": "Smyth, Niamh",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11p2vq ",
-          "party":"FF"
-      },
-      {
-          "name": "Smyth, Ossian",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11q2vr ",
-          "party":"GP"
-      },
-      {
-          "name": "Stanton, David",
-          "vote": "1",
-          "voteText": "Yes",
-          "id": "11r2vs ",
-          "party":"FG"
-      },
-      {
-          "name": "Varadkar, Leo",
-          "voteText": "Yes",
-          "vote": "1",
-          "id": "112svt ",
-          "party":"FG"
-      },
-      {
-          "name": "Andrews, Chris",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "11t2vu",
-          "party":"SF"
-      },
-      {
-          "name": "Bacik, Ivana",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "11u2vv",
-          "party":"LAB"
-      },
-      {
-          "name": "Brry, Mick",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1v12vw "
-      },
-      {
-          "name": "Boyd Barrett, Richard",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1w12vx ",
-          "party":"PBP"
-      },
-      {
-          "name": "Brady, John",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1x12vy ",
-          "party":"SF"
-      },
-      {
-          "name": "Browne, Martin",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1y12vz ",
-          "party":"SF"
-      },
-      {
-          "name": "Buckley, Pat",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "11z2vaa ",
-          "party":"SF"
-      },
-      {
-          "name": "Carthy, Matt",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1192vab ",
-          "party":"SF"
-      },
-      {
-          "name": "Clarke, Sorca",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1182vac ",
-          "party":"SF"
-      },
-      {
-          "name": "Collins, Michael",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1172vad ",
-          "party":"IN"
-      },
-      {
-          "name": "Conway-Walsh, Rose",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1162vae ",
-          "party":"SF"
-      },
-      {
-          "name": "Cronin, Réada",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1152vaf ",
-          "party":"SF"
-      },
-      {
-          "name": "Crowe, Seán",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1142vag ",
-          "party":"SF"
-      },
-      {
-          "name": "Cullinane, David",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1132vah ",
-          "party":"SF"
-      },
-      {
-          "name": "Daly, Pa",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "112vai ",
-          "party":"SF"
-      },
-      {
-          "name": "Doherty, Pearse",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1122vaj ",
-          "party":"SF"
-      },
-      {
-          "name": "Donnelly, Paul",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1121vak ",
-          "party":"SF"
-      },
-      {
-          "name": "Ellis, Dessie",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "ab112val ",
-          "party":"SF"
-      },
-      {
-          "name": "Farrell, Mairéad",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "cd112vam ",
-          "party":"SF"
-      },
-      {
-          "name": "Fitzmaurice, Michael",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "ef112van ",
-          "party":"IN"
-      },
-      {
-          "name": "Funchion, Kathleen",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "gh112vao ",
-          "party":"SF"
-      },
-      {
-          "name": "Gannon, Gary",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "ij112vap ",
-          "party":"SD"
-      },
-      {
-          "name": "Gould, Thomas",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "kl112vaq ",
-          "party":"SF"
-      },
-      {
-          "name": "Guirke, Johnny",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "112var ",
-          "party":"SF"
-      },
-      {
-          "name": "Harkin, Marian",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "mn112vas ",
-          "party":"IN"
-      },
-      {
-          "name": "Healy-Rae, Michael",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1op12vat ",
-          "party":"IN"
-  
-      },
-      {
-          "name": "Howlin, Brendan",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "qr112vau ",
-          "party":"LAB"
-      },
-      {
-          "name": "Kelly, Alan",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "st112vav ",
-          "party":"LAB"
-      },
-      {
-          "name": "Kenny, Gino",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1uv12vaw ",
-          "party":"PBP"
-      },
-      {
-          "name": "Kenny, Martin",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "wx112vax ",
-          "party":"SF"
-      },
-      {
-          "name": "Kerrane, Claire",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "yz112vay ",
-          "party":"SF"
-      },
-      {
-          "name": "Mac Lochlainn, Pádraig",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "as112vaz ",
-          "party":"SF"
-      },
-      {
-          "name": "McGrath, Mattie",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "qw112vba ",
-          "party":"IN"
-      },
-      {
-          "name": "Mitchell, Denise",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "we112vbb ",
-          "party":"SF"
-      },
-      {
-          "name": "Munster, Imelda",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "er112vbc ",
-          "party":"SF"
-      },
-      {
-          "name": "Murphy, Catherine",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "rt112vbd ",
-          "party":"SD"
-      },
-      {
-          "name": "Murphy, Paul",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "ty112vbe ",
-          "party":"PBP"
-      },
-      {
-          "name": "Murphy, Verona",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "yu112vbf ",
-          "party":"IN"
-      },
-      {
-          "name": "Mythen, Johnny",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "ui112vbg ",
-          "party":"SF"
-      },
-      {
-          "name": "Nash, Ged",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "io112vbh ",
-          "party":"LAB"
-      },
-      {
-          "name": "Nolan, Carol",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "op112vbi ",
-          "party":"IN"
-      },
-      {
-          "name": "O'Callaghan, Cian",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "pl112vbj ",
-          "party":"SD"
-      },
-      {
-          "name": "O'Donoghue, Richard",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "lk112vbk ",
-          "party":"IN"
-      },
-      {
-          "name": "O'Reilly, Louise",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "1kj12vbl ",
-          "party":"SF"
-      },
-      {
-          "name": "O'Rourke, Darren",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "jh112vbm ",
-          "party":"SF"
-      },
-      {
-          "name": "Ó Broin, Eoin",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "hg112vbn ",
-          "party":"SF"
-      },
-      {
-          "name": "Ó Murchú, Ruairí",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "gf112vbo ",
-          "party":"SF"
-      },
-      {
-          "name": "Ó Snodaigh, Aengus",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "fd112vbp ",
-          "party":"SF"
-      },
-      {
-          "name": "Quinlivan, Maurice",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "ds112vbq ",
-          "party":"SF"
-      },
-      {
-          "name": "Ryan, Patricia",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "sa112vbr ",
-          "party":"SF"
-      },
-      {
-          "name": "Sherlock, Sean",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "az112vbs ",
-          "party":"LAB"
-      },
-      {
-          "name": "Shortall, Róisín",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "zx112vbt ",
-          "party":"SD"
-      },
-      {
-          "name": "Smith, Bríd",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "xc112vbu ",
-          "party":"PBP"
-      },
-      {
-          "name": "Smith, Duncan",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "xc112vbv ",
-          "party":"LAB"
-      },
-      {
-          "name": "Stanley, Brian",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "cv112vbw ",
-          "party":"SF"
-      },
-      {
-          "name": "Tóibín, Peadar",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "vb112vbx ",
-          "party":"AON"
-      },
-      {
-          "name": "Tully, Pauline",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "bn112vby ",
-          "party":"SF"
-      },
-      {
-          "name": "Ward, Mark",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "nm112vbz ",
-          "party":"SF"
-      },
-      {
-          "name": "Whitmore, Jennifer",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "mn112vca ",
-          "party":"SD"
-      },
-      {
-          "name": "Wynne, Violet-Anne",
-          "vote": "-1",
-          "voteText": "No",
-          "id": "nb112vcb ",
-          "party":"IND"
-      }
+  }
   ]
-
-},
-{
-  "bill": "27 of 2023",
-  "id": "H7lm14e",
-  "title": "Tenancy Protection Bill 2023",
-  "sponsors": "Cian O'Callaghan",
-  "party": "Social Democrats",
-  "explainer": "This Bill aims to put an end to situations of mass evictions, where multiple households can be evicted at the same time simply because the owner of the building or a number of rental properties is seeking to sell.",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": "9 of 2023",
-  "id": "H8lm14e",
-  "title": "Public Art Mural (Exempted Development) Bill 2023",
-  "sponsors": "Eoin Ó Broin",
-  "party": "Sinn Féin",
-  "explainer": "This bill is to provide for exemptions from planning permission for certain categories of public art murals.",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": "102 of 2022",
-  "id": "H9lm14e",
-  "title": "Eviction Ban Bill 2022",
-  "sponsors": "Richard Boyd Barrett, Paul Murphy, Bríd Smith, Gino Kenny, Mick Barry ",
-  "party": "PBPS",
-  "explainer": "This is the third Bill that People Before Profit has introduced in an effort to ban evictions where people would end up homeless through no fault of their own. The first of these was introduced in 2018, another was introduced in 2020.",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": " 94 of 2022",
-  "id": "P1lm14e",
-  "title": "Derelict Sites (Amendment) Bill 2022",
-  "sponsors": "Thomas Gould",
-  "party": "Sinn Féin",
-  "explainer": " In 2021, 19 local authorities did not collect a single cent in derelict sites levies. Some of these councils are owed well in excess of €100,000 This Bill will require local authorities that collect less than 75% of the levies owed to produce a comprehensive report. In this report, they will need to outline how they will collect the outstanding levies and why they did not collect them in the first place.",
-  "votes":[]
-},
-{
-  "bill": "55 of 2022",
-  "id": "P2lm14e",
-  "title": "Short-term Lettings Enforcement Bill 2022",
-  "sponsors": "Eoin Ó Broin",
-  "party": "Sinn Féin",
-  "explainer": "This Short-term Letting Enforcement Bill 2022 would first make it an offence under the Planning and Development Acts for any estate agent or short-term letting platform to advertise a property which is not compliant with the planning regulations (Anyone letting out their property for 90 days of the year needs planning permission. The overwhelming majority of properties currently listed on Airbnb are not compliant with this rule). More importantly, it would give the local authority or planning authority the power to impose spot fines by way of regulation by the Minister on such estate agents or platforms that allow their sites to be used to advertise non-compliant properties.",
-  "votes":[]
-},
-{
-  "bill": "46 of 2022",
-  "id": "P3lm14e",
-  "title": "Impaired Farm Credit Bill 2022",
-  "sponsors": "Mattie McGrath, Michael Healy-Rae, Carol Nolan, Richard O'Donoghue, Danny Healy-Rae, Michael Collins",
-  "party": "Independents",
-  "explainer": "This bill provides for the disaggregation of lands charged with repayment of farm debt into two parcels, the ‘Farmlands’ and the ‘Farmhouse’.The debt secured on the parcel designated as the farmhouse be governed by the legislation, general law, and regulatory codes of conduct pertaining to a debtor's principal place of residence, and to take account of the special position of any co-owner thereof.For the role and regulation of receivers as credit servicers and as agent of the debtor.  That possession and sale of the farmlands by the secured creditor be deferred until after a moratorium affording the debtor space and time to engage in preparation of a proposal of a ‘Farm Debt Settlement Arrangement’.",
-  "votes":[]
-}
-]
-},
-{
-  "id": 15,
-  "title":"Social Welfare & Family",
-   "bills":[
-{
-  "bill": "No. 96 of 2023",
-  "id": "SW1im11e",
-  "title": "Social Welfare and Civil Law (Miscellaneous Provisions) Bill 2023",
-  "sponsors": "Minister for social protection Heather Humphreys",
-  "party": "Fine Gael",
-  "explainer":"This bill is to amend the social welfare to exclude the assessment of child maintenance from social welfare means testing. ",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": "68 of 2023",
-  "id": "SW2jm12e",
-  "title": "Commissions of Investigation (Amendment) Bill 2023 ",
-  "sponsors": "Kathleen Funchion, Martin Kenny ",
-  "party": "Sinn Féin",
-  "explainer": "This bill is to ensure that former members of a commission of investigation (such as Mothers and Babies Homes), upon written request, would be required to appear before the relevant Oireachtas joint committee within six months after the presentation of the commission's final report. To answer any questions that may be put to them re: their investigation process and conclusions.",
-  "status": " current",
-  "votes":[]
-},
-{
-  "bill": "20 of 2023",
-  "id": "SW3km13e",
-  "title": "Mother and Baby Institutions Payment Scheme Act 2023 ",
-  "sponsors": "Minister for Children, Equality, Disability, Integration and Youth, Roderic O'Gorman",
-  "party": "Social Democrats",
-  "explainer": "This bill is to make payments and health services available to persons who were residents in certain state institutions. ",
-  "status ": "Current",
-  "votes":[]
-}
-]
+  },
+  {
+    "id": 15,
+    "title":"Social Welfare & Family",
+     "bills":[
+  {
+    "bill": "No. 96 of 2023",
+    "id": "SW1im11e",
+    "title": "Social Welfare and Civil Law (Miscellaneous Provisions) Bill 2023",
+    "sponsors": "Minister for social protection Heather Humphreys",
+    "party": "Fine Gael",
+    "explainer":"This bill is to amend the social welfare to exclude the assessment of child maintenance from social welfare means testing. ",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "68 of 2023",
+    "id": "SW2jm12e",
+    "title": "Commissions of Investigation (Amendment) Bill 2023 ",
+    "sponsors": "Kathleen Funchion, Martin Kenny ",
+    "party": "Sinn Féin",
+    "explainer": "This bill is to ensure that former members of a commission of investigation (such as Mothers and Babies Homes), upon written request, would be required to appear before the relevant Oireachtas joint committee within six months after the presentation of the commission's final report. To answer any questions that may be put to them re: their investigation process and conclusions.",
+    "status": " current",
+    "votes":[]
+  },
+  {
+    "bill": "20 of 2023",
+    "id": "SW3km13e",
+    "title": "Mother and Baby Institutions Payment Scheme Act 2023 ",
+    "sponsors": "Minister for Children, Equality, Disability, Integration and Youth, Roderic O'Gorman",
+    "party": "Social Democrats",
+    "explainer": "This bill is to make payments and health services available to persons who were residents in certain state institutions. ",
+    "status ": "Current",
+    "votes":[]
+  }
+  ]
 },
 {
   "id": 16,
@@ -1983,203 +1787,402 @@
 
 ]
 },
-{
-  "id": 17,
-  "title":"Communications",
+    {
+    "id": 6,
+    "title":"Trade and Consumers",
+     "bills":[
+  {
+    "bill": "27 of 2023",
+    "id": "TC1im11e",
+    "title": "Control of Exports Act 2023",
+    "sponsors": "Minister for Enterprise, Trade and Employment, Dara Calleary",
+    "party": "Fianna Fáil",
+    "explainer":"This bill is  to strengthen and modernise the current legislative framework for export controls in Ireland. This Bill will repeal and replace the Control of Exports Act 2008. It will ensure that Ireland continues to operate a robust framework for regulating the export of controlled items, principally dual-use and military items.It brings the export bill in line with EU regulations.",
+    "status": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": "22 of 2023",
+    "id": "TC2jm12e",
+    "title": "Representative Actions for the Protection of the Collective Interests of Consumers Act 2023",
+    "sponsors": "Minister for Enterprise, Trade and Employment, Dara Calleary",
+    "party": "Fianna Fáil",
+    "explainer":  "This directive requires member states to have a mechanism for consumers to seek collective redress when they claim to have been harmed by a business through breaches of certain EU consumer laws. This will be the first time that consumers can be represented collectively in an Irish court by a designated not-for-profit organisation.",
+    "status": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": " 38 of 2022",
+    "id": "TC3jm12e",
+    "title": "Credit Guarantee (Amendment) Act 2022 ",
+    "sponsors": "Minister for Enterprise, Trade and Employment, Dara Calleary",
+    "party": "Fianna Fáil",
+    "explainer":  "The main purpose of this Bill is to make certain amendments to the Credit Guarantee Act 2012. The Government is making assistance available to businesses to allow them to tackle and overcome the expected cost pressures of this year and next. The first of these is the €1.25 billion temporary business energy support scheme. It will provide qualifying businesses with up to 40% of the increase in electricity or gas bills up to €10,000 per month. It will help small businesses the most, but also medium and larger businesses. The second initiative is a €200 million targeted Ukraine enterprise crisis scheme  designed to assist viable but vulnerable businesses that are suffering the broader effects of the war in Ukraine. Operating in tandem with the Ukraine credit guarantee scheme will make up to €500 million in low-cost investment loans of up to ten years available to SMEs, including farmers and fishers with no collateral required for loans up to €500,000. A minimum of 30% of the lending volume will be targeted towards environmental sustainability purposes.",
+    "status": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": " 37 of 2022",
+    "id": "TC4jm12e",
+    "title": "Consumer Rights Act 2022",
+    "sponsors": " Minister for Enterprise, Trade and Employment, Simon Coveney",
+    "party": "Fine Gael",
+    "explainer":  "The purpose of the Bill is to bring about several positive changes for consumers, including stronger consumer rights, protections and remedies across a number of key areas. For instance, it gives people stronger consumer rights when it comes to how problems with goods or services they have received are resolved, so instead of just exchange, refund or repair, consumers will also be entitled to agree to a price reduction on faulty goods and flawed services if that suits them better. They will also be entitled to withhold payment for goods or services that have been partially paid for if they are not satisfied with the quality of the item or service received.",
+    "status": "Enacted",
+    "votes":[]
+  }
+  ]
+  },
+
+    {
+    "id": 8,
+    "title":"Legal Matters",
+     "bills":[
+  {
+    "bill": "36 of 2023",
+    "id": "LM1im11e",
+    "title": "Legal Aid (Amendment) Bill 2023",
+    "sponsors": "Patrick Costello",
+    "party": "Green Party",
+    "explainer":"This bill sets out expanded criteria under which civil legal aid can be obtained and provides for changes in respect of financial eligibility and individual contributions. The aim of the Bill is to ensure justice is accessible for all and that is ultimately about supporting democracy.",
+    "status": " Current",
+    "votes":[]
+  },
+  {
+    "bill": "35 of 2023",
+    "id": "LM2jm12e",
+    "title": "Ministers and Secretaries (Attorney General) Bill 2023",
+    "sponsors": "Ivana Bacik, Ged Nash",
+    "party": "Labour Party",
+    "explainer": "A change in the law to ensure that the State's litigation strategy must have regard to the public interest. It seeks to ensure that any legal advice provided to the Government would have due regard to the vindication of people's rights and to the common good. provides that defence strategies for litigation against the State have to be prepared with a proper consideration of the public interest.(this would ensure that the government is not in court defending a practice that is not in the public interest such as the practice of the case of the illegal charging for older people in nursing home care and the removal of disability allowance payments from vulnerable persons in institutional care).",
+    "status": " current",
+    "votes":[]
+  }
+  ]
+  },
+
+  {
+  "id": 10,
+  "title":"Children",
    "bills":[
 {
-  "bill": "89 of 2023",
-  "id": "CC1im11e",
-  "title": "Digital Services Bill 2023",
-  "sponsors": "Minister for Trade and Employment, Simon Coveney",
-  "party": "Fine Gael",
-  "explainer":"This bill attempts to improve online safety by placing obligation directly on providers of online services with focus on platform such as social media and marketplace sites as well as search engines. These obligations are designed to expedite the identification and removal of illegal and harmful online content. The regulation will designate a digital services coordinator who will oversee all matters relating to eu regulations: handling complaints, policy development, communications, supervision, investigation and enforcement. ",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": "33 of 2023",
-  "id": "CC2jm12e",
-  "title": "Local Authority Public Administration Bill 2023",
-  "sponsors": "Robert Troy",
-  "party": "Fianna Fáil",
-  "explainer": "This bill is an Act to compel local authorities to provide members of the public and public representatives with substantive replies to written communications within a prescribed period of time to ensure more transparency and accountability is fostered.If a local authority has to reply to a constituent within a specified time, it is much likelier that a decision will be made in a timely fashion and the constituent's problem will be resolved.",
-  "status": " current",
-  "votes":[]
-},
-{
-  "bill": "14 of 2023",
-  "id": "CC3km13e",
-  "title": "Broadcasting (Amendment) Bill 2023",
-  "sponsors": "Patrick Costello",
-  "party": "Green Party",
-  "explainer": "RTÉ because it is funded by means of commercial advertising and through taxpayer funding there is an obligation on the national broadcaster to citizens.There are no finding aids or online catalogue for citizens to view. Such aids exist but they are not made available.The Bill proposes one-section amendment to the Broadcasting Act 2009 to place an obligation on RTÉ to provide free public access to the archive for citizens and academics.",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "90 of 2022",
-  "id": "CC4km13e",
-  "title": "Broadcasting (Gender, Cultural and Other Diversities) Bill 2022",
-  "sponsors": "Marie Sherlock, Annie Hoey, Mark Wall, Rebecca Moynihan",
+  "bill": "52 of 2023",
+  "id": "CH1im11e",
+  "title": "Children and Family Relationships (Amendment) Bill 2023",
+  "sponsors": "Ivana Bacik",
   "party": "Labour Party",
-  "explainer": "This bill in aimed at securing a better reflection of the diversity of people in the broadcasting industry. To provide a quota of composers/performers in relation to content",
-  "status ": "Current",
+  "explainer":" Amend the Children and Family Relationships Act it ensure that the child of LGBTQ couple born of a known doner will be equally the child of both its LGBTQ parents with both having equal rights.",
+  "status": " Current",
   "votes":[]
-}
-]
 },
 {
-  "id": 18,
-  "title":"Health & Safety",
-   "bills":[
-{
-  "bill": "83 of 2023",
-  "id": "HS1im11e",
-  "title": "Mental Health (Amendment) Bill 2023",
-  "sponsors": "Mark Ward, David Cullinane",
+  "bill": "22 of 2023",
+  "id": "CH2jm12e",
+  "title": "Child Care (Amendment) Bill 2023",
+  "sponsors": "Seán Crowe, Aengus Ó Snodaigh, Maurice Quinlivan",
   "party": "Sinn Féin",
-  "explainer":"This bill is to implement the recommendations of the Mental Health Commision regarding child and adolescent mental health matters",
-  "status": "Current",
-  "votes":[]
-},
-{
-  "bill": "24 of 2023",
-  "id": "HS2jm12e",
-  "title": "Construction Safety Licensing Bill 2023",
-  "sponsors": "Minister for Further and Higher Education, Research, Innovation and Science, Nial Collins",
-  "party": "Fianna Fáil",
-  "explainer": "This bill is to ensure that there is a strong and effective framework in place to protect the health and safety of the construction workforce. The primary aim of this bill is ,that construction workers are properly trained, competent and safe to carry out these roles to protect themselves and those who work alongside them..",
+  "explainer": "This Bill would amend part of the Child Care Act 1991 and make it an offence to sell containers of nitrous oxide gas to a child or young person under the age of 18.",
   "status": " current",
   "votes":[]
 },
 {
-  "bill": "7 of 2023",
-  "id": "HS3km13e",
-  "title": "Health (Amendment) Act 2023",
-  "sponsors": "Minister for Health, Stephen Donnelly",
-  "party": "Fianna Fáil",
-  "explainer": "The Bill means that adults will for the first time have free access to inpatient care in public hospitals. At the moment, people are charged €80 a night for a stay in a public hospital, up to a maximum of €800 a year.",
-  "status ": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "No. 49 of 2022",
-  "id": "HS4km13e",
-  "title": "Health Insurance (Amendment) Act 2022",
-  "sponsors": "Minister for Health , Stephen Donnelly",
-  "party": "Fianna Fáil",
-  "explainer": "This bill extends the current legislated enforcement powers to non-registered businesses purporting to be carrying on health insurance business in Ireland The Bill also provides for a decrease in the age-related risk equalisation credits payable across approximately half the age groups over 65. These decreases are to facilitate the redistribution of high-cost claims credits, which result in a more targeted distribution of credits based on health status rather than age.",
-  "status ": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "121 of 2022",
-  "id": "HS5km13e",
-  "title": "Human Tissue (Transplantation, Post-Mortem, Anatomical Examination and Public Display) Bill 2022",
-  "sponsors": "Minister of health, Stephen Donnelly",
-  "party": "Fianna Fáil",
-  "explainer": "This Bill makes organ donation the norm in situations where the opportunity arises. This Bill will help achieve this through the introduction of an opt-out system of consent.",
+  "bill": "8 of 2023",
+  "id": "CH3km13e",
+  "title": "Commission for Future Generations Bill 2023",
+  "sponsors": "Marc Ó Cathasaigh",
+  "party": "Green Party",
+  "explainer": "The Bill will establish an independent commission for future generations to consider and report within 12 months on how best to set up an office of ombudsman for them. The proposed commission for future generations could also make recommendations on a number of areas to ensure that decisions made in the present will not have an adverse effect on future generations.",
   "status ": "Current",
   "votes":[]
 },
 {
-  "bill": "20 of 2022",
-  "id": "HS6km13e",
-  "title": "Health (Miscellaneous Provisions)",
-  "sponsors": "Minister for Health, Stephen Donnelly",
-  "party": "Fianna Fáil",
-  "explainer": "Amendments to the Health act will include the abolishment of the €80 public charge to persons who have chosen to avail of private acute inpatient services. The abolishment of the public charge for public patients.  The exemption of children up to the age of 16 years of age from the charge arising for acute inpatient services, To create a framework to support the introduction of free contraception starting with women aged 17 to 25  . To expand dental health care for medical card holders, such as, the reintroduction of scale and polish.",
-  "status ": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "46 of 2022",
-  "id": "HS7km13e",
-  "title": "Assisted Decision-Making (Capacity) (Amendment) Act 2022",
+  "bill": "21 of 2022",
+  "id": "CH4lm14e",
+  "title": "Child Care (Amendment) Act 2022",
   "sponsors": "Minister for Children, Equality, Disability, Integration and Youth, Roderic O'Gorman",
   "party": "Green Party",
-  "explainer": "The purpose of this Bill is to amend the Assisted Decision-Making (Capacity) 2015 bill and to allow for its commencement. This will bring to an end to the wardship approach but instead be assessed on a functional basis.This is an approach where capacity is presumed and where the burden of proof rests on rebutting that presumption.",
-  "status ": "Enacted",
-  "votes":[]
-},
-{
-  "bill": " 47 of 2022",
-  "id": "HS8km13e",
-  "title": "Commission of Investigation (Nursing Homes) Bill 2022",
-  "sponsors": "Peadar Tóibín, Catherine Connolly, Seán Canney",
-  "party": "Aontú, Independents",
-  "explainer": "This Bill is entitled an Act to provide for a public inquiry into the management, in connection with nursing homes (more than 2,500 people died of Covid-19 in nursing homes since the start of the Covid crisis. We also know that the majority of people who died in this State caught Covid either in a nursing home or in a hospital.)",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "24 of 2022",
-  "id": "HS9km13e",
-  "title": "Sick Leave Act 2022",
-  "sponsors": " Minister for Enterprise, Trade and Employment, Simon Coveney",
-  "party": "Fine Gael",
-  "explainer": "This bill will ensure  employees in Ireland will be entitled to statutory sick pay from their employers. A minimum rate entitlement will also be set to ensure that all workers receive a reasonable level of financial compensation, even if they work part-time or are on low pay",
-  "status ": "Enacted",
+  "explainer": "At present, guardians ad litem, GALs, are appointed by the court for children who are the subject of child care proceedings under the Child Care Act 1991. The GAL's role is to ascertain the views of the child and communicate these to the court. Current legislative provisions do not set out the qualifications and experience necessary to act as a GAL. The status, role, and functions of the GAL are not defined. There is no requirement on the court to appoint a GAL. The Bill will address these issues by repealing section 23 of the Child Care Act, and inserting a new Part specifically relating to guardians ad litem. The Bill provides a statutory basis for a national GAL service that will provide high-quality assistance to both vulnerable children and the courts.",
+  "status": "Enacted",
   "votes":[]
 }
 ]
 },
-{
-  "id": 19,
-  "title":"Energy",
+  {
+  "id": 11,
+  "title":"Finance",
    "bills":[
-
 {
-  "bill": "74 of 2023",
-  "id": "E1km13e",
-  "title": "Anaerobic Digestion (National Strategy) Bill 2023",
-  "sponsors": "Christopher O'Sullivan",
+  "bill": "11 of 2023",
+  "id": "F1im11e",
+  "title": "Finance Act 2023 ",
+  "sponsors": "Minister of Finance, Michael McGrath",
+  "party": "Fianna Fáil ",
+  "explainer":"This bill provides for some of the cost-of-living measures announced by the Government last month. The full package of measures will cost more than €1.2 billion and will put money back into people’s pockets, help with bills and ensure there is no cliff edge for the temporary measures already in place.",
+  "status": "Enacted",
+  "votes":[]
+},
+{
+  "bill": "22 of 2023",
+  "id": "F2jm12e",
+  "title": "Credit Union (Amendment) Act 2023",
+  "sponsors": "Minister of Finance, Michael McGrath",
   "party": "Fianna Fáil",
-  "explainer": "This bill is to introduce an anaerobic digestion strategy for Ireland as a way of disposing biodegradable waste and create a form of renewable energy (Anaerobic digestion is a sequence of processes by which microorganisms break down biodegradable material. The process is used for industrial or domestic purposes to manage waste or to produce fuels).",
+  "explainer": "This Bill's aim is to will help the credit union movement to grow as a key provider of community banking in the country.",
+  "status": "Enacted",
+  "votes":[]
+},
+{
+  "bill": "49 of 2022",
+  "id": "F3km13e",
+  "title": "Safe Deposit Boxes and Related Deposits Bill 2022",
+  "sponsors": "Éamon Ó Cuív",
+  "party": "Fianna Fáil",
+  "explainer": "The purpose of the bill is to create a register of property deposits in banks.To identify the safekeeping of the deposit where the records are sufficient to identify a living or beneficial owner. If an owner cannot be found to notify the director of the National Museum of Ireland of any unclaimed property. They will then examine the property and decide whether it should be retained by the museum. The Bill also provides for the transfer of unclaimed funds to the Dormant Accounts Fund.",
   "status ": "Current",
   "votes":[]
 },
 {
-  "bill": "43 of 2023",
-  "id": "E2km13e",
-  "title": "Electricity Regulation (Amendment) (Standing Charges) Bill 2023",
-  "sponsors": "Darren O'Rourke, Réada Cronin",
-  "party": "Sinn Féin",
-  "explainer": "Standing charges are not regulated. The Bill would require utility companies to seek prior approval from the CRU for any proposed increase in the rate of their standing charge.",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "2 of 2023",
-  "id": "E3km13e",
-  "title": "Oil Emergency Contingency and Transfer of Renewable Transport Fuel Functions Act 2023",
-  "sponsors": "Minister for Environment, Climate and Communications, Eamon Ryan",
-  "party": "Green Party",
-  "explainer": "This bill is to be able to control the use of fuel in an emergency. The new power is provided to ensure, as far as is possible, that fuel prioritised in an emergency for critical services. It also allows the Minister to have the power to issue directions to oil companies or to relevant other persons to control the supply of fuel, or to compel them to provide fuel on a priority basis to emergency or critical services or for power generation. Government intervention could be required quickly to prioritise supply for the emergency or critical services in response to what could be a dynamic supply situation.",
+  "bill": "11 of 2022",
+  "id": "F4km13e",
+  "title": "Insurance (Miscellaneous Provisions) Act 2022",
+  "sponsors": "Minister for Finance, Michael McGrath",
+  "party": "Fianna Fáil",
+  "explainer": "This Bill will help to increase transparency and bring about clarity in the insurance market, benefiting policyholders and insurers as well as authorities.  The Central Bank will have the ability to collect data on State supports deducted from relevant claim settlements.  The Bill is intended to complement the ban on price walking and protect consumers from unfair pricing. From 1 July 2022, a ban on price walking will mean that motor and home insurance consumers can no longer be penalised simply for choosing to stay with the same insurer, thereby ending the unfair practice of a loyalty penalty.",
   "status ": "Enacted",
-  "votes":[]
-},
-{
-  "bill": "15 of 2023",
-  "id": "E4km13e",
-  "title": "Electricity Regulation (Amendment) (Protection of Financially Vulnerable Customers) Bill 2023",
-  "sponsors": "Jennifer Whitmore",
-  "party": "Social Democrats",
-  "explainer": "Electricity Regulation (Amendment) (Protection of Financially Vulnerable Customers). The Bill would mean that the CRU would be obliged to consider the financial circumstances of vulnerable customers in any policy considerations. According to the Government’s plan, published in December 2022, vulnerable customers were meant to be the subject of a definition. As of yet there is no definition of Vulnerable Customer.",
-  "status ": "Current",
-  "votes":[]
-},
-{
-  "bill": "61 of 2022",
-  "id": "E5km13e",
-  "title": "Planning and Development Regulations (Amendment) (Solar Energy for Schools and Community Buildings) Bill 2022",
-  "sponsors": "Donnchadh Ó Laoghaire, Darren O'Rourke",
-  "party": "Sinn Féin",
-  "explainer": "This bill is to make provision for the installation of solar panels on school and community buildings without the need for planning permission",
-  "status ": "Current",
   "votes":[]
 }
 ]
+},
+  {
+  "id": 12,
+  "title":"Standards in Public Office",
+   "bills":[
+{
+  "bill": "No. 16 of 2023",
+  "id": "SPim11e",
+  "title": "Standards in Public Office (Amendment) Bill 2023",
+  "sponsors": "Mairéad Farrell, Pat Buckley",
+  "party": "Sinn Féin",
+  "explainer":"First, it will make it an offence for Oireachtas Members willfully and recklessly to fail to disclose their required interests.Secondly it would allow SIPO to initiate its own investigations and thirdly it would require SIPO's annual report to be laid before the Houses of the Oireachtas.",
+  "status": "Current",
+  "votes":[]
+}
+]
+},
+  {
+  "id": 13,
+  "title":"Arts & Heritage",
+   "bills":[
+{
+  "bill": "26 of 2023",
+  "id": "ARTim11e",
+  "title": "Historic and Archaeological Heritage and Miscellaneous Provisions Act 2023",
+  "sponsors": "Minister Heritage and Electoral Reform , Malcolm Noonan",
+  "party": "Green Party",
+  "explainer":"This bill updates the national Monument Act and clarifies the State ownership of monuments and found Archaeological objects. Where an artefact is found there is a 72 hour limit to  report the find. Newly discovered archaeological sites are afforded immediate legal protection",
+  "status": "Enacted",
+  "votes":[]
+}
+]
+},
+
+  {
+    "id": 17,
+    "title":"Communications",
+     "bills":[
+  {
+    "bill": "89 of 2023",
+    "id": "CC1im11e",
+    "title": "Digital Services Bill 2023",
+    "sponsors": "Minister for Trade and Employment, Simon Coveney",
+    "party": "Fine Gael",
+    "explainer":"This bill places obligation directly on providers of online services with focus on platform such as social media and marketplace sites as well as search engines. These obligations are designed to expedite the identification and removal of illegal and harmful online content. The regulation will designate a digital services coordinator who will oversee all matters relating to eu regulations: handling complaints, policy development, communications, supervision, investigation and enforcement. ",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "33 of 2023",
+    "id": "CC2jm12e",
+    "title": "Local Authority Public Administration Bill 2023",
+    "sponsors": "Robert Troy",
+    "party": "Fianna Fáil",
+    "explainer": "This bill is an Act to compel local authorities to provide members of the public and public representatives with substantive replies to written communications within a prescribed period of time to ensure more transparency and accountability is fostered.If a local authority has to reply to a constituent within a specified time, it is much likelier that a decision will be made in a timely fashion and the constituent's problem will be resolved.",
+    "status": " current",
+    "votes":[]
+  },
+  {
+    "bill": "14 of 2023",
+    "id": "CC3km13e",
+    "title": "Broadcasting (Amendment) Bill 2023",
+    "sponsors": "Patrick Costello",
+    "party": "Green Party",
+    "explainer": "RTÉ because it is funded by means of commercial advertising and through taxpayer funding there is an obligation on the national broadcaster to citizens.There are no finding aids or online catalogue for citizens to view. Such aids exist but they are not made available.The Bill proposes one-section amendment to the Broadcasting Act 2009 to place an obligation on RTÉ to provide free public access to the archive for citizens and academics.",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "90 of 2022",
+    "id": "CC4km13e",
+    "title": "Broadcasting (Gender, Cultural and Other Diversities) Bill 2022",
+    "sponsors": "Marie Sherlock, Annie Hoey, Mark Wall, Rebecca Moynihan",
+    "party": "Labour Party",
+    "explainer": "This bill in aimed at securing a better reflection of the diversity of people in the broadcasting industry. To provide a quota of composers/performers in relation to content",
+    "status ": "Current",
+    "votes":[]
+  }
+  ]
+},
+  {
+    "id": 18,
+    "title":"Health & Safety",
+     "bills":[
+  {
+    "bill": "83 of 2023",
+    "id": "HS1im11e",
+    "title": "Mental Health (Amendment) Bill 2023",
+    "sponsors": "Mark Ward, David Cullinane",
+    "party": "Sinn Féin",
+    "explainer":"This bill is to implement the recommendations of the Mental Health Commision regarding child and adolescent mental health matters",
+    "status": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "24 of 2023",
+    "id": "HS2jm12e",
+    "title": "Construction Safety Licensing Bill 2023",
+    "sponsors": "Minister for Further and Higher Education, Research, Innovation and Science, Nial Collins",
+    "party": "Fianna Fáil",
+    "explainer": "This bill is to ensure that there is a strong and effective framework in place to protect the health and safety of the construction workforce. The primary aim of this bill is ,that construction workers are properly trained, competent and safe to carry out these roles to protect themselves and those who work alongside them..",
+    "status": " current",
+    "votes":[]
+  },
+  {
+    "bill": "7 of 2023",
+    "id": "HS3km13e",
+    "title": "Health (Amendment) Act 2023",
+    "sponsors": "Minister for Health, Stephen Donnelly",
+    "party": "Fianna Fáil",
+    "explainer": "The Bill means that adults will for the first time have free access to inpatient care in public hospitals. At the moment, people are charged €80 a night for a stay in a public hospital, up to a maximum of €800 a year.",
+    "status ": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": "No. 49 of 2022",
+    "id": "HS4km13e",
+    "title": "Health Insurance (Amendment) Act 2022",
+    "sponsors": "Minister for Health , Stephen Donnelly",
+    "party": "Fianna Fáil",
+    "explainer": "This bill extends the current legislated enforcement powers to non-registered businesses purporting to be carrying on health insurance business in Ireland The Bill also provides for a decrease in the age-related risk equalisation credits payable across approximately half the age groups over 65. These decreases are to facilitate the redistribution of high-cost claims credits, which result in a more targeted distribution of credits based on health status rather than age.",
+    "status ": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": "121 of 2022",
+    "id": "HS5km13e",
+    "title": "Human Tissue (Transplantation, Post-Mortem, Anatomical Examination and Public Display) Bill 2022",
+    "sponsors": "Minister of health, Stephen Donnelly",
+    "party": "Fianna Fáil",
+    "explainer": "This Bill makes organ donation the norm in situations where the opportunity arises. This Bill will help achieve this through the introduction of an opt-out system of consent.",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "20 of 2022",
+    "id": "HS6km13e",
+    "title": "Health (Miscellaneous Provisions)",
+    "sponsors": "Minister for Health, Stephen Donnelly",
+    "party": "Fianna Fáil",
+    "explainer": "Amendments to the Health act will include the abolishment of the €80 public charge to persons who have chosen to avail of private acute inpatient services. The abolishment of the public charge for public patients.  The exemption of children up to the age of 16 years of age from the charge arising for acute inpatient services, To create a framework to support the introduction of free contraception starting with women aged 17 to 25  . To expand dental health care for medical card holders, such as, the reintroduction of scale and polish.",
+    "status ": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": "46 of 2022",
+    "id": "HS7km13e",
+    "title": "Assisted Decision-Making (Capacity) (Amendment) Act 2022",
+    "sponsors": "Minister for Children, Equality, Disability, Integration and Youth, Roderic O'Gorman",
+    "party": "Green Party",
+    "explainer": "The purpose of this Bill is to amend the Assisted Decision-Making (Capacity) 2015 bill and to allow for its commencement. This will bring to an end to the wardship approach but instead be assessed on a functional basis.This is an approach where capacity is presumed and where the burden of proof rests on rebutting that presumption.",
+    "status ": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": " 47 of 2022",
+    "id": "HS8km13e",
+    "title": "Commission of Investigation (Nursing Homes) Bill 2022",
+    "sponsors": "Peadar Tóibín, Catherine Connolly, Seán Canney",
+    "party": "Aontú, Independents",
+    "explainer": "This Bill is entitled an Act to provide for a public inquiry into the management, in connection with nursing homes (more than 2,500 people died of Covid-19 in nursing homes since the start of the Covid crisis. We also know that the majority of people who died in this State caught Covid either in a nursing home or in a hospital.)",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "24 of 2022",
+    "id": "HS9km13e",
+    "title": "Sick Leave Act 2022",
+    "sponsors": " Minister for Enterprise, Trade and Employment, Simon Coveney",
+    "party": "Fine Gael",
+    "explainer": "This bill will ensure  employees in Ireland will be entitled to statutory sick pay from their employers. A minimum rate entitlement will also be set to ensure that all workers receive a reasonable level of financial compensation, even if they work part-time or are on low pay",
+    "status ": "Enacted",
+    "votes":[]
+  }
+  ]
+},
+  {
+    "id": 19,
+    "title":"Energy",
+     "bills":[
+
+  {
+    "bill": "74 of 2023",
+    "id": "E1km13e",
+    "title": "Anaerobic Digestion (National Strategy) Bill 2023",
+    "sponsors": "Christopher O'Sullivan",
+    "party": "Fianna Fáil",
+    "explainer": "This bill is to introduce an anaerobic digestion strategy for Ireland as a way of disposing biodegradable waste and create a form of renewable energy (Anaerobic digestion is a sequence of processes by which microorganisms break down biodegradable material. The process is used for industrial or domestic purposes to manage waste or to produce fuels).",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "43 of 2023",
+    "id": "E2km13e",
+    "title": "Electricity Regulation (Amendment) (Standing Charges) Bill 2023",
+    "sponsors": "Darren O'Rourke, Réada Cronin",
+    "party": "Sinn Féin",
+    "explainer": "Standing charges are not regulated. The Bill would require utility companies to seek prior approval from the CRU for any proposed increase in the rate of their standing charge.",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "2 of 2023",
+    "id": "E3km13e",
+    "title": "Oil Emergency Contingency and Transfer of Renewable Transport Fuel Functions Act 2023",
+    "sponsors": "Minister for Environment, Climate and Communications, Eamon Ryan",
+    "party": "Green Party",
+    "explainer": "This bill is to be able to control the use of fuel in an emergency. The new power is provided to ensure, as far as is possible, that fuel prioritised in an emergency for critical services. It also allows the Minister to have the power to issue directions to oil companies or to relevant other persons to control the supply of fuel, or to compel them to provide fuel on a priority basis to emergency or critical services or for power generation. Government intervention could be required quickly to prioritise supply for the emergency or critical services in response to what could be a dynamic supply situation.",
+    "status ": "Enacted",
+    "votes":[]
+  },
+  {
+    "bill": "15 of 2023",
+    "id": "E4km13e",
+    "title": "Electricity Regulation (Amendment) (Protection of Financially Vulnerable Customers) Bill 2023",
+    "sponsors": "Jennifer Whitmore",
+    "party": "Social Democrats",
+    "explainer": "Electricity Regulation (Amendment) (Protection of Financially Vulnerable Customers). The Bill would mean that the CRU would be obliged to consider the financial circumstances of vulnerable customers in any policy considerations. According to the Government’s plan, published in December 2022, vulnerable customers were meant to be the subject of a definition. As of yet there is no definition of Vulnerable Customer.",
+    "status ": "Current",
+    "votes":[]
+  },
+  {
+    "bill": "61 of 2022",
+    "id": "E5km13e",
+    "title": "Planning and Development Regulations (Amendment) (Solar Energy for Schools and Community Buildings) Bill 2022",
+    "sponsors": "Donnchadh Ó Laoghaire, Darren O'Rourke",
+    "party": "Sinn Féin",
+    "explainer": "This bill is to make provision for the installation of solar panels on school and community buildings without the need for planning permission",
+    "status ": "Current",
+    "votes":[]
+  }
+  ]
 }
 ]
