@@ -330,7 +330,7 @@
             {
                 "id": "M0001",
                 "name": "Barry Cowen",
-                "party": "Fianna Fáil",
+                "party":"Fianna Fáil",
                 "info": "More Info...",
                 "street": "Patrick Street",
                 "town": "Tullamore",
