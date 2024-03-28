@@ -1731,7 +1731,8 @@
                     },
                     {
                         "name": "Carroll MacNeill, Jennifer ",
-                        "id": "cmnjk "No",
+                        "voteText": "No",
+                        "id": "cmnjk",
                         "vote": "-1",
                         "party": "FG"
                     },
