@@ -4,6 +4,16 @@
         "title": "Housing & Planning",
         "bills": [
             {
+                "bill": "21 of 2020",
+                "type": "Private Bill",
+                "id": "H10op1e",
+                "title": "Thirty-ninth Amendment of the Constitution (Right to Housing) Bill 2020. Bill entitled an Act to amend the Constitution.",
+                "sponsors": "Richard Boyd Barrett, Mick Barry, Gino Kenny, Bríd Smith, Paul Murphy",
+                "party": "PBP",
+                "explainer": "This bill seeks to insert into the Constitution an imperative to establish the right to secure, affordable dignified housing appropriate to need for all residents of Ireland and to delimit the right to private property where necessary. The constituional protections regarding private property are a block to establishing a secure right to housing according to the authors of the bill. This bill will limit a residents right to own private property",
+                "status": "Current"
+            },
+            {
                 "bill": "86 of 2023",
                 "type": "Private Bill",
                 "id": "H1im11e",
