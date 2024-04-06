@@ -1,371 +1,50 @@
+
+
 [
-    {
-        "title": "Dublin",
-        "id": "Y1A",
-        "districts": [
-            {
-                "dist": "Fingal",
-                "id": "Y11B",
-                "candidates": [
-                    {
-                        "district": "fingal",
-                        "id": "Y0C",
-                        "name": "Darragh O'Brien",
-                        "party": "Fianna Fáil"
-                    },
-                    {
-                        "district": "fingal",
-                        "id": "Y1C",
-                        "name": "Joe O'Brien",
-                        "party": "Green  party"
-                    },
-                    {
-                        "district": "fingal",
-                        "id": "Y2C",
-                        "name": "Alan Farrell",
-                        "party": "Fine Gael"
-                    }
-                ]
-            },
-            {
-                "dist": "Dublin Bay North",
-                "id": "Y12B",
-                "candidates": [
-                    {
-                        "district": "dub_bay_north",
-                        "id": "Y5C",
-                        "name": "Richard Bruton",
-                        "party": "Fine Gail",
-                        "info": "More Info...",
-                        "number": "Leinster House",
-                        "street": "Kildare street",
-                        "town": "Dublin 2",
-                        "city": "County Dublin",
-                        "tel": "01 618 3103",
-                        "email": "richard.bruton@oireachtas.ie",
-                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Bruton.S.1981-10-08/image/large",
-                        "about": "Richard Bruton is an Irish Fine Gael politician who has served as a Teachta Dála for Dublin Bay North since 2016",
-                        "act_one": "Bruton presented The Climate Action Plan on behalf of the Government, a wide-ranging roadmap to net zero carbon, containing three core measures to make the ‘profound change’ needed to reduce Ireland’s exposure to not meeting its long-term environmental targets. He also created The 2012 Action Plan for Jobs. A policy for job creation. ",
-                        "act_two": "Among the measures announced (Action Plan for Jobs) were new support for start-ups, including the doubling of funding to start-ups from business angel investment.",
-                        "act_three": "Co-sponsored Biofuels (Blended Motor Fuels) Bill (No. 11 of 2007) and sponsored Postal and Telecommunications Services (Amendment) Bill (No. 19 of 1988)",
-                        "act_four": "Enim ut sem viverra aliquet eget sit amet. Eu",
-                        "act_five": "Enim ut sem viverra aliquet eget sit amet. Eu",
-                        "conflict_one": "Approximately ten people identifying themselves as members of the Fingal Battalion began the protest this afternoon on the footpath outside Mr Bruton's House.  A spokesman for the group called Mr Bruton ‘another pillar figure’ in the ‘failed free State. We've had enough taxes on the working class of Ireland.’(irishtimes, 17,2,2019)",
-                        "conflict_two": "Former Taoiseach John Bruton's call for the public to put up with austerity and to learn to live with less may have caused a furore among the ordinary men, women and children it will hit the hardest.(irishindependent, 12/5/13)",
-                        "conflict_three": "After losing the 1997 general election, Fine Gael was destined for a long period in opposition. After the electoral disaster of 2002, he contested the leadership, losing out to Enda Kenny, who made him finance spokesman and deputy leader. (irishtimes, 5/9/2023)",
-                        "quote_one": "‘It means for ordinary people that the mistakes that were made in the past will never be made again . . . and that the suffering that people have gone through to correct this economy . . . we will not squander that hard work that’s been done’.‘We will create a planning environment in which people can have confidence. They will see that the road that we’re on is the right road.’(irishtimes, 28/5/2013)",
-                        "quote_two": "‘We are creating a competitive economy that’s winning export markets, winning new investment. That’s the only road for a small, open economy,’ he said. (irishtimes, 28/5/2013)",
-                        "quote_three": "Mr Bruton acknowledged that with unemployment at 11 per cent ‘we have a long way to go…But people can have confidence that the plan is working, and if we stick with it we can ensure that the mistakes of the past are not repeated.(irishtimes, 6/11/2014)",
-                        "info_one": "He previously served as Minister for Communications, Climate Action and Environment from 2018 to 2020, Minister for Education and Skills from 2016 to 2018, Minister for Jobs, Enterprise and Innovation from 2011 to 2016, Deputy leader of Fine Gael from 2002 to 2010, Minister for Enterprise and Employment from 1994 to 1997 and Minister of State for Energy Affairs from 1986 to 1987. He was a Senator for the Agricultural Panel from 1981 to 1982.",
-                        "info_two": "He is the younger brother of John Bruton, who was Taoiseach from 1994 to 1997.",
-                        "info_three": "Bruton is the wealthiest TD in the capital, with his assets and pension estimated to be almost €5m.",
-                        "info_four": "Bruton will not be running in the 2025 General Election",
-                        "info_ten": "Rental Property: (1) Renting farmland and farm house: Newtown, Dunboyne, Co. Meath; (2) Renting farmland and possible participation in solar energy: Woodtown, Drumree, Co.Meath.",
-                        "info_eleven": "Shares: (1) Bank of Ireland: Lower Baggot St., D2: banking; (2) Irish Life & Permanent: Lower Abbey St., D1: finance; (3) CRH: Belgard Rd., D22: building materials; (4) Smurfit Kappa Group: Clonskeagh, D12: packaging; (5) FBD Holdings: Bluebell, D12: insurance; (6) Kingspan: Castleblayney, Monaghan: building products; (7) AIB Investment Fund: Ark Life, Hatch St., D2: unit fund; (8) Irish Life Investment Fund: Lower Abbey St., D1: unit fund."
-                    },
-                    {
-                        "district": "dub_bay_north",
-                        "id": "Y6C",
-                        "name": "Sean Haughey",
-                        "party": "Fianna Fáil",
-                        "info": "More Info...",
-                        "number": "Leinster House",
-                        "street": "Kildare street",
-                        "town": "Dublin 2",
-                        "city": "County Dublin",
-                        "tel": "01 618 3695",
-                        "email": "sean.haughey@oireachtas.ie",
-                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Se%C3%A1n-Haughey.S.1987-04-25/image/large",
-                        "about": "Seán Haughey is an Irish Fianna Fáil politician who has been a Teachta Dála for the Dublin Bay North constituency since 2016.",
-                        "act_one": "Member of Committee on European Union Affairs, Committee on Members' Interests of Dáil Éireann, Committee on Parliamentary Privileges and Oversight (Dáil Éireann),Committee on Remit Oversight (Dáil Éireann) and Committee on Standing Orders and Dáil Reform.",
-                        "act_two": "He was  instrumental in the introduction of a landmark amendment to the new Planning and Development (Strategic Infrastructure) legislation which outlawed any future development of nuclear installations in Ireland.",
-                        "act_three": "No bills sponsored",
-                        "conflict_one": "When he lost his seat after the economic meltdown, he successfully ran for Dublin City Council in 2014 and then won back his Dáil seat in 2016.",
-                        "conflict_two": "Haughey has said the public is becoming 'impatient' about the lack of progress on government formation, and that the 'time is coming' for his party and Fine Gael to talk… a grand coalition between the two parties was ‘not on’...(Irishtimes, 26/3/16)",
-                        "conflict_three": "Haughey spoke against repealing the Eighth Amendment and said he was concerned about the power that would be given to the Dáil, if they were allowed to legislate for abortion. Mr Haughey said it will lead to healthy babies being aborted.(irishexaminer, 25/1/2018)",
-                        "quote_one": " ‘It has become clear that a growing number of terminations are being carried out due to cleft, so in short lives are being ended on the basis of appearance and babies must be physically perfect’. ‘This surely should not be the case in a humane and tolerant society.’ (irishexaminer, 25/1/2018)",
-                        "quote_two": "The Fianna Fáil TD said: ‘At the end of the day people want stability, so at some stage there will have to be discussion with Fine Gael and Fianna Fáil.’ (irishexaminer, 26/3/2016)",
-                        "quote_three": "Dáil questions: To ask the Minister for Housing, Planning, and Local Government the number of vacant social homes returned to active use in the Dublin City Council area from 2020 to 2023; his expectations for the same in 2024; and if he will make a statement on the matter (15/2/2024).",
-                        "info_one": "He is the son of former Taoiseach Charles Haughey and a grandson of former Taoiseach Seán Lemass.",
-                        "info_two": "He has consistently opposed any liberalisation of the laws in relation to gaming arcades and resort casinos. Sean has also been very active in the campaign to preserve the terrace of houses on Moore Street as a National Monument following the centenary of the 1916 Rising.",
-                        "info_three": "As of 2021, Haughey is the biggest stock market shareholder in the Dáil, holding at least €442,000 in shares, including shares in Pfizer and Amazon.(independent. 4/11/2021)",
-                        "info_ten": "Landlord: (1) Duplex at St. Olaves, Kinsealy, Co Dublin; (2) Duplex at the Kilns, Portmarnock, Co Dublin.",
-                        "info_eleven": "Shares: : (1) Larchfield Securities Unlimited, 20 Upper Mount St., Dublin 2: family holding company; (2) 3I 41 Group ord GBP0.738636: 16 Palace St, London SW1E 5JD, England: Private Equity Company; (3) Advanced Micro Devices Inc Com Stk USD0.01: 2485 Augustine Drive, Santa Clara, CA 95054, United States: US Technology Company; (4) Alphabet Inc Capital Stock USD0.001 Cl A:1600 Amphitheatre Pkwy, Mountain View, California, 94043, United States: US Technology Company; (5) Amazon Com Inc Com USD0.01: 410 Terry Avenue N, Seattle, Washington, 98109, United States: US Technology Company; (6) Aptiv: 5 Hanover Quay, Grand Canal Dock, Dublin, Ireland: US Auto Parts Co; (7) Associated British Foods ord GBP0.0568: 10 Grosvenor Street, London, W1K 4QY, United Kingdom: UK Food & Clothing Company; (8) Baillie Gifford US Growth Trust Plc ord GBP0.01: Calton Square, 1 Greenside Row, Edinburgh, EH1 3AN, United Kingdom; (9) BB Healthcare Trust/Belleview Plc Redeemable Ord GBP0.01: 32 London Bridge Street, 24th Floor, SE1 9SG London, United Kingdom: Healthcare Investment Trust; (10) BP ord USD0.25: 1 St James's Square, London, SW1Y 4PD, United Kingdom: UK Oil & Gas Company; (11) Bristol-Myers Squibb Co Com Stk USD0.10: 345Park Avenue, New York, New York, 10154, United States: US Pharmaceutical Company; (12) Chrysalis Investments Ltd ord NPV: The Chrysalis Building Bramley Road London, W10 6SP United Kingdom: Private Equity Investment Trust; (13) CRH ord EUR0.32: Stonemasons Way, Rathfarnham, Dublin 16, Ireland: Irish Aggregates Company; (14) DCC: DCC House, Leopardstown Road, Foxrock, Dublin 18, Ireland: Conglomerate; (15) Daimler Ag ord (Regd): Mercedesstraße 137, 70327 Stuttgart, Germany: German Automotive Company; (16) Daimler Truck Holding AG NPV (Young Share): Mercedesstraße 137, 70327 Stuttgart, Germany: German Automotive Company; (17) DCC ord EUR0.25 (CDI): DCC House, Leopardstown Road, Foxrock, Dublin, D18 PK00, Ireland: Irish Distribution Company; (18) Diageo ord GBP0.28 101/108: Lakeside Drive, Park Royal, London, NW10 7HQ, United Kingdom: UK Beverage Company; (19) Eaton Corporation Plc USD0.01: 30 Pembroke Road, Dublin 4, Ireland: US Power Management Company; (20) Euroapi: 15 rue Traversière, Paris: Healthcare Company; (21) Gilead Sciences Inc Com USD0.001: 333 Lakeside Drive, Foster City, CA 94404, United States: US Biopharmaceutical Company; (22) Glanbia ord 42 EUR0.06 (London Listing): Glanbia House, Ring Road, Kilkenny, Ireland: Irish Food Company; (23) Heineken Nv EUR1.60: Tweede Weteringplantsoen, 1017 ZD Amsterdam 21, Netherlands: Dutch Brewing Company; (24) HG Capital Trust Plc ord GBP0.025: HgCapital Trust plc, 2 More London Riverside, London SE1 2AP, United Kingdom: Private Equity Company; (25) Infineon Technologies AG ord NPV (Regd): Infineon Technologies AG, IFAG CP CC, Am Campeon 1-15, 85579 Neubiberg, Germany: German Technology Company; (26) Kerry Group ‘A’ord EUR0.125: Prince’s Street, Tralee, Co Kerry, V92 EH11, Ireland: Irish Food Company; (27) Kion: Thea-Rasche-Straße 8, 60549 Frankfurt am Main, Germany: German Automous technology company; (28) Mercedes -Benz Group AG: Mercedesstraße 120 70372 Stuttgart Germany: German Auto Manufacturer; (29) Merck: 126 East Lincoln Avenue P.O. Box 2000, Rahway, NJ 07065 USA: Healthcare Company; (30) Nestle SA CHF0.10 (Regd): Avenue Nestle 55, 1800 Vevey, Switzerland: Swiss Food Manufacturer; (31) Novartis AG CHF0.50 (Regd): Lichtstrasse 35 Basel, 4056 Switzerland: Swiss Pharmaceutical Company; (32) Novo-Nordisk AS Ser‘B’DKK0.2: Novo Allé, 2880 Bagsvaerd, Denmark: Danish Pharmaceutical Company; (33) Partners AG: Zugerstrasse 57, 6341 Baar-Zug, Switzerland: Private Equity Company; (34) Pernod Ricard EUR1.55: 12 Place Des Etats-Unis, 75783 Paris Cedex 16, France: French Spirits Company; (35) Pfizer Inc Com USD0.05: 235 East 42nd Street New York NY, 10017 United States: US Pharmaceutical Company; (36) Reckitt Benckiser Groupord GBP0.10: 103-105 Bath Road, Slough, Berkshire, SL1 3UH, United Kingdom: UK Household Goods Company; (37) Rio Tinto: 6 St James's Square, London SW1Y 4AD, UK: Mining Company; (38) Roche Holdings AG Genusscheine NPV: Konzern Hauptsitz, Grenzacherstrasse 124, CH-4070 Basel, Switzerland: Swiss Healthcare Company; (39) Sanofi EUR2: 54 Rue La Boétie, 75008 Paris, France: French Pharmaceutical Company; (40) Unilever ord GBP0.031111: Unilever House, 100 Victoria Embankment, London, EC4Y 0DY, United Kingdom: UK Food Company; (41) Walt Disney Company (The) Com Disney USD0.01: 500 S. Buena Vista St. Burbank, CA 91521, United States: US Media Company; (42) Walgreen Boots: 108 Wilmot Road, Deerfield, IL 60015, USA: Pharmacy and Healthcare company.",
-                        "info_nine": "Directorships: Executive: Larchfield Securities, 20 Upper Mount Street, Dublin 2: family holding company."
-                    },
-                    {
-                        "district": "dub_bay_north",
-                        "id": "Y7C",
-                        "name": "Denise Mitchell",
-                        "party": "Sinn Féin",
-                        "info": "More Info...",
-                        "number": "Leinster House",
-                        "street": "Kildare street",
-                        "town": "Dublin 2",
-                        "city": "County Dublin",
-                        "tel": "01 618 3457",
-                        "email": "denise.mitchell@oireachtas.ie",
-                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Denise-Mitchell.D.2016-10-03/image/large",
-                        "about": "Denise Mitchell is an Irish Sinn Féin politician who has been a Teachta Dála for the Dublin Bay North constituency since the 2016 general election. ",
-                        "act_one": "Denise Mitchell is spokeswoman on Dublin and junior spokeswoman on housing. ",
-                        "act_two": "Member of Committee on Key Issues affecting the Traveller Community (2023), the Committee on Parliamentary Privileges and Oversight (Dáil Éireann), the Committee on Remit Oversight (Dáil Éireann) and Committee on Standing Orders and Dáil Reform.",
-                        "act_three": "Co-sponsored THIRTY-FIFTH AMENDMENT OF THE CONSTITUTION (Water In Public Ownership) (NO. 2) BILL (No. 31 of 201), CEATHRÚ CHULTÚIR 1916 BILL  (No. 36 of 2021), COERCION OF A MINOR (Misuse Of Drugs Amendment) BILL (Bill 9 of 2022).",
-                        "conflict_one": "Mitchell (Sinn Féin) has lodged submissions with An Bord Pleanála concerning Patrick Crean's Marlet's plan for 180 apartments on Howth's main street…to express concerns over the planned demolition of the Baily Court Hotel in Howth.(irishtimes, 13/5/2022)",
-                        "conflict_two": "Mitchell said she understood the pressures on gardaí to implement the emergency legislation dealing with the coronavirus crisis but day-to-day crime had not stopped. ‘In recent weeks there had been vicious incidents because of an ongoing drugs  feud…’(irishtimes, 4/6/2020)",
-                        "conflict_three": "Mitchell, welcomed the temporary LPT exemption announced last month – as part of the Department of Finance's overall reform of the tax – for homeowners whose homes have been damaged by defective pyrite and mica blocks in Donegal and Mayo.(irishtimes, 6/7/2021)",
-                        "quote_one": "Mitchell said the scheme ‘falls well short of what is required’ and that it was ‘silent”’on people who are renting. ‘Some renters live in cold, poorly-insulated homes and are paying huge bills. There are landlords out there who will not invest in retrofitting, leaving renters still paying huge bills and yet again, we are leaving renters behind,’ (irishtimes, 17/2/2022)",
-                        "quote_two": "The issue of publicly funded media has been a live one for a number of years but actions have been slow in coming. The Future of Media Commission report in 2022 recommended that public service media be funded from the public purse. We want to see the TV licence scrapped...A diverse, independent and financially sustainable media sector is important in any normal, functional, democratic society… TG4... is a model that we should be following to address the current funding crisis in RTÉ. (Dail Questions,13/2/2024 )",
-                        "quote_three": "...Children who are homeless will not have free travel in August. So can you knock your heads together and please sort this out? Children and young teenagers are sitting in hubs and hotels, away from friends.’ Mitchel had written to Minister Eoghan Murphy asking for children's Leap cards through the whole summer. They are available to all children for free up to July (irishtimes, 9/7/2019)",
-                        "info_one": "She was previously spokeswoman for the party on social protection, children and youth affairs.",
-                        "info_two": "TDs and Ministers spent nearly €80,000 using the publicly funded Oireachtas printing service in the first half of this year…The most expensive order placed with the facility was by Ms Mitchell for 50,000 colour newsletters at a price of €1,286. ",
-                        "info_ten": "Mitchel has not declared income from shares or rental property"
-                    }
-                ]
-            },
-            {
-                "dist": "Dublin Bay South",
-                "id": "Y13B",
-                "candidates": [
-                    {
-                        "district": "dub_bay_south",
-                        "id": "Y10C",
-                        "name": "Chris Andrews",
-                        "party": "Sinn Féin",
-                        "info": "More Info...",
-                        "number": "Leinster House",
-                        "street": "Kildare street",
-                        "town": "Dublin 2",
-                        "city": "County Dublin",
-                        "tel": "01 618 3287",
-                        "email": "chris.andrews@oireachtas.ie",
-                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Chris-Andrews.D.2007-06-14/image/large",
-                        "about": "Chris Andrews is an Irish Sinn Féin politician who has been a Teachta Dála for the Dublin Bay South constituency since the 2020 general election.",
-                        "act_one": "Member of Committee on Tourism, Culture, Arts, Sport and Media.",
-                        "act_two": "He is a member of the Council’s Housing Committee and the South Inner City Drugs Task Force.",
-                        "act_three": "Co-sponsored PLANNING AND DEVELOPMENT (PROVISION OF PUBLIC HOUSING) BILL  (no. 61 of 2023),  EDUCATION (INCLUSION OF PERSONS) BILL (no. 58 of 2023), CEATHRÚ CHULTÚIR 1916 BILL  (No. 36 of 2021).",
-                        "conflict_one": "He caused uproar within his former party when it emerged that he had created a phoney Twitter account to criticise Micheal Martin and other Fianna Fail figures. He had sent over 300 tweets which were highly critical. Mr Andrews was unveiled as the phantom tweeter by Eddy Carroll, the husband of senior party figure Kathryn Byrne.",
-                        "conflict_two": "Andrews, has lodged defamation proceedings in the High Court against The Irish Times and Harry McGee. The politician is claiming that he was defamed in an article written by McGee and published in The Irish Times concerning the Sinn Féin response to the Hamas attack on Israel.",
-                        "conflict_three": "During the 2008–2009 Israel–Gaza conflict he called for an economic, diplomatic and political boycott of Israel, for its ambassador to Ireland to be expelled, and for shops to remove 'settler produce' from Israel.",
-                        "quote_one": "‘Joining a new party was not an easy decision for me as my family has been involved in Fianna Fáil since its foundations. But it has become very clear to me that the party no longer represents the ideals or values of its founders, including my grandfather.’",
-                        "quote_two": "Andrews tweeted: “It seems that according to the EU and Ireland only Palestine has no right to defend itself against murder, torture and Apartheid…” in response to a tweet by president of the European Commission, Ursula von der Leyen.(irishexaminer, 9/10/2023)",
-                        "quote_three": "‘What's happening today in Gaza has not occurred out of thin air.Its a direct result of years of apartheid, murder and inhumane treatment of Palestine  Also a result of Ireland and EU not holding Apartheid Israel accountable for ongoing abuse of Intl Law.’ (Twitter, 7/10/2023)",
-                        "info_one": "He served previously from 2007 to 2011 as a Fianna Fáil TD for the Dublin South-East constituency.",
-                        "info_two": "He is the grandson of Todd Andrews, a leading Irish republican figure and member of Fianna Fáil following the foundation of the party. His father Niall Andrews and his uncle David Andrews both served as Fianna Fáil TDs, while his first cousin Barry Andrews was elected a Fianna Fáil TD at the 2002 general election",
-                        "info_ten": "Andrews has not declared income from shares or rental property"
-                    },
-                    {
-                        "district": "dub_bay_south",
-                        "id": "Y11C",
-                        "name": "Ivana Bacik",
-                        "party": "Labour party",
-                        "info": "More Info...",
-                        "number": "Leinster House",
-                        "street": "Kildare street",
-                        "town": "Dublin 2",
-                        "city": "County Dublin",
-                        "tel": "01 618 3136",
-                        "email": "ivana.bacik@oireachtas.ie",
-                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23/image/large",
-                        "about": "Ivana Catherine Bacik is an Irish Labour Party politician and a Teachta Dála for the Dublin Bay South constituency since winning a by-election on 9 July 2021.",
-                        "act_one": "Ivana Bacik has been Leader of the Labour Party since 24 March 2022.",
-                        "act_two": "  ",
-                        "act_three": "Sponsored LIVING WAGE BILL  (no. 51 of 2022), CHILDREN AND FAMILY RELATIONSHIPS (AmendmenT) BILL  (no. 52 of 2023)  and co-sponsored AUTISM BILL 2 (no. 65 of 2022) and MINISTERS AND SECRETARIES (Attorney General) BILL  (no. 35 of 2023),EDUCATION (Admission to Schools) (Co-Education) BILL (No. 31 of 2022), DUBLIN BAY BILL (No. 158 of 2021), RESIDENTIAL TENANCIES (Tenants' Rights) BILL (No. 112 of 2021), PROTECTION OF EMPLOYMENT (Platform Workers and Bogus Self-Employment) BILL (No. 68 of 2021), GAMBLING (Prohibition of Advertising) BILL (No. 48 of 2021)",
-                        "conflict_one": "A long-time campaigner for constitutional change, Ivana has been a leading national and local voice for marriage equality, repeal the 8th and gender equality.",
-                        "conflict_two": "The State should cap childcare costs at a maximum of €50 per child per week to make it affordable for parents to continue in the workforce, Labour Party leader Ivana Bacik has said.",
-                        "conflict_three": "Labour Party leader Ivana Bacik has questioned the need for another hotel in the Camden Street and Portobello area of Dublin ‘given our current housing and homelessness crisis.’",
-                        "quote_one": "The Dáil has heard of a ‘concerning” case where a developer was asked to pay more than €500,000 in order to have…appeal withdrawn.(Irish Examiner, 7/12/23) Ms Bacik has called for tougher actions to crack down on ‘planning corruption’.’",
-                        "quote_two": "Labour leader Ivana Bacik has said a merger with the Social Democrats is ‘possible’, as she claimed there were no ideological differences between the two parties. (irishtimes, 4/1/2024)",
-                        "quote_three": "‘For now, we’re renewing our call for the cap in the face of a real crisis in childcare and early years education. So many parents simply cannot find an affordable or indeed an available place in childcare.’ (irishtimes, 14/8/2023)",
-                        "info_one": "Bacik is a barrister and spent many years in criminal practice.",
-                        "info_two": "Bacik was one of the founders of the Portobello Educate Together multi-denominational school start-up group – which led to the foundation of the thriving Canal Way ETNS, Dublin 8 – she still sits on the board of the school.",
-                        "info_ten": "Bacik has not declared income from shares or rental property"
-                    },
-                    {
-                        "district": "dub_bay_south",
-                        "id": "Y12C",
-                        "name": "Jim O'Callaghan",
-                        "party": "Fianna Fáil",
-                        "info": "More Info...",
-                        "number": "Leinster House",
-                        "street": "Kildare street",
-                        "town": "Dublin 2",
-                        "city": "County Dublin",
-                        "tel": "01 618 3134",
-                        "email": "jim.ocallaghan@oireachtas.ie",
-                        "image": "https://data.oireachtas.ie/ie/oireachtas/member/id/Jim-O'Callaghan.D.2016-10-03/image/large",
-                        "about": "Jim O'Callaghan is an Irish Fianna Fáil politician who has been a Teachta Dála for the Dublin Bay South constituency since the 2016 general election.",
-                        "act_one": "As the Opposition Spokesperson for Justice and Equality, he drafted and secured cross-party support for his Parole Bill which was passed by the Oireachtas and became an Act. It reformed the parole system giving victims of crime and their families the right to be heard during the parole process",
-                        "act_two": "Member of Committee on Education, Further and Higher Education, Research, Innovation and Science and the Committee on Finance, Public Expenditure and Reform, and Taoiseach. ",
-                        "act_three": "Sponsored UKRAINE SOLIDARITY BILL 2022 (no. 117 of 2022), FIREARMS AND OFFENSIVE WEAPONS (Amendment) BILL ( No. 41 of 2021) and co-sponsored CHILDREN (Amendment) BILL  (No. 10 of 2021).",
-                        "conflict_one": "The Dáil or Seanad would be moved to Belfast and a number of cabinet positions reserved for unionist politicians under plans for a united Ireland being proposed by Jim O’Callaghan. (Business Post, 3/21/21)",
-                        "conflict_two": "Citizens in Northern Ireland who are loyal to the British crown should not be forced to declare their loyalty to a new United Ireland, under a blueprint for reunification due to be unveiled by Fianna Fáil TD Jim O’Callaghan. Mr O’Callaghan, who is regarded by some within Fianna Fáil as a future leadership candidate, will detail his vision for a United Ireland in a speech at the Ireland’s Future conference. (30/8/2022)",
-                        "conflict_three": "The legal profession is defending Fianna Fáil TD Jim O'Callaghan's stance on work he carried out for former Sinn Féin leader Gerry Adams amid accusations it amounted to a ‘conflict of interest’. It came after Mr O'Callaghan, who has ruled out his party going into government with Sinn Féin, was criticised by Fine Gael for providing legal services to Mr Adams. (irishindependent, 8/2/2020)",
-                        "quote_one": "Fianna Fáil TD Jim O’Callaghan has said he would be ‘honoured’ to lead the party and will give it ‘full consideration’ when a vacancy arises. (irishtimes, 16/8/2020)",
-                        "quote_two": " ‘I think a three-party coalition, any coalition, is difficult for the parties who are involved in that coalition. It's very easy if you're an opposition party on your own... you don't have to worry about compromising your policies or facilitating your policy differences with your partners in coalition. In fairness, it's always difficult for parties in coalition.’ (breakingnews.ie, 28/8/2022)",
-                        "quote_three": ":Mr O'Callaghan said his views on Sinn Féin were ‘unaffected by any representation I ever did for members of Sinn Féin.’ (irishindependent, 8/2/2020)",
-                        "info_one": "O’Callaghan was a member of Dublin City Council from 2009 to 2016.",
-                        "info_two": "In November 2016, O'Callaghan met with some of those who had been sexually abused as boys by Bill Kenneally, Fianna Fáil tallyman and cousin of former Fianna Fáil TD Brendan Kenneally. Brendan Kenneally had previously acknowledged that he had been aware of his cousin's crimes before his sentencing to 14 years imprisonment.",
-                        "info_three": "In July 2020 O'Callaghan declined the position of Minister of State at the Department of Justice in the Government of the 33rd Dáil offered to him by Taoiseach Micheál Martin, stating that he wished to remain on the backbenches, providing a voice in Fianna Fáil outside of government, while also making the party more attractive to younger voters.(irishtimes, 18/6/2021)",
-                        "info_ten": "Occupations: Senior Counsel: Distillery Building, 145-151 Church Street, Dublin 7. ",
-                        "info_eleven": "O'Callaghan has not declared income from shares or rental property"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "Leinster",
-        "id": "Y2A",
-        "districts": [
-            {
-                "dist": "Carlow-Kilkenny",
-                "id": "Y21B",
-                "candidates": [
-                    {
-                        "district": "carlow-kilkenny",
-                        "id": "Y45C",
-                        "name": "Kathleen Funchion",
-                        "party": "Sinn Féin"
-                    },
-                    {
-                        "district": "carlow-kilkenny",
-                        "id": "Y46C",
-                        "name": "John McGuinness",
-                        "party": "Fianna Fáil"
-                    },
-                    {
-                        "district": "carlow-kilkenny",
-                        "id": "Y47C",
-                        "name": "Jennifer M O“Connor",
-                        "party": "Fianna Fáil"
-                    }
-                ]
-            },
-            {
-                "dist": "Kildare North",
-                "id": "Y22B",
-                "candidates": [
-                    {
-                        "district": "kildare_north",
-                        "id": "Y50C",
-                        "name": "Réada Cronin",
-                        "party": "Sinn Féin"
-                    },
-                    {
-                        "district": "kildare_north",
-                        "id": "Y51C",
-                        "name": "Bernard Durkan",
-                        "party": "Fine Gael"
-                    },
-                    {
-                        "district": "kildare_north",
-                        "id": "Y52C",
-                        "name": "James Lawless",
-                        "party": "Fianna Fáil"
-                    }
-                ]
-            },
-            {
-                "dist": "Kildare South",
-                "id": "Y23B",
-                "candidates": [
-                    {
-                        "district": "kildare_south",
-                        "id": "Y54C",
-                        "name": "Cathal Berry",
-                        "party": "Independent"
-                    },
-                    {
-                        "district": "kildare_south",
-                        "id": "Y55C",
-                        "name": "Martin Heydon",
-                        "party": "Fine Gael"
-                    },
-                    {
-                        "district": "kildare_south",
-                        "id": "Y56C",
-                        "name": "Patricia Ryan",
-                        "party": "Sinn Féin"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "Munster",
-        "id": "Y3A",
-        "districts": [
-            {
-                "dist": "Clare",
-                "id": "Y31B",
-                "candidates": [
-                    {
-                        "district": "clare",
-                        "id": "Y88C",
-                        "name": "Joe Carey",
-                        "party": "Fine Gael"
-                    },
-                    {
-                        "district": "clare",
-                        "id": "Y89C",
-                        "name": "Cathal Crowe",
-                        "party": "Fianna Fáil"
-                    },
-                    {
-                        "district": "clare",
-                        "id": "Y90C",
-                        "name": "Michael McNamara",
-                        "party": "Independent"
-                    }
-                ]
-            },
-            {
-                "dist": "Cork East",
-                "id": "Y32B",
-                "candidates": [
-                    {
-                        "district": "cork_east",
-                        "id": "Y92C",
-                        "name": "Pat Buckley",
-                        "party": "Fianna Fáil"
-                    },
-                    {
-                        "district": "cork_east",
-                        "id": "Y92C",
-                        "name": "James O'Connor ",
-                        "party": "Fianna Fáil"
-                    },
-                    {
-                        "district": "cork_east",
-                        "id": "Y93C",
-                        "name": "Seán Sherlock",
-                        "party": "Labour party"
-                    }
-                ]
-            },
-            {
-                "dist": "Cork North-Central",
-                "id": "Y33B",
-                "candidates": [
-                    {
-                        "district": "cork_north_central",
-                        "id": "Y95C",
-                        "name": "Mick Barry"
-                    },
-                    {
-                        "district": "cork_north_central",
-                        "id": "Y96C",
-                        "name": "Colm Burke",
-                        "party": "Fine Gael"
-                    },
-                    {
-                        "district": "cork_north_central",
-                        "id": "Y97C",
-                        "name": "Thomas Gould",
-                        "party": "Sinn Féin"
-                    }
-                ]
-            }
-        ]
-    }
+  {
+      "title": "Hate Speech Bill",
+      "id": "101",
+      "subTitle": "Criminal Justice (Incitement to Violence or Hatred and Hate Offences) Bill 2022",
+      "text_1":"Part One - section 2 concerns the definition of hatred",
+      "text_2": "'hatred' means hatred against a person or a group of persons in the State or elsewhere on account of their protected characteristics or any one of those characteristics’",
+      "text_3": "The term 'hatred' is not defined in the Bill and is a word that can have a different meaning depending on how an act, word or thought is perceived. During the Dail debates Hate is described as ‘hatred’ or any act that creates hate.This is the only definition that was cited, it is not a definition but vague and open to interpretation. This meaningless play on words depends on the emotions of the party who perceives ‘hate’ rather than an objective meaning of the word hate.",
+      "text_4": "This vague interpretation can result in the ordinary citizen not knowing if they committed a crime by inadvertently hurting someone's feelings. It can also be used to shut down debate and criticism of the government if legitimate concerns by the public cannot be aired.",
+      "text_51": "Part Two -10 is concerned with the possesion of material that is hateful",
+      "text_6":"A person may be deemed guilty of a criminal act if they possess material that a member of a protected group may not like and perceive as hateful. ",
+      "text_7":"The previous Hate Bill Acr 1989 made a criminal act motivated by hate a harsher crime. The new Hate Bill includes the incentment enhancements of the 1989 Hate Bill to include speech as a criminal offence. This bill does not protect groups of minorities, instead it clamps down on democracy and the ability of a citizen to freely think and speak. It gives the government and institutions of the state the arbitrary power to curtail innate freedoms.",
+      "text_8":"Powers of Search and seizure",
+      "text_9":" In the case of material that is deemed ‘Hateful’. The type of material is not defined, and is left open to interpretation. In the past the onus was on the prosecution to prove that the accused intended to distribute material. With possession of material which is not clearly defined the accused, who may merely have a mime or joke on their  phone or computer can be deemed as having committed a criminal offence.",
+      "text_10":"This power given to the Gardai to search an accused's home and digital devices may be seen as Government overreach, a refusal to permit a search also leads the accused to commit a crime ",
+      "url": "https://www.dublincity.ie/council/voting-and-elections/register-vote"
+  },
+{
+    "title": "The Family Referendum ",
+    "id": "102",
+    "subTitle": "Article 41.1.1 & Article 41.3.1° of the Constitution",
+    "text_1": "In Article 41.1.1° : 'The State recognises the Family as the natural primary and fundamental unit group of Society, and as a moral institution possessing inalienable and imprescriptible rights, antecedent and superior to all positive law.'",
+    "text_2": "In Article 41.3.1 : “The State pledges itself to guard with special care the institution of Marriage, on which the Family is founded, and to protect it against attack.”",
+    "text_3": "The Government proposes on adding 'whether founded on marriage or on other durable relationships' Article 41.1.1 ",
+    "text_4": "The Government proposes on deleting the wording on 'which the Family is founded' in Article 41.3.1 ",
+    "text_5": "The wording durable relationships is not defined and is open to being interpretated erroneously",
+    "text_6": "This can lead to... ",
+    "text_7": "legalising a polygamy",
+    "text_8": "Issues with inheritance",
+    "text_9": "Problamatic details, such as how long a relationship should be before it is considered durable, as the meaning durable is not defined on length of time, does 'durable' mean weeks, months, years...",
+    "url": ""
+},
+{
+    "title": "The Care Referendum",
+    "id": "103",
+    "subTitle": "Article 41.3.1",
+    "text_1": "In Article 41.2.1° “In particular, the State recognises that by her life within the home, woman gives to the State a support without which the common good cannot be achieved.”'",
+    "text_2": "In Article 41.2.2° “The State shall, therefore, endeavour to ensure that mothers shall not be obliged by economic necessity to engage in labour to the neglect of their duties in the home.”",
+    "text_3": "These articles together protect the position of a woman as caregiver in the home and protects a woman who is a caregiver with small children from the necessity of working for economic reasons ",
+    "text_4": "The government proposes to delete these protections and replace these Articles with a new Article: 'The State recognises that the provision of care, by members of a family to one another by reason of the bonds that exist among them, gives to Society a support without which the common good cannot be achieved, and shall strive to support such provision.' ",
+    "text_5": "This change could be problematic as the wording 'strive to support' may be an opt-out for the Government to 'endeavour to ensure'.",
+    "text_6": "Perhaps the Government to follow the exact meaning of the constitution, 'to ensure that mothers shall not be obliged by economic necessity to engage in labour', should value the work that a woman undertakes in caring for her children or other family members should adequately compensates her.",
+    "text7":  "",
+    "url": ""
+}
+
+
 ]
