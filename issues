@@ -22,7 +22,7 @@
                 "party": "SF",
                 "explainer": "A bill to defer the termination dates of tenancies (who have not done anything wrong and are not in arrears) to ensure the tenant has obtained alternative accommodation before vacating a tenancy.",
                 "status": "Defeated",
-                "votes": [
+                "dailVote": [
                     {
                         "name": " Funchion, Kathleen",
                         "id": "fk87641",
@@ -1185,7 +1185,7 @@
                 "party": "PBP",
                 "explainer": "This Bill would make it law that rents be reduced to 25% of monthly median household incomes.",
                 "status": "Defeated",
-                "votes": [
+                "dailVote": [
                     {
                         "name": " Funchion, Kathleen",
                         "id": "fk87741",
@@ -2398,7 +2398,7 @@
                 "title": "Just Transition (Worker and Community Environmental Rights) Bill 2018 ",
                 "sponsors": "Catherine Martin, Eamon Ryan",
                 "party": "GP",
-                "explainer": "steps to ensure homes are safer and warmer for those who rent. The Bill proposes to require the Minister for Housing, Planning and Local Government to make regulations to require private landlords to test their properties for the presence of radon and remediate them if necessary. It proposes also to require the Minister to make regulations to impose thermal comfort and efficiency standards such as a minimum building energy rating.",
+                "explainer": "This Bill takes steps to ensure homes are safer and warmer for those who rent. The Bill proposes to require the Minister for Housing, Planning and Local Government to make regulations to require private landlords to test their properties for the presence of radon and remediate them if necessary. It proposes also to require the Minister to make regulations to impose thermal comfort and efficiency standards such as a minimum building energy rating.",
                 "status": "Lapsed"
             },
             {
@@ -2420,7 +2420,7 @@
                 "party": "FF",
                 "explainer": "This act  provides that among other prohibitions that, before a notice of termination grounded on rent arrears can be served, a tenant will have 90 days to pay outstanding rents rather than the 28 days previously required before Covid. ‘ This Bill balances the need to protect those worse affected by Covid-19 with the need to respect property rights and the legitimate interests of landlords’. This bill is aims to replace the Covid-19 Act 2020 which banned evictions",
                 "status": "Enacted",
-                "votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "f8k8741",
@@ -3549,7 +3549,7 @@
                 "type": "Private Bill",
                 "title": "Seller’s Legal Pack for Property Buyers Bill 2021",
                 "sponsors": "Marc MacSharry",
-                "party": "INDendent",
+                "party": "Independent",
                 "explainer": "A Bill entitled an Act to establish a statutory procedure whereby when a Seller of a property places the property on the market, a set of legal documents (the “Seller’s Legal Pack”) shall be compiled and advertised with the property and made available to potential buyers, such documents ensuring that buyers have key information relating to the property",
                 "status": "Current"
             },
@@ -3620,7 +3620,7 @@
                 "title": "Dublin (North Inner City) Development Authority Bill 2018",
                 "sponsors": "John Lahart",
                 "party": "FF",
-                "explainer": "Explainer:Bill entitled an Act to make provision for the regeneration of the area of Dublin's North Inner City",
+                "explainer": "Bill entitled an Act to make provision for the regeneration of the area of Dublin's North Inner City",
                 "status": " defeated"
             },
             {
@@ -3700,7 +3700,7 @@
                 "title": "Derelict Sites (Amendment) Bill 2022",
                 "sponsors": "Thomas Gould",
                 "party": "SF",
-                "explainer": " In 2021, 19 local authorities did not collect a single cent in derelict sites levies. Some of these councils are owed well in excess of €100,000 This Bill will require local authorities that collect less than 75% of the levies owed to produce a comprehensive report. In this report, they will need to outline how they will collect the outstanding levies and why they did not collect them in the first place.",
+                "explainer": "In 2021, 19 local authorities did not collect a single cent in derelict sites levies. Some of these councils are owed well in excess of €100,000 This Bill will require local authorities that collect less than 75% of the levies owed to produce a comprehensive report. In this report, they will need to outline how they will collect the outstanding levies and why they did not collect them in the first place.",
                 "status": "Current"
             },
             {
@@ -3720,7 +3720,7 @@
                 "title": "Impaired Farm Credit Bill 2022",
                 "sponsors": "Mattie McGrath, Michael Healy-Rae, Carol Nolan, Richard O'Donoghue, Danny Healy-Rae, Michael Collins",
                 "party": "INDendents",
-                "explainer": "This bill provides for the disaggregation of lands charged with repayment of farm debt into two parcels, the ‘Farmlands’ and the ‘Farmhouse’.The debt secured on the parcel designated as the farmhouse be governed by the legislation, general law, and regulatory codes of conduct pertaining to a debtor's principal place of residence, and to take account of the special position of any co-owner thereof.For the role and regulation of receivers as credit servicers and as agent of the debtor.  That possession and sale of the farmlands by the secured creditor be deferred until after a moratorium affording the debtor space and time to engage in preparation of a proposal of a ‘Farm Debt Settlement Arrangement’.",
+                "explainer": "This bill provides for the disaggregation of lands charged with repayment of farm debt into two parcels, the ‘Farmlands’ and the ‘Farmhouse’. The debt secured on the parcel designated as the farmhouse be governed by the legislation, general law, and regulatory codes of conduct pertaining to a debtor's principal place of residence, and to take account of the special position of any co-owner thereof.For the role and regulation of receivers as credit servicers and as agent of the debtor.  That possession and sale of the farmlands by the secured creditor be deferred until after a moratorium affording the debtor space and time to engage in preparation of a proposal of a ‘Farm Debt Settlement Arrangement’.",
                 "status": "Current"
             }
         ]
@@ -3828,7 +3828,7 @@
                 "party": "GP",
                 "explainer": "This is an ammendent to the existing bill and would provide an alternative environmental assessment that can be carried out to support an industrial emissions licence determination and further provides for streamlined and accelerated consenting procedures related to those licences. These proposals are confined to licence applications associated with the designated development sites - Shannonbridge and Tarbert only - which would only be operated if and when they were required for emergency purposes.",
                 "status": "Enacted",
-                "votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "fk8741",
@@ -4983,7 +4983,7 @@
                 "party": "GP",
                 "explainer": "This bill provides for carbon budgets and a sectoral emissions ceiling to apply to different sectors of the economy. It provides for local authority climate action plans and  amends the Planning and Development Act 2000; to extend the purposes for which moneys may be paid out of the Climate Action Fund..(This ammendment will effect the Farming sector)",
                 "status": "Enacted",
-                "votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "fk81741",
@@ -6238,7 +6238,7 @@
                 "title": "Education (Relationships and Sexuality Education) (Amendment) Bill 2022",
                 "sponsors": "Fiona O'Loughlin, Malcolm Byrne",
                 "party": "FF",
-                "explainer": "This bill disolves the exemption provided by certain enactments from the prohibition against discrimination on the gender ground in educational establishments, schools shall not discriminate on gendergrounds in relation to the admission or the terms or conditions of admission of a personas a student to the school.",
+                "explainer": "This bill disolves the exemption provided by certain enactments from the prohibition against discrimination on the gender ground in educational establishments, schools shall not discriminate on gender grounds in relation to the admission or the terms or conditions of admission of a personas a student to the school.",
                 "status": "Current"
             },
             {
@@ -6316,7 +6316,7 @@
                 "party": "FF",
                 "explainer": "This bill updates the Civil Defence Units and reaffirms the continuing role of the DoD in managing and developing the overall strategies and policies regarding Civil Defence matters and sets out the requirement for local authorities to comply with any directions concerning civil defence matters issued by the Minister under this legislation.",
                 "status ": "Enacted",
-                "votes": []
+                "dailVote": []
             },
             {
                 "bill": "117 of 2022",
@@ -6337,7 +6337,7 @@
                 "party": "PBP",
                 "explainer": "Ireland would have a referendum to enshrine neutrality in the Constitution. That is defined as Ireland being a neutral State that will not join many military alliances. It states that Ireland could only participate in armed conflict in circumstances where it is under attack or invasion and with the vote of a Dáil. It states very clearly that the Government could not join wars or get the country to join wars as part of an EU decision. If it wanted to do that, it would need another referendum.",
                 "status": "Defeated",
-                "votes": []
+                "dailVote": []
             },
             {
                 "bill": "121 of 2018",
@@ -6365,7 +6365,7 @@
                 "type": "Private Bill",
                 "title": "Thirty-fourth Amendment of the Constitution (Peace and Neutrality) Bill 2014",
                 "sponsors": "Mick Wallace",
-                "party": "INDendent",
+                "party": "Independent",
                 "explainer": "This Bill sets out to have Ireland's neutral status affirmed by adherence to the provisions of the 1907 Hague Convention (V) respecting the Rights and Duties of Neutral Powers and Persons in Case of War on Land. According to Article 2 of the Hague Convention (V): 'Belligerents are forbidden to move troops or convoys of either munitions of war or supplies across the territory of a neutral Power'. At the moment such law is not part of the Constitution of Ireland or domestic law, neutrality is simply policy.",
                 "status": "Defeated"
             },
@@ -6418,7 +6418,7 @@
                 "title": "Protection of Hares Bill 2023",
                 "sponsors": "Jennifer Whitmore",
                 "party": "SD",
-                "explainer": " A bill to make hare coursing illegal in Ireland (hare coursing is having greyhounds or other dogs that chase by sight hunt down and kill hares for sport/gambling)",
+                "explainer": "A bill to make hare coursing illegal in Ireland (hare coursing is having greyhounds or other dogs that chase by sight hunt down and kill hares for sport/gambling)",
                 "status": " Current"
             },
             {
@@ -6468,7 +6468,7 @@
                 "title": "Veterinary Practice (Amendment) Bill 2021",
                 "sponsors": "Jackie Cahill",
                 "party": "FF",
-                "explainer": " Bill entitled an Act to prohibit the ownership of veterinary practices by persons other than those persons who are veterinary practitioners.",
+                "explainer": "Bill entitled an Act to prohibit the ownership of veterinary practices by persons other than those persons who are veterinary practitioners.",
                 "status": " current"
             }
         ]
@@ -6484,7 +6484,7 @@
                 "title": "National Minimum Wage (Inclusion of Apprentices) Bill 2023 ",
                 "sponsors": "Marie Sherlock, Mark Wall, Annie Hoey, Rebecca Moynihan",
                 "party": "LAB",
-                "explainer": "This is a Bill to include apprentices in receiving minimum wageprore premises; to make provision for enforcement in respect of engaging in conduct prohibited in such safe access zones",
+                "explainer": "This is a Bill to include apprentices in receiving minimum wage.",
                 "status": " Current"
             },
             {
@@ -6494,7 +6494,7 @@
                 "title": "LAB Exploitation and Trafficking (Audit of Supply Chains) Bill 2021",
                 "sponsors": "Aodhán Ó Ríordáin; Ged Nash; Seán Sherlock",
                 "party": "LAB",
-                "explainer": " This Bill would require businesses to report annually on what measures they have taken to ensure that their products do not involve human trafficking and child LAB exploitation.",
+                "explainer": "This Bill would require businesses to report annually on what measures they have taken to ensure that their products do not involve human trafficking and child LAB exploitation.",
                 "status": "Current"
             },
             {
@@ -6576,7 +6576,7 @@
                 "party": "FF",
                 "explainer": "This bill is to give local authority members who are elected and not employees the same benefits to the entitlement to maternity leave equivalent to the current entitlement for employees under the Maternity Protection Act 1994.",
                 "status": "Enacted",
-                "votes": []
+                "dailVote": []
             },
             {
                 "bill": "91 of 2022",
@@ -6727,9 +6727,10 @@
                 "title": "Criminal Justice (Incitement to Violence or Hatred and Hate Offences) Bill 2022",
                 "sponsors": "Minister for Justice, Helen McEntee",
                 "party": "FG",
-                "explainer": "The new hate speech Bill defines the protected groups that hate speech may be directed against. The new legislation will lower the threshold for criminal incitement to violence or hatred to include 'recklessness',  It means that any intentional or reckless communication or behaviour that is likely to incite violence or hatred against a person or persons because they are associated with a protected characteristic can be criminalised.Section 10 of the Bill relates to preparing or possessing material likely to incite violence or hatred against people on account of their protected characteristics.This part of the bill may curtail an individual's right to privacy and freedom of expression.",
+                "explainer": "The new hate speech Bill defines the protected groups that hate speech may be directed against. The new legislation will lower the threshold for criminal incitement to violence or hatred to include 'recklessness',  It means that any intentional or reckless communication or behaviour that is likely to incite violence or hatred against a person or persons because they are associated with a protected characteristic can be criminalised.
+                 Section 10 of the Bill relates to preparing or possessing material likely to incite violence or hatred against people on account of their protected characteristics.This part of the bill may curtail an individual's right to privacy and freedom of expression.",
                 "status": "Passed",
-                "Votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "fk28741",
@@ -7891,7 +7892,7 @@
                 "type": "Private Bill",
                 "title": "Criminal Law (Incest) (Amendment) Bill 2012",
                 "sponsors": "Denis Naughten",
-                "party": "INDendent",
+                "party": "Independent",
                 "explainer": "Bill entitled an Act to amend the Punishment of Incest Act 1908 so as to increase the penalty for offences committed under section 2.",
                 "status": "Lapsed"
             },
@@ -7901,7 +7902,7 @@
                 "type": "Private Bill",
                 "title": "Child Sex Offenders (Information and Monitoring) Bill 2012",
                 "sponsors": "Denis Naughten",
-                "party": "INDendent",
+                "party": "Independent",
                 "explainer": "To allow the parents or guardians of a child or vulnerable adult to make an enquiry to the Garda Síochána for the purpose of ascertaining whether a person with whom their child is in contact has been convicted of a sexual offence or is otherwise likely to pose a serious danger to children:to allow schools or clubs to make enquires to safeguard children in their care",
                 "status": "Current"
             },
@@ -7940,7 +7941,7 @@
                 "id": "JUB1km13e5",
                 "type": "Catherine Ardagh",
                 "title": "Civil Liability and Courts (Amendment) Bill 2021",
-                "sponsors": " Denis Naughten, Peadar Tóibín, Michael Lowry, Matt Shanahan, Cathal Berry, Peter Fitzpatrick, Verona Murphy, Seán Canney, Noel Grealish",
+                "sponsors": "Denis Naughten, Peadar Tóibín, Michael Lowry, Matt Shanahan, Cathal Berry, Peter Fitzpatrick, Verona Murphy, Seán Canney, Noel Grealish",
                 "party": "INDendents, Aontú",
                 "explainer": "The purpose of the Bill is to increase the penalties for those found guilty of an offence of fraud.",
                 "status": "Current"
@@ -8084,7 +8085,7 @@
                 "party": "FF",
                 "explainer": "This Bill first of all, aims to make community safety and all-of-government responsibility. The bill provides for new policing oversight body and a reformed system for the handling and investigation of allegations of Garda wrongdoing. The Bill strengthens internal governance by establishing a new non-executive board of An Garda Síochána. The Garda Commissioner will be empowered as the CEO of the organisation, with explicit operational INDendence, and will exercise functions equivalent to the CEO of many State agencies The Commissioner will be supported by, and will report to, the board. It provides for the establishment of an INDendent examiner of security legislation.The responsibility for the security of the State will not rest solely with An Garda Síochána.",
                 "status": "Enacted",
-                "votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "fk87431",
@@ -9219,7 +9220,7 @@
                 "party": "FG",
                 "explainer": "This Bill implement the recommendations of the Report of the Commission of the Future of Policing which called for the use of body-worn cameras to enhance the front-line capability of An Garda Síochána, and to extend the powers governing Garda use of CCTV and automated number plate recognition to help to prevent crime and to prosecute those involved in criminal activity.",
                 "status": "Enacted",
-                "votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "fk48741",
@@ -10531,7 +10532,7 @@
                 "party": "GP",
                 "explainer": "At present, guardians ad litem, GALs, are appointed by the court for children who are the subject of child care proceedings under the Child Care Act 1991. The GAL's role is to ascertain the views of the child and communicate these to the court. Current legislative provisions do not set out the qualifications and experience necessary to act as a GAL. The status, role, and functions of the GAL are not defined. There is no requirement on the court to appoint a GAL. The Bill will address these issues by repealing section 23 of the Child Care Act, and inserting a new Part specifically relating to guardians ad litem. The Bill provides a statutory basis for a national GAL service that will provide high-quality assistance to both vulnerable children and the courts.",
                 "status": "Enacted",
-                "votes": []
+                "dailVote": []
             }
         ]
     },
@@ -10760,7 +10761,7 @@
                 "party": "GP",
                 "explainer": "This bill updates the national Monument Act and clarifies the State ownership of monuments and found Archaeological objects. Where an artefact is found there is a 72 hour limit to  report the find. Newly discovered archaeological sites are afforded immediate legal protection, The Vote below is a ammendement (36)to the act which states that the people have a right to appreciate, view and learn from their heritage, that existing rights of way to access, appreciate or view heritage should be vindicated and that, where possible, rights of way should be established in the case of monuments where they have not yet been established, with a view to further advancing the right of the people to access their heritage: this ammendement was DEFEATED by the government",
                 "status": "Enacted",
-                "votes": [
+                "dailVote": [
                     {
                         "name": "Funchion, Kathleen",
                         "id": "fk87541",
