@@ -6252,7 +6252,7 @@
                 "status": " Current"
             },
             {
-                "bill": "No. 22 of 2022",
+                "bill": "22 of 2022",
                 "id": "ED4dm24e",
                 "type": "Government Bill",
                 "title": "Education (Provision in Respect of Children with Special Educational Needs) Act 2022",
@@ -6262,7 +6262,7 @@
                 "status": "Enacted"
             },
             {
-                "bill": "No. 65 of 2022",
+                "bill": "65 of 2022",
                 "id": "ED5dm24127e",
                 "type": "Private Bill",
                 "title": "Autism Bill 2022 ",
@@ -6396,7 +6396,7 @@
                 "status": " Current"
             },
             {
-                "bill": "No. 74 of 2022",
+                "bill": "74 of 2022",
                 "id": "HR2jm12e",
                 "type": "Private Bill",
                 "title": "Protection of Accident Victims from Non-Consensual Recording of Images Bill 2022",
@@ -6412,7 +6412,7 @@
         "title": "Animal Rights",
         "bills": [
             {
-                "bill": "No. 46 of 2023",
+                "bill": "46 of 2023",
                 "id": "ANim14571e",
                 "type": "Private Bill",
                 "title": "Protection of Hares Bill 2023",
@@ -6635,7 +6635,7 @@
         "title": "Social Welfare & Family",
         "bills": [
             {
-                "bill": "No. 96 of 2023",
+                "bill": "96 of 2023",
                 "id": "SW1im11e",
                 "type": "Government Bill",
                 "title": "Social Welfare and Civil Law (Miscellaneous Provisions) Bill 2023",
@@ -6727,7 +6727,7 @@
                 "title": "Criminal Justice (Incitement to Violence or Hatred and Hate Offences) Bill 2022",
                 "sponsors": "Minister for Justice, Helen McEntee",
                 "party": "FG",
-                "explainer": "The new hate speech Bill defines the protected groups that hate speech may be directed against. The new legislation will lower the threshold for criminal incitement to violence or hatred to include 'recklessness',  It means that any intentional or reckless communication or behaviour that is likely to incite violence or hatred against a person or persons because they are associated with a protected characteristic can be criminalised.Section 10 of the Bill relates to preparing or possessing material likely to incite violence or hatred against people on account of their protected characteristics.This part of the bill may curtail an individual's right to privacy and freedom of expression.",
+                "explainer": "The new hate speech Bill defines the protected groups that hate speech may be directed against. The new legislation will lower the threshold for criminal incitement to violence or hatred to include 'recklessness',  It means that any intentional or reckless communication or behaviour that is likely to incite violence or hatred against a person or persons because they are associated with a protected characteristic can be criminalised. Section 10 of the Bill relates to preparing or possessing material likely to incite violence or hatred against people on account of their protected characteristics.This part of the bill may curtail an individual's right to privacy and freedom of expression.",
                 "status": "Passed",
                 "dailVote": [
                     {
@@ -8076,7 +8076,7 @@
                 "status": " current"
             },
             {
-                "bill": "No. 1 of 2024",
+                "bill": "1 of 2024",
                 "id": "JJ4km13e",
                 "type": "Government Bill",
                 "title": "Policing, Security and Community Safety Bill 2023",
@@ -10468,8 +10468,9 @@
                 "status": " Current"
             },
             {
-                "bill": "35 of 2023",
+                "bill": " 35 of 2023",
                 "id": "LM2jm12e",
+                "type": "Private Bill",
                 "title": "Ministers and Secretaries (Attorney General) Bill 2023",
                 "sponsors": "Ivana Bacik, Ged Nash",
                 "party": "LAB",
@@ -10489,7 +10490,7 @@
                 "title": "Children and Family Relationships (Amendment) Bill 2023",
                 "sponsors": "Ivana Bacik",
                 "party": "LAB",
-                "explainer": " Amend the Children and Family Relationships Act it ensure that the child of LGBTQ couple born of a known doner will be equally the child of both its LGBTQ parents with both having equal rights.",
+                "explainer": "Amend the Children and Family Relationships Act it ensure that the child of LGBTQ couple born of a known doner will be equally the child of both its LGBTQ parents with both having equal rights.",
                 "status": " Current"
             },
             {
@@ -10530,8 +10531,7 @@
                 "sponsors": "Minister for Children, Equality, Disability, Integration and Youth, Roderic O'Gorman",
                 "party": "GP",
                 "explainer": "At present, guardians ad litem, GALs, are appointed by the court for children who are the subject of child care proceedings under the Child Care Act 1991. The GAL's role is to ascertain the views of the child and communicate these to the court. Current legislative provisions do not set out the qualifications and experience necessary to act as a GAL. The status, role, and functions of the GAL are not defined. There is no requirement on the court to appoint a GAL. The Bill will address these issues by repealing section 23 of the Child Care Act, and inserting a new Part specifically relating to guardians ad litem. The Bill provides a statutory basis for a national GAL service that will provide high-quality assistance to both vulnerable children and the courts.",
-                "status": "Enacted",
-                "dailVote": []
+                "status": "Enacted"
             }
         ]
     },
@@ -10606,13 +10606,13 @@
         "title": "Public Office & Elections",
         "bills": [
             {
-                "bill": "No. 16 of 2023",
+                "bill": "16 of 2023",
                 "id": "SPim11e",
                 "type": "Private Bill",
                 "title": "Standards in Public Office (Amendment) Bill 2023",
                 "sponsors": "Mairéad Farrell, Pat Buckley",
                 "party": "SF",
-                "explainer": "First, it will make it an offence for Oireachtas Members willfully and recklessly to fail to disclose their required interests.Secondly it would allow SIPO to initiate its own investigations and thirdly it would require SIPO's annual report to be laid before the Houses of the Oireachtas.",
+                "explainer": "First, it will make it an offence for Oireachtas Members willfully and recklessly to fail to disclose their required interests. Secondly it would allow SIPO to initiate its own investigations and thirdly it would require SIPO's annual report to be laid before the Houses of the Oireachtas.",
                 "status": "Current"
             },
             {
@@ -10746,7 +10746,7 @@
                 "id": "ARTim14fs",
                 "type": "Private Bill",
                 "title": "Ceathrú Chultúir 1916 Bill 2021",
-                "sponsors": ":Aengus Ó Snodaigh; Denise Mitchell; Mary Lou McDonald; Dessie Ellis; Seán Crowe; Chris Andrews",
+                "sponsors": "Aengus Ó Snodaigh, Denise Mitchell, Mary Lou McDonald, Dessie Ellis, Seán Crowe, Chris Andrews.",
                 "party": "SF",
                 "explainer": "Bill for restoration and management of the cultural historical quarter within the Moore Street Battlefield Area.",
                 "status": "current"
@@ -11893,23 +11893,23 @@
                 "status": "Current"
             },
             {
-                "bill": "No. 9 of 2024",
+                "bill": "9 of 2024",
                 "id": "CCC1im11e1",
                 "type": "Private Bill",
                 "title": "Broadcasting (Oversight of RTÉ Accounts) (Amendment) Bill 2024",
                 "sponsors": "Aengus Ó Snodaigh, Thomas Gould, Rose Conway-Walsh, John Brady, Brian Stanley, Imelda Munster ",
                 "party": "SF",
-                "explainer": " Bill entitled an Act to amend the Broadcasting Act 2009 to give the Comptroller and Auditor General oversight of RTÉ accounts. ",
+                "explainer": "Bill entitled an Act to amend the Broadcasting Act 2009 to give the Comptroller and Auditor General oversight of RTÉ accounts. ",
                 "status": "Current"
             },
             {
-                "bill": "No. 7 of 2017",
+                "bill": "7 of 2017",
                 "id": "CCC1im11e2",
                 "type": "Private Bill",
                 "title": "Media Ownership Bill 2017",
                 "sponsors": "Catherine Murphy, Róisín Shortall",
                 "party": "SD",
-                "explainer": " Bill entitled an Act to amend the Competition Act 2002 in order to retrospectively and hereinafter protect both diversity of ownership and control of media businesses in the State That is to curtail the ability of some key players and a small but increasing number of others to gain a stake of more than 20% in media businesses.",
+                "explainer": "Bill entitled an Act to amend the Competition Act 2002 in order to retrospectively and hereinafter protect both diversity of ownership and control of media businesses in the State That is to curtail the ability of some key players and a small but increasing number of others to gain a stake of more than 20% in media businesses.",
                 "status": "Defeated"
             },
             {
@@ -12105,7 +12105,7 @@
                 "title": "Health (Amendment) (Professional Home Care) Bill 2016",
                 "sponsors": "Colm Burke, Emer Higgins",
                 "party": "FG",
-                "explainer": " Bill entitled an Act to provide for the regulation of professional home care, for that purpose to amend the Health Act 2007 and to provide for related matters.",
+                "explainer": "Bill entitled an Act to provide for the regulation of professional home care, for that purpose to amend the Health Act 2007 and to provide for related matters.",
                 "status": "Current"
             },
             {
@@ -12209,7 +12209,7 @@
                 "status": " current"
             },
             {
-                "bill": "7 of 2023",
+                "bill": " 7 of 2023",
                 "id": "HS3km13e",
                 "type": "Government Bill",
                 "title": "Health (Amendment) Act 2023",
@@ -12219,7 +12219,7 @@
                 "status ": "Enacted"
             },
             {
-                "bill": "No. 49 of 2022",
+                "bill": " 49 of 2022",
                 "id": "HS4km13e",
                 "type": "Government Bill",
                 "title": "Health Insurance (Amendment) Act 2022",
