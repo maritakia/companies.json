@@ -1,41 +1,50 @@
-
-
 [
-{
-    "title": "Gary's Economics",
-    "subTitle": "What the economics of the 2020s will look like",
-    "description": "Named one of Citibank’s highest performing traders worldwide, Gary Stevenson explains clearly the economic path we are all facing. @garyseconomics is focused on teaching people about real world economics.",
-    "url": "https://www.youtube.com/watch?v=ViY-zI3b5JQ"
-},
-{
-"title": "Local Government Ireland",
-"subTitle": "Check the Register",
-"description": "Check the register to conirm that you are registered in your area, or to amend details",
-"url": "https://www.checktheregister.ie/en-IE/"
-},
-{
-"title": "Dublin City Council",
-"subTitle": "Register to Vote",
-"description": "In order to be able to vote at an election or referendum, your name must be entered on the Register of Electors for the locality in which you ordinarily reside",
-"url": "https://www.dublincity.ie/council/voting-and-elections/register-vote"
-},
-{
-"title": "Oireachtas",
-"subTitle": "Bills and Acts",
-"description": "The power to make new laws is the sole responsibility of the Houses of the Oireachtas. Dáil Éireann has the primary role in relation to legislation as it is directly elected by the people. All proposed new laws are introduced into the Oireachtas as Bills.",
-"url": "https://www.oireachtas.ie/en/bills/"
-},
-{
-"title": "Kildare Street",
-"subTitle": "Debates and Laws that have been passed",
-"description": "KildareStreet.com is a searchable archive of everything that's been said in the Dáil and all written parliamentary questions since January 2004, everything in the Seanad since September 2002, and all Committee meetings since September 2012.",
-"url": "https://www.kildarestreet.com/"
-},
-{
-"title": "Which Candidate",
-"subTitle": "Information on Candidates running for the Elections ",
-"description": "Voters can take a survey to discover which candidates in their constituency they agree with on a range of issues, or they can browse candidates' profile pages to find out more about them.",
-"url": "https://whichcandidate.ie/"
-}
-
+    {
+        "title": "Gary's Economics",
+        "subTitle": "What the economics of the 2020s will look like",
+        "description": "Gary Stevenson, known also by his YouTube-channel GarysEconomics, is a British inequality activist, economist, and former financial trader based in London.",
+        "url": "https://www.youtube.com/watch?v=ViY-zI3b5JQ"
+    },
+    {
+        "title": "Local Government Ireland",
+        "subTitle": "Check the Register",
+        "description": "Check the register to conirm that you are registered in your area, or to amend details",
+        "url": "https://www.checktheregister.ie/en-IE/"
+    },
+    {
+        "title": "Dublin City Council",
+        "subTitle": "Register to Vote",
+        "description": "In order to be able to vote at an election or referendum, your name must be entered on the Register of Electors for the locality in which you ordinarily reside",
+        "url": "https://www.dublincity.ie/council/voting-and-elections/register-vote"
+    },
+    {
+        "title": "Oireachtas",
+        "subTitle": "Bills and Acts",
+        "description": "The power to make new laws is the sole responsibility of the Houses of the Oireachtas. Dáil Éireann has the primary role in relation to legislation as it is directly elected by the people. All proposed new laws are introduced into the Oireachtas as Bills.",
+        "url": "https://www.oireachtas.ie/en/bills/"
+    },
+    {
+        "title": "Kildare Street",
+        "subTitle": "Debates and Laws that have been passed",
+        "description": "KildareStreet.com is a searchable archive of everything that's been said in the Dáil and all written parliamentary questions since January 2004, everything in the Seanad since September 2002, and all Committee meetings since September 2012.",
+        "url": "https://www.kildarestreet.com/"
+    },
+    {
+        "title": "Which Candidate",
+        "subTitle": "Information on Candidates running for the Elections ",
+        "description": "Voters can take a survey to discover which candidates in their constituency they agree with on a range of issues, or they can browse candidates' profile pages to find out more about them.",
+        "url": "https://whichcandidate.ie/"
+    },
+    {
+        "title": "Gript Media",
+        "subTitle": "Media outlet which reports on real concerns held by ordinary and sometimes extra-ordinary people",
+        "description": "Provides the latest news, opinion & analysis. Supported by our readers, we believe in facilitating debate & challenging the consensus.",
+        "url": "https://www.youtube.com/watch?v=3gFm3QjC6nM"
+    },
+    {
+        "title": "The Ditch",
+        "subTitle": "Analysis – State Failures: The Special Relationship",
+        "description": "The Ditch is an Irish political news website established by journalists Eoghan McNeill, Roman Shortall, Chay Bowes, and businessman Paddy Cosgrave in April 2021.",
+        "url": "https://www.ontheditch.com/"
+    }
 ]
