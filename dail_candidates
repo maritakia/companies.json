@@ -347,7 +347,7 @@
                     },
                     {
                         "district": "dub_bay_south",
-                        "id": "Y421C",
+                        "id": "Y11C",
                         "name": "Ivana Bacik",
                         "party": "Labour party",
                         "info": "More Info...",
@@ -1236,7 +1236,7 @@
             },
             {
                 "dist": "Dun Laoghaire",
-                "id": "Y21B",
+                "id": "Y2124B",
                 "candidates": [
                     {
                         "district": "dun_laoghaire",
