@@ -1,4 +1,4 @@
-{
+
     {
         "title": "Dublin",
         "id": "Y1A",
@@ -1201,7 +1201,7 @@
                 ]
             }
         ]
-    },
+    }
     {
         "title": "Leinster",
         "id": "Y2A",
@@ -2291,7 +2291,7 @@
                 ]
             }
         ]
-    },
+    }
     {
         "title": "Munster",
         "id": "Y3A",
@@ -2369,7 +2369,7 @@
                         "info_one": "He was a member of the Oireachtas Committee on Agriculture, Food and the Marine, and a member of the Parliamentary Assembly of the Council of Europe from 2011 to 2016.",
                         "info_two": "McNamara is a barrister and has worked at the OSCE and on human rights and democracy projects of the European Union and United Nations.",
                         "info_three": "The Irish law which makes it a criminal offence to enter the State without valid travel documents is “not being applied,” an Independent TD has said. Speaking in the Dáil today, Independent TD Michael McNamara asked Housing Minister Darragh O’Brien why the existing legislation area is not being applied. “Under Section 11 of the Immigration Act 2004, it is an offence to embark in Ireland without valid travel documents. (gript.ie, 18/1/2024)",
-                        "info_four": "'The Taoiseach is absolutely right to be advocating for the Irish in America, but the same thing needs to be done for the Americans and all other nationalities that are in that situation here,'' Mr McNamara told the Irish Times.' (irishtimes, 25/3/2015)",
+                        "info_four":"'The Taoiseach is absolutely right to be advocating for the Irish in America, but the same thing needs to be done for the Americans and all other nationalities that are in that situation here,'' Mr McNamara told the Irish Times.' (irishtimes, 25/3/2015)",
                         "info_ten": "Occupations: (1) Farmer, Lessor: Teeroneer, Tuamgraney, Co. Clare; (2) Barrister: Law Library, Four Courts, Dublin 7. ",
                         "info_eleven": "Property: (1) Teeroneer, Co. Clare, Toonagh, Co. Clare, Coolanoran, Co. Limerick: farmland; (2) Tubbernagoth, Co. Clare, Moynoe, Co. Clare, Fossabeg, Co. Clare.",
                         "info_twelve": "McNamara has not declared income from shares"
@@ -3424,7 +3424,7 @@
                 ]
             }
         ]
-    },
+    }
     {
         "title": "Ulster-Connaught",
         "id": "Y4A",
@@ -4183,5 +4183,4 @@
                 ]
             }
         ]
-    }
     }
