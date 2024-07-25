@@ -34,7 +34,7 @@
                 "pol_six_3": "Development Aid: Supports increasing development aid to promote global development, reduce poverty, and address root causes of migration."
             }
         ],
-        "support_title": "Legislation supported which Conflicted with EPP Policies",
+        "support_title": "Supported Legislation which Conflicted with EPP Policies",
         "support_pols": [
             {
                 "id": "mngkmjm681",
@@ -57,7 +57,7 @@
                 "leg_five_2": "Multiannual Financial Framework (MFF): Backed the EU's long-term budget framework to fund various EU programs and policies, promoting cohesion and integration."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with EPP Policies",
+        "conflict_title": "Supported Legislation which Conflicted with EPP Policies",
         "conflict_pols": [
             {
                 "id": "sdntyjx7687",
@@ -101,7 +101,7 @@
                 "pol_five_2": "Solidarity among Member States: Advocates for solidarity and cooperation among EU member states, particularly in areas like asylum policy and economic support."
             }
         ],
-        "support_title": "Legislation Supporting EPP Policies",
+        "support_title": "Supported Legislation which aligned with EPP Policies",
         "support_pols": [
             {
                 "id": "csb87yfk987",
@@ -121,7 +121,7 @@
                 "leg_five_1": " Recovery and Resilience Facility: Supported this key component of the EU's COVID-19 recovery plan, emphasising solidarity and economic support among member states."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with EPP Policies",
+        "conflict_title": "Supported Legislation which Conflicted with EPP Policies",
         "conflict_pols": [
             {
                 "id": "oscc8kyuf71",
@@ -168,7 +168,7 @@
                 "pol_six_2": "Integration Policies: Supports the integration of migrants and refugees into society, ensuring they have access to rights and opportunities."
             }
         ],
-        "support_title": "Legislation Supporting Greens/EFA Policies",
+        "support_title": "Supported Legislation which aligned with Greens/EFA Policies",
         "support_pols": [
             {
                 "id": "ocgcgjr8741",
@@ -186,7 +186,7 @@
                 "leg_four2": "Green Investment: Advocated for increased EU investment in green technologies and sustainable infrastructure."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with Greens/EFA Policies",
+        "conflict_title": "Supported Legislation which Conflicted with Greens/EFA Policies",
         "conflict_pols": [
             {
                 "id": "ocghsje6016",
@@ -206,7 +206,6 @@
         "title": "ECR - European Conservatives and Reformists Group",
         "description": "The European Conservatives and Reformists (ECR) Group is a centre-right political group in the European Parliament. Formed in 2009, the ECR aims to promote a reformed and decentralised European Union that respects the sovereignty of its member states. The group is characterised by its commitment to conservative values, economic liberalism, and scepticism of deeper EU integration.",
         "policies_title": "Main ECR Policies",
-        "support_pols_title": "Legislation Supporting ECR Policies",
         "main_policies": [
             {
                 "id": "gg58mhmytj471",
@@ -233,7 +232,7 @@
                 "pol_seven_2": "Opposition to Federalism: Opposes moves towards a federal EU, advocating instead for a Europe of sovereign nations."
             }
         ],
-        "support_title": "Legislation Supporting ECR Policies",
+        "support_title": "Supported Legislation which aligned with ECR Policies",
         "support_pols": [
             {
                 "id": "orlrhg4xru61",
@@ -252,7 +251,7 @@
                 "leg_five_1": "Energy Security: Supported policies aimed at diversifying energy sources and reducing dependence on external suppliers, aligning with their pragmatic approach to environmentalism."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with ECR Policies",
+        "conflict_title": "Supported Legislation which Conflicted with ECR Policies",
         "conflict_pols": [
             {
                 "id": "ed64kuyf09",
@@ -293,7 +292,7 @@
                 "pol_six_1": " Reduction of EU Powers: Calls for significant reforms to reduce the powers of EU institutions and increase the influence of national parliaments.,"
             }
         ],
-        "support_title": "Legislation Supporting ID Policies",
+        "support_title": "Supported Legislation which aligned with ID Policies",
         "support_pols": [
             {
                 "id": "sbbdb5a478",
@@ -314,7 +313,7 @@
                 "leg_five_2": "Traditional Values: Backs legislation that upholds traditional family values and opposes progressive social policies."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with ID Policies",
+        "conflict_title": "Supported Legislation which Conflicted with ID Policies",
         "conflict_pols": [
             {
                 "id": "mghzp5756",
@@ -356,7 +355,7 @@
                 "pol_five_3": " Humanitarian Aid: Advocates for increased humanitarian aid and development assistance to support vulnerable populations globally."
             }
         ],
-        "support_title": "Legislation Supported by The Left that Aligns with Their Policies",
+        "support_title": "Supported Legislation that Aligned with The Left Policies",
         "support_pols": [
             {
                 "id": "dcvfgth898",
@@ -374,7 +373,7 @@
                 "leg_four2": "Human Rights Sanctions: Advocated for the adoption of the EU Global Human Rights Sanctions Regime to hold human rights violators accountable."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with The Left Policies",
+        "conflict_title": "Supported Legislation which Conflicted with The Left Policies",
         "conflict_pols": [
             {
                 "id": "ra67jytk81",
@@ -413,7 +412,7 @@
                 "pol_five_2": "Rule of Law: Promotes the rule of law and opposes any attempts to undermine democratic principles and judicial independence."
             }
         ],
-        "support_title": "Legislation Supported by Remew that Aligns with Their Policies",
+        "support_title": "Supported Legislation Aligned with Renew Policies",
         "support_pols": [
             {
                 "id": "H10op1e",
@@ -432,7 +431,7 @@
                 "leg_five_2": "Rule of Law Mechanism: Advocated for the establishment of this mechanism to ensure compliance with democratic principles and the rule of law within the EU."
             }
         ],
-        "conflict_title": "Legislation supported which Conflicted with The Left Policies",
+        "conflict_title": "Supported Legislation which Conflicted with Renew Policies",
         "conflict_pols": [
             {
                 "id": "nm671",
