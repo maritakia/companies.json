@@ -41,23 +41,14 @@
                 "leg_one_title": "Economic Policy",
                 "leg_one_1": "Next Generation EU Recovery Fund: The EPP supported the creation of this recovery fund to aid economic recovery post-COVID-19, reflecting their commitment to economic stability and growth.",
                 "leg_one_2": "European Fund for Strategic Investments (EFSI): Backed this initiative to boost investment in infrastructure, innovation, and SMEs, aligning with their economic and innovation policies.",
-                "leg_one_3": "Capital Markets Union (CMU): Advocated for CMU to increase investment and improve financial stability across the EU."
-            },
-            {
-                "id": "dd4mcmj03",
+                "leg_one_3": "Capital Markets Union (CMU): Advocated for CMU to increase investment and improve financial stability across the EU.",
                 "leg_two_title": "Social Policy",
                 "leg_two_1": "Youth Employment Initiative: Supported this initiative to combat youth unemployment and provide opportunities for young Europeans, consistent with their focus on employment and education.",
                 "leg_two_2": "Work-Life Balance Directive: Promoted this directive to support families and improve gender equality in the workplace, aligning with their social welfare and family support policies.",
-                "leg_two_3": "tristique hendrerit consequat sit amet,"
-            },
-            {
-                "id": "bp444ftgjn984",
+                "leg_two_3": "tristique hendrerit consequat sit amet,",
                 "leg_three_title": "Security and Defense",
                 "leg_three_1": "European Defence Fund: Supported the establishment of this fund to enhance defence capabilities and cooperation among member states, in line with their security and defence policy.",
-                "leg_three_2": "General Data Protection Regulation (GDPR): Backed this regulation to protect personal data and privacy, reflecting their commitment to digital rights and security."
-            },
-            {
-                "id": "ocj8rtynjxf719",
+                "leg_three_2": "General Data Protection Regulation (GDPR): Backed this regulation to protect personal data and privacy, reflecting their commitment to digital rights and security.",
                 "leg_four_title": "Environmental Policy",
                 "leg_four_1": "European Climate Law: Supported this law to set binding targets for achieving climate neutrality by 2050, in line with their commitment to combating climate change.",
                 "leg_four2": "Renewable Energy Directive: Advocated for increasing the share of renewable energy in the EU's energy mix, consistent with their environmental sustainability policies."
@@ -75,16 +66,10 @@
                 "id": "sdntyjx7687",
                 "con_one_title": "Migration and Asylumy",
                 "con_one_1": "New Pact on Migration and Asylum*: While the EPP generally supports effective migration management, parts of the New Pact have been criticised for not adequately addressing humanitarian concerns, potentially conflicting with their commitment to humane migration policies.",
-                "con_one_2": "Dublin Regulation: The EPP's support for maintaining aspects of the Dublin Regulation, which places the burden of asylum seekers on first-entry countries, has been seen as conflicting with equitable and humane migration management principles. "
-            },
-            {
-                "id": "bmuxtjnth",
+                "con_one_2": "Dublin Regulation: The EPP's support for maintaining aspects of the Dublin Regulation, which places the burden of asylum seekers on first-entry countries, has been seen as conflicting with equitable and humane migration management principles. ",
                 "con_two_title": "Economic and Fiscal Policy",
                 "con_two_1": "Austerity Measures: During the Eurozone crisis, the EPP supported austerity measures and fiscal tightening, which some critics argue conflicted with their commitment to social welfare and economic growth, as these measures led to significant social and economic hardships.",
-                "con_two_2": "tristique hendrerit consequat sit amet,."
-            },
-            {
-                "id": "bcixthj4891",
+                "con_two_2": "tristique hendrerit consequat sit amet,.",
                 "con_three_title": "Environmental Policy",
                 "con_three_1": "Subsidies: The EPP's support for maintaining significant agricultural subsidies under the Common Agricultural Policy (CAP) has been criticized for promoting practices that are not always environmentally sustainable, potentially conflicting with their environmental policies.",
                 "con_three_2": "tristique hendrerit consequat sit amet,."
@@ -125,28 +110,16 @@
                 "id": "csb87yfk987",
                 "leg_one_title": "Social Justice and Equality",
                 "leg_one_1": "European Pillar of Social Rights: Supported this initiative to improve working conditions, social protection, and equal opportunities across the EU.",
-                "leg_one_2": "Gender Equality Strategy: Backed measures to promote gender equality, including efforts to close the gender pay gap and increase female representation in leadership positions."
-            },
-            {
-                "id": "mm6j5tj87",
+                "leg_one_2": "Gender Equality Strategy: Backed measures to promote gender equality, including efforts to close the gender pay gap and increase female representation in leadership positions.",
                 "leg_two_title": "Economic Policy",
                 "leg_two_1": "InvestEU Programme: Advocated for this program to boost investment in education, research, infrastructure, and innovation, reflecting their commitment to public investment.",
-                "leg_two_2": "European Semester: Supported reforms to include social indicators in the European Semester, ensuring that economic policies also address social issues and inequalities."
-            },
-            {
-                "id": "gag74hmjw03",
+                "leg_two_2": "European Semester: Supported reforms to include social indicators in the European Semester, ensuring that economic policies also address social issues and inequalities.",
                 "leg_three_title": "Environmental Sustainability",
                 "leg_three_1": ":European Green Deal: Strongly supported the European Green Deal and related policies aimed at achieving climate neutrality by 2050.",
-                "leg_three_2": "Climate Law: Backed the European Climate Law, which sets binding targets for carbon emission reductions and climate neutrality."
-            },
-            {
-                "id": "ch8146",
+                "leg_three_2": "Climate Law: Backed the European Climate Law, which sets binding targets for carbon emission reductions and climate neutrality.",
                 "leg_four_title": "Human Rights and Democracy",
                 "leg_four_1": "Rule of Law Mechanism: Supported the establishment of this mechanism to ensure that all EU member states adhere to democratic principles and the rule of law.",
-                "leg_four2": "Anti-Discrimination Legislation: Promoted various pieces of legislation aimed at combating discrimination and protecting the rights of minorities and marginalised groups."
-            },
-            {
-                "id": "cm82798",
+                "leg_four2": "Anti-Discrimination Legislation: Promoted various pieces of legislation aimed at combating discrimination and protecting the rights of minorities and marginalised groups.",
                 "leg_five_title": " European Integration",
                 "leg_five_1": " Recovery and Resilience Facility: Supported this key component of the EU's COVID-19 recovery plan, emphasising solidarity and economic support among member states."
             }
@@ -156,15 +129,9 @@
             {
                 "id": "oscc8kyuf71",
                 "con_one_title": "Economic Policy",
-                "con_one_1": "Common Agricultural Policy (CAP): While advocating for reforms to make the CAP more sustainable, S&D has faced criticism for supporting aspects of the CAP that continue to subsidise intensive farming practices, which can conflict with their environmental and social justice goals."
-            },
-            {
-                "id": "dtp89liu6",
+                "con_one_1": "Common Agricultural Policy (CAP): While advocating for reforms to make the CAP more sustainable, S&D has faced criticism for supporting aspects of the CAP that continue to subsidise intensive farming practices, which can conflict with their environmental and social justice goals.",
                 "con_two_title": "Environmental Sustainability ",
-                "con_two_1": "Energy Policy: At times, S&D has supported transitional energy measures that include the use of natural gas as a bridge fuel. This stance has been seen as inconsistent with their strong commitment to rapid and ambitious climate action."
-            },
-            {
-                "id": "mlptyh6849",
+                "con_two_1": "Energy Policy: At times, S&D has supported transitional energy measures that include the use of natural gas as a bridge fuel. This stance has been seen as inconsistent with their strong commitment to rapid and ambitious climate action.",
                 "con_three_title": "Trade Agreements",
                 "con_three_1": "Comprehensive Economic and Trade Agreement (CETA): Some S&D members supported CETA, the trade agreement between the EU and Canada, despite concerns that it might undermine labour rights and environmental standards, which are central to the group's policies."
             }
@@ -210,22 +177,13 @@
                 "id": "ocgcgjr8741",
                 "leg_one_title": "Climate Action",
                 "leg_one_1": "European Green Deal: The Greens/EFA have been strong proponents of the European Green Deal, advocating for ambitious climate targets and comprehensive policies to achieve climate neutrality by 2050.",
-                "leg_one_2": "COP26 Participation: Actively participated in international climate negotiations, pushing for stronger global commitments to reduce emissions."
-            },
-            {
-                "id": "orahmy4658",
+                "leg_one_2": "COP26 Participation: Actively participated in international climate negotiations, pushing for stronger global commitments to reduce emissions.",
                 "leg_two_title": "Social Policies",
                 "leg_two_1": "Social Pillar Action Plan: Supported the European Pillar of Social Rights and the related action plan to ensure social fairness and inclusion.",
-                "leg_two_2": "Gender Equality Strategy: Advocated for the European Commission's Gender Equality Strategy, aiming for equal rights and opportunities."
-            },
-            {
-                "id": "acxt1324",
+                "leg_two_2": "Gender Equality Strategy: Advocated for the European Commission's Gender Equality Strategy, aiming for equal rights and opportunities.",
                 "leg_three_title": "Human Rights and Democracy",
                 "leg_three_1": "Rule of Law Mechanism: Backed the introduction of a mechanism to protect the rule of law in EU member states, linking EU funds to respect for democratic principles.",
-                "leg_three_2": "Digital Services Act: Supported the Digital Services Act to regulate digital platforms, enhance transparency, and protect user rights."
-            },
-            {
-                "id": "sd7w4rh01",
+                "leg_three_2": "Digital Services Act: Supported the Digital Services Act to regulate digital platforms, enhance transparency, and protect user rights.",
                 "leg_four_title": "Economic Policies",
                 "leg_four_1": "Tax Justice: Called for measures to combat tax evasion and avoidance, including a minimum corporate tax rate.",
                 "leg_four2": "Green Investment: Advocated for increased EU investment in green technologies and sustainable infrastructure."
@@ -236,18 +194,12 @@
             {
                 "id": "ocghsje6016",
                 "con_one_title": "Economic Policy",
-                "con_one_1": "EU Budget Increases: While generally opposing austerity and advocating for increased public investment, The Left has sometimes faced criticism for supporting EU budget increases perceived as insufficiently progressive or not adequately addressing social needs."
-            },
-            {
-                "id": "rentgs6t16",
+                "con_one_1": "EU Budget Increases: While generally opposing austerity and advocating for increased public investment, The Left has sometimes faced criticism for supporting EU budget increases perceived as insufficiently progressive or not adequately addressing social needs.",
                 "con_two_title": "Environmental Sustainability",
-                "con_two_1": "Common Agricultural Policy (CAP): At times, The Left has supported aspects of the CAP that critics argue promote environmentally harmful agricultural practices, conflicting with their commitment to sustainability."
-            },
-            {
-                "id": "re68zregt8g16",
-                "con_two_title": "Environmental Sustainability",
-                "con_two_1": "Security Cooperation: While opposing militarization, The Left has occasionally supported EU initiatives on security cooperation that critics argue could contribute to increased military spending.",
-                "con_two_2": "Military Aid: The group has backed European Parliament resolutions that call for comprehensive support for Ukraine, which includes military assistance alongside humanitarian aid, financial support, and sanctions against Russia."
+                "con_two_1": "Common Agricultural Policy (CAP): At times, The Left has supported aspects of the CAP that critics argue promote environmentally harmful agricultural practices, conflicting with their commitment to sustainability.",
+                "con_three_title": "Environmental Sustainability",
+                "con_three_1": "Security Cooperation: While opposing militarization, The Left has occasionally supported EU initiatives on security cooperation that critics argue could contribute to increased military spending.",
+                "con_three_2": "Military Aid: The group has backed European Parliament resolutions that call for comprehensive support for Ukraine, which includes military assistance alongside humanitarian aid, financial support, and sanctions against Russia."
             }
         ],
         "summary": "The Greens/EFA group in the European Parliament champions a broad array of progressive policies focusing on environmental sustainability, social justice, human rights, and regional autonomy. Their agenda includes ambitious climate action, promotion of renewable energy, protection of biodiversity, and support for a circular economy. They also emphasise social inclusion, gender equality, workers' rights, and digital privacy. Economically, they advocate for a fair economy, sustainable development, and support for SMEs. They also support regional rights and decentralisation, a humane approach to migration, and robust integration policies."
@@ -289,22 +241,13 @@
             {
                 "id": "orlrhg4xru61",
                 "leg_one_title": "Sovereignty and Decentralization",
-                "leg_one_1": "Subsidiarity Principle: The ECR has supported various legislative initiatives that reinforce the principle of subsidiarity, ensuring that decisions are taken at the most local level possible."
-            },
-            {
-                "id": "orl4rvuzr58r",
+                "leg_one_1": "Subsidiarity Principle: The ECR has supported various legislative initiatives that reinforce the principle of subsidiarity, ensuring that decisions are taken at the most local level possible.",
                 "leg_two_title": "Economic Policy",
                 "leg_two_1": "Capital Markets Union: Supported measures to deepen the Capital Markets Union, which aligns with their commitment to economic liberalism and market integration.",
-                "leg_two_2": "SME Support**: Advocated for policies that enhance access to finance and reduce regulatory burdens for small and medium-sized enterprises (SMEs)."
-            },
-            {
-                "id": "ormyhl4zru1fr",
+                "leg_two_2": "SME Support**: Advocated for policies that enhance access to finance and reduce regulatory burdens for small and medium-sized enterprises (SMEs).",
                 "leg_three_title": "Social Policy",
                 "leg_three_1": "Anti-Terrorism Legislation: Supported stronger EU-wide anti-terrorism measures to enhance security and public safety.",
-                "leg_three_2": "European Defence Fund: Backed initiatives to promote defence cooperation among EU member states, ensuring robust national defence capabilities."
-            },
-            {
-                "id": "wmw4uk878",
+                "leg_three_2": "European Defence Fund: Backed initiatives to promote defence cooperation among EU member states, ensuring robust national defence capabilities.",
                 "leg_four_title": "Immigration",
                 "leg_four_1": "Strengthened Border Controls: Supported legislation to enhance the EU's external border controls and improve the management of migration flows.",
                 "leg_four_2": "Asylum Reform: Advocated for reforms to the EU's asylum system to ensure more efficient processing and fair burden-sharing among member states."
@@ -320,15 +263,9 @@
             {
                 "id": "ed64kuyf09",
                 "con_one_title": "Economic Policy",
-                "con_one_1": "EU Budget Increases: The ECR has sometimes faced criticism for supporting increases in the EU budget, which can be seen as conflicting with their stance on fiscal responsibility and reducing EU expenditure."
-            },
-            {
-                "id": "mapty68j1",
+                "con_one_1": "EU Budget Increases: The ECR has sometimes faced criticism for supporting increases in the EU budget, which can be seen as conflicting with their stance on fiscal responsibility and reducing EU expenditure.",
                 "con_two_title": "Environmental Policy",
-                "con_two_1": " Stringent Environmental Regulations: In some instances, the ECR has supported environmental regulations that some of their more economically liberal members perceive as burdensome and restrictive to business growth."
-            },
-            {
-                "id": "sryk198",
+                "con_two_1": " Stringent Environmental Regulations: In some instances, the ECR has supported environmental regulations that some of their more economically liberal members perceive as burdensome and restrictive to business growth.",
                 "con_three_title": "EU Integration",
                 "con_three_1": "European Defence Initiatives: While generally supportive of defence cooperation, the ECR has occasionally backed initiatives perceived as steps towards deeper EU integration in the defence sector, which can be seen as conflicting with their opposition to federalism."
             }
@@ -368,28 +305,16 @@
                 "id": "sbbdb5a478",
                 "leg_one_title": "National Sovereignty and Euroscepticism",
                 "leg_one_1": "Opposition to EU Integration: Consistently votes against measures that promote deeper EU integration and the transfer of powers to EU institutions.",
-                "leg_one_2": "Support for National Parliaments: Advocates for legislation that increases the role and influence of national parliaments in EU decision-making."
-            },
-            {
-                "id": "begc5d48",
+                "leg_one_2": "Support for National Parliaments: Advocates for legislation that increases the role and influence of national parliaments in EU decision-making.",
                 "leg_two_title": "Immigration and Asylum",
                 "leg_two_1": "Strengthened Border Controls: Supports legislation to enhance the EU's external border controls and improve the management of migration flows.",
-                "leg_two_2": "Tightened Asylum Policies: Backs measures to tighten asylum policies, including faster processing and deportation of those not granted asylum."
-            },
-            {
-                "id": "cs87fyj95",
+                "leg_two_2": "Tightened Asylum Policies: Backs measures to tighten asylum policies, including faster processing and deportation of those not granted asylum.",
                 "leg_three_title": "Economic Policy",
                 "leg_three_1": "Opposition to EU Budget Increases: Consistently votes against proposals to increase the EU budget and advocates for reducing member state contributions.",
-                "leg_three_2": "Support for National Industries: Promotes protectionist measures to safeguard national industries from foreign competition."
-            },
-            {
-                "id": "dfn6gzh989",
+                "leg_three_2": "Support for National Industries: Promotes protectionist measures to safeguard national industries from foreign competition.",
                 "leg_four_title": "Security and Defense",
                 "leg_four_1": "Anti-Terrorism Measures: Supports stronger anti-terrorism measures to enhance internal security and protect European citizens.",
-                "leg_four2": "Opposition to an EU Army: Votes against initiatives aimed at creating a common EU army, emphasising the importance of national defence sovereignty."
-            },
-            {
-                "id": "ljzrhj819",
+                "leg_four2": "Opposition to an EU Army: Votes against initiatives aimed at creating a common EU army, emphasising the importance of national defence sovereignty.",
                 "leg_five_title": "Cultural and Social Policies",
                 "leg_five_1": "Cultural Preservation: Supports measures that promote and protect national cultures and traditions, opposing multiculturalism policies.",
                 "leg_five_2": "Traditional Values: Backs legislation that upholds traditional family values and opposes progressive social policies."
@@ -400,10 +325,7 @@
             {
                 "id": "mghzp5756",
                 "con_one_title": "Economic Policy",
-                "con_one_1": " Support for Agricultural Subsidies: At times, the ID Group has supported EU agricultural subsidies, which can be seen as conflicting with their stance on reducing the EU budget and promoting national economic independence."
-            },
-            {
-                "id": "mm7zrgb403",
+                "con_one_1": " Support for Agricultural Subsidies: At times, the ID Group has supported EU agricultural subsidies, which can be seen as conflicting with their stance on reducing the EU budget and promoting national economic independence.",
                 "con_two_title": "Security and Defense",
                 "con_two_1": "Cooperation on Security Issues: While opposing an EU army, the ID Group has occasionally supported certain forms of cooperation on security issues that enhance collective security, which might be viewed as conflicting with their strong stance on national sovereignty."
             }
@@ -446,22 +368,13 @@
                 "id": "dcvfgth898",
                 "leg_one_title": "Social Justice and Equality",
                 "leg_one_1": "European Pillar of Social Rights: Supported initiatives to implement the European Pillar of Social Rights, promoting fair wages, secure employment, and social protection.",
-                "leg_one_2": "Minimum Wage Directive: Backed the directive aimed at ensuring fair minimum wages across the EU, aligning with their commitment to workers' rights and social justice."
-            },
-            {
-                "id": "aowgthn641",
+                "leg_one_2": "Minimum Wage Directive: Backed the directive aimed at ensuring fair minimum wages across the EU, aligning with their commitment to workers' rights and social justice.",
                 "leg_two_title": "Economic Policy",
                 "leg_two_1": "Opposition to Austerity: Consistently opposed EU austerity measures and supported increased public investment in social infrastructure.",
-                "leg_two_2": "Financial Transaction Tax: Advocated for the introduction of a financial transaction tax to curb speculative trading and generate revenue for public services."
-            },
-            {
-                "id": "cs98vgv829",
+                "leg_two_2": "Financial Transaction Tax: Advocated for the introduction of a financial transaction tax to curb speculative trading and generate revenue for public services.",
                 "leg_three_title": "Environmental Sustainability",
                 "leg_three_1": "European Green Deal: Strongly supported the European Green Deal and related initiatives aimed at reducing carbon emissions and promoting renewable energy.",
-                "leg_three_2": "Climate Law: Backed the European Climate Law, which sets binding targets for achieving climate neutrality by 2050."
-            },
-            {
-                "id": "cc876um918",
+                "leg_three_2": "Climate Law: Backed the European Climate Law, which sets binding targets for achieving climate neutrality by 2050.",
                 "leg_four_title": "Human Rights and Democracy",
                 "leg_four_1": "Anti-Discrimination Legislation: Supported various pieces of legislation aimed at combating discrimination and promoting equality, such as the Gender Equality Strategy and the LGBTIQ Equality Strategy.",
                 "leg_four2": "Human Rights Sanctions: Advocated for the adoption of the EU Global Human Rights Sanctions Regime to hold human rights violators accountable."
@@ -472,15 +385,9 @@
             {
                 "id": "ra67jytk81",
                 "con_one_title": "Economic Policy",
-                "con_one_1": "EU Budget Increases: While generally opposing austerity and advocating for increased public investment, The Left has sometimes faced criticism for supporting EU budget increases perceived as insufficiently progressive or not adequately addressing social needs."
-            },
-            {
-                "id": "ccqcrh65",
+                "con_one_1": "EU Budget Increases: While generally opposing austerity and advocating for increased public investment, The Left has sometimes faced criticism for supporting EU budget increases perceived as insufficiently progressive or not adequately addressing social needs.",
                 "con_two_title": "Social Policy",
-                "con_two_1": "Common Agricultural Policy (CAP): At times, The Left has supported aspects of the CAP that critics argue promote environmentally harmful agricultural practices, conflicting with their commitment to sustainability."
-            },
-            {
-                "id": "fm6h4jr584",
+                "con_two_1": "Common Agricultural Policy (CAP): At times, The Left has supported aspects of the CAP that critics argue promote environmentally harmful agricultural practices, conflicting with their commitment to sustainability.",
                 "con_three_title": "Social Policy",
                 "con_three_1": "Security Cooperation: While opposing militarization, The Left has occasionally supported EU initiatives on security cooperation that critics argue could contribute to increased military spending."
             }
@@ -517,27 +424,15 @@
             {
                 "id": "H10op1e",
                 "leg_one_title": "European Integration and Democracy",
-                "leg_one_1": "Conference on the Future of Europe: Supported the establishment of this initiative to engage citizens in shaping the future of the EU, reflecting their commitment to democratic reforms and deeper integration"
-            },
-            {
-                "id": "H1im11e",
+                "leg_one_1": "Conference on the Future of Europe: Supported the establishment of this initiative to engage citizens in shaping the future of the EU, reflecting their commitment to democratic reforms and deeper integration",
                 "leg_two_title": "Economic Policy",
                 "leg_two_1": "Digital Services Act: Backed this legislation aimed at creating a safer digital space, promoting innovation, and protecting consumers, aligning with their focus on the digital economy.",
-                "leg_two_2": "InvestEU Programme: Supported this initiative to boost investment in key areas such as research, innovation, and sustainable infrastructure, reflecting their commitment to fostering innovation and economic growth."
-            },
-            {
-                "id": "fk87gff641",
+                "leg_two_2": "InvestEU Programme: Supported this initiative to boost investment in key areas such as research, innovation, and sustainable infrastructure, reflecting their commitment to fostering innovation and economic growth.",
                 "leg_three_title": "Social Policy",
-                "leg_three_1": "European Pillar of Social Rights: Advocated for the implementation of this initiative to ensure fair working conditions, social protection, and equal opportunities across the EU"
-            },
-            {
-                "id": "jydyjd",
+                "leg_three_1": "European Pillar of Social Rights: Advocated for the implementation of this initiative to ensure fair working conditions, social protection, and equal opportunities across the EU",
                 "leg_four_title": "Environmental Sustainability",
                 "leg_four_1": "European Green Deal: Strongly supported the European Green Deal and related initiatives aimed at reducing carbon emissions, promoting renewable energy, and achieving climate neutrality by 2050.",
-                "leg_four2": "Circular Economy Action Plan: Endorsed this plan to promote sustainable consumption and production, reflecting their commitment to environmental sustainability."
-            },
-            {
-                "id": "moc7j871",
+                "leg_four2": "Circular Economy Action Plan: Endorsed this plan to promote sustainable consumption and production, reflecting their commitment to environmental sustainability.",
                 "leg_five_title": " Human Rights and Rule of Law",
                 "leg_five_1": "LGBTIQ Equality Strategy: Supported measures to promote equality and protect the rights of LGBTIQ individuals.",
                 "leg_five_2": "Rule of Law Mechanism: Advocated for the establishment of this mechanism to ensure compliance with democratic principles and the rule of law within the EU."
@@ -548,15 +443,9 @@
             {
                 "id": "nm671",
                 "con_one_title": "Economic Policy",
-                "con_one_1": "Common Agricultural Policy (CAP): While supporting some aspects of CAP reform to promote sustainability, Renew Europe has faced criticism for backing elements that still subsidise large-scale, intensive farming practices, which can conflict with their emphasis on innovation and green economy."
-            },
-            {
-                "id": "sd1578",
+                "con_one_1": "Common Agricultural Policy (CAP): While supporting some aspects of CAP reform to promote sustainability, Renew Europe has faced criticism for backing elements that still subsidise large-scale, intensive farming practices, which can conflict with their emphasis on innovation and green economy.",
                 "con_two_title": "Social Policy",
-                "con_two_1": "EU Budget Allocation: At times, Renew Europe's support for budget allocations that prioritise economic growth and innovation over direct social spending has been seen as conflicting with their commitment to social inclusiveness and reducing inequalities."
-            },
-            {
-                "id": "aa7403",
+                "con_two_1": "EU Budget Allocation: At times, Renew Europe's support for budget allocations that prioritise economic growth and innovation over direct social spending has been seen as conflicting with their commitment to social inclusiveness and reducing inequalities.",
                 "con_three_title": "Environmental Sustainability",
                 "con_three_1": "Energy Policy: While generally advocating for renewable energy, Renew Europe has occasionally supported transitional measures that include natural gas as a 'bridge fuel,' which some environmentalists argue is inconsistent with the push for a rapid transition to a fully renewable energy system."
             }
