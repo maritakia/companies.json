@@ -51,10 +51,7 @@
                 "leg_three_2": "General Data Protection Regulation (GDPR): Backed this regulation to protect personal data and privacy, reflecting their commitment to digital rights and security.",
                 "leg_four_title": "Environmental Policy",
                 "leg_four_1": "European Climate Law: Supported this law to set binding targets for achieving climate neutrality by 2050, in line with their commitment to combating climate change.",
-                "leg_four2": "Renewable Energy Directive: Advocated for increasing the share of renewable energy in the EU's energy mix, consistent with their environmental sustainability policies."
-            },
-            {
-                "id": "ee7403",
+                "leg_four2": "Renewable Energy Directive: Advocated for increasing the share of renewable energy in the EU's energy mix, consistent with their environmental sustainability policies.",
                 "leg_five_title": "European Integration",
                 "leg_five_1": "Rule of Law Mechanism: Supported the introduction of this mechanism to ensure compliance with EU values and standards, reflecting their commitment to upholding democracy and rule of law.",
                 "leg_five_2": "Multiannual Financial Framework (MFF): Backed the EU's long-term budget framework to fund various EU programs and policies, promoting cohesion and integration."
@@ -250,10 +247,7 @@
                 "leg_three_2": "European Defence Fund: Backed initiatives to promote defence cooperation among EU member states, ensuring robust national defence capabilities.",
                 "leg_four_title": "Immigration",
                 "leg_four_1": "Strengthened Border Controls: Supported legislation to enhance the EU's external border controls and improve the management of migration flows.",
-                "leg_four_2": "Asylum Reform: Advocated for reforms to the EU's asylum system to ensure more efficient processing and fair burden-sharing among member states."
-            },
-            {
-                "id": "obe54r0",
+                "leg_four_2": "Asylum Reform: Advocated for reforms to the EU's asylum system to ensure more efficient processing and fair burden-sharing among member states.",
                 "leg_five_title": "Environmental Policy",
                 "leg_five_1": "Energy Security: Supported policies aimed at diversifying energy sources and reducing dependence on external suppliers, aligning with their pragmatic approach to environmentalism."
             }
