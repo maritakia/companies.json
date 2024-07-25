@@ -7,10 +7,10 @@
                 "main_policies": [
                     {
                         "pol_title_one": "Economic Policy",
-                        "Pol_one_1:": "Economic Stability and Growth: Advocates for policies that promote economic stability, sustainable growth, and job creation across the EU.",
-                        "Pol_one_2": "Single Market and Trade: Supports the deepening of the Single Market and free trade agreements to enhance Europe's competitiveness globally.",
-                        "Pol_one_3": "Fiscal Responsibility: Emphasises the importance of fiscal discipline and reducing public debt to ensure long-term economic stability.",
-                        "Pol_one_4": "Innovation and Digitalization: Promotes investment in innovation, research, and digital infrastructure to drive future growth."
+                        "Pol_one_one:": "Economic Stability and Growth: Advocates for policies that promote economic stability, sustainable growth, and job creation across the EU.",
+                        "Pol_one_two": "Single Market and Trade: Supports the deepening of the Single Market and free trade agreements to enhance Europe's competitiveness globally.",
+                        "Pol_one_three": "Fiscal Responsibility: Emphasises the importance of fiscal discipline and reducing public debt to ensure long-term economic stability.",
+                        "Pol_one_four": "Innovation and Digitalization: Promotes investment in innovation, research, and digital infrastructure to drive future growth."
                     },
                     {
                         "pol_title_two": "Social Policy",
