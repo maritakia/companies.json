@@ -1,8 +1,4 @@
-[
-    {
-        "title": "EU Parties",
-        "id": "y01",
-        "parties": [
+ [
             {
                 "id": "eup01",
                 "title": "(EPP)  European People's Party - Christian Democrats",
@@ -574,5 +570,3 @@
                 "summary": "Renew Europe promotes a centrist, pro-European agenda focused on deeper integration, democratic reforms, economic innovation, social inclusiveness, environmental sustainability, and human rights. They have supported legislation such as the Digital Services Act, European Green Deal, and the Rule of Law Mechanism, aligning with their policies. However, they have faced criticism for backing aspects of the Common Agricultural Policy, certain budget allocations, and transitional energy measures, which at times appear to conflict with their stated goals."
             }
         ]
-    }
-]
