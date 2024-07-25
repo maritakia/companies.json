@@ -1,4 +1,8 @@
- [
+[
+    {
+        "title": "EU Parties",
+        "id": "y01",
+        "parties": [
             {
                 "id": "eup01",
                 "title": "(EPP)  European People's Party - Christian Democrats",
@@ -7,40 +11,40 @@
                 "main_policies": [
                     {
                         "pol_title_one": "Economic Policy",
-                        "Pol_one_one:": "Economic Stability and Growth: Advocates for policies that promote economic stability, sustainable growth, and job creation across the EU.",
-                        "Pol_one_two": "Single Market and Trade: Supports the deepening of the Single Market and free trade agreements to enhance Europe's competitiveness globally.",
-                        "Pol_one_three": "Fiscal Responsibility: Emphasises the importance of fiscal discipline and reducing public debt to ensure long-term economic stability.",
-                        "Pol_one_four": "Innovation and Digitalization: Promotes investment in innovation, research, and digital infrastructure to drive future growth."
+                        "pol_one_1:": "Economic Stability and Growth: Advocates for policies that promote economic stability, sustainable growth, and job creation across the EU.",
+                        "pol_one_2": "Single Market and Trade: Supports the deepening of the Single Market and free trade agreements to enhance Europe's competitiveness globally.",
+                        "pol_one_3": "Fiscal Responsibility: Emphasises the importance of fiscal discipline and reducing public debt to ensure long-term economic stability.",
+                        "pol_one_4": "Innovation and Digitalization: Promotes investment in innovation, research, and digital infrastructure to drive future growth."
                     },
                     {
                         "pol_title_two": "Social Policy",
-                        "Pol_two_1:": "Social Market Economy: Supports a social market economy that balances free market principles with social welfare to ensure fair opportunities and social justice for all.",
-                        "Pol_two_2": "Employment and Education: Focuses on policies that improve employment opportunities, vocational training, and education to enhance skills and employability.",
-                        "Pol_two_3": "Family Support: Advocates for policies that support families, including parental leave, child care, and work-life balance initiatives."
+                        "pol_two_1:": "Social Market Economy: Supports a social market economy that balances free market principles with social welfare to ensure fair opportunities and social justice for all.",
+                        "pol_two_2": "Employment and Education: Focuses on policies that improve employment opportunities, vocational training, and education to enhance skills and employability.",
+                        "pol_two_3": "Family Support: Advocates for policies that support families, including parental leave, child care, and work-life balance initiatives."
                     },
                     {
                         "pol_title_three": "Security and Defense",
-                        "Pol_three_1:": "Common Security and Defense Policy: Supports the development of a common European security and defence policy to protect the EU's interests and enhance its global role.",
-                        "Pol_three_2": "Counter-Terrorism: Advocates for stronger measures to combat terrorism and enhance internal security, including better cooperation between member states.",
-                        "Pol_three_3": "Promotes effective and humane migration policies, including securing external borders, enhancing legal migration pathways, and improving integration measures."
+                        "pol_three_1:": "Common Security and Defense Policy: Supports the development of a common European security and defence policy to protect the EU's interests and enhance its global role.",
+                        "pol_three_2": "Counter-Terrorism: Advocates for stronger measures to combat terrorism and enhance internal security, including better cooperation between member states.",
+                        "pol_three_3": "Promotes effective and humane migration policies, including securing external borders, enhancing legal migration pathways, and improving integration measures."
                     },
                     {
                         "pol_title_four": " Environmental Policy",
-                        "Pol_four_1:": "Climate Action: Supports measures to combat climate change, including the implementation of the Paris Agreement and the European Green Deal.",
-                        "Pol_four_2": "Sustainable Development: Advocates for sustainable development practices that protect the environment while promoting economic growth.",
-                        "Pol_four_3": "Energy Transition: Supports the transition to renewable energy sources and the reduction of carbon emissions to achieve climate neutrality by 2050."
+                        "pol_four_1:": "Climate Action: Supports measures to combat climate change, including the implementation of the Paris Agreement and the European Green Deal.",
+                        "pol_four_2": "Sustainable Development: Advocates for sustainable development practices that protect the environment while promoting economic growth.",
+                        "pol_four_3": "Energy Transition: Supports the transition to renewable energy sources and the reduction of carbon emissions to achieve climate neutrality by 2050."
                     },
                     {
                         "pol_title_five": "European Integration",
-                        "Pol_five_1:": "EU Unity and Integration: Strongly supports further European integration and unity, promoting policies that strengthen the EU's political and economic cohesion.",
-                        "Pol_five_2": "Rule of Law: Emphasises the importance of upholding the rule of law, democracy, and human rights within the EU and its member states.",
-                        "Pol_five_3": "EU Enlargement: Supports the enlargement of the EU to include Western Balkan countries and other eligible nations, based on adherence to EU standards and values"
+                        "pol_five_1:": "EU Unity and Integration: Strongly supports further European integration and unity, promoting policies that strengthen the EU's political and economic cohesion.",
+                        "pol_five_2": "Rule of Law: Emphasises the importance of upholding the rule of law, democracy, and human rights within the EU and its member states.",
+                        "pol_five_3": "EU Enlargement: Supports the enlargement of the EU to include Western Balkan countries and other eligible nations, based on adherence to EU standards and values"
                     },
                     {
                         "pol_title_six": "Foreign Policy",
-                        "Pol_six_1": "Global Leadership: Promotes a strong and united EU on the global stage, advocating for a common foreign policy that addresses global challenges such as security, trade, and human rights.",
-                        "Pol_six_2": "Transatlantic Relations: Values strong transatlantic relations, particularly with the United States, as essential for global stability and security.",
-                        "Pol_six_3": "Development Aid: Supports increasing development aid to promote global development, reduce poverty, and address root causes of migration."
+                        "pol_six_1": "Global Leadership: Promotes a strong and united EU on the global stage, advocating for a common foreign policy that addresses global challenges such as security, trade, and human rights.",
+                        "pol_six_2": "Transatlantic Relations: Values strong transatlantic relations, particularly with the United States, as essential for global stability and security.",
+                        "pol_six_3": "Development Aid: Supports increasing development aid to promote global development, reduce poverty, and address root causes of migration."
                     }
                 ],
                 "support_title": "Legislation supported which Conflicted with EPP Policies",
@@ -101,30 +105,30 @@
                 "main_policies": [
                     {
                         "pol_title_one": "Social Justice and Equality",
-                        "Pol_one_1:": "Welfare State: Advocates for strong social protection systems, including universal healthcare, education, and social security.",
-                        "Pol_one_2": "Workers' Rights: Promotes fair wages, decent working conditions, and strong labour rights",
-                        "Pol_one_3": "Gender Equality: Champions gender equality and the empowerment of women in all areas of society."
+                        "pol_one_1:": "Welfare State: Advocates for strong social protection systems, including universal healthcare, education, and social security.",
+                        "pol_one_2": "Workers' Rights: Promotes fair wages, decent working conditions, and strong labour rights",
+                        "pol_one_3": "Gender Equality: Champions gender equality and the empowerment of women in all areas of society."
                     },
                     {
                         "pol_title_two": "Economic Policy",
-                        "Pol_two_1": "Progressive Taxation: Supports progressive taxation policies to reduce inequality and fund public services.",
-                        "Pol_two_2": "Investment in Public Services: Advocates for increased public investment in services like healthcare, education, and infrastructure.",
-                        "Pol_two_3": "Fair Trade: Promotes fair trade practices and social standards in international trade agreements."
+                        "pol_two_1": "Progressive Taxation: Supports progressive taxation policies to reduce inequality and fund public services.",
+                        "pol_two_2": "Investment in Public Services: Advocates for increased public investment in services like healthcare, education, and infrastructure.",
+                        "pol_two_3": "Fair Trade: Promotes fair trade practices and social standards in international trade agreements."
                     },
                     {
                         "pol_title_three": "Environmental Sustainability",
-                        "Pol_three_1:": "Climate Action: Supports ambitious policies to combat climate change and promote renewable energy.",
-                        "Pol_three_2": "Sustainable Development: Advocates for sustainable economic growth that protects the environment and biodiversity."
+                        "pol_three_1:": "Climate Action: Supports ambitious policies to combat climate change and promote renewable energy.",
+                        "pol_three_2": "Sustainable Development: Advocates for sustainable economic growth that protects the environment and biodiversity."
                     },
                     {
                         "pol_title_four": "Human Rights and Democracy",
-                        "Pol_four_1:": "Human Rights: Strongly defends human rights, including LGBTQ+ rights, minority rights, and migrant rights.",
-                        "Pol_four_2": "Democratic Governance: Promotes transparency, accountability, and citizen participation in EU governance."
+                        "pol_four_1:": "Human Rights: Strongly defends human rights, including LGBTQ+ rights, minority rights, and migrant rights.",
+                        "pol_four_2": "Democratic Governance: Promotes transparency, accountability, and citizen participation in EU governance."
                     },
                     {
                         "pol_title_five": "European Integration",
-                        "Pol_five_1:": "Deeper Integration: Supports deeper European integration and the strengthening of EU institutions.",
-                        "Pol_five_2": "Solidarity among Member States: Advocates for solidarity and cooperation among EU member states, particularly in areas like asylum policy and economic support."
+                        "pol_five_1:": "Deeper Integration: Supports deeper European integration and the strengthening of EU institutions.",
+                        "pol_five_2": "Solidarity among Member States: Advocates for solidarity and cooperation among EU member states, particularly in areas like asylum policy and economic support."
                     }
                 ],
                 "support_title": "Legislation Supporting EPP Policies",
@@ -179,38 +183,38 @@
                 "main_policies": [
                     {
                         "pol_title_one": " Climate Action and Environmental Sustainability",
-                        "Pol_one_1:": "Green New Deal: Advocates for a comprehensive strategy to combat climate change, reduce greenhouse gas emissions, and transition to a sustainable economy.",
-                        "Pol_one_2": "Renewable Energy: Supports the rapid expansion of renewable energy sources such as wind, solar, and hydroelectric power",
-                        "Pol_one_3": "Biodiversity Protection: Promotes the conservation of biodiversity and the protection of natural habitats.",
-                        "Pol_one_4": "Circular Economy: Encourages a shift towards a circular economy where resources are reused, recycled, and minimised in terms of waste."
+                        "pol_one_1:": "Green New Deal: Advocates for a comprehensive strategy to combat climate change, reduce greenhouse gas emissions, and transition to a sustainable economy.",
+                        "pol_one_2": "Renewable Energy: Supports the rapid expansion of renewable energy sources such as wind, solar, and hydroelectric power",
+                        "pol_one_3": "Biodiversity Protection: Promotes the conservation of biodiversity and the protection of natural habitats.",
+                        "pol_one_4": "Circular Economy: Encourages a shift towards a circular economy where resources are reused, recycled, and minimised in terms of waste."
                     },
                     {
                         "pol_title_two": "Social Justice and Equality",
-                        "Pol_two_1:": "Social Inclusion: Focuses on reducing inequality and promoting social inclusion for all, including marginalised communities.",
-                        "Pol_two_2": "Gender Equality: Advocates for equal rights and opportunities for all genders, including equal pay and representation.",
-                        "Pol_two_3": "Workers’ Rights: Supports strong labour rights, fair wages, and decent working conditions."
+                        "pol_two_1:": "Social Inclusion: Focuses on reducing inequality and promoting social inclusion for all, including marginalised communities.",
+                        "pol_two_2": "Gender Equality: Advocates for equal rights and opportunities for all genders, including equal pay and representation.",
+                        "pol_two_3": "Workers’ Rights: Supports strong labour rights, fair wages, and decent working conditions."
                     },
                     {
                         "pol_title_three": "Human Rights and Democracy",
-                        "Pol_three_1:": "Human Rights: Defends human rights and civil liberties both within Europe and globally.",
-                        "Pol_three_2": "Democracy and Transparency: Promotes greater transparency, accountability, and citizen participation in political processes.",
-                        "Pol_three_3": "Digital Rights: Advocates for digital privacy, net neutrality, and the protection of online freedoms."
+                        "pol_three_1:": "Human Rights: Defends human rights and civil liberties both within Europe and globally.",
+                        "pol_three_2": "Democracy and Transparency: Promotes greater transparency, accountability, and citizen participation in political processes.",
+                        "pol_three_3": "Digital Rights: Advocates for digital privacy, net neutrality, and the protection of online freedoms."
                     },
                     {
                         "pol_title_four": "Economic Sustainability",
-                        "Pol_four_1:": "Fair Economy: Supports policies that promote economic fairness, such as progressive taxation and the reduction of economic inequality.",
-                        "Pol_four_2": "Sustainable Development: Encourages sustainable development practices that balance economic growth with environmental protection",
-                        "Pol_four_3": "Support for SMEs: Emphasises the importance of supporting small and medium-sized enterprises (SMEs) as a backbone of the economy."
+                        "pol_four_1:": "Fair Economy: Supports policies that promote economic fairness, such as progressive taxation and the reduction of economic inequality.",
+                        "pol_four_2": "Sustainable Development: Encourages sustainable development practices that balance economic growth with environmental protection",
+                        "pol_four_3": "Support for SMEs: Emphasises the importance of supporting small and medium-sized enterprises (SMEs) as a backbone of the economy."
                     },
                     {
                         "pol_title_five": "Regional Autonomy and Decentralization",
-                        "Pol_five_1:": "Regional Rights: Supports the right of regions and stateless nations to greater autonomy and self-governance.",
-                        "Pol_five_2": "Decentralisation: Advocates for the decentralisation of political power and resources to regional and local governments."
+                        "pol_five_1:": "Regional Rights: Supports the right of regions and stateless nations to greater autonomy and self-governance.",
+                        "pol_five_2": "Decentralisation: Advocates for the decentralisation of political power and resources to regional and local governments."
                     },
                     {
                         "pol_title_six": "Migration and Asylum",
-                        "Pol_six_1": "Humanitarian Approach: Promotes a humane and compassionate approach to migration and asylum policies.",
-                        "Pol_six_2": "Integration Policies: Supports the integration of migrants and refugees into society, ensuring they have access to rights and opportunities."
+                        "pol_six_1": "Humanitarian Approach: Promotes a humane and compassionate approach to migration and asylum policies.",
+                        "pol_six_2": "Integration Policies: Supports the integration of migrants and refugees into society, ensuring they have access to rights and opportunities."
                     }
                 ],
                 "support_title": "Legislation Supporting Greens/EFA Policies",
@@ -263,38 +267,38 @@
                 "main_policies": [
                     {
                         "pol_title_one": "Sovereignty and Decentralization",
-                        "Pol_one_1:": "National Sovereignty: Advocates for the return of powers from the EU to member states, emphasising national sovereignty and democratic accountability.",
-                        "Pol_one_2": "Subsidiarity: Supports the principle of subsidiarity, ensuring that decisions are made as closely as possible to the citizens they affect."
+                        "pol_one_1:": "National Sovereignty: Advocates for the return of powers from the EU to member states, emphasising national sovereignty and democratic accountability.",
+                        "pol_one_2": "Subsidiarity: Supports the principle of subsidiarity, ensuring that decisions are made as closely as possible to the citizens they affect."
                     },
                     {
                         "pol_title_two": "Economic Policy",
-                        "Pol_two_1:": "Economic Liberalism: Promotes free market policies, deregulation, and entrepreneurship to drive economic growth and competitiveness",
-                        "Pol_two_2": "Fiscal Responsibility: Emphasises the importance of balanced budgets, reduced public debt, and fiscal responsibility."
+                        "pol_two_1:": "Economic Liberalism: Promotes free market policies, deregulation, and entrepreneurship to drive economic growth and competitiveness",
+                        "pol_two_2": "Fiscal Responsibility: Emphasises the importance of balanced budgets, reduced public debt, and fiscal responsibility."
                     },
                     {
                         "pol_title_three": "Social Policy",
-                        "Pol_three_1:": "Social Conservatism: Upholds traditional values and supports policies that strengthen the family unit and social cohesion.",
-                        "Pol_three_2": "Welfare Reform: Advocates for efficient and sustainable welfare systems that incentivize work and reduce dependency."
+                        "pol_three_1:": "Social Conservatism: Upholds traditional values and supports policies that strengthen the family unit and social cohesion.",
+                        "pol_three_2": "Welfare Reform: Advocates for efficient and sustainable welfare systems that incentivize work and reduce dependency."
                     },
                     {
                         "pol_title_four": "Security and Defense",
-                        "Pol_four_1:": "Strong Defence: Supports robust national defence capabilities and cooperation among member states to enhance security.",
-                        "Pol_four_2": "Counter-Terrorism: Prioritises strong measures to combat terrorism and ensure public safety."
+                        "pol_four_1:": "Strong Defence: Supports robust national defence capabilities and cooperation among member states to enhance security.",
+                        "pol_four_2": "Counter-Terrorism: Prioritises strong measures to combat terrorism and ensure public safety."
                     },
                     {
                         "pol_title_five": "Immigration",
-                        "Pol_five_1:": " Controlled Immigration: Advocates for stricter immigration controls and policies that ensure effective management of migration flows.",
-                        "Pol_five_2": " Integration: Supports policies that promote the integration of migrants into host societies, emphasising the importance of cultural assimilation."
+                        "pol_five_1:": " Controlled Immigration: Advocates for stricter immigration controls and policies that ensure effective management of migration flows.",
+                        "pol_five_2": " Integration: Supports policies that promote the integration of migrants into host societies, emphasising the importance of cultural assimilation."
                     },
                     {
                         "pol_title_six": "Environmental Policy",
-                        "Pol_six_1": "Pragmatic Environmentalism: Supports environmental protection measures that balance economic growth and sustainability.",
-                        "Pol_six_2": "Energy Security: Promotes energy policies that ensure security of supply and reduce dependence on external sources"
+                        "pol_six_1": "Pragmatic Environmentalism: Supports environmental protection measures that balance economic growth and sustainability.",
+                        "pol_six_2": "Energy Security: Promotes energy policies that ensure security of supply and reduce dependence on external sources"
                     },
                     {
                         "pol_title_seven": "EU Reform",
-                        "Pol_seven_1": "Reform of the EU: Calls for significant reforms to the EU to make it more transparent, accountable, and responsive to the needs of its citizens.",
-                        "Pol_seven_2": "Opposition to Federalism: Opposes moves towards a federal EU, advocating instead for a Europe of sovereign nations."
+                        "pol_seven_1": "Reform of the EU: Calls for significant reforms to the EU to make it more transparent, accountable, and responsive to the needs of its citizens.",
+                        "pol_seven_2": "Opposition to Federalism: Opposes moves towards a federal EU, advocating instead for a Europe of sovereign nations."
                     }
                 ],
                 "support_title": "Legislation Supporting ECR Policies",
@@ -348,32 +352,32 @@
                 "main_policies": [
                     {
                         "pol_title_one": "National Sovereignty and Euroscepticism",
-                        "Pol_one_1:": "National Sovereignty: Advocates for the primacy of national sovereignty over EU integration, opposing the transfer of powers to the EU.",
-                        "Pol_one_2": "Euroscepticism: Strongly opposes deeper EU integration and promotes the idea of a Europe of sovereign nations rather than a federal Europe."
+                        "pol_one_1:": "National Sovereignty: Advocates for the primacy of national sovereignty over EU integration, opposing the transfer of powers to the EU.",
+                        "pol_one_2": "Euroscepticism: Strongly opposes deeper EU integration and promotes the idea of a Europe of sovereign nations rather than a federal Europe."
                     },
                     {
                         "pol_title_two": "Immigration and Asylum",
-                        "Pol_two_1:": "Restrictive Immigration Policies: Supports stringent immigration controls and measures to significantly reduce immigration into Europe.",
-                        "Pol_two_2": "Asylum Policies: Advocates for stricter asylum policies, emphasising the need for rapid processing and return of those not eligible for asylum."
+                        "pol_two_1:": "Restrictive Immigration Policies: Supports stringent immigration controls and measures to significantly reduce immigration into Europe.",
+                        "pol_two_2": "Asylum Policies: Advocates for stricter asylum policies, emphasising the need for rapid processing and return of those not eligible for asylum."
                     },
                     {
                         "pol_title_three": "Economic Policy",
-                        "Pol_three_1:": "Economic Protectionism: Promotes protectionist economic policies to safeguard national industries and jobs.",
-                        "Pol_three_2": " Opposition to EU Budget Increases: Opposes increases in the EU budget and calls for reducing the financial contributions of member states."
+                        "pol_three_1:": "Economic Protectionism: Promotes protectionist economic policies to safeguard national industries and jobs.",
+                        "pol_three_2": " Opposition to EU Budget Increases: Opposes increases in the EU budget and calls for reducing the financial contributions of member states."
                     },
                     {
                         "pol_title_four": "Security and Defense",
-                        "Pol_four_1:": "Strong Border Controls: Advocates for strong external border controls to protect Europe from illegal immigration and security threats.",
-                        "Pol_four_2": "National Defence: Emphasises the importance of national defence and sovereignty, opposing the creation of an EU army."
+                        "pol_four_1:": "Strong Border Controls: Advocates for strong external border controls to protect Europe from illegal immigration and security threats.",
+                        "pol_four_2": "National Defence: Emphasises the importance of national defence and sovereignty, opposing the creation of an EU army."
                     },
                     {
                         "pol_title_five": "Cultural and Social Policies",
-                        "Pol_five_1:": "Cultural Preservation: Supports policies that preserve national identities, cultures, and traditions.",
-                        "Pol_five_2": " Social Conservatism: Upholds traditional values and opposes progressive social policies such as those promoting gender equality and LGBTQ+ rights"
+                        "pol_five_1:": "Cultural Preservation: Supports policies that preserve national identities, cultures, and traditions.",
+                        "pol_five_2": " Social Conservatism: Upholds traditional values and opposes progressive social policies such as those promoting gender equality and LGBTQ+ rights"
                     },
                     {
                         "pol_title_six": "EU Reform",
-                        "Pol_six_1": " Reduction of EU Powers: Calls for significant reforms to reduce the powers of EU institutions and increase the influence of national parliaments.,"
+                        "pol_six_1": " Reduction of EU Powers: Calls for significant reforms to reduce the powers of EU institutions and increase the influence of national parliaments.,"
                     }
                 ],
                 "support_title": "Legislation Supporting ID Policies",
@@ -425,33 +429,33 @@
                 "main_policies": [
                     {
                         "pol_title_one": "Social Justice and Equality",
-                        "Pol_one_1:": "Welfare State: Advocates for strong welfare state systems, including universal healthcare, free education, and comprehensive social security",
-                        "Pol_one_2": "Workers' Rights: Supports robust labour rights, including fair wages, safe working conditions, and strong trade unions.",
-                        "Pol_one_3": "Anti-Poverty Measures: Promotes policies aimed at reducing poverty and income inequality through progressive taxation and social benefits."
+                        "pol_one_1:": "Welfare State: Advocates for strong welfare state systems, including universal healthcare, free education, and comprehensive social security",
+                        "pol_one_2": "Workers' Rights: Supports robust labour rights, including fair wages, safe working conditions, and strong trade unions.",
+                        "pol_one_3": "Anti-Poverty Measures: Promotes policies aimed at reducing poverty and income inequality through progressive taxation and social benefits."
                     },
                     {
                         "pol_title_two": "Economic Policy",
-                        "Pol_two_1:": "Anti-Austerity: Opposes austerity measures and promotes public investment in social and economic infrastructure.",
-                        "Pol_two_2": "Progressive Taxation: Supports progressive taxation policies to redistribute wealth and fund public services.",
-                        "Pol_two_3": "Public Ownership: Advocates for public ownership of key industries and services, such as utilities, transport, and healthcare."
+                        "pol_two_1:": "Anti-Austerity: Opposes austerity measures and promotes public investment in social and economic infrastructure.",
+                        "pol_two_2": "Progressive Taxation: Supports progressive taxation policies to redistribute wealth and fund public services.",
+                        "pol_two_3": "Public Ownership: Advocates for public ownership of key industries and services, such as utilities, transport, and healthcare."
                     },
                     {
                         "pol_title_three": "Environmental Sustainability",
-                        "Pol_three_1:": "Climate Action: Strongly supports measures to combat climate change, including ambitious carbon reduction targets and transitioning to renewable energy",
-                        "Pol_three_2": "Green New Deal: Promotes a Green New Deal to create jobs and ensure a just transition to a sustainable economy.",
-                        "Pol_three_3": "Environmental Justice: Emphasises the need to address the disproportionate impact of environmental degradation on marginalised communities."
+                        "pol_three_1:": "Climate Action: Strongly supports measures to combat climate change, including ambitious carbon reduction targets and transitioning to renewable energy",
+                        "pol_three_2": "Green New Deal: Promotes a Green New Deal to create jobs and ensure a just transition to a sustainable economy.",
+                        "pol_three_3": "Environmental Justice: Emphasises the need to address the disproportionate impact of environmental degradation on marginalised communities."
                     },
                     {
                         "pol_title_four": "Human Rights and Democracy",
-                        "Pol_four_1:": "Human Rights: Champions human rights, including gender equality, LGBTQ+ rights, and the rights of minorities and refugees.",
-                        "Pol_four_2": "Democratic Participation: Promotes greater democratic participation and transparency in decision-making processes at all levels.",
-                        "Pol_four_3": "Anti-Discrimination: Fights against all forms of discrimination and xenophobia."
+                        "pol_four_1:": "Human Rights: Champions human rights, including gender equality, LGBTQ+ rights, and the rights of minorities and refugees.",
+                        "pol_four_2": "Democratic Participation: Promotes greater democratic participation and transparency in decision-making processes at all levels.",
+                        "pol_four_3": "Anti-Discrimination: Fights against all forms of discrimination and xenophobia."
                     },
                     {
                         "pol_title_five": "Peace and International Solidarity",
-                        "Pol_five_1:": "Anti-Militarism: Opposes militarization and promotes peaceful conflict  resolution.,",
-                        "Pol_five_2": "Global Justice: Supports international solidarity and cooperation to address global inequalities and injustices.",
-                        "Pol_five_3": " Humanitarian Aid: Advocates for increased humanitarian aid and development assistance to support vulnerable populations globally."
+                        "pol_five_1:": "Anti-Militarism: Opposes militarization and promotes peaceful conflict  resolution.,",
+                        "pol_five_2": "Global Justice: Supports international solidarity and cooperation to address global inequalities and injustices.",
+                        "pol_five_3": " Humanitarian Aid: Advocates for increased humanitarian aid and development assistance to support vulnerable populations globally."
                     }
                 ],
                 "support_title": "Legislation Supported by The Left that Aligns with Their Policies",
@@ -502,28 +506,28 @@
                 "main_policies": [
                     {
                         "pol_title_one": "European Integration and Democracy",
-                        "Pol_one_1:": "Pro-European Integration: Advocates for deeper European integration and a more federal EU.",
-                        "Pol_one_2": "Democratic Reforms: Promotes greater transparency, accountability, and citizen participation in EU institutions."
+                        "pol_one_1:": "Pro-European Integration: Advocates for deeper European integration and a more federal EU.",
+                        "pol_one_2": "Democratic Reforms: Promotes greater transparency, accountability, and citizen participation in EU institutions."
                     },
                     {
                         "pol_title_two": "Economic Policy",
-                        "Pol_two_1:": "nnovation and Digital Economy: Supports policies that foster innovation, digital transformation, and entrepreneurship.",
-                        "Pol_two_2": "Single Market: Advocates for the completion and deepening of the EU Single Market, ensuring free movement of goods, services, capital, and people."
+                        "pol_two_1:": "nnovation and Digital Economy: Supports policies that foster innovation, digital transformation, and entrepreneurship.",
+                        "pol_two_2": "Single Market: Advocates for the completion and deepening of the EU Single Market, ensuring free movement of goods, services, capital, and people."
                     },
                     {
                         "pol_title_three": "Social Policy",
-                        "Pol_three_1:": "Social Inclusiveness: Promotes policies that reduce social inequalities and ensure equal opportunities for all citizens.",
-                        "Pol_three_2": "Education and Skills: Supports investment in education, skills development, and lifelong learning to prepare citizens for the future labour market."
+                        "pol_three_1:": "Social Inclusiveness: Promotes policies that reduce social inequalities and ensure equal opportunities for all citizens.",
+                        "pol_three_2": "Education and Skills: Supports investment in education, skills development, and lifelong learning to prepare citizens for the future labour market."
                     },
                     {
                         "pol_title_four": "Environmental Sustainability",
-                        "Pol_four_1:": "Climate Action: Strongly supports measures to combat climate change and promote sustainable development.",
-                        "Pol_four_2": "Green Economy: Advocates for a transition to a green economy, emphasising renewable energy, energy efficiency, and sustainable practices."
+                        "pol_four_1:": "Climate Action: Strongly supports measures to combat climate change and promote sustainable development.",
+                        "pol_four_2": "Green Economy: Advocates for a transition to a green economy, emphasising renewable energy, energy efficiency, and sustainable practices."
                     },
                     {
                         "pol_title_five": "Human Rights and Rule of Law",
-                        "Pol_five_1:": "Human Rights: Champions human rights, gender equality, and the rights of minorities and marginalised groups.",
-                        "Pol_five_2": "Rule of Law: Promotes the rule of law and opposes any attempts to undermine democratic principles and judicial independence."
+                        "pol_five_1:": "Human Rights: Champions human rights, gender equality, and the rights of minorities and marginalised groups.",
+                        "pol_five_2": "Rule of Law: Promotes the rule of law and opposes any attempts to undermine democratic principles and judicial independence."
                     }
                 ],
                 "support_title": "Legislation Supported by Remew that Aligns with Their Policies",
@@ -570,4 +574,5 @@
                 "summary": "Renew Europe promotes a centrist, pro-European agenda focused on deeper integration, democratic reforms, economic innovation, social inclusiveness, environmental sustainability, and human rights. They have supported legislation such as the Digital Services Act, European Green Deal, and the Rule of Law Mechanism, aligning with their policies. However, they have faced criticism for backing aspects of the Common Agricultural Policy, certain budget allocations, and transitional energy measures, which at times appear to conflict with their stated goals."
             }
         ]
-
+    }
+]
