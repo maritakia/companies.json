@@ -4,7 +4,7 @@
         "title": "(EPP)  European People's Party - Christian Democrats",
         "description": "The European People's Party (EPP) is the largest political group in the European Parliament. It brings together centre-right, Christian democratic, conservative, and liberal-conservative political parties from across Europe. The EPP is committed to a united, prosperous, and secure Europe based on the principles of democracy, rule of law, and social market economy.",
         "policies_title": "Main EPP policies",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "hh9my8d19a",
                 "pol_title_one": "Economic Policy",
@@ -32,10 +32,10 @@
                 "pol_six_1": "Global Leadership: Promotes a strong and united EU on the global stage, advocating for a common foreign policy that addresses global challenges such as security, trade, and human rights.",
                 "pol_six_2": "Transatlantic Relations: Values strong transatlantic relations, particularly with the United States, as essential for global stability and security.",
                 "pol_six_3": "Development Aid: Supports increasing development aid to promote global development, reduce poverty, and address root causes of migration."
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation which Conflicted with EPP Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "mngkmjm681",
                 "leg_one_title": "Economic Policy",
@@ -55,10 +55,10 @@
                 "leg_five_title": "European Integration",
                 "leg_five_1": "Rule of Law Mechanism: Supported the introduction of this mechanism to ensure compliance with EU values and standards, reflecting their commitment to upholding democracy and rule of law.",
                 "leg_five_2": "Multiannual Financial Framework (MFF): Backed the EU's long-term budget framework to fund various EU programs and policies, promoting cohesion and integration."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with EPP Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "sdntyjx7687",
                 "con_one_title": "Migration and Asylumy",
@@ -70,8 +70,8 @@
                 "con_three_title": "Environmental Policy",
                 "con_three_1": "Subsidies: The EPP's support for maintaining significant agricultural subsidies under the Common Agricultural Policy (CAP) has been criticized for promoting practices that are not always environmentally sustainable, potentially conflicting with their environmental policies.",
                 "con_three_2": "tristique hendrerit consequat sit amet,."
-            }
-        ],
+            },
+        
         "summary_title": "Summary",
         "summary": "The EPP has consistently supported legislation that promotes economic growth, social welfare, security, environmental sustainability, and European integration. Key supportive legislations include the Next Generation EU Recovery Fund, European Defence Fund, European Climate Law, and Rule of Law Mechanism. However, their support for certain policies, such as aspects of the Dublin Regulation, austerity measures during the Eurozone crisis, and agricultural subsidies, has sometimes been viewed as conflicting with their broader commitments to humane migration management, social welfare, and environmental sustainability. These instances highlight the complexities and trade-offs inherent in political decision-making and the need for balancing various interests and priorities."
     },
@@ -80,7 +80,7 @@
         "title": "S&D - Group of the Progressive Alliance of Socialists and Democrats in the European Parliament ",
         "description": "The Group of the Progressive Alliance of Socialists and Democrats (S&D) in the European Parliament represents centre-left and social-democratic parties from across the European Union. The S&D group is committed to promoting social justice, equality, sustainable development, and democracy within the EU.",
         "policies_title": "Main S&D Policies",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "gkdkt871",
                 "pol_title_one": "Social Justice and Equality",
@@ -100,10 +100,10 @@
                 "pol_title_five": "European Integration",
                 "pol_five_1": "Deeper Integration: Supports deeper European integration and the strengthening of EU institutions.",
                 "pol_five_2": "Solidarity among Member States: Advocates for solidarity and cooperation among EU member states, particularly in areas like asylum policy and economic support."
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation which aligned with EPP Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "csb87yfk987",
                 "leg_one_title": "Social Justice and Equality",
@@ -120,10 +120,10 @@
                 "leg_four2": "Anti-Discrimination Legislation: Promoted various pieces of legislation aimed at combating discrimination and protecting the rights of minorities and marginalised groups.",
                 "leg_five_title": " European Integration",
                 "leg_five_1": " Recovery and Resilience Facility: Supported this key component of the EU's COVID-19 recovery plan, emphasising solidarity and economic support among member states."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with EPP Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "oscc8kyuf71",
                 "con_one_title": "Economic Policy",
@@ -132,8 +132,8 @@
                 "con_two_1": "Energy Policy: At times, S&D has supported transitional energy measures that include the use of natural gas as a bridge fuel. This stance has been seen as inconsistent with their strong commitment to rapid and ambitious climate action.",
                 "con_three_title": "Trade Agreements",
                 "con_three_1": "Comprehensive Economic and Trade Agreement (CETA): Some S&D members supported CETA, the trade agreement between the EU and Canada, despite concerns that it might undermine labour rights and environmental standards, which are central to the group's policies."
-            }
-        ],
+            },
+        
         "summary_title": "Summary",
         "summary": "The S&D group in the European Parliament is a centre-left political force that promotes social justice, economic equality, sustainable development, and deeper European integration. They have supported legislation like the European Green Deal, European Pillar of Social Rights, and Rule of Law Mechanism, which align with their core policies. However, they have also faced criticism for supporting elements of the Common Agricultural Policy, transitional energy policies, and certain trade agreements that may conflict with their broader goals of social and environmental justice."
     },
@@ -142,7 +142,7 @@
         "title": "Greens/EFA - Group of the Greens/European Free Alliance",
         "description": "Greens/EFA is a political group of the European Parliament composed primarily of green and regionalist political parties.",
         "policies_title": "Main Greens/EFA Policies",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "mc8cjts6851",
                 "pol_title_one": " Climate Action and Environmental Sustainability",
@@ -168,10 +168,10 @@
                 "pol_title_six": "Migration and Asylum",
                 "pol_six_1": "Humanitarian Approach: Promotes a humane and compassionate approach to migration and asylum policies.",
                 "pol_six_2": "Integration Policies: Supports the integration of migrants and refugees into society, ensuring they have access to rights and opportunities."
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation which aligned with Greens/EFA Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "ocgcgjr8741",
                 "leg_one_title": "Climate Action",
@@ -186,10 +186,10 @@
                 "leg_four_title": "Economic Policies",
                 "leg_four_1": "Tax Justice: Called for measures to combat tax evasion and avoidance, including a minimum corporate tax rate.",
                 "leg_four2": "Green Investment: Advocated for increased EU investment in green technologies and sustainable infrastructure."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with Greens/EFA Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "ocghsje6016",
                 "con_one_title": "Economic Policy",
@@ -200,7 +200,7 @@
                 "con_three_1": "Security Cooperation: While opposing militarization, The Left has occasionally supported EU initiatives on security cooperation that critics argue could contribute to increased military spending.",
                 "con_three_2": "Military Aid: The group has backed European Parliament resolutions that call for comprehensive support for Ukraine, which includes military assistance alongside humanitarian aid, financial support, and sanctions against Russia."
             }
-        ],
+        
         "summary_title": "Summary",
         "summary": "The Greens/EFA group in the European Parliament champions a broad array of progressive policies focusing on environmental sustainability, social justice, human rights, and regional autonomy. Their agenda includes ambitious climate action, promotion of renewable energy, protection of biodiversity, and support for a circular economy. They also emphasise social inclusion, gender equality, workers' rights, and digital privacy. Economically, they advocate for a fair economy, sustainable development, and support for SMEs. They also support regional rights and decentralisation, a humane approach to migration, and robust integration policies."
     },
@@ -209,7 +209,7 @@
         "title": "ECR - European Conservatives and Reformists Group",
         "description": "The European Conservatives and Reformists (ECR) Group is a centre-right political group in the European Parliament. Formed in 2009, the ECR aims to promote a reformed and decentralised European Union that respects the sovereignty of its member states. The group is characterised by its commitment to conservative values, economic liberalism, and scepticism of deeper EU integration.",
         "policies_title": "Main ECR Policies",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "gg58mhmytj471",
                 "pol_title_one": "Sovereignty and Decentralization",
@@ -233,10 +233,10 @@
                 "pol_title_seven": "EU Reform",
                 "pol_seven_1": "Reform of the EU: Calls for significant reforms to the EU to make it more transparent, accountable, and responsive to the needs of its citizens.",
                 "pol_seven_2": "Opposition to Federalism: Opposes moves towards a federal EU, advocating instead for a Europe of sovereign nations."
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation which aligned with ECR Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "orlrhg4xru61",
                 "leg_one_title": "Sovereignty and Decentralization",
@@ -252,10 +252,10 @@
                 "leg_four_2": "Asylum Reform: Advocated for reforms to the EU's asylum system to ensure more efficient processing and fair burden-sharing among member states.",
                 "leg_five_title": "Environmental Policy",
                 "leg_five_1": "Energy Security: Supported policies aimed at diversifying energy sources and reducing dependence on external suppliers, aligning with their pragmatic approach to environmentalism."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with ECR Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "ed64kuyf09",
                 "con_one_title": "Economic Policy",
@@ -264,8 +264,8 @@
                 "con_two_1": " Stringent Environmental Regulations: In some instances, the ECR has supported environmental regulations that some of their more economically liberal members perceive as burdensome and restrictive to business growth.",
                 "con_three_title": "EU Integration",
                 "con_three_1": "European Defence Initiatives: While generally supportive of defence cooperation, the ECR has occasionally backed initiatives perceived as steps towards deeper EU integration in the defence sector, which can be seen as conflicting with their opposition to federalism."
-            }
-        ],
+            },
+        
         "summary_title": "Summary",
         "summary": "The ECR Group in the European Parliament promotes a centre-right, conservative agenda focused on national sovereignty, economic liberalism, and pragmatic environmentalism. Their main policies include advocating for a reformed and decentralised EU, promoting free market economics, supporting strong national defence, and ensuring controlled immigration. They have supported legislation that aligns with these policies, such as measures to enhance subsidiarity, support SMEs, strengthen border controls, and promote energy security. However, the ECR has also occasionally supported legislation perceived as conflicting with their principles, such as EU budget increases and certain environmental regulations, reflecting the complexities of political decision-making and coalition-building within the European Parliament."
     },
@@ -274,7 +274,7 @@
         "title": "The Identity and Democracy (ID) Group",
         "description": "The Identity and Democracy (ID) Group is a right-wing to far-right political group in the European Parliament. Established in 2019, it brings together nationalist, populist, and Eurosceptic parties from various European countries. The ID Group is known for its strong stance on national sovereignty, opposition to EU federalism, and restrictive immigration policies.",
         "policies_title": "Main ID Policies",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "mjk56ar819",
                 "pol_title_one": "National Sovereignty and Euroscepticism",
@@ -294,10 +294,10 @@
                 "pol_five_2": " Social Conservatism: Upholds traditional values and opposes progressive social policies such as those promoting gender equality and LGBTQ+ rights",
                 "pol_title_six": "EU Reform",
                 "pol_six_1": " Reduction of EU Powers: Calls for significant reforms to reduce the powers of EU institutions and increase the influence of national parliaments.,"
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation which aligned with ID Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "sbbdb5a478",
                 "leg_one_title": "National Sovereignty and Euroscepticism",
@@ -315,18 +315,18 @@
                 "leg_five_title": "Cultural and Social Policies",
                 "leg_five_1": "Cultural Preservation: Supports measures that promote and protect national cultures and traditions, opposing multiculturalism policies.",
                 "leg_five_2": "Traditional Values: Backs legislation that upholds traditional family values and opposes progressive social policies."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with ID Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "mghzp5756",
                 "con_one_title": "Economic Policy",
                 "con_one_1": " Support for Agricultural Subsidies: At times, the ID Group has supported EU agricultural subsidies, which can be seen as conflicting with their stance on reducing the EU budget and promoting national economic independence.",
                 "con_two_title": "Security and Defense",
                 "con_two_1": "Cooperation on Security Issues: While opposing an EU army, the ID Group has occasionally supported certain forms of cooperation on security issues that enhance collective security, which might be viewed as conflicting with their strong stance on national sovereignty."
-            }
-        ],
+            },
+        
         "summary_title": "Summary",
         "summary": "The Identity and Democracy (ID) Group in the European Parliament promotes a right-wing, nationalist, and Eurosceptic agenda focused on national sovereignty, restrictive immigration policies, and economic protectionism. Their main policies include advocating for national sovereignty over EU integration, stringent immigration controls, protectionist economic policies, strong border controls, cultural preservation, and social conservatism. They have supported legislation that aligns with these policies, such as measures to enhance border controls, tighten asylum policies, oppose EU budget increases, and protect national industries. However, the ID Group has also occasionally supported legislation that conflicts with their principles, such as EU agricultural subsidies and certain security cooperation initiatives, reflecting the complexities of political decision-making and the need for pragmatic compromises within the European Parliament."
     },
@@ -335,7 +335,7 @@
         "title": "The Left - The Left group in the European Parliament - GUE/NGL",
         "description": "The Left in the European Parliament - Nordic Green Left (GUE/NGL) is a political group representing the far-left spectrum in the European Parliament. The group brings together various socialist, communist, and other left-wing parties from across Europe. It is known for advocating social justice, anti-austerity measures, environmental sustainability, and human rights.",
         "policies_title": "Main Policies of The Left",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "dpgns7654",
                 "pol_title_one": "Social Justice and Equality",
@@ -358,10 +358,10 @@
                 "pol_five_1:": "Anti-Militarism: Opposes militarization and promotes peaceful conflict  resolution.,",
                 "pol_five_2": "Global Justice: Supports international solidarity and cooperation to address global inequalities and injustices.",
                 "pol_five_3": " Humanitarian Aid: Advocates for increased humanitarian aid and development assistance to support vulnerable populations globally."
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation that Aligned with The Left Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "dcvfgth898",
                 "leg_one_title": "Social Justice and Equality",
@@ -376,10 +376,10 @@
                 "leg_four_title": "Human Rights and Democracy",
                 "leg_four_1": "Anti-Discrimination Legislation: Supported various pieces of legislation aimed at combating discrimination and promoting equality, such as the Gender Equality Strategy and the LGBTIQ Equality Strategy.",
                 "leg_four2": "Human Rights Sanctions: Advocated for the adoption of the EU Global Human Rights Sanctions Regime to hold human rights violators accountable."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with The Left Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "ra67jytk81",
                 "con_one_title": "Economic Policy",
@@ -388,8 +388,8 @@
                 "con_two_1": "Common Agricultural Policy (CAP): At times, The Left has supported aspects of the CAP that critics argue promote environmentally harmful agricultural practices, conflicting with their commitment to sustainability.",
                 "con_three_title": "Social Policy",
                 "con_three_1": "Security Cooperation: While opposing militarization, The Left has occasionally supported EU initiatives on security cooperation that critics argue could contribute to increased military spending."
-            }
-        ],
+            },
+        
         "summary_title": "Summary",
         "summary": "The Left (GUE/NGL) group in the European Parliament advocates for far-left policies focused on social justice, anti-austerity measures, environmental sustainability, and human rights. They have supported legislation such as the European Green Deal, anti-discrimination measures, and financial transaction taxes, aligning with their commitment to these principles. However, they have faced criticism for supporting certain EU budget increases, aspects of the Common Agricultural Policy, and some security cooperation initiatives that appear to conflict with their core policies."
     },
@@ -398,7 +398,7 @@
         "title": "Renew Europe",
         "description": "Renew Europe (Renew) is a centrist, pro-European political group in the European Parliament, formed in 2019. It succeeded the Alliance of Liberals and Democrats for Europe (ALDE) group, bringing together liberal, progressive, and centrist parties from across the EU. Renew Europe aims to foster a more integrated, democratic, and innovative Europe.",
         "policies_title": "Main Renew Policies",
-        "main_policies": [
+        "main_policies": 
             {
                 "id": "sddbfrg1578",
                 "pol_title_one": "European Integration and Democracy",
@@ -416,10 +416,10 @@
                 "pol_title_five": "Human Rights and Rule of Law",
                 "pol_five_1:": "Human Rights: Champions human rights, gender equality, and the rights of minorities and marginalised groups.",
                 "pol_five_2": "Rule of Law: Promotes the rule of law and opposes any attempts to undermine democratic principles and judicial independence."
-            }
-        ],
+            },
+        
         "support_title": "Supported Legislation Aligned with Renew Policies",
-        "support_pols": [
+        "support_pols": 
             {
                 "id": "H10op1e",
                 "leg_one_title": "European Integration and Democracy",
@@ -435,10 +435,10 @@
                 "leg_five_title": " Human Rights and Rule of Law",
                 "leg_five_1": "LGBTIQ Equality Strategy: Supported measures to promote equality and protect the rights of LGBTIQ individuals.",
                 "leg_five_2": "Rule of Law Mechanism: Advocated for the establishment of this mechanism to ensure compliance with democratic principles and the rule of law within the EU."
-            }
-        ],
+            },
+        
         "conflict_title": "Supported Legislation which Conflicted with Renew Policies",
-        "conflict_pols": [
+        "conflict_pols": 
             {
                 "id": "nm671",
                 "con_one_title": "Economic Policy",
@@ -447,8 +447,8 @@
                 "con_two_1": "EU Budget Allocation: At times, Renew Europe's support for budget allocations that prioritise economic growth and innovation over direct social spending has been seen as conflicting with their commitment to social inclusiveness and reducing inequalities.",
                 "con_three_title": "Environmental Sustainability",
                 "con_three_1": "Energy Policy: While generally advocating for renewable energy, Renew Europe has occasionally supported transitional measures that include natural gas as a 'bridge fuel,' which some environmentalists argue is inconsistent with the push for a rapid transition to a fully renewable energy system."
-            }
-        ],
+            },
+        
         "summary_title": "Summary",
         "summary": "Renew Europe promotes a centrist, pro-European agenda focused on deeper integration, democratic reforms, economic innovation, social inclusiveness, environmental sustainability, and human rights. They have supported legislation such as the Digital Services Act, European Green Deal, and the Rule of Law Mechanism, aligning with their policies. However, they have faced criticism for backing aspects of the Common Agricultural Policy, certain budget allocations, and transitional energy measures, which at times appear to conflict with their stated goals."
     }
