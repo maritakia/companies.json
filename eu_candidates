@@ -1,9 +1,11 @@
 
     [
-        "id":"joefewfge",
-        "title": "EU Ministers",
-        "name":"Marita Deery"
-      
+
+         {
+            "id":"joefewfge",
+            "title": "EU Ministers",
+            "name":"Marita Deery"
+          }
    ]
        
     
