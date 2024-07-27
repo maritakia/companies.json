@@ -3,19 +3,6 @@
         "dist": "Fingal",
         "id": "Y11B",
         "title": "Marita",
-        "candidates": [
-            {
-                "district": "fingal",
-                "id": "Y0C",
-                "name": "Darragh O'Brien",
-                "party": "Fianna Fáil"
-            },
-            {
-                "district": "fingal",
-                "id": "Y1C",
-                "name": "Joe O'Brien",
-                "party": "Green  party"
-            }
-        ]
+      
     }
 ]
