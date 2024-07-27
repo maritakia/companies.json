@@ -1,8 +1,5 @@
 [
-    {
-        "title": "EU Parliament",
-        "id": "D01",
-        "candidates": [
+   
             {
                 "id": "D0001",
                 "name": "Lynn Boylan",
@@ -327,7 +324,5 @@
                 "info_two": "There's a disconnect between what the Government does and what it says on immigration. There's also a lack of transparency on key data.- re questioning questioning Justice Minister Helen McEntee on immigration data (twitter, 25/4/2024)"
             }
 
-        ]
-    }
-
+  
 ]
