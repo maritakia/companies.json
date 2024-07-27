@@ -1,12 +1,10 @@
-
-   [ 
-
-         {
-            "id":"joefewfge",
-            "title": "EU Ministers",
-            "candidates": [
+[
+    {
+        "title": "EU Parliament",
+        "id": "D01",
+        "candidates": [
             {
-                "id": "D0002",
+                "id": "D0001",
                 "name": "Lynn Boylan",
                 "party": "Sinn Féin",
                 "eu_party": "Aligned with The Left EU Party",
@@ -33,7 +31,7 @@
                 "info_three": "While in the EU Boylan was part of the Confederal Group of the European United Left - Nordic Green Left."
             },
             {
-                "id": "D0003",
+                "id": "D0002",
                 "name": "Aodhán Ó Ríordáin",
                 "party": "Labour",
                 "eu_party": "Aligned with S&D EU Party",
@@ -59,7 +57,7 @@
                 "info_two": "...And we fund fee-paying schools to the tune of approximately €110 million a year. Nothing perpetuates inequality quite like the Irish education system."
             },
             {
-                "id": "D0004",
+                "id": "D0003",
                 "name": "Barry Andrews",
                 "party": "Fianna Fáil",
                 "eu_party": "Aligned with RENEW EU Party",
@@ -87,7 +85,7 @@
                 "info_three": "In November 2012, Andrews was appointed chief executive of the Irish aid charity GOAL… In October 2016, Andrews resigned from GOAL after it was revealed that other senior executives of Goal had been involved in ‘large-scale fraud’, though there was no suggestion that he himself was involved in the scandal. In October 2017, the new CEO of GOAL announced a deficit of €31.6 million due to the fraud. (irishindependent, 26/10/2017)"
             },
             {
-                "id": "D0010",
+                "id": "D0004",
                 "name": "Regina Doherty",
                 "party": "Fine Gael",
                 "eu_party": "Aligned with S&D EU Party",
@@ -113,7 +111,7 @@
                 "info_two": "Senator Regina Dougherty says that there are nine genders and that women shouldn’t worry about biological males in women’s changing rooms…She was asked about violent men identifying as women to access women-only spaces and she replied that it wasn’t a problem because men are already so violent towards women that they can attack women everywhere else and don’t need to do it in changing rooms. (griptmedia, https://www.youtube.com/watch?v=M9fEM1njpYs)"
             },
             {
-                "id": "M0001",
+                "id": "M0005",
                 "name": "Barry Cowen",
                 "party": "Fianna Fáil",
                 "eu_party": "Aligned with RENEW EU Party",
@@ -136,7 +134,7 @@
                 "info_three": "His father Bernard Cowen was a TD, Senator and Minister of State. His grandfather Christy Cowen was an Offaly County Councillor and a member of the Fianna Fáil National Executive. He is the brother of former Taoiseach Brian Cowen."
             },
             {
-                "id": "M0002",
+                "id": "M0006",
                 "name": "Maria Walsh",
                 "party": "Fine Gael",
                 "eu_party": "Aligned with EEP EU Party",
@@ -158,7 +156,7 @@
                 "info_two": "Walsh first entered electoral politics in the 2019 European Parliament election."
             },
             {
-                "id": "M0006",
+                "id": "M0007",
                 "name": "Luke Ming Flanagan",
                 "party": "Independent",
                 "eu_party": "Aligned with The Left EU Party",
@@ -180,7 +178,7 @@
                 "info_two": "He served in Dáil Éireann for three years before being elected as an Independent candidate for the Midlands–North-West constituency at the 2014 European Parliament election."
             },
             {
-                "id": "M0015",
+                "id": "M0008",
                 "name": "Nina Carberry",
                 "eu_party": "Aligned with EEP EU Party",
                 "party": "",
@@ -202,7 +200,7 @@
                 "info_two": "Adding Ms Carberry to the Fine Gael ticket will be a significant coup for the party when analysts are widely predicting they will lost some of the five MEP seats won last time out."
             },
             {
-                "id": "M0016",
+                "id": "M0009",
                 "name": "Ciaran Mullooly",
                 "eu_party": "Aligned with RENEW EU Party",
                 "party": "Independent Ireland",
@@ -223,7 +221,7 @@
                 "info_one": "For the last 30 years, Ciaran has been deeply committed to rural Ireland, as a broadcaster at local and national level and through his involvement in a community development initiatives across the midlands: “These projects focused on disability support, tourism promotion, sports and recreation, suicide prevention and many more issues that are near and dear to people of rural Ireland.(westmeathindependent.ie, 6/4/2024)"
             },
             {
-                "id": "S0001",
+                "id": "S0010",
                 "name": "Billy Kelleher",
                 "eu_party": "Aligned with RENEW EU Party",
                 "party": "Fianna Fáil",
@@ -244,7 +242,7 @@
                 "info_one": "He was a cousin of Fine Gael TD Liam Burke."
             },
             {
-                "id": "S0002",
+                "id": "S0011",
                 "name": "Seán Kelly",
                 "party": "Fine Gael",
                 "eu_party": "Aligned with EEP EU Party",
@@ -265,7 +263,7 @@
                 "info_one": "He served as the 34th President of the Gaelic Athletic Association from 2003 to 2006. He was the first person from County Kerry to hold the office."
             },
             {
-                "id": "S0013",
+                "id": "S0012",
                 "name": "Cynthia Ní Mhurchú",
                 "party": "Fianna Fáil",
                 "eu_party": "Aligned with RENEW EU Party",
@@ -284,7 +282,7 @@
                 "info_one": "Ní Mhurchú initially worked as a teacher in an Irish language school in Carlow and then spent ten years working as a journalist and presenter in RTÉ, RTÉ Raidió na Gaeltachta and as a freelancer. During the 1990s, she presented RTÉ's Lotto draw. She has also been a web columnist for several years and has written extensively on education, training and careers."
             },
             {
-                "id": "S0016",
+                "id": "S0013",
                 "name": "Kathleen Funchion",
                 "party": "Sinn Féin",
                 "eu_party": "Aligned with The Left EU Party",
@@ -307,7 +305,7 @@
                 "info_ten": "Funchion has not declared income from shares or rental property"
             },
             {
-                "id": "S0023",
+                "id": "S0014",
                 "name": "Michael McNamara",
                 "party": "Independent",
                 "eu_party": "Aligned with RENEW EU Party",
@@ -330,9 +328,6 @@
             }
 
         ]
-          }
-   
-  ]     
-    
+    }
 
-
+]
