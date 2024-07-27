@@ -1,31 +1,44 @@
-{
-    "description": "The European Union (EU) has passed numerous pieces of legislation that have had significant impacts on its citizens, both positive and negative. Below are some of the main legislations, their effects on EU citizens, and the parties that supported or opposed them.",
-    "good_title": "Legislation that has been Positive for EU Citizens",
-    "good_subtitle_one": "General Data Protection Regulation (GDPR)",
-    "good_one_effect": "Effect: The GDPR significantly strengthened data protection for individuals within the EU, giving citizens more control over their personal data and imposing strict regulations on data handlers",
-    "good_one_supp": "Supporters: The legislation received broad support across the political spectrum, including the European People's Party (EPP), Socialists and Democrats (S&D), Renew Europe, and The Greens/European Free Alliance.",
-    "good_one_oppon": "Opponents: There was minimal opposition, but some members of the European Conservatives and Reformists (ECR) and Identity and Democracy (ID) groups raised concerns about the regulatory burden on businesses.",
-    "good_subtitle_two": "European Green Deal",
-    "good_two_effect": "Effect: The Green Deal aims to make the EU climate-neutral by 2050, promoting investments in renewable energy, energy efficiency, and sustainable transport, benefiting the environment and public health.",
-    "good_two_supp": "Supporters: The Greens/EFA, S&D, Renew Europe, and EPP were strong supporters.",
-    "good_two_oppon": "Opponents: The ECR and ID groups expressed concerns about the economic costs and potential impacts on jobs in traditional industries.",
-    "good_subtitle_three": "European Pillar of Social Rights",
-    "good_three_effect": "Effect: This initiative aims to deliver new and more effective rights for citizens, such as fair wages, secure employment, and social protection.",
-    "good_three_supp": "Supporters: S&D, GUE/NGL (The Left), Greens/EFA, and parts of Renew Europe supported this legislation.",
-    "good_three_oppon": "Opponents: Some EPP and ECR members were hesitant due to concerns over economic impacts and national sovereignty.",
-    "bad_main_title": "Legislation that has had a Negitive Impact on EU citizens",
-    "bad_subtitle_one": "Austerity Measures and Economic Governance",
-    "bad_one_effect": "Effect: Following the financial crisis, the EU imposed strict austerity measures and fiscal rules on member states, leading to significant public spending cuts, which negatively impacted social services and employment in several countries.",
-    "bad_one_supp": "Supporters: The EPP and Renew Europe largely supported these measures, emphasising fiscal responsibility and economic stability.",
-    "bad_one_oppon": "Opponents: The S&D, GUE/NGL, and Greens/EFA groups opposed the austerity measures, arguing that they disproportionately affected the most vulnerable citizens and hindered economic recovery.",
-    "bad_subtitle_two": "Dublin Regulation (Asylum Seekers)",
-    "bad_two_effect": "Effect: This regulation mandates that asylum seekers must apply for asylum in the first EU country they enter. This has placed a heavy burden on countries like Greece and Italy, leading to inadequate asylum processing and humanitarian issues.",
-    "bad_two_supp": "Supporters: The EPP and parts of Renew Europe supported maintaining the regulation for its role in managing asylum applications.",
-    "bad_two_oppon": "Opponents: The S&D, GUE/NGL, Greens/EFA, and parts of Renew Europe have criticised the regulation for being unfair and inhumane, advocating for a more equitable distribution of asylum seekers across the EU.",
-    "mix_title": "Legislation that has had a Mixed Impact on EU citizens",
-    "mix_subtitle": "Common Agricultural Policy (CAP)",
-    "mix_effect": "Effect: CAP aims to support farmers and ensure food security in the EU. While it has provided significant subsidies to farmers, it has also been criticised for promoting environmentally harmful practices and benefiting larger agricultural businesses over small farmers.",
-    "mix_supp": "Supporters: The EPP and parts of Renew Europe have historically supported CAP due to its role in stabilising agricultural markets and supporting rural economies.",
-    "mix_oppon": "Opponents: The Greens/EFA, S&D, and GUE/NGL have criticised CAP for its environmental impact and inequitable distribution of subsidies.",
-    "summary": "The EU has passed legislation with varying impacts on its citizens, influenced by the political landscape of the European Parliament. Legislation like the GDPR and the European Green Deal has generally had positive effects, while austerity measures and the Dublin Regulation have faced significant criticism. Support and opposition to these legislations often align with the core values of the political groups in the European Parliament, reflecting their priorities and ideologies."
-}
+[
+    {
+        "title": "Dublin",
+        "id": "Y1A",
+        "districts": [
+            {
+                "dist": "Fingal",
+                "id": "Y11B",
+                "candidates": [
+                    {
+                        "district": "fingal",
+                        "id": "Y0C",
+                        "name": "Darragh O'Brien",
+                        "party": "Fianna Fáil"
+                    },
+                    {
+                        "district": "fingal",
+                        "id": "Y1C",
+                        "name": "Joe O'Brien",
+                        "party": "Green  party"
+                    }
+                ]
+            },
+            {
+                "dist": "Dublin Bay North",
+                "id": "Y12B",
+                "candidates": [
+                    {
+                        "district": "dub_bay_north",
+                        "id": "Y5C",
+                        "name": "Richard Bruton",
+                        "party": "Fine Gail"
+                    },
+                    {
+                        "district": "dub_bay_north",
+                        "id": "Y6C",
+                        "name": "Sean Haughey",
+                        "party": "Fianna Fáil"
+                    }
+                ]
+            }
+        ]
+    }
+]
