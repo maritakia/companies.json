@@ -1,5 +1,7 @@
-[{
-   "candidates": {
+[
+    {
+        "candidates": [
+            {
                 "id": "D0001",
                 "name": "Lynn Boylan",
                 "party": "Sinn Féin",
@@ -322,7 +324,6 @@
                 "info_one": "‘The proposed Nature Restoration Law's lack of a funding mechanism for farmers required to reduce or abandon farming activities in affected areas is its biggest flaw. In the Burren & Hen Harrier SPA, farmers had funding cancelled after engaging with agri-environment schemes.’ (dailquestions, 25/4/2024)",
                 "info_two": "There's a disconnect between what the Government does and what it says on immigration. There's also a lack of transparency on key data.- re questioning questioning Justice Minister Helen McEntee on immigration data (twitter, 25/4/2024)"
             }
-
-  
-}]
-
+        ]
+    }
+]
